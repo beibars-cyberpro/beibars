@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from 'react';
+import React, { useEffect, useState, useCallback, useRef } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
@@ -21,6 +21,18 @@ export default function App() {
   const [busy, setBusy] = useState(false);
   const [homeError, setHomeError] = useState('');
   const [lobbyError, setLobbyError] = useState('');
+  const pendingTimeoutRef = useRef(null);
+
+  const CONNECT_TIMEOUT_MS = 8000;
+  const CONNECT_TIMEOUT_MESSAGE =
+    'Не удалось подключиться к серверу. Проверьте: сервер запущен, телефон и компьютер в одной Wi-Fi сети, и адрес в config.js совпадает с IP компьютера.';
+
+  const clearPendingTimeout = () => {
+    if (pendingTimeoutRef.current) {
+      clearTimeout(pendingTimeoutRef.current);
+      pendingTimeoutRef.current = null;
+    }
+  };
 
   useEffect(() => {
     function handleRoomUpdate(data) {
@@ -44,12 +56,19 @@ export default function App() {
       // keep whatever screen is showing; room_update will reflect connection state
       // when the socket reconnects, or the player can start a new game from Home.
     }
+    function handleConnectError() {
+      clearPendingTimeout();
+      setBusy(false);
+      setHomeError(CONNECT_TIMEOUT_MESSAGE);
+      socket.disconnect();
+    }
 
     socket.on('room_update', handleRoomUpdate);
     socket.on('question', handleQuestion);
     socket.on('reveal', handleReveal);
     socket.on('game_over', handleGameOver);
     socket.on('disconnect', handleDisconnect);
+    socket.on('connect_error', handleConnectError);
 
     return () => {
       socket.off('room_update', handleRoomUpdate);
@@ -57,6 +76,7 @@ export default function App() {
       socket.off('reveal', handleReveal);
       socket.off('game_over', handleGameOver);
       socket.off('disconnect', handleDisconnect);
+      socket.off('connect_error', handleConnectError);
     };
   }, []);
 
@@ -64,7 +84,15 @@ export default function App() {
     setBusy(true);
     setHomeError('');
     socket.connect();
+
+    pendingTimeoutRef.current = setTimeout(() => {
+      setBusy(false);
+      setHomeError(CONNECT_TIMEOUT_MESSAGE);
+      socket.disconnect();
+    }, CONNECT_TIMEOUT_MS);
+
     socket.emit('create_room', { name }, (res) => {
+      clearPendingTimeout();
       setBusy(false);
       if (!res || !res.ok) {
         setHomeError((res && res.error) || 'Не удалось создать комнату');
@@ -80,7 +108,15 @@ export default function App() {
     setBusy(true);
     setHomeError('');
     socket.connect();
+
+    pendingTimeoutRef.current = setTimeout(() => {
+      setBusy(false);
+      setHomeError(CONNECT_TIMEOUT_MESSAGE);
+      socket.disconnect();
+    }, CONNECT_TIMEOUT_MS);
+
     socket.emit('join_room', { name, code }, (res) => {
+      clearPendingTimeout();
       setBusy(false);
       if (!res || !res.ok) {
         setHomeError((res && res.error) || 'Не удалось войти в комнату');
