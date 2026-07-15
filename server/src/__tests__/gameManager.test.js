@@ -1,6 +1,10 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { computeRoundResults, Room, generateRoomCode } = require('../gameManager');
+const { computeRoundResults, Room, generateRoomCode, QUESTION_TIME_LIMIT_MS } = require('../gameManager');
+
+test('question time limit is 30 seconds', () => {
+  assert.equal(QUESTION_TIME_LIMIT_MS, 30000);
+});
 
 const question = {
   id: 'q1',

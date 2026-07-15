@@ -25,7 +25,7 @@ export default function OptionButton({ index, label, onPress, disabled, state })
       ]}
     >
       <Text style={styles.letter}>{LETTERS[index]}</Text>
-      <Text style={styles.label} numberOfLines={3}>
+      <Text style={styles.label} numberOfLines={2} adjustsFontSizeToFit minimumFontScale={0.8}>
         {label}
       </Text>
     </Pressable>

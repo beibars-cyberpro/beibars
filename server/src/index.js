@@ -12,7 +12,6 @@ const {
 } = require('./gameManager');
 
 const PORT = process.env.PORT || 3001;
-const REVEAL_DISPLAY_MS = 6000;
 const MIN_PLAYERS_TO_START = 2;
 const MAX_QUESTION_COUNT = 40;
 const MIN_QUESTION_COUNT = 3;
@@ -75,25 +74,23 @@ function advanceQuestion(room) {
   clearRoomTimer(room);
   room.nextQuestion();
   io.to(room.code).emit('question', publicQuestionPayload(room));
-  room.timer = setTimeout(() => revealAndSchedule(room), QUESTION_TIME_LIMIT_MS);
+  room.timer = setTimeout(() => revealQuestion(room), QUESTION_TIME_LIMIT_MS);
 }
 
-function revealAndSchedule(room) {
+// Reveals the current question's answer and stops there — the host advances
+// to the next question (or ends the game) explicitly via 'next_question'.
+function revealQuestion(room) {
   clearRoomTimer(room);
   if (room.status !== 'question') return;
   const reveal = room.computeReveal();
   io.to(room.code).emit('reveal', reveal);
+}
 
-  if (room.isLastQuestion()) {
-    room.timer = setTimeout(() => {
-      room.status = 'finished';
-      io.to(room.code).emit('game_over', {
-        scores: room.playersList().map((p) => ({ playerId: p.id, name: p.name, score: p.score })),
-      });
-    }, REVEAL_DISPLAY_MS);
-  } else {
-    room.timer = setTimeout(() => advanceQuestion(room), REVEAL_DISPLAY_MS);
-  }
+function finishGame(room) {
+  room.status = 'finished';
+  io.to(room.code).emit('game_over', {
+    scores: room.playersList().map((p) => ({ playerId: p.id, name: p.name, score: p.score })),
+  });
 }
 
 function sanitizeName(name) {
@@ -174,7 +171,22 @@ io.on('connection', (socket) => {
     if (!recorded) return;
 
     if (room.hasEveryoneAnswered()) {
-      revealAndSchedule(room);
+      revealQuestion(room);
+    }
+  });
+
+  socket.on('next_question', (payload, ack) => {
+    const code = socket.data.roomCode;
+    const room = rooms.get(code);
+    if (!room) return ack && ack({ ok: false, error: 'Комната не найдена' });
+    if (room.hostId !== socket.id) return ack && ack({ ok: false, error: 'Только хост может продолжить' });
+    if (room.status !== 'reveal') return ack && ack({ ok: false, error: 'Ещё не время для следующего вопроса' });
+
+    ack && ack({ ok: true });
+    if (room.isLastQuestion()) {
+      finishGame(room);
+    } else {
+      advanceQuestion(room);
     }
   });
 
@@ -186,7 +198,7 @@ io.on('connection', (socket) => {
     broadcastRoomUpdate(room);
 
     if (room.status === 'question' && room.hasEveryoneAnswered()) {
-      revealAndSchedule(room);
+      revealQuestion(room);
     }
   });
 });

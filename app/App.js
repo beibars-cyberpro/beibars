@@ -141,6 +141,10 @@ export default function App() {
     socket.emit('submit_answer', { optionIndex });
   }, []);
 
+  const handleNext = useCallback(() => {
+    socket.emit('next_question', {});
+  }, []);
+
   const handlePlayAgain = useCallback(() => {
     socket.disconnect();
     setPhase('home');
@@ -161,7 +165,9 @@ export default function App() {
   } else if (phase === 'question' && question) {
     content = <QuestionScreen question={question} onAnswer={handleAnswer} />;
   } else if (phase === 'reveal' && reveal && question) {
-    content = <RevealScreen reveal={reveal} question={question} />;
+    content = (
+      <RevealScreen reveal={reveal} question={question} isHost={room && room.hostId === playerId} onNext={handleNext} />
+    );
   } else if (phase === 'gameover') {
     content = <GameOverScreen scores={finalScores} playerId={playerId} onPlayAgain={handlePlayAgain} />;
   }
