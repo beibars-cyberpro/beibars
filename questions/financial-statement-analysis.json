@@ -1,0 +1,377 @@
+[
+  {
+    "id": "fsa-001",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Intercorporate Investments",
+    "difficulty": "easy",
+    "question": "An investor holds 30% of the voting shares of another company and is presumed to have significant influence but not control. Which accounting method is normally applied to this investment?",
+    "options": [
+      "Consolidation with a noncontrolling interest",
+      "The equity method",
+      "The fair value through profit or loss method",
+      "Proportionate line-by-line combination of assets and liabilities"
+    ],
+    "correctIndex": 1,
+    "explanation": "A 20%-50% ownership stake typically signals significant influence without control, which calls for the equity method rather than full consolidation or a passive fair-value approach."
+  },
+  {
+    "id": "fsa-002",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Intercorporate Investments",
+    "difficulty": "medium",
+    "question": "Why is the equity method sometimes called a 'one-line consolidation'?",
+    "options": [
+      "Because only the investment's fair value appears in the notes, not the balance sheet",
+      "Because the investor's share of the investee's net assets and income flows through a single investment line and a single income line, capturing the economics of ownership without adding the investee's individual assets and liabilities",
+      "Because dividends received are the only amount recorded anywhere in the financial statements",
+      "Because it requires combining every asset and liability of the investee item by item"
+    ],
+    "correctIndex": 1,
+    "explanation": "The equity method summarizes the investee's performance and net asset changes into single lines on the investor's balance sheet and income statement, unlike full consolidation which combines every line item."
+  },
+  {
+    "id": "fsa-003",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Intercorporate Investments",
+    "difficulty": "medium",
+    "question": "Under the equity method, why does an investor's reported investment income typically differ from the cash dividends actually received from the investee?",
+    "options": [
+      "Because dividends are always reinvested automatically",
+      "Because the investor recognizes its proportionate share of the investee's net income as it is earned, while dividends only reduce the carrying value of the investment rather than being separately recognized as income",
+      "Because dividends are recorded as revenue and equity income is ignored",
+      "Because the investee's income statement is irrelevant to the investor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Equity method income reflects the investor's share of earnings as they accrue; dividends received are treated as a return of capital that reduces the investment's carrying amount rather than as income."
+  },
+  {
+    "id": "fsa-004",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Intercorporate Investments",
+    "difficulty": "hard",
+    "question": "A parent company controls a subsidiary in which it owns 80% of the voting shares. Compared to the equity method, why does full consolidation typically produce a lower return on assets (ROA) for the parent even though net income attributable to the parent is similar under both approaches?",
+    "options": [
+      "Consolidation adds 100% of the subsidiary's assets to the balance sheet while the parent's share of net income (after removing the noncontrolling interest's portion) does not scale up proportionally, gross-ing up the denominator more than the numerator",
+      "Consolidation removes the subsidiary's assets entirely from the balance sheet",
+      "Consolidation always increases net income more than assets",
+      "The equity method reports higher total assets than consolidation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consolidation grosses up the balance sheet with 100% of the subsidiary's assets and liabilities even though the parent only earns its ownership percentage of income, which mechanically pulls ROA down relative to the equity method."
+  },
+  {
+    "id": "fsa-005",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Intercorporate Investments",
+    "difficulty": "easy",
+    "question": "Why might an analyst prefer the fair value through profit or loss classification over the equity method for a small, passive equity stake?",
+    "options": [
+      "Because fair value accounting better reflects a passive investor's economic exposure to price changes when the investor has no influence over the investee's operations",
+      "Because fair value accounting is required whenever ownership exceeds 50%",
+      "Because it eliminates the need to disclose the investment at all",
+      "Because it always produces higher net income than the equity method"
+    ],
+    "correctIndex": 0,
+    "explanation": "When an investor has no significant influence, its return depends purely on market price movements, so marking the position to fair value each period reflects that economic reality better than an accrual-based equity method."
+  },
+  {
+    "id": "fsa-006",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Intercorporate Investments",
+    "difficulty": "medium",
+    "question": "Why does the noncontrolling interest line appear in the equity section of a consolidated balance sheet rather than as a liability?",
+    "options": [
+      "Because it represents the minority shareholders' residual ownership claim on the subsidiary's net assets, which is an equity interest even though it belongs to parties outside the parent",
+      "Because accounting standards require all subsidiary claims to be classified as equity regardless of nature",
+      "Because noncontrolling interests are actually a form of long-term debt owed to minority shareholders",
+      "Because it is a temporary account that will be eliminated at the next reporting date"
+    ],
+    "correctIndex": 0,
+    "explanation": "Noncontrolling interest represents other shareholders' proportionate ownership of the subsidiary's net assets; because it is a residual ownership claim rather than an obligation to pay a fixed amount, it belongs in equity, not liabilities."
+  },
+  {
+    "id": "fsa-007",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Employee Compensation",
+    "difficulty": "easy",
+    "question": "In a defined contribution pension plan, who bears the investment risk of the plan assets?",
+    "options": [
+      "The employer, who must make up any investment shortfall",
+      "The employee, since the eventual retirement benefit depends on how the contributed funds perform",
+      "The plan's actuary, who guarantees a fixed return",
+      "Neither party, because the benefit is fixed regardless of performance"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a defined contribution plan, the employer's obligation ends once contributions are made, so investment performance risk shifts entirely to the employee's eventual account balance."
+  },
+  {
+    "id": "fsa-008",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Employee Compensation",
+    "difficulty": "hard",
+    "question": "Why do actuarial gains and losses on a defined benefit pension plan typically flow through other comprehensive income (OCI) rather than directly through net income?",
+    "options": [
+      "Because actuarial gains and losses are not real economic events and can be ignored",
+      "Because routing these often volatile remeasurement effects through OCI smooths reported net income, keeping it focused on the more predictable service and interest cost components rather than swings driven by discount rate or demographic assumption changes",
+      "Because tax authorities require all pension items to bypass the income statement entirely",
+      "Because OCI items never affect shareholders' equity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Actuarial gains and losses arise from changes in assumptions like discount rates and can be large and volatile; recognizing them in OCI keeps net income more stable and comparable period to period."
+  },
+  {
+    "id": "fsa-009",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Employee Compensation",
+    "difficulty": "medium",
+    "question": "A company's pension plan is underfunded, meaning the present value of its obligations exceeds the fair value of plan assets. How is this reflected on the sponsor's balance sheet?",
+    "options": [
+      "It is disclosed only in the footnotes and never appears on the balance sheet",
+      "As a net pension liability equal to the funded status deficit",
+      "As an increase in retained earnings",
+      "As a contingent asset until the plan is fully funded"
+    ],
+    "correctIndex": 1,
+    "explanation": "Current accounting standards require the sponsor to report the plan's funded status directly on the balance sheet, so an underfunded plan shows up as a net pension liability."
+  },
+  {
+    "id": "fsa-010",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Employee Compensation",
+    "difficulty": "medium",
+    "question": "Employee stock options are expensed at their grant-date fair value over the vesting period. Why does this expense reduce reported net income without reducing cash flow from operations in the period it is recognized?",
+    "options": [
+      "Because stock-based compensation expense is a non-cash charge, so it is added back to net income when reconciling to operating cash flow, even though it lowered net income",
+      "Because stock options are never actually expensed under current accounting standards",
+      "Because the cash was already paid to employees when the options were granted",
+      "Because vesting periods eliminate any impact on the income statement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recognizing option expense reduces net income but involves no cash outflow in that period, so it is added back in the operating section of the cash flow statement, similar to depreciation."
+  },
+  {
+    "id": "fsa-011",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Employee Compensation",
+    "difficulty": "medium",
+    "question": "Why do analysts pay close attention to the dilutive effect of stock-based compensation on diluted earnings per share, even though the expense itself may seem small relative to revenue?",
+    "options": [
+      "Because stock-based compensation issues new shares over time, which can meaningfully increase the share count and dilute existing shareholders' claims on future earnings, independent of the reported expense amount",
+      "Because diluted EPS is calculated without regard to any options or awards outstanding",
+      "Because stock-based compensation always increases the share price",
+      "Because dilution only matters for companies that pay cash dividends"
+    ],
+    "correctIndex": 0,
+    "explanation": "Even a modest expense can mask a much larger dilution effect, since each vested award adds shares to the diluted count and spreads future earnings over a larger share base, which is often more economically significant to shareholders than the accounting expense."
+  },
+  {
+    "id": "fsa-012",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Multinational Operations",
+    "difficulty": "easy",
+    "question": "What primarily determines a foreign subsidiary's 'functional currency' for translation purposes?",
+    "options": [
+      "The currency in which the parent company reports its consolidated financial statements",
+      "The currency of the primary economic environment in which the subsidiary generates and spends cash, i.e., the currency of its day-to-day operations",
+      "Whichever currency minimizes the subsidiary's reported tax liability",
+      "The currency used exclusively for intercompany loans"
+    ],
+    "correctIndex": 1,
+    "explanation": "The functional currency is defined by the subsidiary's operating environment, such as where it primarily generates revenue, incurs costs, and holds cash, not by the parent's reporting currency or tax considerations."
+  },
+  {
+    "id": "fsa-013",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Multinational Operations",
+    "difficulty": "medium",
+    "question": "Under the current rate method, why does the resulting translation adjustment flow to other comprehensive income rather than through net income?",
+    "options": [
+      "Because translating all balance sheet items at the current exchange rate is meant to preserve the subsidiary's local statement relationships, so any translation effect is treated as a balance sheet-only adjustment rather than an operating gain or loss",
+      "Because the current rate method does not permit balance sheets to be translated at all",
+      "Because OCI is only used for items unrelated to foreign operations",
+      "Because current rate translation gains and losses are always realized in cash"
+    ],
+    "correctIndex": 0,
+    "explanation": "The current rate method translates assets and liabilities at the current rate to preserve the subsidiary's local ratios; the resulting cumulative translation adjustment is considered unrealized and is parked in OCI rather than distorting net income."
+  },
+  {
+    "id": "fsa-014",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Multinational Operations",
+    "difficulty": "hard",
+    "question": "Why does the temporal method typically introduce more volatility into a multinational's reported net income than the current rate method does?",
+    "options": [
+      "Because the temporal method translates monetary assets and liabilities at the current rate but non-monetary items at historical rates, and the resulting remeasurement gain or loss is recognized directly in net income, whereas the current rate method's translation adjustment bypasses the income statement entirely",
+      "Because the temporal method never uses historical exchange rates",
+      "Because the current rate method ignores exchange rate movements altogether",
+      "Because the temporal method is only applied to domestic subsidiaries"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mixing historical and current rates under the temporal method creates a remeasurement gain or loss that hits net income directly, while the current rate method's analogous adjustment is routed through OCI, insulating earnings from exchange rate swings."
+  },
+  {
+    "id": "fsa-015",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Multinational Operations",
+    "difficulty": "hard",
+    "question": "A subsidiary operates in a highly inflationary economy. Why do accounting standards typically require the parent's currency to be used as the functional currency in this situation, effectively forcing use of the temporal method?",
+    "options": [
+      "Because hyperinflation makes the local currency's historical cost figures misleading if simply translated at current rates, so remeasurement through the temporal method better preserves the economic meaning of non-monetary items tied to the more stable parent currency",
+      "Because inflationary economies always ban the use of local currency in financial reporting",
+      "Because the temporal method eliminates all currency risk",
+      "Because current rate translation is illegal in high-inflation countries"
+    ],
+    "correctIndex": 0,
+    "explanation": "In hyperinflationary settings, the local currency loses its meaning as a stable unit of measure, so standards require remeasurement into the more stable parent currency using the temporal method to avoid distorting reported asset values."
+  },
+  {
+    "id": "fsa-016",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Multinational Operations",
+    "difficulty": "medium",
+    "question": "If a subsidiary's local currency steadily appreciates against the parent's presentation currency, what is the most likely effect on the parent's consolidated revenue and asset figures under the current rate method?",
+    "options": [
+      "Both consolidated revenue and assets from the subsidiary increase when translated, purely due to the stronger local currency, even if the subsidiary's local performance is unchanged",
+      "Consolidated revenue decreases while assets increase",
+      "Neither revenue nor assets are affected by exchange rate movements",
+      "Only cash flow statement items are affected, never the income statement or balance sheet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Under the current rate method, both income statement items (translated at the average rate) and balance sheet items (translated at the current rate) rise in reported terms when the local currency strengthens, even without any change in underlying local performance."
+  },
+  {
+    "id": "fsa-017",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Multinational Operations",
+    "difficulty": "medium",
+    "question": "Why can comparing net profit margins across two multinational peers be misleading if one uses the current rate method and the other uses the temporal method for similarly situated foreign subsidiaries?",
+    "options": [
+      "Because the two methods can produce materially different translated net income figures from identical underlying local-currency results, since one runs the currency effect through OCI and the other runs it through net income",
+      "Because net profit margin is unaffected by translation method choice",
+      "Because only one of the two methods is permitted under any accounting framework",
+      "Because translation method choice only affects the statement of cash flows"
+    ],
+    "correctIndex": 0,
+    "explanation": "Because the temporal method's remeasurement gains and losses hit net income while the current rate method's translation adjustment does not, two companies with identical local results can report different consolidated margins purely due to method choice."
+  },
+  {
+    "id": "fsa-018",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "medium",
+    "question": "A company recognizes revenue on long-term contracts well before cash is collected, and receivables are growing much faster than sales. What earnings quality concern does this pattern most directly raise?",
+    "options": [
+      "That the company may be recognizing revenue too aggressively relative to its actual cash collection experience, a common red flag for earnings management",
+      "That the company is being overly conservative in its revenue recognition policies",
+      "That the company has too much cash on its balance sheet",
+      "That the company's tax expense is understated"
+    ],
+    "correctIndex": 0,
+    "explanation": "Receivables growing faster than sales is a classic quality-of-earnings red flag, suggesting revenue may be recognized aggressively ahead of cash collection or genuine customer demand."
+  },
+  {
+    "id": "fsa-019",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "medium",
+    "question": "What is 'channel stuffing' and why is it considered a red flag for earnings quality?",
+    "options": [
+      "A practice where a company ships more product to distributors than they can realistically sell, temporarily inflating current-period revenue at the expense of future periods",
+      "A legitimate inventory management technique with no effect on reported revenue",
+      "A method of improving product quality before distribution",
+      "A tax strategy used to defer revenue recognition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Channel stuffing pulls forward sales by pushing excess inventory onto distributors, boosting current revenue temporarily while effectively borrowing from future periods' demand, making current earnings unsustainable and lower quality."
+  },
+  {
+    "id": "fsa-020",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "medium",
+    "question": "Why do analysts scrutinize significant related-party transactions when assessing the quality of a company's financial reports?",
+    "options": [
+      "Because related-party transactions are always illegal and must be reversed",
+      "Because such transactions may not be conducted at arm's length and can be used to shift income, hide liabilities, or benefit insiders at the expense of other shareholders",
+      "Because related-party transactions have no effect on consolidated results",
+      "Because they always increase transparency compared to third-party dealings"
+    ],
+    "correctIndex": 1,
+    "explanation": "Because related parties may not negotiate at arm's length, these transactions carry a higher risk of being used to manipulate reported results or benefit insiders, warranting closer analyst scrutiny."
+  },
+  {
+    "id": "fsa-021",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "hard",
+    "question": "Why should analysts be cautious about relying heavily on a company's 'adjusted' or non-GAAP earnings figures when the adjustments recur every single reporting period?",
+    "options": [
+      "Because recurring 'one-time' or 'non-recurring' add-backs suggest the excluded items may actually be a normal, ongoing cost of doing business, meaning the adjusted figure systematically overstates sustainable earnings power",
+      "Because non-GAAP earnings are always lower than GAAP earnings",
+      "Because regulators forbid the use of non-GAAP measures in any communication",
+      "Because adjusted earnings are legally required to match GAAP net income exactly"
+    ],
+    "correctIndex": 0,
+    "explanation": "If supposedly non-recurring charges show up quarter after quarter, they are effectively recurring, and excluding them from adjusted earnings can mask a true, lower level of sustainable profitability."
+  },
+  {
+    "id": "fsa-022",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "hard",
+    "question": "A company reports steadily growing net income, but its cash flow from operations has been declining and increasingly diverges from net income. What does this divergence most likely signal about earnings quality?",
+    "options": [
+      "That reported earnings may be increasingly driven by accruals rather than cash-generating activity, which raises concerns about the sustainability and reliability of the earnings figure",
+      "That the company is definitely committing fraud",
+      "That depreciation expense has been eliminated entirely",
+      "That the company has no need for working capital"
+    ],
+    "correctIndex": 0,
+    "explanation": "A widening gap between net income and operating cash flow suggests earnings are increasingly built on accruals rather than realized cash, a hallmark of lower earnings quality that warrants further investigation, though not proof of fraud on its own."
+  },
+  {
+    "id": "fsa-023",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "hard",
+    "question": "Why were off-balance-sheet special purpose entities historically a significant concern when evaluating the quality of a company's financial reports?",
+    "options": [
+      "Because they allowed companies to move debt and certain risks off the reported balance sheet, making leverage and risk exposure appear lower than the economic reality",
+      "Because special purpose entities are required to be fully consolidated in all cases",
+      "Because they only affect the income statement, never the balance sheet",
+      "Because they eliminate the need for financial statement footnote disclosures"
+    ],
+    "correctIndex": 0,
+    "explanation": "Off-balance-sheet vehicles could historically keep debt and risk out of consolidated financial statements, understating true leverage and making a company appear financially healthier than it actually was, which is why standard-setters tightened consolidation rules over time."
+  },
+  {
+    "id": "fsa-024",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "medium",
+    "question": "A company frequently changes its accounting estimates (such as useful lives of assets or bad debt allowances) in ways that consistently boost reported earnings. Why does this pattern concern analysts evaluating earnings quality?",
+    "options": [
+      "Because estimate changes are never allowed under accounting standards",
+      "Because a one-directional pattern of estimate changes that always benefits earnings suggests management may be using discretion within GAAP to manage results rather than to reflect genuine changes in economic circumstances",
+      "Because changing estimates always reduces net income",
+      "Because estimates have no impact on financial statements once initially set"
+    ],
+    "correctIndex": 1,
+    "explanation": "Occasional estimate revisions are normal, but a consistent pattern that always flatters earnings suggests the changes may be driven by a desire to manage reported results rather than by genuine new information."
+  },
+  {
+    "id": "fsa-025",
+    "topic": "Financial Statement Analysis",
+    "subtopic": "Financial Statement Quality",
+    "difficulty": "easy",
+    "question": "What does it mean to say that a company has 'high quality' financial reports, in the sense analysts use the term?",
+    "options": [
+      "The reports are printed on high-quality paper and formatted professionally",
+      "The reports faithfully represent the company's underlying economic performance and financial position, are sustainable, and involve minimal aggressive judgment or manipulation",
+      "The reports show the highest possible net income among industry peers",
+      "The reports have never been audited by an external firm"
+    ],
+    "correctIndex": 1,
+    "explanation": "High-quality financial reports accurately and transparently reflect a company's true economic performance and position, providing a sustainable basis for analysis, rather than simply showing the largest reported profit."
+  }
+]

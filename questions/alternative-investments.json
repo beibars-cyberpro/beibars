@@ -1,0 +1,302 @@
+[
+  {
+    "id": "alt-001",
+    "topic": "Alternative Investments",
+    "subtopic": "Private Equity",
+    "difficulty": "easy",
+    "question": "How do buyout strategies typically differ from venture capital strategies in private equity?",
+    "options": [
+      "Buyouts target mature, cash-generating companies and often use significant debt, while venture capital funds early-stage companies with growth potential but little debt capacity",
+      "Buyouts only invest in technology startups, while venture capital only invests in real estate",
+      "Buyouts never use leverage, while venture capital always uses heavy leverage",
+      "Buyouts and venture capital target identical company profiles but differ only in fund size"
+    ],
+    "correctIndex": 0,
+    "explanation": "Buyout funds acquire established, cash-flow-generating businesses and use leverage to enhance equity returns, whereas venture capital funds invest in young, often unprofitable companies where debt financing is impractical given the lack of stable cash flow."
+  },
+  {
+    "id": "alt-002",
+    "topic": "Alternative Investments",
+    "subtopic": "Private Equity",
+    "difficulty": "medium",
+    "question": "Why do private equity buyout funds typically use substantial leverage when acquiring a target company?",
+    "options": [
+      "Leverage guarantees the deal will be profitable regardless of company performance",
+      "Using debt to fund part of the purchase price reduces the equity capital required, which can amplify equity returns if the company performs well",
+      "Leverage is required by regulation for all private equity transactions",
+      "Leverage eliminates the need for any operational improvements at the company"
+    ],
+    "correctIndex": 1,
+    "explanation": "By financing a large portion of the purchase price with debt, the sponsor commits less equity, so any increase in the company's value translates into a proportionally larger return on that smaller equity investment, though leverage also magnifies losses if performance disappoints."
+  },
+  {
+    "id": "alt-003",
+    "topic": "Alternative Investments",
+    "subtopic": "Private Equity",
+    "difficulty": "medium",
+    "question": "What does the \"J-curve\" pattern in private equity fund returns describe?",
+    "options": [
+      "Returns start strongly positive and steadily decline over the fund's life",
+      "Reported returns are often negative in the early years due to fees and unrealized investment costs, then turn positive as portfolio companies mature and are exited",
+      "Returns follow a perfectly straight line over the life of the fund",
+      "Returns are always negative for the entire life of the fund"
+    ],
+    "correctIndex": 1,
+    "explanation": "Early in a private equity fund's life, management fees and initial investment costs are recognized before portfolio companies have had time to create value, producing a dip in reported returns; as investments mature and are exited profitably, cumulative returns rise, tracing a J-shaped curve."
+  },
+  {
+    "id": "alt-004",
+    "topic": "Alternative Investments",
+    "subtopic": "Private Equity",
+    "difficulty": "medium",
+    "question": "Why are investors in private equity funds generally willing to accept many years of illiquidity?",
+    "options": [
+      "Because illiquidity has no bearing on the return investors require",
+      "Because they expect to be compensated with an illiquidity premium, a higher expected return for tying up capital for an extended period",
+      "Because private equity funds guarantee redemption at any time",
+      "Because illiquid investments are always safer than liquid ones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Locking up capital for years without the ability to redeem on demand is a real cost to investors, so they generally expect an illiquidity premium, extra expected return relative to comparable liquid investments, to compensate for that constraint."
+  },
+  {
+    "id": "alt-005",
+    "topic": "Alternative Investments",
+    "subtopic": "Private Equity",
+    "difficulty": "medium",
+    "question": "Why do private equity funds typically use a capital call (drawdown) structure rather than collecting all committed capital upfront?",
+    "options": [
+      "Because it is administratively simpler to collect all cash at once",
+      "Because it allows the general partner to draw capital only as needed for specific investments, improving capital efficiency for limited partners",
+      "Because regulations prohibit collecting committed capital in advance",
+      "Because capital calls guarantee a fixed return to limited partners"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capital call structures let limited partners keep uncommitted capital invested elsewhere (e.g., earning interest) until the general partner actually identifies a deal and needs the funds, improving overall capital efficiency compared to funding the full commitment upfront."
+  },
+  {
+    "id": "alt-006",
+    "topic": "Alternative Investments",
+    "subtopic": "Real Estate",
+    "difficulty": "easy",
+    "question": "In real estate valuation, why do investors pay close attention to the capitalization (cap) rate?",
+    "options": [
+      "The cap rate directly measures the physical square footage of a property",
+      "The cap rate relates a property's net operating income to its value, serving as a proxy for the market's required return and perceived risk for that property type",
+      "The cap rate is only used to calculate property taxes",
+      "The cap rate measures the historical appreciation of a property over the past decade"
+    ],
+    "correctIndex": 1,
+    "explanation": "The cap rate reflects the relationship between a property's income and its market value, so a lower cap rate implies the market is pricing the property at a lower required return (often reflecting lower perceived risk or higher expected growth), while a higher cap rate implies the opposite."
+  },
+  {
+    "id": "alt-007",
+    "topic": "Alternative Investments",
+    "subtopic": "Real Estate",
+    "difficulty": "medium",
+    "question": "What is a key tradeoff between investing directly in real estate versus investing indirectly through a publicly traded REIT?",
+    "options": [
+      "Direct ownership offers more control and potential tax benefits but is illiquid and management-intensive, while REITs offer liquidity and diversification but with less control and daily price volatility",
+      "Direct ownership is always more liquid than REIT shares",
+      "REITs cannot be traded on public exchanges",
+      "Direct real estate ownership requires no capital and no management effort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Direct property ownership gives investors control over management and financing decisions and certain tax advantages, but ties up large amounts of capital in an illiquid, hands-on asset, whereas REITs trade like stocks, offering liquidity and diversification at the cost of direct control and exposure to public market price swings."
+  },
+  {
+    "id": "alt-008",
+    "topic": "Alternative Investments",
+    "subtopic": "Real Estate",
+    "difficulty": "medium",
+    "question": "Why is real estate often included in a diversified investment portfolio alongside stocks and bonds?",
+    "options": [
+      "Because real estate returns are perfectly correlated with equity returns",
+      "Because real estate has historically shown relatively low correlation with traditional stocks and bonds, which can improve overall portfolio diversification",
+      "Because real estate guarantees higher returns than equities in every period",
+      "Because real estate has no exposure to economic cycles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Real estate values and income streams are driven by different factors than public equity and bond markets, so their relatively low correlation with traditional asset classes can reduce overall portfolio volatility when included alongside stocks and bonds."
+  },
+  {
+    "id": "alt-009",
+    "topic": "Alternative Investments",
+    "subtopic": "Hedge Funds",
+    "difficulty": "easy",
+    "question": "What is a long/short equity hedge fund strategy primarily trying to exploit?",
+    "options": [
+      "Macro trends in interest rates and currencies across countries",
+      "Mispricing between individual stocks, buying undervalued shares and shorting overvalued ones while managing overall market exposure",
+      "Arbitrage opportunities in merger transactions only",
+      "Guaranteed returns regardless of stock selection skill"
+    ],
+    "correctIndex": 1,
+    "explanation": "Long/short equity managers aim to profit from stock-specific mispricing by pairing long positions in stocks they expect to outperform with short positions in stocks they expect to underperform, often while managing the fund's net exposure to overall market movements."
+  },
+  {
+    "id": "alt-010",
+    "topic": "Alternative Investments",
+    "subtopic": "Hedge Funds",
+    "difficulty": "medium",
+    "question": "What does a global macro hedge fund strategy attempt to exploit?",
+    "options": [
+      "Small pricing discrepancies between two nearly identical securities on the same exchange",
+      "Broad macroeconomic trends and imbalances across interest rates, currencies, and commodities, taking directional positions based on top-down economic views",
+      "Only mergers and acquisitions announced by public companies",
+      "Fixed spreads between corporate bonds and government bonds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Global macro managers take positions across asset classes and countries based on top-down views of economic and policy trends, such as interest rate cycles, currency movements, and commodity markets, rather than focusing on individual security selection."
+  },
+  {
+    "id": "alt-011",
+    "topic": "Alternative Investments",
+    "subtopic": "Hedge Funds",
+    "difficulty": "medium",
+    "question": "What is an event-driven hedge fund strategy generally trying to exploit?",
+    "options": [
+      "Long-term passive exposure to a broad equity index",
+      "Pricing dislocations tied to specific corporate events such as mergers, spinoffs, or restructurings, where the outcome and timing carry identifiable catalysts",
+      "Only the daily volatility of short-term interest rates",
+      "Guaranteed arbitrage between currencies with fixed exchange rates"
+    ],
+    "correctIndex": 1,
+    "explanation": "Event-driven strategies seek to profit from the price impact of specific corporate actions, such as a pending merger converging toward the deal price or a spinoff being mispriced immediately after separation, rather than from broad market direction."
+  },
+  {
+    "id": "alt-012",
+    "topic": "Alternative Investments",
+    "subtopic": "Hedge Funds",
+    "difficulty": "medium",
+    "question": "What is a distressed debt strategy, often pursued within event-driven hedge fund investing, generally seeking to capture?",
+    "options": [
+      "Steady coupon income from investment-grade government bonds",
+      "Value in the debt of financially troubled companies, betting on a successful restructuring, recovery, or advantageous position in bankruptcy proceedings",
+      "Currency movements between developed market economies",
+      "Short-term interest rate differentials between banks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Distressed debt investors buy the bonds or loans of companies in or near bankruptcy, often at steep discounts, aiming to profit if the company successfully restructures, if the debt recovers value, or by gaining influence in the reorganization process."
+  },
+  {
+    "id": "alt-013",
+    "topic": "Alternative Investments",
+    "subtopic": "Hedge Funds",
+    "difficulty": "easy",
+    "question": "Why do many hedge funds charge a \"2 and 20\" fee structure (a management fee plus a performance fee)?",
+    "options": [
+      "The management fee funds day-to-day operations while the performance fee is meant to align the manager's incentives with generating strong investor returns",
+      "The performance fee guarantees the manager will never lose investor money",
+      "The management fee is charged only if the fund loses money",
+      "The structure eliminates any incentive for the manager to take investment risk"
+    ],
+    "correctIndex": 0,
+    "explanation": "The flat management fee covers operating costs regardless of performance, while the performance fee rewards the manager for generating gains, intending to align the manager's financial interests with delivering strong returns for investors."
+  },
+  {
+    "id": "alt-014",
+    "topic": "Alternative Investments",
+    "subtopic": "Hedge Funds",
+    "difficulty": "medium",
+    "question": "Why do many hedge funds use a high-water mark provision in their performance fee calculations?",
+    "options": [
+      "To ensure the manager is paid a performance fee every single year regardless of results",
+      "To prevent the manager from collecting a performance fee on gains that merely recover prior losses, ensuring fees are only paid on new net profits",
+      "To guarantee that fund losses are reimbursed to investors",
+      "To set a fixed cap on the total assets the fund can manage"
+    ],
+    "correctIndex": 1,
+    "explanation": "A high-water mark requires the fund to first recover any previous losses before a new performance fee can be charged, preventing investors from paying a performance fee twice on the same underlying gains."
+  },
+  {
+    "id": "alt-015",
+    "topic": "Alternative Investments",
+    "subtopic": "Commodities",
+    "difficulty": "medium",
+    "question": "Why can the return on a commodity futures investment differ meaningfully from the change in the commodity's spot price over the same period?",
+    "options": [
+      "Because futures returns are also affected by the roll yield earned or lost when expiring contracts are replaced with new ones",
+      "Because commodity futures returns are always identical to spot price changes by construction",
+      "Because commodity futures never expire, unlike spot prices",
+      "Because spot prices are recalculated using the futures curve"
+    ],
+    "correctIndex": 0,
+    "explanation": "An investor holding commodity futures must periodically roll expiring contracts into new ones, and the price difference between the old and new contracts (the roll yield) adds to or subtracts from total return independent of what happens to the spot price."
+  },
+  {
+    "id": "alt-016",
+    "topic": "Alternative Investments",
+    "subtopic": "Commodities",
+    "difficulty": "medium",
+    "question": "How does a contango futures curve typically affect the roll yield earned by a long commodity futures investor?",
+    "options": [
+      "It produces a negative roll yield, since the investor must sell expiring contracts and buy more expensive, longer-dated contracts",
+      "It always produces a positive roll yield regardless of curve shape",
+      "It has no effect on roll yield since roll yield depends only on spot prices",
+      "It eliminates the need to ever roll the position"
+    ],
+    "correctIndex": 0,
+    "explanation": "In contango, longer-dated futures trade above near-term contracts, so rolling a long position means selling the cheaper expiring contract and buying the more expensive next contract, creating a drag on returns known as negative roll yield."
+  },
+  {
+    "id": "alt-017",
+    "topic": "Alternative Investments",
+    "subtopic": "Commodities",
+    "difficulty": "medium",
+    "question": "How does a backwardated futures curve typically affect the roll yield earned by a long commodity futures investor?",
+    "options": [
+      "It tends to produce a positive roll yield, since the investor sells the relatively expensive expiring contract and buys a cheaper, longer-dated contract",
+      "It always produces a negative roll yield regardless of curve shape",
+      "It guarantees the spot price will rise",
+      "It has the same effect as contango on roll yield"
+    ],
+    "correctIndex": 0,
+    "explanation": "In backwardation, near-term futures trade above longer-dated contracts, so rolling a long position involves selling the higher-priced expiring contract and buying a cheaper deferred contract, which tends to add a positive roll yield to the investor's total return."
+  },
+  {
+    "id": "alt-018",
+    "topic": "Alternative Investments",
+    "subtopic": "Commodities",
+    "difficulty": "hard",
+    "question": "Why does a high convenience yield on a commodity tend to push its futures curve toward backwardation?",
+    "options": [
+      "Because the benefit of holding physical inventory now outweighs storage and financing costs, making near-term contracts relatively more valuable than deferred ones",
+      "Because convenience yield only affects financial futures, not commodities",
+      "Because a high convenience yield always signals oversupply",
+      "Because convenience yield is unrelated to the shape of the futures curve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Convenience yield reflects the benefit of holding the physical commodity itself, such as avoiding production disruptions from a stockout; when that benefit is large relative to storage and financing costs, it pulls near-term prices above deferred prices, producing backwardation."
+  },
+  {
+    "id": "alt-019",
+    "topic": "Alternative Investments",
+    "subtopic": "Infrastructure",
+    "difficulty": "medium",
+    "question": "Why are infrastructure investments often considered attractive for pension funds with long-duration liabilities?",
+    "options": [
+      "Infrastructure assets typically generate stable, long-dated, often inflation-linked cash flows that can help match the timing and nature of long-term pension obligations",
+      "Infrastructure investments are highly liquid and can be sold immediately if cash is needed",
+      "Infrastructure assets have no sensitivity to regulatory or economic conditions",
+      "Infrastructure investments guarantee returns that exceed equities in all market environments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Many infrastructure assets, such as toll roads or regulated utilities, produce predictable, long-duration cash flows that are sometimes linked to inflation, which can help pension funds better match assets to their long-term, inflation-sensitive liabilities."
+  },
+  {
+    "id": "alt-020",
+    "topic": "Alternative Investments",
+    "subtopic": "Infrastructure",
+    "difficulty": "medium",
+    "question": "Why do infrastructure investments often exhibit relatively low correlation with the broader stock market?",
+    "options": [
+      "Because infrastructure assets often provide essential, monopolistic services with regulated or contracted revenues that are less sensitive to general economic cycles",
+      "Because infrastructure assets are always publicly traded and move in lockstep with equity indices",
+      "Because infrastructure investments have no revenue at all",
+      "Because infrastructure returns are set randomly with no relation to underlying operations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Infrastructure assets like utilities, airports, or toll roads often provide essential services under long-term contracts or regulatory frameworks, giving them demand and revenue patterns that are more stable and less tied to broader economic and equity market swings."
+  }
+]

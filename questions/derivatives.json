@@ -1,0 +1,452 @@
+[
+  {
+    "id": "der-001",
+    "topic": "Derivatives",
+    "subtopic": "Forward/Futures Pricing",
+    "difficulty": "medium",
+    "question": "Why does the fair forward price on a non-dividend-paying stock typically exceed the current spot price?",
+    "options": [
+      "Because forward sellers demand a risk premium for uncertainty",
+      "Because the forward price reflects the cost of carrying the position, mainly the financing (risk-free) rate, until delivery",
+      "Because forward contracts are less liquid than the underlying stock",
+      "Because dividends are assumed to grow at the risk-free rate"
+    ],
+    "correctIndex": 1,
+    "explanation": "The no-arbitrage forward price equals spot plus the cost of carry. With no dividends to offset it, the dominant carry cost is the financing rate, so the forward price sits above spot by roughly that interest cost."
+  },
+  {
+    "id": "der-002",
+    "topic": "Derivatives",
+    "subtopic": "Contango and Backwardation",
+    "difficulty": "easy",
+    "question": "A commodity futures market is in contango. What does that describe?",
+    "options": [
+      "Futures prices are below the expected future spot price",
+      "Longer-dated futures prices are higher than near-term futures and spot prices",
+      "The market expects a supply shortage in the near term",
+      "Futures and spot prices are perfectly equal at all maturities"
+    ],
+    "correctIndex": 1,
+    "explanation": "Contango simply describes an upward-sloping futures curve, where deferred contracts trade above spot, typically reflecting storage costs and financing costs of holding the physical commodity."
+  },
+  {
+    "id": "der-003",
+    "topic": "Derivatives",
+    "subtopic": "Contango and Backwardation",
+    "difficulty": "medium",
+    "question": "A crude oil futures curve is in steep backwardation. What does this most likely signal about the market?",
+    "options": [
+      "Abundant current supply and low near-term demand",
+      "Tight near-term supply or high immediate demand relative to expectations for the future",
+      "Storage costs have risen sharply",
+      "Interest rates have increased, raising the cost of carry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Backwardation, where near-term prices trade above deferred prices, usually reflects a high convenience yield: buyers value having the physical commodity in hand now because supply is tight or demand is urgent."
+  },
+  {
+    "id": "der-004",
+    "topic": "Derivatives",
+    "subtopic": "Forward/Futures Pricing",
+    "difficulty": "hard",
+    "question": "Forwards and futures on the same underlying with the same maturity can have theoretically different prices. What is the main reason?",
+    "options": [
+      "Futures are always exchange-traded so they are inherently cheaper",
+      "Daily mark-to-market on futures creates interim cash flows whose value depends on the correlation between interest rates and the underlying price",
+      "Forwards never require any collateral, so they are structurally identical to futures",
+      "Futures contracts have unlimited maturities while forwards do not"
+    ],
+    "correctIndex": 1,
+    "explanation": "Because futures are settled daily, gains and losses are received or paid along the way and can be reinvested or refinanced. When interest rates are positively correlated with the underlying, this daily settlement mechanism gives futures a slight theoretical advantage over an otherwise identical forward."
+  },
+  {
+    "id": "der-005",
+    "topic": "Derivatives",
+    "subtopic": "Futures Markets",
+    "difficulty": "easy",
+    "question": "Why do futures exchanges require daily marking to market?",
+    "options": [
+      "To let traders defer all gains and losses until contract expiration",
+      "To limit the buildup of counterparty credit risk by settling gains and losses each day",
+      "To determine the dividend adjustment on equity futures",
+      "To set the coupon rate on the underlying asset"
+    ],
+    "correctIndex": 1,
+    "explanation": "Daily settlement prevents losses from accumulating unchecked over the life of a contract, which is a key reason exchange-traded futures carry much less counterparty credit risk than uncleared forward contracts."
+  },
+  {
+    "id": "der-006",
+    "topic": "Derivatives",
+    "subtopic": "Forward/Futures Pricing",
+    "difficulty": "medium",
+    "question": "Why can a high convenience yield on a physical commodity pull its futures price below the simple cost-of-carry spot price?",
+    "options": [
+      "Because convenience yield is a financing cost that must be added to spot",
+      "Because holding the physical commodity provides a benefit (e.g., avoiding stockouts) that offsets storage and financing costs in the pricing relationship",
+      "Because convenience yield only applies to financial assets, not commodities",
+      "Because exchanges cap futures prices below spot by rule"
+    ],
+    "correctIndex": 1,
+    "explanation": "Convenience yield acts like a negative carry cost: it represents the value of having physical inventory on hand, so a high convenience yield can more than offset storage and financing costs, pulling the futures price below what a naive cost-of-carry formula would suggest."
+  },
+  {
+    "id": "der-007",
+    "topic": "Derivatives",
+    "subtopic": "Swaps",
+    "difficulty": "easy",
+    "question": "Why would a company with floating-rate debt enter into a pay-fixed, receive-floating interest rate swap?",
+    "options": [
+      "To speculate on rising currency volatility",
+      "To convert its floating-rate exposure into a fixed-rate obligation and stabilize interest expense",
+      "To eliminate all default risk on its existing debt",
+      "To extend the maturity of its debt without refinancing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paying fixed and receiving floating on a swap offsets the company's floating-rate debt payments, effectively locking in a fixed borrowing cost and removing uncertainty about future interest expense."
+  },
+  {
+    "id": "der-008",
+    "topic": "Derivatives",
+    "subtopic": "Swaps",
+    "difficulty": "medium",
+    "question": "Why is counterparty credit risk in a swap generally smaller than the swap's notional principal would suggest?",
+    "options": [
+      "Because notional principal is exchanged upfront and returned at maturity",
+      "Because only net interest cash flows are exchanged periodically, so exposure is based on the current replacement value, not the notional amount",
+      "Because swaps are always fully collateralized by regulation",
+      "Because notional principal is irrelevant to the swap's cash flows"
+    ],
+    "correctIndex": 1,
+    "explanation": "In most swaps the notional principal is never exchanged, only used to calculate periodic net payments, so the actual credit exposure at any time is limited to the present value of the net cash flows still owed, not the full notional."
+  },
+  {
+    "id": "der-009",
+    "topic": "Derivatives",
+    "subtopic": "Swaps",
+    "difficulty": "medium",
+    "question": "Why might two companies in different countries use a currency swap instead of each borrowing directly in the other's local market?",
+    "options": [
+      "Currency swaps eliminate all foreign exchange risk for both parties permanently",
+      "Each company can borrow more cheaply in its own home market and then swap the proceeds and payment obligations, exploiting comparative borrowing advantages",
+      "Currency swaps are required by law for any cross-border financing",
+      "Currency swaps guarantee a fixed exchange rate on all future imports and exports"
+    ],
+    "correctIndex": 1,
+    "explanation": "A currency swap lets each company borrow where it has the best relative access to credit or lowest cost, then exchange principal and interest obligations, effectively achieving cheaper foreign-currency funding than borrowing directly abroad."
+  },
+  {
+    "id": "der-010",
+    "topic": "Derivatives",
+    "subtopic": "Swaps",
+    "difficulty": "medium",
+    "question": "In a plain vanilla interest rate swap, why is the notional principal not actually exchanged between counterparties?",
+    "options": [
+      "Because it is illegal to exchange principal in a swap",
+      "Because the notional serves only as a reference amount to calculate the fixed and floating interest payments that are netted between parties",
+      "Because floating-rate payments are always larger than fixed-rate payments",
+      "Because regulators require notional principal to be held in escrow instead"
+    ],
+    "correctIndex": 1,
+    "explanation": "The notional principal in an interest rate swap is purely a calculation base; since both parties are exchanging interest payments in the same currency, there is no need to exchange the principal itself, which reduces settlement risk."
+  },
+  {
+    "id": "der-011",
+    "topic": "Derivatives",
+    "subtopic": "Option Strategies",
+    "difficulty": "medium",
+    "question": "An investor holding shares wants downside protection but does not want to sell the stock. Why might they buy a put option rather than sell the shares outright?",
+    "options": [
+      "Buying a put generates immediate income from the premium received",
+      "A protective put caps losses below the strike while letting the investor keep unlimited upside participation",
+      "Buying a put eliminates the cost of holding the position entirely",
+      "A protective put guarantees a profit regardless of the stock's price path"
+    ],
+    "correctIndex": 1,
+    "explanation": "A protective put behaves like insurance on the stock: for the cost of the premium, it puts a floor under losses at the strike price while the investor retains full exposure to gains if the stock rises."
+  },
+  {
+    "id": "der-012",
+    "topic": "Derivatives",
+    "subtopic": "Option Strategies",
+    "difficulty": "medium",
+    "question": "Why would an investor who already owns a stock write (sell) a call option against it, forming a covered call?",
+    "options": [
+      "To remove all downside risk on the stock position",
+      "To collect option premium income in exchange for giving up upside beyond the strike price",
+      "To increase the position's leverage and volatility exposure",
+      "To guarantee the stock will be called away regardless of price"
+    ],
+    "correctIndex": 1,
+    "explanation": "Selling a covered call generates premium income and can cushion modest declines, but it obligates the investor to sell the shares at the strike if the stock rallies, so it trades away upside potential for current income."
+  },
+  {
+    "id": "der-013",
+    "topic": "Derivatives",
+    "subtopic": "Option Strategies",
+    "difficulty": "medium",
+    "question": "Why would an investor combine a protective put with a covered call to form a collar?",
+    "options": [
+      "To maximize unlimited upside while eliminating the cost of protection",
+      "To reduce or eliminate the net cost of downside protection by using the call premium to offset the put premium, at the expense of capping upside",
+      "To convert the stock position into a pure fixed-income instrument",
+      "To eliminate the need to ever monitor the position again"
+    ],
+    "correctIndex": 1,
+    "explanation": "A collar finances the purchase of a protective put by selling an out-of-the-money call, narrowing the range of possible outcomes: losses are floored and gains are capped, often for little or no net premium."
+  },
+  {
+    "id": "der-014",
+    "topic": "Derivatives",
+    "subtopic": "Option Strategies",
+    "difficulty": "medium",
+    "question": "An investor buys both a call and a put on the same stock with the same strike and expiration, forming a straddle. What view does this express?",
+    "options": [
+      "A strong directional bet that the stock will rise",
+      "A view that the stock will move significantly in either direction, essentially a bet on volatility rather than direction",
+      "A belief that the stock price will stay perfectly flat",
+      "A hedge that eliminates all risk in the position"
+    ],
+    "correctIndex": 1,
+    "explanation": "Because a straddle profits if the stock moves far enough in either direction to cover the combined premium, it is a way to express a view on the magnitude of future price movement (volatility) without taking a directional stance."
+  },
+  {
+    "id": "der-015",
+    "topic": "Derivatives",
+    "subtopic": "Option Strategies",
+    "difficulty": "medium",
+    "question": "Compared to a straddle, why might an investor prefer a strangle (buying an out-of-the-money call and an out-of-the-money put)?",
+    "options": [
+      "A strangle guarantees a larger profit in every scenario",
+      "A strangle costs less upfront than a straddle, though it requires a larger price move to become profitable",
+      "A strangle has no time decay, unlike a straddle",
+      "A strangle only profits if the stock price stays unchanged"
+    ],
+    "correctIndex": 1,
+    "explanation": "Using out-of-the-money strikes lowers the combined premium compared to an at-the-money straddle, but it also widens the breakeven range, so the underlying must move further before the position turns profitable."
+  },
+  {
+    "id": "der-016",
+    "topic": "Derivatives",
+    "subtopic": "Put-Call Parity",
+    "difficulty": "hard",
+    "question": "Conceptually, what does put-call parity tell an investor?",
+    "options": [
+      "That call and put premiums must always be identical in price",
+      "That a specific combination of a call, a put, the underlying, and a risk-free bond must be consistently priced relative to each other, or an arbitrage opportunity exists",
+      "That puts always trade at a discount to calls on the same underlying",
+      "That option prices are unrelated to the price of the underlying asset"
+    ],
+    "correctIndex": 1,
+    "explanation": "Put-call parity links the prices of a call, a put with the same strike and expiration, the underlying, and a risk-free bond through a no-arbitrage relationship; if the relationship breaks, traders can construct a riskless arbitrage until prices realign."
+  },
+  {
+    "id": "der-017",
+    "topic": "Derivatives",
+    "subtopic": "Put-Call Parity",
+    "difficulty": "medium",
+    "question": "Using put-call parity logic, how can an investor synthetically replicate a long stock position using options and a bond?",
+    "options": [
+      "By buying a call, selling a put with the same strike/expiration, and lending the present value of the strike",
+      "By buying two puts and selling one call at the same strike",
+      "By selling both a call and a put at different strikes",
+      "By buying a call and buying a put at the same strike"
+    ],
+    "correctIndex": 0,
+    "explanation": "Put-call parity implies that a long call plus a short put plus lending the present value of the strike price replicates the payoff of owning the underlying stock outright, which is how synthetic positions are constructed."
+  },
+  {
+    "id": "der-018",
+    "topic": "Derivatives",
+    "subtopic": "Option Greeks",
+    "difficulty": "medium",
+    "question": "Why does a call option's delta approach 1 as the stock price rises well above the strike price?",
+    "options": [
+      "Because deep in-the-money calls behave increasingly like owning the stock outright, so the option price moves almost one-for-one with the stock",
+      "Because delta always converges to 1 regardless of moneyness as expiration approaches",
+      "Because implied volatility falls to zero for in-the-money options",
+      "Because deep in-the-money options have no time value remaining"
+    ],
+    "correctIndex": 0,
+    "explanation": "As a call moves deep in-the-money, the probability that it will be exercised approaches certainty, so it starts to track the stock's price movements almost dollar-for-dollar, pushing delta toward 1."
+  },
+  {
+    "id": "der-019",
+    "topic": "Derivatives",
+    "subtopic": "Option Greeks",
+    "difficulty": "easy",
+    "question": "Why does a deep out-of-the-money option have a delta close to zero?",
+    "options": [
+      "Because the option is very likely to expire worthless, so its price barely reacts to small moves in the underlying",
+      "Because out-of-the-money options are never traded",
+      "Because delta only applies to in-the-money options",
+      "Because the option's implied volatility is always zero"
+    ],
+    "correctIndex": 0,
+    "explanation": "A deep out-of-the-money option has a low probability of ever finishing in-the-money, so small changes in the stock price have little effect on its value, resulting in a delta near zero."
+  },
+  {
+    "id": "der-020",
+    "topic": "Derivatives",
+    "subtopic": "Option Greeks",
+    "difficulty": "medium",
+    "question": "What does an option's vega measure, and why do traders watch it closely?",
+    "options": [
+      "The sensitivity of the option's price to changes in implied volatility, which matters because volatility expectations can shift option value even if the stock price doesn't move",
+      "The sensitivity of the option's price to the passage of time only",
+      "The probability that the option will expire in-the-money",
+      "The sensitivity of the underlying stock's price to interest rate changes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vega captures how much an option's price changes for a given change in implied volatility; because volatility expectations can move independently of the underlying price, vega exposure matters even to traders who are directionally hedged."
+  },
+  {
+    "id": "der-021",
+    "topic": "Derivatives",
+    "subtopic": "Option Greeks",
+    "difficulty": "hard",
+    "question": "Why is gamma typically highest for at-the-money options as expiration nears?",
+    "options": [
+      "Because at-the-money options near expiration have the most uncertain outcome, so delta can swing rapidly with small price moves",
+      "Because gamma is constant across all strikes and maturities",
+      "Because deep in-the-money and deep out-of-the-money options always have the highest gamma near expiration",
+      "Because gamma measures the option's exposure to dividend payments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Near expiration, an at-the-money option's fate (finishing in- or out-of-the-money) is most sensitive to small price movements, which causes delta to change rapidly as the stock moves, producing high gamma."
+  },
+  {
+    "id": "der-022",
+    "topic": "Derivatives",
+    "subtopic": "Option Greeks",
+    "difficulty": "medium",
+    "question": "Why does an option's time value tend to decay, and why does this decay (theta) typically accelerate as expiration approaches?",
+    "options": [
+      "Because less time remains for the underlying to move favorably, shrinking the value of optionality, and this erosion compounds faster as the remaining time shrinks",
+      "Because option premiums are fixed by the exchange until expiration",
+      "Because time value only decays for put options, not calls",
+      "Because theta reflects changes in the risk-free interest rate only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Time value reflects the chance that the option could become profitable before expiration; as fewer days remain, that chance shrinks, and the rate of erosion tends to speed up as expiration draws near, especially for at-the-money options."
+  },
+  {
+    "id": "der-023",
+    "topic": "Derivatives",
+    "subtopic": "Option Fundamentals",
+    "difficulty": "easy",
+    "question": "Why can two options with the same strike and expiration, one in-the-money and one at-the-money, have different total premiums even before considering time value?",
+    "options": [
+      "Because the in-the-money option's premium includes intrinsic value in addition to time value, while the at-the-money option has no intrinsic value",
+      "Because at-the-money options never have any premium at all",
+      "Because in-the-money options do not have time value",
+      "Because option premiums are unrelated to intrinsic value"
+    ],
+    "correctIndex": 0,
+    "explanation": "An option's premium is the sum of its intrinsic value (the immediate exercise value) and its time value; an in-the-money option carries positive intrinsic value on top of time value, while an at-the-money option's premium is pure time value."
+  },
+  {
+    "id": "der-024",
+    "topic": "Derivatives",
+    "subtopic": "Option Fundamentals",
+    "difficulty": "medium",
+    "question": "Why might an American-style call option on a dividend-paying stock be exercised early, just before an ex-dividend date?",
+    "options": [
+      "Because early exercise lets the holder capture the upcoming dividend, which can outweigh the remaining time value given up",
+      "Because American options automatically expire on ex-dividend dates",
+      "Because early exercise always increases the option's total value",
+      "Because dividends have no effect on option holders' decisions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Normally it's not optimal to exercise a call early since it sacrifices remaining time value, but if a large dividend is about to be paid, capturing that dividend by exercising just before the ex-dividend date can be worth more than the time value forfeited."
+  },
+  {
+    "id": "der-025",
+    "topic": "Derivatives",
+    "subtopic": "Option Strategies",
+    "difficulty": "medium",
+    "question": "Why would an investor use a bull call spread (buying a call at a lower strike and selling a call at a higher strike) instead of simply buying a call outright?",
+    "options": [
+      "To reduce the upfront cost of the bullish bet in exchange for capping the maximum potential gain",
+      "To eliminate all risk of loss on the position",
+      "To create unlimited upside with lower cost than a single call",
+      "To profit only if the stock price falls"
+    ],
+    "correctIndex": 0,
+    "explanation": "Selling the higher-strike call brings in premium that partially offsets the cost of the purchased call, lowering the net cost of the bullish position, but it also caps the maximum profit if the stock rises above the short call's strike."
+  },
+  {
+    "id": "der-026",
+    "topic": "Derivatives",
+    "subtopic": "Option Strategies",
+    "difficulty": "medium",
+    "question": "Why might an investor use a bear put spread rather than buying a single put to express a moderately bearish view?",
+    "options": [
+      "To lower the net premium paid by giving up some downside profit potential in exchange for income from the short put leg",
+      "To profit only if the stock price rises significantly",
+      "To guarantee an unlimited profit if the stock falls to zero",
+      "To eliminate time decay entirely on the position"
+    ],
+    "correctIndex": 0,
+    "explanation": "Selling a lower-strike put funds part of the cost of the purchased higher-strike put, reducing the net premium, but it also caps the maximum gain if the stock falls below the short put's strike, making it a defined-risk, defined-reward bearish trade."
+  },
+  {
+    "id": "der-027",
+    "topic": "Derivatives",
+    "subtopic": "Volatility",
+    "difficulty": "medium",
+    "question": "Why is implied volatility often described as a forward-looking, market-based measure, in contrast to historical volatility?",
+    "options": [
+      "Because implied volatility is backed out of current option prices and reflects the market's collective expectation of future price movement, while historical volatility only measures past price behavior",
+      "Because implied volatility is calculated purely from past stock returns",
+      "Because historical volatility changes every second, while implied volatility never changes",
+      "Because implied volatility is set by regulators, not by trading activity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Implied volatility is derived from the prices traders are actually willing to pay for options today, so it embeds the market's current expectations about future price swings, whereas historical volatility simply describes what already happened."
+  },
+  {
+    "id": "der-028",
+    "topic": "Derivatives",
+    "subtopic": "Volatility",
+    "difficulty": "hard",
+    "question": "Why does a volatility skew (or smile) often appear across option strikes on the same underlying and expiration?",
+    "options": [
+      "Because the market prices different strikes with different implied volatilities, often reflecting asymmetric perceived risks such as demand for downside crash protection",
+      "Because all options on the same underlying must have identical implied volatility by definition",
+      "Because volatility skew reflects only differences in time to expiration",
+      "Because option exchanges set implied volatility manually for each strike"
+    ],
+    "correctIndex": 0,
+    "explanation": "In practice, out-of-the-money puts often carry higher implied volatility than out-of-the-money calls, reflecting greater demand for downside protection and the market's perception that sharp declines are more likely than sharp rallies of similar magnitude."
+  },
+  {
+    "id": "der-029",
+    "topic": "Derivatives",
+    "subtopic": "Futures Markets",
+    "difficulty": "easy",
+    "question": "Why would a wheat farmer sell wheat futures contracts before harvest?",
+    "options": [
+      "To speculate on rising wheat prices",
+      "To lock in a selling price now and hedge against the risk that wheat prices fall before harvest",
+      "To guarantee a higher price than the current spot market",
+      "To avoid ever having to sell the physical wheat"
+    ],
+    "correctIndex": 1,
+    "explanation": "By selling futures, the farmer locks in a price for the future crop, hedging against the risk that prices decline before the wheat is actually harvested and sold, at the cost of giving up any benefit if prices rise instead."
+  },
+  {
+    "id": "der-030",
+    "topic": "Derivatives",
+    "subtopic": "Futures Markets",
+    "difficulty": "medium",
+    "question": "Why does basis risk mean that a futures hedge is often imperfect?",
+    "options": [
+      "Because the futures contract's terms (underlying grade, location, or expiration) may not exactly match the hedger's specific exposure, so the futures and spot prices can move differently",
+      "Because futures contracts cannot legally be used for hedging",
+      "Because basis risk only affects speculators, never hedgers",
+      "Because futures prices are fixed and never change once entered"
+    ],
+    "correctIndex": 0,
+    "explanation": "Basis is the difference between the spot price of the specific asset being hedged and the futures price; when the futures contract does not perfectly match the hedger's underlying exposure in grade, location, or timing, basis can change unpredictably and leave the hedge imperfect."
+  }
+]

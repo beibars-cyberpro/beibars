@@ -1,0 +1,377 @@
+[
+  {
+    "id": "qm-001",
+    "topic": "Quantitative Methods",
+    "subtopic": "Multiple Regression",
+    "difficulty": "medium",
+    "question": "Why is heteroskedasticity a problem in a multiple regression model?",
+    "options": [
+      "It causes the regression coefficients themselves to be biased",
+      "It makes the standard errors unreliable, distorting hypothesis tests on the coefficients",
+      "It forces the dependent variable to become non-stationary",
+      "It automatically implies the independent variables are collinear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heteroskedasticity (non-constant error variance) does not bias the coefficient estimates themselves, but it distorts the standard errors, which can lead to incorrect t-statistics and false conclusions about statistical significance."
+  },
+  {
+    "id": "qm-002",
+    "topic": "Quantitative Methods",
+    "subtopic": "Multiple Regression",
+    "difficulty": "medium",
+    "question": "Why does severe multicollinearity make individual regression coefficients unreliable, even when the overall model fits well?",
+    "options": [
+      "It reduces the model's overall R-squared substantially",
+      "It causes the residuals to become non-normally distributed",
+      "It becomes difficult to isolate the separate effect of each correlated independent variable, inflating coefficient standard errors",
+      "It changes the sign of the dependent variable"
+    ],
+    "correctIndex": 2,
+    "explanation": "When independent variables are highly correlated with each other, the model cannot cleanly separate each variable's individual contribution, so coefficient estimates become unstable and their standard errors inflate, even though the model's overall explanatory power can remain high."
+  },
+  {
+    "id": "qm-003",
+    "topic": "Quantitative Methods",
+    "subtopic": "Model Specification",
+    "difficulty": "hard",
+    "question": "An analyst omits a relevant independent variable that is correlated with an included variable. What is the most likely consequence?",
+    "options": [
+      "The remaining coefficient estimates become biased and inconsistent",
+      "The model's residuals automatically become homoskedastic",
+      "The sample size effectively increases",
+      "The omitted variable has no effect on the results as long as R-squared is high"
+    ],
+    "correctIndex": 0,
+    "explanation": "Omitted variable bias arises when a left-out variable is correlated with both the dependent variable and an included independent variable; the included variable's coefficient then absorbs part of the omitted variable's effect, biasing the estimate."
+  },
+  {
+    "id": "qm-004",
+    "topic": "Quantitative Methods",
+    "subtopic": "Multiple Regression",
+    "difficulty": "medium",
+    "question": "Which regression assumption is violated when residuals from a time-series regression are serially correlated?",
+    "options": [
+      "The assumption that independent variables are measured without error",
+      "The assumption that the expected value of the error term is zero",
+      "The assumption that error terms are uncorrelated with each other across observations",
+      "The assumption that the dependent variable is normally distributed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Serial correlation (autocorrelation) means today's error term is related to a prior period's error term, violating the assumption that errors are independent across observations and undermining the validity of standard hypothesis tests."
+  },
+  {
+    "id": "qm-005",
+    "topic": "Quantitative Methods",
+    "subtopic": "Model Specification",
+    "difficulty": "hard",
+    "question": "A model specification error occurs when an analyst includes an independent variable that is itself a function of the dependent variable. What is this problem called, and why is it serious?",
+    "options": [
+      "Heteroskedasticity, because it makes the error variance non-constant",
+      "Simultaneity bias, because it violates the assumption that regressors are independent of the error term, biasing all coefficients",
+      "Look-ahead bias, because it uses data unavailable in real time",
+      "Survivorship bias, because it excludes failed observations"
+    ],
+    "correctIndex": 1,
+    "explanation": "When the dependent variable and an independent variable simultaneously determine each other, the independent variable becomes correlated with the error term, producing simultaneity bias that makes ordinary least squares estimates biased and inconsistent."
+  },
+  {
+    "id": "qm-006",
+    "topic": "Quantitative Methods",
+    "subtopic": "Multiple Regression",
+    "difficulty": "easy",
+    "question": "What is the main purpose of a test like the Breusch-Pagan test in regression diagnostics?",
+    "options": [
+      "To detect whether the error terms exhibit heteroskedasticity",
+      "To measure the strength of correlation between two independent variables",
+      "To determine whether a time series has a unit root",
+      "To test whether the dependent variable is normally distributed"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Breusch-Pagan test examines whether the squared residuals from a regression are systematically related to the independent variables, which is a standard way of detecting conditional heteroskedasticity."
+  },
+  {
+    "id": "qm-007",
+    "topic": "Quantitative Methods",
+    "subtopic": "Multiple Regression",
+    "difficulty": "medium",
+    "question": "Why might an analyst choose to use robust standard errors when reporting regression results?",
+    "options": [
+      "To eliminate multicollinearity among the independent variables",
+      "To correct for heteroskedasticity without changing the coefficient estimates themselves",
+      "To convert a non-stationary time series into a stationary one",
+      "To increase the model's R-squared"
+    ],
+    "correctIndex": 1,
+    "explanation": "Robust standard errors adjust the estimated variability of the coefficients to account for heteroskedasticity, giving more reliable hypothesis tests while leaving the point estimates of the coefficients unchanged."
+  },
+  {
+    "id": "qm-008",
+    "topic": "Quantitative Methods",
+    "subtopic": "Time-Series Analysis",
+    "difficulty": "medium",
+    "question": "Why is it problematic to run a regression using a time series that contains a unit root?",
+    "options": [
+      "The series will always trend downward over time",
+      "The variance of the series is not constant and shocks to the series never fully dissipate, which can produce spurious regression results",
+      "Unit roots only affect cross-sectional data, not time series",
+      "The series becomes perfectly predictable"
+    ],
+    "correctIndex": 1,
+    "explanation": "A series with a unit root is non-stationary: shocks have a permanent effect and the series' mean and variance are not stable over time, which can cause two unrelated series to appear strongly related in a regression, a problem known as spurious regression."
+  },
+  {
+    "id": "qm-009",
+    "topic": "Quantitative Methods",
+    "subtopic": "Time-Series Analysis",
+    "difficulty": "easy",
+    "question": "What does it mean for a variable to follow a random walk?",
+    "options": [
+      "The current value equals the previous value plus a random, unpredictable shock",
+      "The variable always reverts to a long-run average level",
+      "The variable follows a predictable seasonal cycle",
+      "The variable's changes are perfectly correlated with a benchmark index"
+    ],
+    "correctIndex": 0,
+    "explanation": "A random walk implies that the best forecast of tomorrow's value is simply today's value, since changes are driven by unpredictable random shocks; this also means a random walk has no finite mean-reverting level and is non-stationary."
+  },
+  {
+    "id": "qm-010",
+    "topic": "Quantitative Methods",
+    "subtopic": "Time-Series Analysis",
+    "difficulty": "medium",
+    "question": "What does it mean for a time series to exhibit mean reversion, and why does that matter for forecasting?",
+    "options": [
+      "The series tends to move toward its long-run average level over time, which allows the average to be used as a benchmark for forecasts",
+      "The series has an ever-increasing variance that makes forecasting impossible",
+      "The series' values are always equal to the average of a peer group of assets",
+      "The series can never be forecast because it lacks any statistical structure"
+    ],
+    "correctIndex": 0,
+    "explanation": "A mean-reverting series tends to pull back toward a stable long-run mean whenever it strays too far above or below it, which is useful because that long-run mean can serve as an anchor for forecasts, unlike a random walk which has no such anchor."
+  },
+  {
+    "id": "qm-011",
+    "topic": "Quantitative Methods",
+    "subtopic": "Time-Series Analysis",
+    "difficulty": "hard",
+    "question": "Two individually non-stationary price series are found to be cointegrated. What does this imply, and why is it useful for a pairs-trading strategy?",
+    "options": [
+      "The two series move independently, so no stable long-run relationship can be exploited",
+      "A linear combination of the two series is stationary, meaning the spread between them tends to revert to a stable long-run relationship even though each series alone wanders",
+      "Both series must have identical variances at all times",
+      "The two series must be perfectly positively correlated in every period"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cointegration means that although each series individually behaves like a random walk, a specific combination of them (their spread) is stationary and mean-reverting, which is exactly the property pairs-trading strategies try to exploit by betting on convergence of the spread."
+  },
+  {
+    "id": "qm-012",
+    "topic": "Quantitative Methods",
+    "subtopic": "Time-Series Analysis",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of a Dickey-Fuller test in time-series analysis?",
+    "options": [
+      "To test whether a time series contains a unit root, indicating non-stationarity",
+      "To test whether two independent variables are collinear",
+      "To measure the strength of seasonal patterns in a series",
+      "To test whether regression residuals are normally distributed"
+    ],
+    "correctIndex": 0,
+    "explanation": "The (augmented) Dickey-Fuller test is specifically designed to detect whether a time series has a unit root, which would make it non-stationary and unsuitable for direct use in a standard linear regression without transformation."
+  },
+  {
+    "id": "qm-013",
+    "topic": "Quantitative Methods",
+    "subtopic": "Time-Series Analysis",
+    "difficulty": "medium",
+    "question": "Why do analysts often first-difference a non-stationary time series before modeling it?",
+    "options": [
+      "First differencing increases the sample size available for estimation",
+      "First differencing can remove a unit root, transforming the series into one that is stationary and better suited to standard modeling techniques",
+      "First differencing eliminates the need to check for autocorrelation",
+      "First differencing guarantees the series will show mean reversion in levels"
+    ],
+    "correctIndex": 1,
+    "explanation": "Many time series that are non-stationary in levels become stationary after taking first differences, because differencing removes the unit root; a stationary series has a stable mean and variance, which is required for reliable statistical inference."
+  },
+  {
+    "id": "qm-014",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "easy",
+    "question": "Why is overfitting a serious concern when building a machine learning model for investment predictions?",
+    "options": [
+      "An overfit model captures noise in the training data and therefore performs poorly on new, unseen data",
+      "An overfit model always has too few parameters to be useful",
+      "Overfitting only affects unsupervised learning models, not supervised ones",
+      "Overfitting guarantees the model will generalize better to future data"
+    ],
+    "correctIndex": 0,
+    "explanation": "An overfit model has essentially memorized the idiosyncrasies and noise of its training sample rather than learning the true underlying relationship, so it looks impressive in-sample but fails to perform well on out-of-sample data."
+  },
+  {
+    "id": "qm-015",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "easy",
+    "question": "What is the key distinction between supervised and unsupervised machine learning?",
+    "options": [
+      "Supervised learning uses labeled training data with known outcomes, while unsupervised learning finds structure in data without labeled outcomes",
+      "Supervised learning requires no historical data at all",
+      "Unsupervised learning can only be applied to text data",
+      "Supervised learning is only used for classification, never for prediction of continuous values"
+    ],
+    "correctIndex": 0,
+    "explanation": "In supervised learning, the model is trained on data where the correct output (label) is already known, so it learns a mapping from inputs to outputs; unsupervised learning instead looks for patterns, groupings, or structure in data that has no predefined labels."
+  },
+  {
+    "id": "qm-016",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "medium",
+    "question": "Why is feature selection important when building a model with a very large number of candidate variables?",
+    "options": [
+      "Including irrelevant or redundant features can add noise, increase the risk of overfitting, and make the model harder to interpret",
+      "More features always improve out-of-sample accuracy, so selection is unnecessary",
+      "Feature selection is only relevant for unsupervised learning models",
+      "Selecting fewer features always improves in-sample fit"
+    ],
+    "correctIndex": 0,
+    "explanation": "With many candidate features, some will appear predictive purely by chance; feature selection techniques help identify the variables that carry genuine signal, reducing overfitting and improving the model's ability to generalize to new data."
+  },
+  {
+    "id": "qm-017",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "medium",
+    "question": "Why do data scientists use cross-validation when developing a predictive model?",
+    "options": [
+      "To eliminate the need for a separate test data set entirely",
+      "To repeatedly test the model on different subsets of data, giving a more reliable estimate of how well it will generalize and helping detect overfitting",
+      "To guarantee that the model's coefficients are unbiased",
+      "To increase the total amount of data available for training"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cross-validation splits the data into multiple training and validation folds so the model's performance can be assessed on data it was not trained on each time, giving a more robust signal of true out-of-sample performance and helping catch overfitting before deployment."
+  },
+  {
+    "id": "qm-018",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "hard",
+    "question": "What is the conceptual purpose of a regularization technique such as LASSO in a machine learning model?",
+    "options": [
+      "It penalizes model complexity, which can shrink or eliminate less useful features and reduce overfitting",
+      "It guarantees that all included features will have statistically significant coefficients",
+      "It converts a supervised learning problem into an unsupervised one",
+      "It removes the need to standardize input variables before training"
+    ],
+    "correctIndex": 0,
+    "explanation": "Regularization methods like LASSO add a penalty for model complexity into the estimation process, which shrinks less informative coefficients toward (or to) zero, effectively performing feature selection and reducing the risk that the model overfits the training data."
+  },
+  {
+    "id": "qm-019",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "medium",
+    "question": "An analyst uses a clustering algorithm to group stocks into categories based on their return patterns, without specifying the categories in advance. What type of learning is this?",
+    "options": [
+      "Supervised learning, because the categories are the labeled outcome",
+      "Unsupervised learning, because the algorithm discovers groupings in the data without predefined labels",
+      "Reinforcement learning, because the algorithm receives rewards for correct groupings",
+      "Penalized regression, because it shrinks coefficients toward zero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clustering is a classic unsupervised learning technique: the algorithm identifies natural groupings in the data based on similarity, with no pre-existing labels telling it what the 'correct' groups should be."
+  },
+  {
+    "id": "qm-020",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "medium",
+    "question": "Why might a neural network be preferred over a traditional linear regression for modeling complex financial relationships?",
+    "options": [
+      "Neural networks can capture non-linear relationships and interactions between variables that a linear model cannot represent",
+      "Neural networks require fewer data observations than linear regression",
+      "Neural networks always produce more interpretable output than linear regression",
+      "Neural networks eliminate the need to check for overfitting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neural networks use layers of interconnected nodes with non-linear activation functions, which allows them to approximate complex, non-linear relationships and interactions among variables that a simple linear regression model would miss."
+  },
+  {
+    "id": "qm-021",
+    "topic": "Quantitative Methods",
+    "subtopic": "Big Data and AI",
+    "difficulty": "easy",
+    "question": "Which set of characteristics is commonly used to describe 'big data' in the context of investment analysis?",
+    "options": [
+      "Volume, velocity, and variety of the data",
+      "Mean, median, and mode of the data",
+      "Bias, variance, and irreducible error",
+      "Skewness, kurtosis, and normality"
+    ],
+    "correctIndex": 0,
+    "explanation": "Big data is typically characterized by its volume (scale of data), velocity (speed at which it is generated and must be processed), and variety (range of structured and unstructured formats), distinguishing it from traditional structured financial data sets."
+  },
+  {
+    "id": "qm-022",
+    "topic": "Quantitative Methods",
+    "subtopic": "Big Data and AI",
+    "difficulty": "medium",
+    "question": "Why might an investment firm use alternative data, such as satellite imagery of retailer parking lots or aggregated credit card transactions?",
+    "options": [
+      "To replace the need for any traditional financial statement analysis entirely",
+      "To gain early, unconventional signals about a company's business activity ahead of official reported results",
+      "Because alternative data is always more accurate than audited financial statements",
+      "Because regulators require its use in investment decisions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alternative data sources can provide real-time or near-real-time signals about business activity, such as store traffic or consumer spending, potentially giving investors insight before that information is reflected in official company disclosures."
+  },
+  {
+    "id": "qm-023",
+    "topic": "Quantitative Methods",
+    "subtopic": "Big Data and AI",
+    "difficulty": "medium",
+    "question": "How is natural language processing (NLP) commonly applied in investment analysis?",
+    "options": [
+      "To calculate a company's exact intrinsic value from its balance sheet",
+      "To analyze large volumes of text, such as earnings call transcripts or news articles, and extract sentiment or thematic signals",
+      "To replace the need for regression analysis entirely",
+      "To guarantee unbiased financial statement audits"
+    ],
+    "correctIndex": 1,
+    "explanation": "NLP techniques allow analysts to systematically process large quantities of unstructured text, such as earnings calls, news, and social media, to extract sentiment scores or thematic signals that can supplement traditional fundamental analysis."
+  },
+  {
+    "id": "qm-024",
+    "topic": "Quantitative Methods",
+    "subtopic": "Machine Learning",
+    "difficulty": "hard",
+    "question": "Why does repeatedly testing many different trading strategies on the same historical data set and reporting only the best-performing one create a misleading impression of skill?",
+    "options": [
+      "This practice, known as data snooping, tends to find patterns that fit the historical noise by chance, which are unlikely to persist out of sample",
+      "It always understates the true predictive power of the winning strategy",
+      "It only applies to unsupervised learning, not to trading strategy testing",
+      "Historical data has no random noise, so any pattern found must be genuine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Testing many strategies and selecting the best performer, known as data snooping or backtest overfitting, virtually guarantees that some strategy will look good purely by chance; that apparent edge is unlikely to hold up on new, out-of-sample data."
+  },
+  {
+    "id": "qm-025",
+    "topic": "Quantitative Methods",
+    "subtopic": "Big Data and AI",
+    "difficulty": "easy",
+    "question": "What distinguishes unstructured data from structured data in the context of big data analytics?",
+    "options": [
+      "Unstructured data cannot be stored digitally",
+      "Structured data fits neatly into predefined rows and columns, such as a price database, while unstructured data lacks that predefined format, such as text, images, or audio",
+      "Structured data is always more voluminous than unstructured data",
+      "Unstructured data always refers exclusively to numerical time series"
+    ],
+    "correctIndex": 1,
+    "explanation": "Structured data, like traditional financial and market data, is organized in a fixed tabular format that is easy to query, while unstructured data, such as news text, satellite images, or audio recordings, requires additional processing techniques, often involving machine learning, before it can be analyzed systematically."
+  }
+]

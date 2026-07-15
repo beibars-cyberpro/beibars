@@ -1,0 +1,752 @@
+[
+  {
+    "id": "macro-001",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Federal Reserve",
+    "difficulty": "easy",
+    "question": "What are the two primary goals that make up the US Federal Reserve's 'dual mandate'?",
+    "options": [
+      "Maximizing employment and maintaining price stability",
+      "Balancing the federal budget and managing the national debt",
+      "Regulating banks and issuing physical currency",
+      "Setting tax policy and managing government spending"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Fed's dual mandate, set by Congress, is to pursue maximum sustainable employment and stable prices (interpreted as roughly 2% inflation); it does not directly control fiscal tools like taxes or spending."
+  },
+  {
+    "id": "macro-002",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Federal Reserve",
+    "difficulty": "medium",
+    "question": "Which body within the Federal Reserve System actually votes on the target for the federal funds rate?",
+    "options": [
+      "The Federal Open Market Committee (FOMC)",
+      "The full Board of Governors sitting alone",
+      "The Federal Advisory Council",
+      "The Treasury Department in consultation with the Fed chair"
+    ],
+    "correctIndex": 0,
+    "explanation": "The FOMC, composed of the Board of Governors plus a rotating group of regional Reserve Bank presidents, meets roughly eight times a year to set the federal funds rate target."
+  },
+  {
+    "id": "macro-003",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Federal Reserve",
+    "difficulty": "medium",
+    "question": "What does the federal funds rate actually represent?",
+    "options": [
+      "The interest rate the Fed charges households on mortgages",
+      "The rate at which banks lend reserve balances to each other overnight",
+      "The yield the US Treasury pays on 10-year notes",
+      "The rate the Fed pays foreign governments for currency swaps"
+    ],
+    "correctIndex": 1,
+    "explanation": "The federal funds rate is the interest rate depository institutions charge one another for overnight loans of reserves; the Fed steers it toward its target rather than fixing it directly by decree."
+  },
+  {
+    "id": "macro-004",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Federal Reserve",
+    "difficulty": "medium",
+    "question": "When the Fed conducts quantitative easing (QE), what is it primarily doing?",
+    "options": [
+      "Cutting reserve requirements for commercial banks to zero",
+      "Purchasing longer-term securities to push down longer-term interest rates and add liquidity",
+      "Directly lending discounted cash to individual consumers",
+      "Raising the discount rate to slow bank borrowing"
+    ],
+    "correctIndex": 1,
+    "explanation": "QE involves large-scale purchases of Treasuries and other securities, which pushes bond prices up and yields down along the curve, injecting reserves into the banking system beyond simply adjusting the short-term policy rate."
+  },
+  {
+    "id": "macro-005",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Federal Reserve",
+    "difficulty": "hard",
+    "question": "How does quantitative tightening (QT) typically differ in practice from an outright rate hike?",
+    "options": [
+      "QT works by shrinking the Fed's balance sheet, letting securities mature or run off, rather than moving the short-term rate target directly",
+      "QT is just another name for raising the discount window rate",
+      "QT immediately reverses all prior QE purchases in a single transaction",
+      "QT only affects foreign exchange markets, not domestic yields"
+    ],
+    "correctIndex": 0,
+    "explanation": "QT reduces the size of the Fed's balance sheet gradually, typically by allowing bonds to mature without full reinvestment, which is a distinct lever from moving the federal funds rate target."
+  },
+  {
+    "id": "macro-006",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Federal Reserve",
+    "difficulty": "medium",
+    "question": "Why do central banks like the Fed use 'forward guidance' as a policy tool?",
+    "options": [
+      "To legally commit to a fixed rate path that cannot be altered",
+      "To shape market expectations about the future path of policy, influencing financial conditions before any rate change occurs",
+      "To replace the need for the FOMC to ever meet again",
+      "To directly set long-term bond yields by decree"
+    ],
+    "correctIndex": 1,
+    "explanation": "Forward guidance lets a central bank influence current financial conditions, such as longer-term yields and borrowing costs, by signaling its likely future policy path, even before it actually moves rates."
+  },
+  {
+    "id": "macro-007",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Federal Reserve",
+    "difficulty": "medium",
+    "question": "What does the Fed's 'dot plot,' published quarterly in the Summary of Economic Projections, show?",
+    "options": [
+      "The historical trading volume of Treasury securities",
+      "Individual FOMC participants' anonymous projections for where the federal funds rate will be in future years",
+      "A map of Federal Reserve Bank branch locations",
+      "The exact vote count on the most recent rate decision"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dot plot aggregates each FOMC participant's anonymous projection for the appropriate federal funds rate at future year-ends, giving markets a sense of the range of views on the likely policy path, though it is not a formal commitment."
+  },
+  {
+    "id": "macro-008",
+    "topic": "Macro & Central Banks",
+    "subtopic": "European Central Bank",
+    "difficulty": "easy",
+    "question": "How does the ECB's mandate differ from the Federal Reserve's?",
+    "options": [
+      "The ECB has an explicit dual mandate identical to the Fed's",
+      "The ECB's primary objective is price stability, without a co-equal employment mandate",
+      "The ECB is legally required to target a specific exchange rate for the euro",
+      "The ECB's mandate is set annually by the European Parliament and can change every year"
+    ],
+    "correctIndex": 1,
+    "explanation": "Unlike the Fed's dual mandate, the ECB's treaty-based primary objective is price stability, with support for broader EU economic policies only as a secondary aim so long as it doesn't conflict with that goal."
+  },
+  {
+    "id": "macro-009",
+    "topic": "Macro & Central Banks",
+    "subtopic": "European Central Bank",
+    "difficulty": "medium",
+    "question": "What is the practical difference between the ECB's deposit facility rate and its main refinancing operations (MRO) rate?",
+    "options": [
+      "They are two names for the exact same rate",
+      "The deposit facility rate is what banks earn on excess reserves parked at the ECB overnight, while the MRO rate is what banks pay to borrow from the ECB in regular refinancing operations",
+      "The deposit facility rate only applies to consumer savings accounts",
+      "The MRO rate is set by national governments, not the ECB"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ECB operates a corridor of rates; the deposit facility rate (what banks earn holding excess reserves at the central bank) has become the key rate steering short-term money markets in recent years, while the MRO rate governs regular bank borrowing from the ECB."
+  },
+  {
+    "id": "macro-010",
+    "topic": "Macro & Central Banks",
+    "subtopic": "European Central Bank",
+    "difficulty": "hard",
+    "question": "Why does the ECB maintain a 'corridor' of multiple policy rates rather than a single target rate like the Fed?",
+    "options": [
+      "It has no practical purpose and is purely a historical relic",
+      "The corridor (deposit rate at the bottom, marginal lending rate at the top, MRO in between) bounds overnight money-market rates and gives banks standing facilities to borrow or deposit funds daily",
+      "EU law forbids central banks from operating a single overnight rate",
+      "Each eurozone member country sets its own separate rate within the corridor"
+    ],
+    "correctIndex": 1,
+    "explanation": "The corridor system gives commercial banks a ceiling (marginal lending facility) and floor (deposit facility) for overnight rates, with the ECB steering market rates to stay within that band rather than fixing one number by fiat."
+  },
+  {
+    "id": "macro-011",
+    "topic": "Macro & Central Banks",
+    "subtopic": "European Central Bank",
+    "difficulty": "medium",
+    "question": "What was the primary purpose of the ECB's Pandemic Emergency Purchase Programme (PEPP)?",
+    "options": [
+      "To fund national unemployment insurance programs directly",
+      "To provide flexible, large-scale asset purchases across eurozone members to ease financial conditions and counter pandemic-related market stress",
+      "To permanently fix exchange rates between euro member currencies",
+      "To recapitalize failing commercial banks with direct equity injections"
+    ],
+    "correctIndex": 1,
+    "explanation": "PEPP was an emergency asset purchase program with flexibility to shift purchases across countries and asset classes as needed, aimed at easing borrowing conditions and preventing fragmentation during acute pandemic stress."
+  },
+  {
+    "id": "macro-012",
+    "topic": "Macro & Central Banks",
+    "subtopic": "European Central Bank",
+    "difficulty": "medium",
+    "question": "How does the ECB's (non-emergency) Asset Purchase Programme (APP) generally function as a policy tool?",
+    "options": [
+      "It only purchases equities listed on European stock exchanges",
+      "It buys government and other eligible bonds to inject liquidity and lower yields, functioning as the ECB's standard form of quantitative easing",
+      "It is used exclusively to purchase foreign currency reserves",
+      "It sets the exchange rate between the euro and the US dollar"
+    ],
+    "correctIndex": 1,
+    "explanation": "The APP is the ECB's broad quantitative easing framework, buying public and private sector bonds to add liquidity and compress yields when the policy rate alone is judged insufficient to meet the inflation goal."
+  },
+  {
+    "id": "macro-013",
+    "topic": "Macro & Central Banks",
+    "subtopic": "European Central Bank",
+    "difficulty": "hard",
+    "question": "What is meant by 'fragmentation risk' in the eurozone, and why does it worry the ECB?",
+    "options": [
+      "The risk that a member state adopts a different currency overnight",
+      "The risk that borrowing costs (bond spreads) diverge sharply between member states, undermining uniform transmission of monetary policy across the currency union",
+      "The risk that the ECB's staff splits into competing factions",
+      "The risk that eurozone GDP data is reported inconsistently across countries"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fragmentation risk refers to peripheral countries' government bond yields spiking relative to core countries like Germany, which can distort how uniformly ECB policy is transmitted across a currency union with one policy rate but many sovereign issuers."
+  },
+  {
+    "id": "macro-014",
+    "topic": "Macro & Central Banks",
+    "subtopic": "European Central Bank",
+    "difficulty": "medium",
+    "question": "What is the main purpose of the ECB's Targeted Longer-Term Refinancing Operations (TLTRO)?",
+    "options": [
+      "To offer banks long-term funding at favorable rates conditional on their maintaining or expanding lending to households and businesses",
+      "To directly purchase shares of eurozone banks",
+      "To set daily fixing rates for the euro against other currencies",
+      "To fund infrastructure projects chosen by the European Commission"
+    ],
+    "correctIndex": 0,
+    "explanation": "TLTROs give eligible banks access to cheaper, longer-term ECB funding, with more favorable terms if they meet lending benchmarks, directly targeting the credit channel to encourage loans to the real economy rather than just adding generic liquidity."
+  },
+  {
+    "id": "macro-015",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Canada",
+    "difficulty": "easy",
+    "question": "What does the Bank of Canada's 'overnight rate target' refer to?",
+    "options": [
+      "The rate Canadian banks charge each other for overnight loans, which the Bank of Canada steers as its key policy tool",
+      "The exchange rate between the Canadian and US dollar overnight",
+      "The rate paid on Canadian government bonds maturing that day",
+      "A ceiling on credit card interest rates set by federal law"
+    ],
+    "correctIndex": 0,
+    "explanation": "Like other central banks' short-term rate targets, the overnight rate is the rate at which major Canadian financial institutions lend each other funds overnight, and it anchors the broader structure of interest rates in the economy."
+  },
+  {
+    "id": "macro-016",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Canada",
+    "difficulty": "medium",
+    "question": "What is the core structure of the Bank of Canada's inflation-targeting framework?",
+    "options": [
+      "A strict zero-inflation target enforced by law",
+      "A target range (historically around 1-3%) centered on a 2% midpoint, reviewed periodically under agreement with the federal government",
+      "A floating target that changes every quarter based on GDP growth",
+      "A target tied directly to the US Fed's stated inflation goal"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Bank of Canada operates under a formal, periodically renewed agreement with the federal government to keep inflation within a target band centered on 2%, one of the most explicit and longest-running inflation-targeting regimes among G7 central banks."
+  },
+  {
+    "id": "macro-017",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Canada",
+    "difficulty": "hard",
+    "question": "Why is the Canadian economy considered particularly sensitive to Bank of Canada rate changes compared to some peers?",
+    "options": [
+      "Canadian households carry relatively high debt levels and a large share of variable-rate or short-term fixed mortgages, so rate moves feed through to spending quickly",
+      "Canada has no mortgage market, so rates only affect corporate borrowing",
+      "All Canadian mortgages are fixed for 30 years, insulating households from rate changes",
+      "The Bank of Canada legally caps how much rates can move per year"
+    ],
+    "correctIndex": 0,
+    "explanation": "High household debt-to-income ratios and shorter mortgage terms, with many renewing or resetting within a few years, mean Canadian consumers feel the impact of rate changes on debt-servicing costs faster than in markets dominated by long-duration fixed-rate mortgages."
+  },
+  {
+    "id": "macro-018",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Canada",
+    "difficulty": "medium",
+    "question": "Why does the Bank of Canada often move its policy rate roughly in step with the US Federal Reserve, even though it sets policy independently?",
+    "options": [
+      "Canadian law requires it to match Fed decisions exactly",
+      "Close trade and financial linkages with the US mean large rate divergences can trigger significant currency and capital-flow pressure that feeds back into the Canadian economy",
+      "The Bank of Canada has no independent mandate and simply follows Fed announcements",
+      "The two currencies are pegged at a fixed exchange rate"
+    ],
+    "correctIndex": 1,
+    "explanation": "While formally independent, the Bank of Canada weighs how a large policy gap with the Fed could move the Canadian dollar and cross-border capital flows, given how tightly linked the two economies are through trade and financial markets."
+  },
+  {
+    "id": "macro-019",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Canada",
+    "difficulty": "medium",
+    "question": "What did the Bank of Canada's large-scale government bond purchase program during 2020 aim to achieve?",
+    "options": [
+      "To directly finance federal government spending with no market transactions",
+      "To keep borrowing costs low across the yield curve and support market functioning when the overnight rate was already near its effective lower bound",
+      "To eliminate the Canadian dollar as legal tender temporarily",
+      "To fix the unemployment rate at a specific numerical target"
+    ],
+    "correctIndex": 1,
+    "explanation": "With the overnight rate near zero, the Bank of Canada turned to large-scale asset purchases, a form of QE, to keep longer-term borrowing costs low and support market liquidity when conventional rate cuts had little room left."
+  },
+  {
+    "id": "macro-020",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Canada",
+    "difficulty": "hard",
+    "question": "What does the concept of a 'neutral rate of interest' mean for a central bank like the Bank of Canada?",
+    "options": [
+      "The rate at which the currency is fixed against a basket of trading partners",
+      "The theoretical policy rate that neither stimulates nor restricts economic growth once the economy is at full employment and stable inflation",
+      "The average of the last ten years of policy rates",
+      "The rate paid on non-interest-bearing chequing accounts"
+    ],
+    "correctIndex": 1,
+    "explanation": "The neutral rate is an unobservable benchmark representing where policy is neither accommodative nor restrictive; central banks compare the current policy rate to their estimate of neutral to judge how tight or loose their stance is."
+  },
+  {
+    "id": "macro-021",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Canada",
+    "difficulty": "medium",
+    "question": "Why do global oil and commodity prices matter significantly to Bank of Canada policy decisions?",
+    "options": [
+      "Oil price data is used to directly calculate Canada's inflation target every year",
+      "Canada is a major commodity and energy exporter, so swings in commodity prices affect the terms of trade, the Canadian dollar, and broader growth and inflation dynamics",
+      "The Bank of Canada is legally required to hold oil reserves as part of its foreign exchange holdings",
+      "Commodity prices set the exact level of the overnight rate by formula"
+    ],
+    "correctIndex": 1,
+    "explanation": "As a resource-exporting economy, Canada's growth, investment, and currency are meaningfully influenced by commodity price swings, which is one reason the Bank of Canada watches global energy and materials markets closely when setting policy."
+  },
+  {
+    "id": "macro-022",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Reserve Bank of Australia",
+    "difficulty": "easy",
+    "question": "What is the Reserve Bank of Australia's 'cash rate'?",
+    "options": [
+      "The value of physical currency in circulation in Australia",
+      "The interest rate on unsecured overnight loans between banks in the money market, which the RBA targets as its main policy tool",
+      "The rate the RBA pays on gold reserves",
+      "A fixed tax rate applied to bank profits"
+    ],
+    "correctIndex": 1,
+    "explanation": "The cash rate is the RBA's key policy rate, analogous to the fed funds rate or the Bank of Canada's overnight rate, representing the interest rate on overnight loans between banks in the interbank market."
+  },
+  {
+    "id": "macro-023",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Reserve Bank of Australia",
+    "difficulty": "medium",
+    "question": "Why is the RBA especially attentive to commodity export prices, particularly iron ore and coal?",
+    "options": [
+      "These commodities are irrelevant to Australia's trade balance",
+      "Australia's economy has substantial exposure to resource exports, so swings in commodity prices and demand from trading partners like China significantly affect national income and the currency",
+      "The RBA directly sets global iron ore prices through intervention",
+      "Commodity prices are used only for internal RBA staff bonuses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Australia's economy has a large resource export sector, so commodity price cycles and demand from major buyers, notably China, materially affect national income, investment, and the Australian dollar, all of which feed into RBA policy considerations."
+  },
+  {
+    "id": "macro-024",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Reserve Bank of Australia",
+    "difficulty": "hard",
+    "question": "Why is the Australian dollar often described as a 'risk-on' currency in global markets?",
+    "options": [
+      "Because it is pegged to the US dollar and moves identically to it",
+      "Because it tends to appreciate when global growth sentiment and commodity demand are strong, and weaken during global risk-off episodes, given Australia's trade-linked, resource-heavy economy",
+      "Because the RBA guarantees a fixed minimum return on AUD deposits",
+      "Because Australia has no capital account convertibility"
+    ],
+    "correctIndex": 1,
+    "explanation": "The AUD's fortunes are closely tied to global growth and commodity demand cycles, so it tends to rally when investors are optimistic about global growth (risk-on) and sell off when sentiment sours, unlike currencies seen as safe havens."
+  },
+  {
+    "id": "macro-025",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Reserve Bank of Australia",
+    "difficulty": "medium",
+    "question": "What does a favorable shift in Australia's 'terms of trade' generally mean for the economy?",
+    "options": [
+      "Export prices are rising relative to import prices, boosting national income given Australia's resource export base",
+      "Australia has signed more free trade agreements than before",
+      "The RBA has lowered tariffs on imported vehicles",
+      "Government debt has been refinanced at lower interest rates"
+    ],
+    "correctIndex": 0,
+    "explanation": "An improving terms of trade means the prices Australia receives for its exports, like iron ore, are rising relative to what it pays for imports, generally boosting national income and being a factor the RBA weighs in its outlook."
+  },
+  {
+    "id": "macro-026",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Reserve Bank of Australia",
+    "difficulty": "medium",
+    "question": "What is distinctive about the RBA's inflation target framework compared to a single-point target?",
+    "options": [
+      "It targets a 2-3% band over the medium term rather than a single fixed number for a specific year",
+      "It has no numerical target at all",
+      "It targets zero inflation at all times",
+      "It only applies during election years"
+    ],
+    "correctIndex": 0,
+    "explanation": "The RBA targets consumer price inflation averaging between 2 and 3 percent over time, a band-based, medium-term framework rather than requiring inflation to sit at one exact number every quarter."
+  },
+  {
+    "id": "macro-027",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Reserve Bank of Australia",
+    "difficulty": "hard",
+    "question": "Why does economic data out of China carry outsized weight in RBA policy deliberations?",
+    "options": [
+      "China is Australia's largest trading partner and major buyer of its resource exports, so shifts in Chinese demand transmit directly to Australian growth and commodity prices",
+      "The RBA's board includes voting members appointed by the Chinese government",
+      "The Australian dollar is legally pegged to the Chinese yuan",
+      "Chinese interest rate decisions automatically override RBA decisions"
+    ],
+    "correctIndex": 0,
+    "explanation": "With China being Australia's largest trading partner and a dominant buyer of its iron ore and other commodities, shifts in Chinese growth and demand have an outsized and fairly direct impact on Australian export income and, in turn, RBA policy thinking."
+  },
+  {
+    "id": "macro-028",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Reserve Bank of Australia",
+    "difficulty": "medium",
+    "question": "Why do RBA rate changes tend to transmit relatively quickly to Australian household spending?",
+    "options": [
+      "Most Australian mortgages carry fixed rates locked in for 30 years",
+      "A large share of Australian mortgages are variable-rate or short-term fixed, so changes in the cash rate flow through to household repayments fairly promptly",
+      "Australian households are legally barred from taking on mortgage debt",
+      "The RBA directly sets mortgage rates offered by banks"
+    ],
+    "correctIndex": 1,
+    "explanation": "With a high proportion of variable-rate and short-fixed-term mortgages in Australia, rate changes tend to show up in household cash flow and spending decisions faster than in economies dominated by long-term fixed-rate mortgages."
+  },
+  {
+    "id": "macro-029",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Japan",
+    "difficulty": "medium",
+    "question": "What did the Bank of Japan's yield curve control (YCC) policy aim to do?",
+    "options": [
+      "Directly set the exchange rate between the yen and US dollar",
+      "Cap or target the yield on longer-term government bonds, alongside a short-term rate target, buying bonds as needed to keep yields near that level",
+      "Eliminate all government bond issuance permanently",
+      "Set a fixed inflation number that could never be revised"
+    ],
+    "correctIndex": 1,
+    "explanation": "YCC extended the BoJ's control beyond just a short-term policy rate to also target a longer-term bond yield, often the 10-year, with the central bank committing to buy bonds in whatever quantity needed to keep that yield near its target band."
+  },
+  {
+    "id": "macro-030",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Japan",
+    "difficulty": "medium",
+    "question": "What was the primary intent behind the Bank of Japan's negative interest rate policy (NIRP)?",
+    "options": [
+      "To charge commercial banks a fee on a portion of reserves to discourage hoarding cash and encourage lending or investment amid persistently weak inflation",
+      "To make it illegal for banks to hold any reserves",
+      "To force the yen to become the world's reserve currency",
+      "To directly subsidize consumer loans at negative rates for households"
+    ],
+    "correctIndex": 0,
+    "explanation": "By pushing the rate on a portion of excess bank reserves below zero, the BoJ aimed to nudge banks toward lending or investing funds rather than parking them, an attempt to stimulate demand and inflation after decades of deflationary pressure."
+  },
+  {
+    "id": "macro-031",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Japan",
+    "difficulty": "medium",
+    "question": "What is the basic mechanic of the classic 'yen carry trade'?",
+    "options": [
+      "Borrowing yen at very low interest rates and investing the proceeds in higher-yielding assets denominated in other currencies, profiting from the rate differential",
+      "Buying only Japanese government bonds and holding them to maturity",
+      "Converting all yen holdings into gold as a hedge",
+      "Shorting the Nikkei 225 index exclusively"
+    ],
+    "correctIndex": 0,
+    "explanation": "Because Japanese interest rates have stayed so low for so long, investors have long borrowed cheaply in yen and invested in higher-yielding currencies or assets elsewhere, pocketing the rate spread as long as the yen doesn't appreciate sharply against them."
+  },
+  {
+    "id": "macro-032",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Japan",
+    "difficulty": "hard",
+    "question": "Why has the Bank of Japan historically pursued such a different policy path, with ultra-low or negative rates and yield curve control, compared to other G7 central banks?",
+    "options": [
+      "Japan is not actually a G7 member and faces different legal requirements",
+      "Decades of weak growth, persistent deflationary pressure, and demographic headwinds left Japan needing much more sustained monetary stimulus than economies with stronger growth and inflation",
+      "The BoJ is legally barred from ever raising rates",
+      "Japan's currency is pegged to the US dollar, removing the need for independent policy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Japan's prolonged stagnation, chronic disinflation, and aging, shrinking population created a very different starting point than other G7 economies, pushing the BoJ toward extraordinarily accommodative policy for far longer than peers like the Fed or ECB."
+  },
+  {
+    "id": "macro-033",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Japan",
+    "difficulty": "hard",
+    "question": "What risk does a shift by the Bank of Japan toward tighter policy, such as raising rates or ending YCC, pose to yen carry trades?",
+    "options": [
+      "None, because carry trades are unaffected by Japanese policy changes",
+      "A narrower interest rate gap and a strengthening yen can erode or reverse carry trade profits, prompting rapid unwinding and volatility in the funded assets",
+      "It guarantees carry trade profits will increase indefinitely",
+      "It only affects Japanese domestic investors, not global ones"
+    ],
+    "correctIndex": 1,
+    "explanation": "If the BoJ tightens, the interest rate advantage that made borrowing in yen cheap narrows, and a strengthening yen can inflict losses on unhedged carry positions, sometimes triggering a rapid, disorderly unwind that ripples through other asset markets."
+  },
+  {
+    "id": "macro-034",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Japan",
+    "difficulty": "medium",
+    "question": "What made the Bank of Japan's asset purchase program unusual compared to typical central bank QE?",
+    "options": [
+      "It purchased only foreign government bonds, never domestic ones",
+      "In addition to government bonds, the BoJ purchased substantial amounts of exchange-traded funds (ETFs), giving it exposure to the domestic equity market",
+      "It refused to purchase any securities at all",
+      "It purchased only physical gold bullion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beyond the government bond buying common to other major central banks' QE programs, the BoJ also bought significant quantities of equity ETFs, an unusual step that gave it direct exposure to the Japanese stock market."
+  },
+  {
+    "id": "macro-035",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of Japan",
+    "difficulty": "medium",
+    "question": "Why does the yen tend to weaken when the Bank of Japan keeps policy ultra-loose while other major central banks like the Fed are hiking rates?",
+    "options": [
+      "Wider interest rate differentials make yen-denominated assets relatively less attractive, encouraging capital outflows into higher-yielding currencies",
+      "The yen is legally required to depreciate whenever US rates rise",
+      "A weaker yen has no relationship to interest rate differentials",
+      "The BoJ actively sells its own currency reserves to cause depreciation whenever the Fed hikes"
+    ],
+    "correctIndex": 0,
+    "explanation": "When other central banks offer meaningfully higher yields than Japan, capital tends to flow out of yen assets in search of better returns elsewhere, which is a core driver of yen weakness during periods of wide rate differentials."
+  },
+  {
+    "id": "macro-036",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of England",
+    "difficulty": "easy",
+    "question": "What is the Bank of England's 'Bank Rate'?",
+    "options": [
+      "The interest rate the Bank of England pays on reserves held by commercial banks, serving as its main policy rate",
+      "The exchange rate between sterling and the euro",
+      "A tax levied on bank profits",
+      "The maximum interest rate banks may legally charge on credit cards"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bank Rate is the BoE's key policy interest rate, and it works primarily by setting the rate paid on commercial bank reserves held at the central bank, which then influences broader market interest rates."
+  },
+  {
+    "id": "macro-037",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of England",
+    "difficulty": "medium",
+    "question": "What role did large-scale gilt (UK government bond) purchases play in BoE policy after the 2008 financial crisis and again in 2020?",
+    "options": [
+      "They were the BoE's method of implementing quantitative easing, adding reserves to the banking system and pushing down long-term yields",
+      "They were used solely to finance the Royal Family's expenses",
+      "They eliminated the need for the UK Treasury to issue any further debt",
+      "They were a one-time event with no policy purpose"
+    ],
+    "correctIndex": 0,
+    "explanation": "Buying gilts is how the BoE has implemented QE, injecting money into the financial system and compressing long-term yields when Bank Rate alone was seen as insufficient stimulus, particularly after 2008 and again during the pandemic."
+  },
+  {
+    "id": "macro-038",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of England",
+    "difficulty": "hard",
+    "question": "How has the BoE's approach to unwinding its bond holdings, or quantitative tightening, been notably different from some peer central banks?",
+    "options": [
+      "The BoE has actively sold gilts into the market, rather than only letting bonds run off passively at maturity",
+      "The BoE is legally barred from ever reducing its balance sheet",
+      "The BoE has never purchased any bonds, so no unwinding was needed",
+      "The BoE burns physical gilt certificates instead of selling them"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unlike central banks that shrink their balance sheets mainly by letting bonds mature without reinvestment, the BoE has also conducted active sales of gilts into the market as part of its quantitative tightening program."
+  },
+  {
+    "id": "macro-039",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of England",
+    "difficulty": "medium",
+    "question": "How did Brexit-related trade friction contribute to UK inflation pressures that the BoE had to navigate?",
+    "options": [
+      "New customs and regulatory frictions raised import costs and disrupted supply chains, adding to cost-push inflation pressure",
+      "Brexit immediately eliminated all UK trade with the EU",
+      "Brexit fixed the pound's exchange rate permanently",
+      "Brexit had no measurable effect on UK trade or prices"
+    ],
+    "correctIndex": 0,
+    "explanation": "New border checks, customs procedures, and regulatory divergence after Brexit added friction and cost to UK-EU trade, contributing an additional source of cost-push inflationary pressure that complicated the BoE's task."
+  },
+  {
+    "id": "macro-040",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of England",
+    "difficulty": "hard",
+    "question": "Why did the BoE face a particularly difficult balancing act during the UK's post-pandemic, post-Brexit inflation surge?",
+    "options": [
+      "Inflation was being driven partly by supply shocks and cost pressures rather than only strong demand, meaning rate hikes to curb inflation risked weighing further on already-soft growth",
+      "Inflation and growth always move in exactly the same direction, so there was no tradeoff",
+      "The BoE had unlimited fiscal tools to address both problems simultaneously",
+      "UK inflation was entirely unrelated to global energy prices"
+    ],
+    "correctIndex": 0,
+    "explanation": "When elevated inflation stems significantly from supply-side and cost shocks rather than excess demand, raising rates to tame inflation can further slow an already-weak economy, creating the classic stagflation-style tension policymakers must weigh."
+  },
+  {
+    "id": "macro-041",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of England",
+    "difficulty": "medium",
+    "question": "What was the main rationale for the BoE's emergency, temporary gilt-buying intervention during the UK bond market turmoil in autumn 2022?",
+    "options": [
+      "To restore market functioning and prevent a disorderly spiral in gilt prices from threatening broader financial stability, particularly pension funds under liability-driven investment strategies",
+      "To permanently abandon its inflation-fighting rate hikes",
+      "To directly recapitalize commercial banks with equity stakes",
+      "To fix the exchange rate between the pound and the dollar"
+    ],
+    "correctIndex": 0,
+    "explanation": "The BoE stepped in as a financial-stability backstop when a rapid, self-reinforcing spike in gilt yields threatened to force fire-sales among pension funds using leveraged liability-driven investment strategies, temporarily buying gilts to calm the market while keeping its separate inflation-fighting stance intact."
+  },
+  {
+    "id": "macro-042",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Bank of England",
+    "difficulty": "medium",
+    "question": "What is the Monetary Policy Committee (MPC) at the Bank of England responsible for?",
+    "options": [
+      "Setting UK tax rates and government spending levels",
+      "Voting on Bank Rate and other monetary policy tools to meet the inflation target set by the government",
+      "Regulating the London Stock Exchange listing rules",
+      "Approving the UK's annual budget"
+    ],
+    "correctIndex": 1,
+    "explanation": "The MPC is the committee, similar in role to the Fed's FOMC, that votes on Bank Rate and other monetary tools in pursuit of the inflation target set by the UK government, while the government retains responsibility for fiscal policy."
+  },
+  {
+    "id": "macro-043",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "medium",
+    "question": "Why do most major central banks target a low but positive inflation rate of around 2%, rather than aiming for exactly 0%?",
+    "options": [
+      "A small positive buffer helps avoid deflation risk and gives room to cut real interest rates during downturns, while still preserving broad price stability",
+      "A 2% target is required by international treaty for all currencies",
+      "Central banks target 2% because it matches average global GDP growth exactly",
+      "There is no particular reasoning; the number was chosen at random"
+    ],
+    "correctIndex": 0,
+    "explanation": "A small positive inflation cushion helps avoid the risks of deflation, such as postponed spending and debt-deflation spirals, and preserves room to cut real rates during downturns, without letting inflation erode purchasing power too much."
+  },
+  {
+    "id": "macro-044",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "medium",
+    "question": "Through which broad channel does quantitative easing mainly aim to stimulate the economy?",
+    "options": [
+      "By directly mailing cash payments to every household",
+      "By purchasing longer-term assets to lower long-term yields and encourage investors to rebalance into riskier assets, easing broader financial conditions",
+      "By raising reserve requirements to force banks to lend more",
+      "By fixing exchange rates against all major trading partners"
+    ],
+    "correctIndex": 1,
+    "explanation": "QE works largely through the portfolio-rebalancing and signaling channels: buying bonds pushes down yields and nudges investors into other assets, easing broader financial conditions and supporting demand beyond what a single short-term rate cut can achieve."
+  },
+  {
+    "id": "macro-045",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "hard",
+    "question": "What is the general transmission mechanism by which quantitative tightening is thought to tighten financial conditions?",
+    "options": [
+      "Shrinking the central bank's balance sheet reduces the supply of reserves and can push longer-term yields higher, reversing some of the easing effects of QE",
+      "QT works by directly raising consumer taxes",
+      "QT has no effect on yields, only on physical currency in circulation",
+      "QT automatically weakens the currency in all cases"
+    ],
+    "correctIndex": 0,
+    "explanation": "As a central bank lets its bond holdings run off, or actively sells them, the reduced footprint of official demand can allow longer-term yields to rise, tightening financial conditions in a way that complements or substitutes for raising the short-term policy rate."
+  },
+  {
+    "id": "macro-046",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "medium",
+    "question": "What is the key advantage forward guidance offers a central bank facing rates already near their effective lower bound?",
+    "options": [
+      "It provides another way to ease financial conditions by shaping expectations of future policy, even when there is little room left to cut the current policy rate further",
+      "It allows the central bank to avoid ever meeting again",
+      "It guarantees inflation will hit target exactly on schedule",
+      "It replaces the need for any asset purchases"
+    ],
+    "correctIndex": 0,
+    "explanation": "When the policy rate is already near zero, credible guidance about keeping rates low, or about the future path of asset purchases, can still ease financial conditions by lowering expected future rates, giving central banks an additional lever beyond the current rate itself."
+  },
+  {
+    "id": "macro-047",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "medium",
+    "question": "What does an inverted yield curve, where short-term rates exceed long-term yields, typically signal to markets?",
+    "options": [
+      "That long-term economic growth will be permanently higher than short-term growth",
+      "That investors expect economic weakness ahead, anticipating future rate cuts as the central bank responds to a slowdown",
+      "That the central bank has lost control of monetary policy entirely",
+      "That inflation will remain at zero indefinitely"
+    ],
+    "correctIndex": 1,
+    "explanation": "An inversion often reflects investors pricing in a weaker growth outlook and expecting the central bank to cut rates in the future, which pulls longer-term yields below current short-term rates; historically it has been one of the more reliable, though imperfect, recession signals."
+  },
+  {
+    "id": "macro-048",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "medium",
+    "question": "Why might a central bank or finance ministry intervene directly in currency markets, buying or selling its own currency?",
+    "options": [
+      "To counter excessive currency volatility or moves seen as disconnected from economic fundamentals, which can threaten price stability or competitiveness",
+      "Currency intervention is purely symbolic and has no economic rationale",
+      "To permanently fix the exchange rate without any future need for policy",
+      "Intervention is illegal under international law in all cases"
+    ],
+    "correctIndex": 0,
+    "explanation": "Authorities sometimes intervene to lean against rapid, disorderly currency moves that threaten to import unwanted inflation, hurt export competitiveness, or destabilize financial markets, even though sustained intervention against strong market trends often has limited lasting power."
+  },
+  {
+    "id": "macro-049",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "medium",
+    "question": "In general, what primarily drives the profitability of a cross-currency carry trade?",
+    "options": [
+      "The interest rate differential between the funding currency and the target currency, adjusted for any movement in the exchange rate between them",
+      "The size of the two countries' populations",
+      "The color of the currency notes involved",
+      "Whether the funding currency is used as a reserve currency"
+    ],
+    "correctIndex": 0,
+    "explanation": "A carry trade's return comes from the gap between the interest rate earned on the target currency and the rate paid on the funding currency, though that gain can be wiped out, or reversed, if the funding currency appreciates significantly."
+  },
+  {
+    "id": "macro-050",
+    "topic": "Macro & Central Banks",
+    "subtopic": "Cross-Cutting Macro Concepts",
+    "difficulty": "medium",
+    "question": "Why does quantitative easing tend to put downward pressure on a country's currency?",
+    "options": [
+      "QE increases the money supply and lowers domestic yields, making the currency's assets relatively less attractive to foreign investors seeking returns",
+      "QE has no connection to currency values under any circumstances",
+      "QE directly fixes the exchange rate lower by law",
+      "QE only affects the currency of trading partners, never the home currency"
+    ],
+    "correctIndex": 0,
+    "explanation": "By expanding the money supply and pushing down domestic yields, QE tends to make a currency's assets less attractive relative to those offering higher returns elsewhere, contributing to depreciation pressure, all else equal."
+  }
+]

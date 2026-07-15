@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "CFA Quiz Duel",
+    "slug": "cfa-quiz-duel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.quizduel.cfaquizduel"
+    },
+    "android": {
+      "package": "com.quizduel.cfaquizduel"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

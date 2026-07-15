@@ -1,0 +1,377 @@
+[
+  {
+    "id": "econ-001",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "easy",
+    "question": "What does purchasing power parity (PPP) suggest should happen to exchange rates over the long run?",
+    "options": [
+      "Exchange rates should adjust so that identical baskets of goods cost the same amount when converted into a common currency",
+      "Exchange rates should move purely in response to central bank interest rate announcements",
+      "Exchange rates should remain fixed regardless of inflation differences between countries",
+      "Exchange rates should be determined solely by relative stock market performance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Purchasing power parity holds that, in the long run, exchange rates should adjust so that a given basket of goods costs the same in different countries once converted to a common currency, preventing persistent arbitrage opportunities in goods markets."
+  },
+  {
+    "id": "econ-002",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "medium",
+    "question": "According to relative purchasing power parity, a country with persistently higher inflation than its trading partner should expect its currency to do what?",
+    "options": [
+      "Appreciate, because higher inflation signals a stronger economy",
+      "Depreciate, because the higher-inflation currency loses purchasing power relative to the lower-inflation currency",
+      "Remain unchanged, since inflation has no long-run effect on exchange rates",
+      "Become pegged automatically to the lower-inflation currency"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relative PPP predicts that the currency of the higher-inflation country should depreciate over time by roughly the inflation differential, since its goods become relatively more expensive, reducing demand for its currency."
+  },
+  {
+    "id": "econ-003",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "medium",
+    "question": "What is the essential difference between covered and uncovered interest rate parity?",
+    "options": [
+      "Covered interest rate parity uses a forward contract to eliminate exchange rate risk, while uncovered interest rate parity relies on an unhedged expectation of future spot rates",
+      "Covered interest rate parity applies only to emerging market currencies",
+      "Uncovered interest rate parity guarantees a riskless arbitrage profit",
+      "Covered interest rate parity ignores interest rate differentials entirely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Covered interest rate parity uses a forward foreign exchange contract to lock in the future exchange rate, removing currency risk and enforcing a no-arbitrage condition, whereas uncovered interest rate parity assumes investors are unhedged and simply expect exchange rate movements to offset interest rate differentials on average."
+  },
+  {
+    "id": "econ-004",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "medium",
+    "question": "Why do investors engage in a currency carry trade?",
+    "options": [
+      "To borrow in a low-interest-rate currency and invest the proceeds in a high-interest-rate currency, aiming to profit from the interest rate differential",
+      "To eliminate all exposure to exchange rate movements",
+      "To guarantee a riskless profit through covered interest rate parity",
+      "To hedge a company's foreign-currency-denominated revenue"
+    ],
+    "correctIndex": 0,
+    "explanation": "A carry trade involves borrowing in a currency with a low interest rate and investing in a currency with a higher interest rate, seeking to capture the rate differential; this strategy is speculative because it works only if the higher-yielding currency does not depreciate enough to offset the interest gain."
+  },
+  {
+    "id": "econ-005",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "hard",
+    "question": "What is the main risk that can cause a currency carry trade to produce large losses?",
+    "options": [
+      "A sudden appreciation of the funding (low-yield) currency, which increases the cost of repaying the borrowed funds beyond the interest earned",
+      "A rise in the target country's inflation rate having no effect on the strategy",
+      "The complete absence of any interest rate differential between the two currencies",
+      "Central banks being legally barred from changing interest rates"
+    ],
+    "correctIndex": 0,
+    "explanation": "If the low-yield funding currency unexpectedly appreciates, converting the investment proceeds back to repay the loan becomes more expensive, and this currency loss can easily exceed the interest rate gain, which is why carry trades can unwind sharply and suddenly during periods of market stress."
+  },
+  {
+    "id": "econ-006",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "medium",
+    "question": "What market mechanism keeps covered interest rate parity from being violated for long?",
+    "options": [
+      "Government price controls on currency exchange",
+      "Covered interest arbitrage, where traders exploit any deviation until the mispricing disappears",
+      "Central bank mandates that fix exchange rates permanently",
+      "Consumer preferences for domestic goods over imports"
+    ],
+    "correctIndex": 1,
+    "explanation": "If covered interest rate parity is violated, arbitrageurs can borrow in one currency, convert and invest in another, and simultaneously lock in the forward exchange rate to guarantee a riskless profit; this arbitrage activity pushes prices back toward parity and closes the mispricing quickly."
+  },
+  {
+    "id": "econ-007",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "hard",
+    "question": "Why do exchange rate models based on real interest rate differentials often outperform simple nominal interest rate comparisons?",
+    "options": [
+      "Real interest rate differentials account for inflation expectations, better capturing the true relative return investors expect after adjusting for purchasing power",
+      "Real interest rates are always identical across countries",
+      "Nominal interest rates never reflect actual monetary policy",
+      "Real interest rates eliminate the need to consider capital flows"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nominal interest rates include an inflation component, so comparing them alone can be misleading; real interest rate differentials strip out expected inflation, giving a clearer picture of the true relative return that drives capital flows and currency movements."
+  },
+  {
+    "id": "econ-008",
+    "topic": "Economics",
+    "subtopic": "Economic Growth",
+    "difficulty": "medium",
+    "question": "Why does capital deepening alone eventually produce diminishing gains in output per worker?",
+    "options": [
+      "Because adding more capital per worker without technological improvement runs into diminishing marginal returns to capital",
+      "Because capital deepening always reduces the size of the labor force",
+      "Because capital deepening causes technological regress",
+      "Because capital deepening has no effect on output per worker in any economic model"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capital deepening means increasing the amount of capital per worker; because each additional unit of capital adds less extra output than the last (diminishing marginal returns), growth driven purely by capital deepening slows down over time unless accompanied by technological progress."
+  },
+  {
+    "id": "econ-009",
+    "topic": "Economics",
+    "subtopic": "Economic Growth",
+    "difficulty": "hard",
+    "question": "In the Solow growth model, why is technological progress considered the only source of permanent long-run growth in output per capita?",
+    "options": [
+      "Because capital accumulation alone leads the economy to a steady state where output per capita stops growing due to diminishing returns, while technological progress continually shifts that steady state upward",
+      "Because labor force growth is the only true driver of long-run growth",
+      "Because technological progress eliminates the need for capital investment",
+      "Because the Solow model assumes capital never experiences diminishing returns"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Solow model shows that capital deepening drives an economy toward a steady state where further capital accumulation no longer raises output per worker; only continuous improvements in technology (total factor productivity) can permanently push output per capita higher over time."
+  },
+  {
+    "id": "econ-010",
+    "topic": "Economics",
+    "subtopic": "Economic Growth",
+    "difficulty": "medium",
+    "question": "What does the convergence hypothesis in growth theory predict about developing versus developed economies?",
+    "options": [
+      "Developing economies with lower capital-to-labor ratios should grow faster than developed economies as they catch up, assuming similar access to technology and institutions",
+      "All economies grow at exactly the same rate regardless of their starting capital stock",
+      "Developed economies will always grow faster because they already have more capital",
+      "Convergence means exchange rates between countries will equalize over time"
+    ],
+    "correctIndex": 0,
+    "explanation": "Because diminishing marginal returns to capital are stronger in capital-scarce economies, the convergence hypothesis predicts that developing countries, starting from lower capital-to-labor ratios, should experience faster growth in output per worker as they accumulate capital, provided they have similar technology, institutions, and savings behavior."
+  },
+  {
+    "id": "econ-011",
+    "topic": "Economics",
+    "subtopic": "Economic Growth",
+    "difficulty": "medium",
+    "question": "What does total factor productivity (TFP) growth represent in an economic growth model?",
+    "options": [
+      "The portion of output growth not explained by growth in measured capital and labor inputs, generally attributed to technological progress and efficiency gains",
+      "The total amount of capital invested in an economy during a given year",
+      "The growth rate of the labor force alone",
+      "The inflation-adjusted growth rate of government spending"
+    ],
+    "correctIndex": 0,
+    "explanation": "Total factor productivity captures the residual growth in output that cannot be attributed to increases in the quantity of capital or labor; it is typically interpreted as reflecting technological progress, innovation, and improvements in how efficiently inputs are combined."
+  },
+  {
+    "id": "econ-012",
+    "topic": "Economics",
+    "subtopic": "Economic Regulation",
+    "difficulty": "easy",
+    "question": "What is a primary economic justification for government regulation of an industry?",
+    "options": [
+      "To correct market failures, such as negative externalities or information asymmetry, that an unregulated market would not resolve on its own",
+      "To guarantee that every firm in the industry earns the same profit",
+      "To eliminate all competition among firms",
+      "To ensure prices never change regardless of supply and demand conditions"
+    ],
+    "correctIndex": 0,
+    "explanation": "A core economic rationale for regulation is addressing market failures, such as externalities (like pollution) or information asymmetry (as in financial markets), where unregulated market outcomes would not reflect the true social costs and benefits."
+  },
+  {
+    "id": "econ-013",
+    "topic": "Economics",
+    "subtopic": "Economic Regulation",
+    "difficulty": "medium",
+    "question": "Why do regulators typically perform a cost-benefit analysis before implementing a new regulation?",
+    "options": [
+      "Because regulation is never costly to implement or comply with",
+      "Because the compliance costs, unintended consequences, and administrative burdens of regulation must be weighed against its intended benefits",
+      "Because cost-benefit analysis is legally required to eliminate all industry lobbying",
+      "Because regulations automatically pay for themselves through fines"
+    ],
+    "correctIndex": 1,
+    "explanation": "Regulations impose real costs, including compliance costs for firms, administrative costs for regulators, and sometimes unintended distortions in market behavior; a cost-benefit analysis helps ensure the intended social benefits of a regulation justify these costs."
+  },
+  {
+    "id": "econ-014",
+    "topic": "Economics",
+    "subtopic": "Economic Regulation",
+    "difficulty": "medium",
+    "question": "What does 'regulatory capture' refer to?",
+    "options": [
+      "A situation where a regulatory agency comes to act in the interests of the industry it is supposed to regulate, rather than the broader public interest",
+      "The process by which a government nationalizes a private industry",
+      "A regulation that captures excess profits through taxation",
+      "The requirement that regulators must be elected officials"
+    ],
+    "correctIndex": 0,
+    "explanation": "Regulatory capture occurs when a regulatory body, over time, becomes influenced by or aligned with the interests of the industry it oversees, often due to lobbying, revolving-door employment, or reliance on industry expertise, undermining the regulation's original public-interest goals."
+  },
+  {
+    "id": "econ-015",
+    "topic": "Economics",
+    "subtopic": "Economic Regulation",
+    "difficulty": "medium",
+    "question": "What is a commonly cited drawback of relying on industry self-regulation rather than independent government regulation?",
+    "options": [
+      "Self-regulating bodies may face inherent conflicts of interest, since the regulated firms fund or staff the regulatory body themselves",
+      "Self-regulation always results in stricter rules than government regulation",
+      "Self-regulation eliminates the possibility of any regulatory costs",
+      "Self-regulation is required by law in most developed economies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Because self-regulatory organizations are often funded and staffed by members of the industry they oversee, there is an inherent risk that rules will be shaped to favor industry interests rather than strictly protecting the broader public or investors."
+  },
+  {
+    "id": "econ-016",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "easy",
+    "question": "According to the theory of comparative advantage, why can two countries both benefit from trade even if one country is more efficient at producing every good?",
+    "options": [
+      "Each country should specialize in producing the good for which its opportunity cost is relatively lowest, and trade for the rest, generating overall gains",
+      "Trade only benefits the more efficient country, never the less efficient one",
+      "Comparative advantage requires that both countries be equally efficient at producing all goods",
+      "Gains from trade only occur when tariffs are applied to imports"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comparative advantage shows that mutual gains from trade arise from differences in relative opportunity costs, not absolute efficiency; each country benefits by specializing in what it produces at the lowest opportunity cost relative to its other production options, even if a trading partner is more efficient at producing everything."
+  },
+  {
+    "id": "econ-017",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "medium",
+    "question": "What is the key distinction between absolute advantage and comparative advantage?",
+    "options": [
+      "Absolute advantage refers to producing a good using fewer resources than another country, while comparative advantage refers to producing it at a lower opportunity cost",
+      "Absolute advantage and comparative advantage are simply two names for the same concept",
+      "Comparative advantage applies only to services, while absolute advantage applies only to goods",
+      "Absolute advantage requires trade restrictions to be effective"
+    ],
+    "correctIndex": 0,
+    "explanation": "Absolute advantage means a country can produce more of a good with the same resources than another country, while comparative advantage is about relative opportunity cost; a country can lack absolute advantage in everything yet still hold a comparative advantage in a specific good, which is the true basis for beneficial trade."
+  },
+  {
+    "id": "econ-018",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "medium",
+    "question": "Why do tariffs on imported goods tend to benefit domestic producers of the protected good at the expense of domestic consumers?",
+    "options": [
+      "Tariffs raise the price of the imported good, allowing domestic producers to sell more at higher prices, while consumers face higher prices and reduced choice",
+      "Tariffs always lower prices for both domestic producers and consumers",
+      "Tariffs have no impact on the domestic price of the protected good",
+      "Tariffs primarily benefit foreign exporters rather than domestic producers"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tariff raises the effective price of imported goods, which allows domestic producers of competing goods to sell more output at higher prices, but domestic consumers end up paying more and generally have less overall choice, creating a net welfare cost to the economy even though some domestic industries benefit."
+  },
+  {
+    "id": "econ-019",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "medium",
+    "question": "How does a quota differ from a tariff as a trade restriction?",
+    "options": [
+      "A quota directly limits the physical quantity of a good that can be imported, whereas a tariff raises the price of imports through a tax, indirectly affecting quantity",
+      "A quota and a tariff always produce identical effects on both price and quantity",
+      "A quota is a tax on exports, while a tariff is a tax on imports",
+      "A quota can only be applied to services, never to physical goods"
+    ],
+    "correctIndex": 0,
+    "explanation": "A quota is a direct restriction on the quantity of a good that may be imported, while a tariff works through the price mechanism by taxing imports; both can raise domestic prices and restrict trade, but they operate through different channels and can have different revenue and enforcement implications."
+  },
+  {
+    "id": "econ-020",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "medium",
+    "question": "What is the key difference between foreign direct investment (FDI) and portfolio investment as forms of international capital flow?",
+    "options": [
+      "FDI typically involves a lasting management interest and control in a foreign enterprise, while portfolio investment involves buying securities without seeking control",
+      "Portfolio investment always involves building a physical factory abroad",
+      "FDI and portfolio investment are simply two terms for the exact same type of capital flow",
+      "Portfolio investment cannot be reversed or sold, unlike FDI"
+    ],
+    "correctIndex": 0,
+    "explanation": "Foreign direct investment involves acquiring a lasting interest and typically some degree of control or influence over a foreign business, such as building or acquiring operations abroad, while portfolio investment refers to the purchase of foreign stocks or bonds purely for financial return, without seeking managerial control."
+  },
+  {
+    "id": "econ-021",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "hard",
+    "question": "Why must a country's current account deficit be offset by a capital and financial account surplus, in balance-of-payments terms?",
+    "options": [
+      "Because the balance of payments must sum to zero overall, so a country importing more than it exports must finance the gap by attracting net foreign capital inflows",
+      "Because current account deficits are illegal under international trade law",
+      "Because a current account deficit automatically causes hyperinflation",
+      "Because capital flows and trade flows are entirely unrelated by definition"
+    ],
+    "correctIndex": 0,
+    "explanation": "The balance of payments is an accounting identity: since the current account and the capital and financial account must sum to zero, a country running a current account deficit (importing more than it exports) must be attracting net capital inflows from abroad to finance that gap, such as foreign purchases of its assets."
+  },
+  {
+    "id": "econ-022",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "medium",
+    "question": "Why might a central bank intervene directly in the foreign exchange market by buying or selling its own currency?",
+    "options": [
+      "To influence the exchange rate in order to support export competitiveness, curb excessive volatility, or manage inflation pressures from currency swings",
+      "Because central banks are prohibited from ever holding foreign currency reserves",
+      "Because currency intervention has no effect on the exchange rate whatsoever",
+      "Because it is the only legal way for a central bank to set domestic interest rates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Central banks sometimes intervene directly in currency markets, buying or selling their own currency, to influence its value when they judge that excessive appreciation or depreciation threatens trade competitiveness, financial stability, or inflation objectives, though such intervention's effectiveness can be limited, especially against strong market forces."
+  },
+  {
+    "id": "econ-023",
+    "topic": "Economics",
+    "subtopic": "Exchange Rate Determination",
+    "difficulty": "hard",
+    "question": "What typically triggers a sudden currency crisis involving rapid capital flight from a country?",
+    "options": [
+      "A loss of investor confidence, often tied to unsustainable fiscal or current account deficits, that causes capital to flee quickly, sharply depreciating the currency",
+      "A steady, gradual increase in a country's foreign exchange reserves",
+      "A country's central bank raising interest rates to a level exactly matching global averages",
+      "A permanent fixed exchange rate that never faces any market pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Currency crises are often triggered when investors lose confidence in a country's ability to sustain its fiscal position, current account deficit, or fixed exchange rate regime, prompting rapid capital flight; this sudden reversal of capital flows can cause the currency to depreciate sharply and abruptly."
+  },
+  {
+    "id": "econ-024",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "medium",
+    "question": "What does an improvement in a country's terms of trade generally indicate?",
+    "options": [
+      "The country can now obtain more imported goods for a given quantity of its exports, reflecting rising export prices relative to import prices",
+      "The country's currency has become entirely non-convertible",
+      "The country is now running a fixed exchange rate regime",
+      "The country's trade with all partners has been legally banned"
+    ],
+    "correctIndex": 0,
+    "explanation": "Terms of trade compare the prices a country receives for its exports relative to the prices it pays for its imports; an improvement means export prices have risen relative to import prices, so the country can purchase more imports for the same quantity of exports, generally a favorable development for national income."
+  },
+  {
+    "id": "econ-025",
+    "topic": "Economics",
+    "subtopic": "International Trade",
+    "difficulty": "medium",
+    "question": "Why do economists generally argue that trade restrictions like tariffs create a net welfare loss for the economy as a whole, even though they help specific domestic industries?",
+    "options": [
+      "Because the losses to consumers and the economy's overall efficiency typically exceed the gains captured by the protected domestic producers",
+      "Because trade restrictions have no measurable effect on prices",
+      "Because tariffs eliminate all domestic production of the protected good",
+      "Because trade restrictions always increase a country's exports of every good"
+    ],
+    "correctIndex": 0,
+    "explanation": "While trade restrictions can benefit specific protected industries and their workers, the higher prices and reduced choice imposed on consumers, along with the loss of efficiency gains from specialization based on comparative advantage, generally outweigh those gains, resulting in a net loss to overall economic welfare."
+  }
+]
