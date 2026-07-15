@@ -4,374 +4,374 @@
     "topic": "Fixed Income",
     "subtopic": "Term Structure of Interest Rates",
     "difficulty": "easy",
-    "question": "Under the pure expectations theory of the term structure, what does an upward-sloping yield curve imply?",
+    "question": "Under pure expectations theory, what does an upward-sloping yield curve imply?",
     "options": [
-      "Investors expect short-term interest rates to rise in the future",
-      "Investors expect short-term interest rates to fall in the future",
-      "Long-term bonds are less liquid than short-term bonds",
-      "The central bank is about to cut its policy rate"
+      "Short-term rates are expected to rise",
+      "Short-term rates are expected to fall",
+      "Long bonds are less liquid than short ones",
+      "The central bank is about to cut rates"
     ],
     "correctIndex": 0,
-    "explanation": "Under pure expectations theory, long-term rates are simply an average of expected future short-term rates, so an upward slope signals the market expects short rates to increase going forward."
+    "explanation": "Under pure expectations theory, long rates average expected future short rates, so an upward slope signals the market expects short rates to rise."
   },
   {
     "id": "fi-002",
     "topic": "Fixed Income",
     "subtopic": "Term Structure of Interest Rates",
     "difficulty": "medium",
-    "question": "How does the liquidity preference theory explain why yield curves tend to slope upward even when short-term rates are not expected to rise?",
+    "question": "How does liquidity preference theory explain upward-sloping curves?",
     "options": [
-      "It argues investors are indifferent between short- and long-term bonds",
-      "It argues investors require a term premium for holding longer-maturity bonds because of the greater price risk from interest rate changes, independent of rate expectations",
-      "It argues long-term bonds always default before short-term bonds",
-      "It argues central banks set long-term rates directly"
+      "Investors are indifferent across maturities",
+      "Investors need a premium for rate risk",
+      "Long bonds always default first",
+      "Central banks set long rates directly"
     ],
     "correctIndex": 1,
-    "explanation": "Liquidity preference theory adds a premium to compensate investors for the added interest rate risk and reduced liquidity of longer maturities, which can produce an upward slope even absent any expectation of rising rates."
+    "explanation": "Liquidity preference theory adds a premium to compensate investors for the added rate risk and lower liquidity of longer maturities, which can lift the curve even without rising-rate expectations."
   },
   {
     "id": "fi-003",
     "topic": "Fixed Income",
     "subtopic": "Term Structure of Interest Rates",
     "difficulty": "medium",
-    "question": "What is the core idea behind the market segmentation (preferred habitat) theory of the yield curve?",
+    "question": "What is the core idea of the market segmentation (preferred habitat) theory?",
     "options": [
-      "All investors freely substitute across maturities based only on expected returns",
-      "Different investor groups have preferred maturity ranges driven by their liabilities, so supply and demand within each maturity segment can set yields somewhat independently of other segments",
-      "Yields are identical across all maturities by definition",
-      "The yield curve is determined solely by expected inflation"
+      "Investors freely substitute across maturities",
+      "Investor groups prefer specific maturity ranges",
+      "Yields are identical across all maturities",
+      "The curve depends only on inflation"
     ],
     "correctIndex": 1,
-    "explanation": "Market segmentation theory holds that institutions like pension funds or banks have maturity preferences tied to their liabilities, so yields in each maturity segment are shaped by the specific supply and demand there rather than a single unified expectation."
+    "explanation": "Market segmentation holds that institutions like pension funds have maturity preferences tied to their liabilities, so supply and demand within each segment shapes its yields."
   },
   {
     "id": "fi-004",
     "topic": "Fixed Income",
     "subtopic": "Term Structure of Interest Rates",
     "difficulty": "medium",
-    "question": "Why might the yield curve 'twist' (short and long rates move in opposite directions) rather than shift in parallel after a central bank policy announcement?",
+    "question": "Why might the yield curve 'twist' instead of shifting in parallel?",
     "options": [
       "Twists never happen in practice",
-      "Short-term rates react most directly to the current policy rate, while long-term rates respond more to shifting growth and inflation expectations, so the two ends can move differently",
-      "All yields across maturities are contractually fixed together",
-      "Twists only occur when the central bank changes reserve requirements"
+      "Short and long ends react to different drivers",
+      "All yields are contractually linked",
+      "Twists need a change in reserve rules"
     ],
     "correctIndex": 1,
-    "explanation": "Because policy rate changes have the most direct grip on the short end while the long end reflects expectations about future growth and inflation over many years, the curve can flatten, steepen, or twist rather than move uniformly."
+    "explanation": "Short rates react most directly to policy, while long rates reflect growth and inflation expectations, so the curve can flatten, steepen, or twist rather than move uniformly."
   },
   {
     "id": "fi-005",
     "topic": "Fixed Income",
     "subtopic": "Term Structure of Interest Rates",
     "difficulty": "hard",
-    "question": "Why is an inverted yield curve (short-term yields above long-term yields) often interpreted as a signal of a future economic slowdown?",
+    "question": "Why does an inverted yield curve often signal a coming slowdown?",
     "options": [
-      "It signals that inflation is permanently and irreversibly rising",
-      "It suggests the market expects the central bank to cut policy rates in the future in response to weaker growth, pulling expected future short rates, and thus long-term yields, below current short rates",
-      "It means long-term bonds have become riskless",
-      "It has no relationship to growth or monetary policy expectations"
+      "It signals permanently rising inflation",
+      "It implies expected future rate cuts",
+      "It means long bonds are riskless",
+      "It has no link to growth expectations"
     ],
     "correctIndex": 1,
-    "explanation": "An inversion often reflects the market pricing in future rate cuts as the central bank responds to an anticipated growth slowdown, which pulls down the expected path of future short rates embedded in longer-term yields."
+    "explanation": "An inversion often reflects the market pricing in future rate cuts as the central bank responds to an expected slowdown, pulling down long-term yields."
   },
   {
     "id": "fi-006",
     "topic": "Fixed Income",
     "subtopic": "Credit Analysis",
     "difficulty": "medium",
-    "question": "A corporate bond trades at a yield spread above a government bond of the same maturity. What does this credit spread primarily compensate investors for?",
+    "question": "What does a corporate bond's credit spread over Treasuries mainly compensate for?",
     "options": [
-      "Only the risk of the coupon being paid late",
-      "The risk of default, uncertainty about the recovery in default, and reduced liquidity relative to the government benchmark",
-      "The tax treatment of government bonds",
-      "The currency in which the bond is denominated"
+      "Only late coupon payment risk",
+      "Default risk, recovery risk, low liquidity",
+      "Tax treatment of government bonds",
+      "The bond's currency of denomination"
     ],
     "correctIndex": 1,
-    "explanation": "The credit spread bundles compensation for expected credit losses, the uncertainty around those losses, and typically lower liquidity compared to benchmark government securities."
+    "explanation": "The credit spread bundles compensation for expected credit losses, uncertainty about those losses, and typically lower liquidity than government benchmarks."
   },
   {
     "id": "fi-007",
     "topic": "Fixed Income",
     "subtopic": "Credit Analysis",
     "difficulty": "hard",
-    "question": "In structural credit risk models (in the tradition of Merton), how is a firm's default conceptually modeled?",
+    "question": "In Merton-style structural credit models, how is default conceptually modeled?",
     "options": [
-      "Default is treated as a purely random event unrelated to the firm's balance sheet",
-      "Default occurs when the value of the firm's assets falls below the value of its liabilities, framing equity as analogous to a call option on the firm's assets",
-      "Default is modeled only using historical bond price data",
-      "Default probability is assumed to be constant over time regardless of firm fundamentals"
+      "As a purely random event",
+      "Equity acts like a call option on firm assets",
+      "Using only historical bond prices",
+      "As a constant probability over time"
     ],
     "correctIndex": 1,
-    "explanation": "Structural models link default directly to the firm's capital structure, treating equity holders as owning a call option on the firm's assets with a strike price equal to the debt obligation, so default happens when asset value drops below that liability threshold."
+    "explanation": "Structural models link default to capital structure, treating equity as a call option on firm assets with a strike equal to debt, so default occurs when asset value drops below it."
   },
   {
     "id": "fi-008",
     "topic": "Fixed Income",
     "subtopic": "Credit Analysis",
     "difficulty": "medium",
-    "question": "How do reduced-form credit models differ conceptually from structural models in how they treat default?",
+    "question": "How do reduced-form models differ from structural models on default?",
     "options": [
-      "Reduced-form models treat default as an exogenous, statistically modeled event with an estimated probability, rather than deriving it explicitly from the firm's asset value process",
-      "Reduced-form models require detailed knowledge of the firm's exact asset value at all times",
-      "Reduced-form models assume default can never occur",
-      "Reduced-form and structural models always produce identical default probabilities"
+      "They treat default as an exogenous, modeled event",
+      "They require exact knowledge of asset value",
+      "They assume default can never occur",
+      "They always match structural model outputs"
     ],
     "correctIndex": 0,
-    "explanation": "Rather than modeling the firm's asset value falling below liabilities, reduced-form models treat default as a jump process calibrated to observed market data such as bond spreads, without needing to fully specify the firm's underlying asset dynamics."
+    "explanation": "Rather than modeling asset value falling below liabilities, reduced-form models treat default as a jump process calibrated to market data like bond spreads."
   },
   {
     "id": "fi-009",
     "topic": "Fixed Income",
     "subtopic": "Credit Analysis",
     "difficulty": "easy",
-    "question": "In a bankruptcy proceeding, why do holders of senior secured debt typically recover more than holders of subordinated unsecured debt?",
+    "question": "Why do senior secured bondholders recover more in bankruptcy?",
     "options": [
-      "Senior secured debt has a longer maturity",
-      "Senior secured creditors have a legal claim on specific collateral and are paid before subordinated creditors in the priority of claims",
-      "Subordinated debt always has a lower coupon rate",
-      "Seniority has no impact on recovery, only on coupon rate"
+      "Senior debt has a longer maturity",
+      "They have collateral claims and priority",
+      "Subordinated debt always has lower coupons",
+      "Seniority affects coupon, not recovery"
     ],
     "correctIndex": 1,
-    "explanation": "The priority of claims (seniority ranking) determines the order in which creditors are paid from a bankrupt firm's assets, so secured senior creditors with collateral claims are satisfied first, leaving less, if anything, for subordinated creditors."
+    "explanation": "Priority of claims determines payment order in bankruptcy, so secured senior creditors are paid first, leaving less for subordinated creditors."
   },
   {
     "id": "fi-010",
     "topic": "Fixed Income",
     "subtopic": "Credit Analysis",
     "difficulty": "medium",
-    "question": "Why can recovery rates on defaulted bonds of the same seniority vary significantly across different economic cycles?",
+    "question": "Why can recovery rates vary across economic cycles for similar bonds?",
     "options": [
-      "Recovery rates are fixed by bond covenants regardless of conditions",
-      "During broad economic downturns, more firms default simultaneously and the assets available for liquidation (e.g., distressed collateral) tend to fetch lower prices, reducing recovery rates industry-wide",
-      "Recovery rates depend only on the bond's original issue price",
-      "Recovery rates are unrelated to the state of the economy"
+      "Recovery is fixed by bond covenants",
+      "Downturns bring more defaults, lower asset prices",
+      "Recovery depends only on issue price",
+      "Recovery is unrelated to the economy"
     ],
     "correctIndex": 1,
-    "explanation": "In systemic downturns, many defaults occur together and buyers for distressed assets are scarcer, so collateral and business value recovered in bankruptcy tend to be lower than during periods of isolated, idiosyncratic defaults."
+    "explanation": "In systemic downturns, many defaults occur together and buyers for distressed assets are scarce, so recovered value tends to be lower than in isolated defaults."
   },
   {
     "id": "fi-011",
     "topic": "Fixed Income",
     "subtopic": "Bonds with Embedded Options",
     "difficulty": "hard",
-    "question": "Why does a callable bond exhibit negative convexity when market yields fall to low levels?",
+    "question": "Why does a callable bond show negative convexity at low yields?",
     "options": [
-      "Because the issuer's credit quality always deteriorates when rates fall",
-      "Because the issuer becomes more likely to call the bond and refinance at the lower rate, which caps the bond's price appreciation as yields decline further",
-      "Because the coupon rate automatically resets downward",
-      "Because callable bonds have longer duration than option-free bonds at all yield levels"
+      "The issuer's credit always worsens then",
+      "The call becomes likely, capping price gains",
+      "The coupon automatically resets down",
+      "Callable bonds always have longer duration"
     ],
     "correctIndex": 1,
-    "explanation": "As yields fall, the call option becomes more valuable to the issuer, and the bond's price gets capped near the call price since investors know it is increasingly likely to be called away, producing the price-compression pattern known as negative convexity."
+    "explanation": "As yields fall, the call option grows more valuable to the issuer, capping the bond's price near the call price since it's increasingly likely to be called away."
   },
   {
     "id": "fi-012",
     "topic": "Fixed Income",
     "subtopic": "Bonds with Embedded Options",
     "difficulty": "medium",
-    "question": "How does a putable bond's price behavior differ from an option-free bond's when yields rise sharply?",
+    "question": "How does a putable bond behave differently when yields rise sharply?",
     "options": [
-      "A putable bond's price falls without limit, just like an option-free bond",
-      "A putable bond's price decline is cushioned because the investor's right to sell it back to the issuer at a set price puts a floor under its value",
-      "Putable bonds cannot be sold before maturity under any circumstances",
-      "A putable bond's coupon increases automatically when yields rise"
+      "Its price falls without limit",
+      "The put option floors its price decline",
+      "It cannot be sold before maturity",
+      "Its coupon rises automatically"
     ],
     "correctIndex": 1,
-    "explanation": "The embedded put option gives the bondholder the right to sell the bond back at a predetermined price, which limits downside price risk when rates rise, unlike an option-free bond whose price has no such floor."
+    "explanation": "The embedded put lets the holder sell the bond back at a set price, limiting downside when rates rise, unlike an option-free bond."
   },
   {
     "id": "fi-013",
     "topic": "Fixed Income",
     "subtopic": "Bonds with Embedded Options",
     "difficulty": "medium",
-    "question": "From the issuer's perspective, why is a callable bond most likely to be called after a significant decline in market interest rates?",
+    "question": "Why is a callable bond likely called after rates fall sharply?",
     "options": [
-      "Because calling the bond has no cost to the issuer",
-      "Because the issuer can retire the higher-coupon debt and refinance at the new, lower prevailing rate, reducing its future interest expense",
-      "Because bond covenants require calling whenever rates change",
-      "Because rating agencies mandate the call"
+      "Calling the bond costs the issuer nothing",
+      "The issuer can refinance at the new lower rate",
+      "Covenants require a call when rates change",
+      "Rating agencies mandate the call"
     ],
     "correctIndex": 1,
-    "explanation": "When rates fall well below the bond's coupon, the issuer benefits from exercising the call and issuing new debt at the lower market rate, which is the same economic logic as a homeowner refinancing a mortgage."
+    "explanation": "When rates fall well below the coupon, the issuer benefits from calling and refinancing at the lower rate, similar to a homeowner refinancing a mortgage."
   },
   {
     "id": "fi-014",
     "topic": "Fixed Income",
     "subtopic": "Bonds with Embedded Options",
     "difficulty": "medium",
-    "question": "Why is effective duration a more appropriate risk measure than modified duration for a bond with an embedded call option?",
+    "question": "Why is effective duration better than modified duration for callable bonds?",
     "options": [
-      "Modified duration and effective duration are always numerically identical for callable bonds",
-      "Effective duration accounts for how expected cash flows can change as yields move (since the call becomes more likely at lower yields), while modified duration assumes fixed cash flows regardless of yield changes",
-      "Effective duration ignores the impact of interest rate changes entirely",
-      "Modified duration only applies to bonds with embedded options"
+      "They're always numerically identical",
+      "It accounts for cash flows changing with yields",
+      "It ignores rate changes entirely",
+      "Modified duration only fits callable bonds"
     ],
     "correctIndex": 1,
-    "explanation": "Modified duration assumes the bond's cash flows stay fixed as yields change, which is invalid once a call (or put) option can alter those cash flows, so effective duration, which incorporates how the option-adjusted price responds to yield changes, is the appropriate measure."
+    "explanation": "Modified duration assumes fixed cash flows, which fails once a call can alter them, so effective duration, which captures option-adjusted price response, is more appropriate."
   },
   {
     "id": "fi-015",
     "topic": "Fixed Income",
     "subtopic": "Bonds with Embedded Options",
     "difficulty": "hard",
-    "question": "Why does a callable bond's effective duration tend to shrink as market yields fall toward and below the bond's coupon rate?",
+    "question": "Why does a callable bond's effective duration shrink as yields fall?",
     "options": [
-      "Because the bond's maturity date is automatically shortened by regulation",
-      "Because the increasing likelihood of the bond being called means its expected remaining cash flows behave more like those of a short-maturity instrument, reducing its interest rate sensitivity",
-      "Because falling yields always increase a bond's duration",
-      "Because the coupon rate rises automatically as yields fall"
+      "Maturity is automatically shortened by rule",
+      "A likely call shortens its expected life",
+      "Falling yields always raise duration",
+      "The coupon rate rises as yields fall"
     ],
     "correctIndex": 1,
-    "explanation": "As the call becomes more likely to be exercised, the bond's price becomes anchored near the call price and its expected life shortens, so its sensitivity to further yield declines diminishes, which is exactly what a falling effective duration captures."
+    "explanation": "As a call becomes more likely, the bond's price anchors near the call price and its expected life shortens, reducing sensitivity to further yield declines."
   },
   {
     "id": "fi-016",
     "topic": "Fixed Income",
     "subtopic": "Securitization and ABS/MBS",
     "difficulty": "medium",
-    "question": "In a securitization, why does tranching a pool of loans into senior and subordinated classes create different risk-return profiles for investors?",
+    "question": "Why does tranching create different risk profiles in a securitization?",
     "options": [
-      "All tranches share losses equally regardless of seniority",
-      "Losses from the underlying loan pool are absorbed first by subordinated (junior) tranches, insulating senior tranches from all but the most severe losses, so senior tranches carry less credit risk than junior tranches",
-      "Tranching has no effect on how cash flows or losses are distributed",
-      "Senior tranches are always paid after subordinated tranches"
+      "All tranches share losses equally",
+      "Junior tranches absorb losses first",
+      "Tranching doesn't affect loss distribution",
+      "Senior tranches are paid after junior ones"
     ],
     "correctIndex": 1,
-    "explanation": "The waterfall structure directs losses to the lowest, most subordinated tranches first, which shields senior tranches from moderate levels of default, letting the same pool of loans support securities with very different risk levels."
+    "explanation": "The payment waterfall directs losses to the most subordinated tranches first, shielding senior tranches from all but the most severe losses."
   },
   {
     "id": "fi-017",
     "topic": "Fixed Income",
     "subtopic": "Securitization and ABS/MBS",
     "difficulty": "hard",
-    "question": "Beyond diversifying risk across investors, why can securitization change the underlying risk of the loans themselves through originator incentives?",
+    "question": "How can securitization weaken originators' loan underwriting incentives?",
     "options": [
-      "Securitization eliminates all risk from the underlying loans",
-      "When originators sell loans off their balance sheet shortly after origination, they bear less of the consequences of poor underwriting, which can weaken their incentive to screen borrowers carefully (a moral hazard effect)",
-      "Securitization requires originators to retain 100% of every loan they make",
-      "Securitization has no effect on loan origination standards"
+      "Securitization removes all loan risk",
+      "Selling loans off quickly reduces originator risk",
+      "Originators must retain every loan",
+      "It has no effect on underwriting standards"
     ],
     "correctIndex": 1,
-    "explanation": "Because the originator can pass credit risk on to securitization investors, its financial stake in the ultimate performance of the loans is reduced, which can loosen underwriting discipline unless risk-retention rules or other safeguards counteract that incentive."
+    "explanation": "When originators sell loans off soon after origination, they bear less consequence for poor underwriting, weakening screening incentives (moral hazard)."
   },
   {
     "id": "fi-018",
     "topic": "Fixed Income",
     "subtopic": "Securitization and ABS/MBS",
     "difficulty": "hard",
-    "question": "Why do mortgage-backed securities exhibit negative convexity, similar in spirit to callable bonds?",
+    "question": "Why do mortgage-backed securities show negative convexity?",
     "options": [
-      "Because mortgage borrowers are contractually forbidden from prepaying",
-      "Because homeowners tend to refinance and prepay their mortgages when rates fall, capping the price appreciation of the MBS just as a call option caps a callable bond's price",
-      "Because MBS have no embedded optionality at all",
-      "Because MBS always default when rates fall"
+      "Borrowers are forbidden from prepaying",
+      "Refinancing when rates fall caps price gains",
+      "MBS have no embedded optionality",
+      "MBS always default when rates fall"
     ],
     "correctIndex": 1,
-    "explanation": "Falling rates increase homeowners' incentive to refinance, accelerating prepayments and returning principal early, which limits how much the security's price can rise, the same negative-convexity dynamic seen in callable corporate bonds."
+    "explanation": "Falling rates increase homeowners' incentive to refinance, accelerating prepayments and capping price gains, the same dynamic seen in callable bonds."
   },
   {
     "id": "fi-019",
     "topic": "Fixed Income",
     "subtopic": "Securitization and ABS/MBS",
     "difficulty": "medium",
-    "question": "Why do investors in mortgage-backed securities typically demand a yield premium over comparable-maturity government bonds?",
+    "question": "Why do MBS investors demand a yield premium over government bonds?",
     "options": [
-      "Because MBS have a guaranteed fixed maturity date with no uncertainty",
-      "Because MBS carry prepayment risk (uncertain timing of principal return when rates fall) and extension risk (slower prepayments when rates rise), both of which complicate cash flow forecasting",
-      "Because MBS have no credit or structural risk of any kind",
-      "Because government bonds cannot be purchased by most investors"
+      "MBS have a guaranteed fixed maturity",
+      "Prepayment and extension risk complicate flows",
+      "MBS carry no credit or structural risk",
+      "Government bonds can't be bought by most"
     ],
     "correctIndex": 1,
-    "explanation": "The uncertain timing of prepayments, faster when rates fall and slower when rates rise, makes MBS cash flows harder to predict than a government bond's fixed schedule, so investors require extra yield to compensate for that timing uncertainty."
+    "explanation": "Uncertain prepayment timing, faster when rates fall, slower when they rise, makes MBS cash flows harder to predict than a government bond's fixed schedule."
   },
   {
     "id": "fi-020",
     "topic": "Fixed Income",
     "subtopic": "Securitization and ABS/MBS",
     "difficulty": "easy",
-    "question": "What is the main purpose of credit enhancement mechanisms, such as overcollateralization, in an asset-backed security structure?",
+    "question": "What is the main purpose of credit enhancement in an ABS structure?",
     "options": [
-      "To increase the yield paid to junior tranche investors",
-      "To provide an extra cushion of collateral or cash flow above what is needed to pay investors, absorbing losses before they reach the rated tranches",
-      "To eliminate the need for a securitization trustee",
-      "To guarantee the underlying loans will never default"
+      "To raise yield paid to junior tranches",
+      "To cushion losses before they hit rated tranches",
+      "To remove the need for a trustee",
+      "To guarantee loans never default"
     ],
     "correctIndex": 1,
-    "explanation": "Overcollateralization and similar credit enhancements provide a buffer of extra assets or cash flow so that a certain level of losses in the underlying pool can be absorbed without impairing payments to the rated securities."
+    "explanation": "Overcollateralization and similar enhancements provide a buffer so a certain level of pool losses can be absorbed without hurting payments to rated securities."
   },
   {
     "id": "fi-021",
     "topic": "Fixed Income",
     "subtopic": "Fixed Income Portfolio Management",
     "difficulty": "medium",
-    "question": "A portfolio manager concentrates bond holdings around a single maturity point close to a known future liability date. What strategy is this, and why is it used?",
+    "question": "A manager clusters bonds near one future liability date. What strategy is this?",
     "options": [
-      "A barbell strategy, used to maximize convexity",
-      "A bullet strategy, used to closely match the timing of a specific future cash flow obligation",
-      "A ladder strategy, used to minimize reinvestment risk across many maturities",
-      "A butterfly strategy, used to speculate on yield curve curvature"
+      "A barbell strategy, to maximize convexity",
+      "A bullet strategy, to match the liability date",
+      "A ladder strategy, across many maturities",
+      "A butterfly strategy, on curve curvature"
     ],
     "correctIndex": 1,
-    "explanation": "A bullet strategy clusters maturities around one target date, which is well suited to funding a single known liability since the portfolio's cash flows line up closely with when the money is needed."
+    "explanation": "A bullet strategy clusters maturities around one target date, well suited to funding a single known liability with matching cash flows."
   },
   {
     "id": "fi-022",
     "topic": "Fixed Income",
     "subtopic": "Fixed Income Portfolio Management",
     "difficulty": "medium",
-    "question": "How does a barbell strategy (combining only short- and long-maturity bonds, with nothing in between) typically compare to a bullet strategy of similar duration in terms of convexity?",
+    "question": "How does a barbell strategy's convexity compare to a same-duration bullet?",
     "options": [
-      "The barbell has lower convexity than the bullet",
-      "The barbell generally has higher convexity than a bullet portfolio of the same duration, because combining widely dispersed maturities increases the dispersion of cash flows",
-      "Convexity is identical for barbell and bullet portfolios by definition",
-      "Barbell portfolios cannot be constructed to match a target duration"
+      "The barbell has lower convexity",
+      "The barbell has higher convexity",
+      "Convexity is identical by definition",
+      "Barbells can't match a target duration"
     ],
     "correctIndex": 1,
-    "explanation": "Spreading cash flows to the far ends of the maturity spectrum increases the dispersion of cash flows around the portfolio's duration, which raises convexity relative to a more concentrated bullet portfolio of the same duration."
+    "explanation": "Spreading cash flows to far ends of the maturity range increases dispersion around the portfolio's duration, raising convexity versus a concentrated bullet."
   },
   {
     "id": "fi-023",
     "topic": "Fixed Income",
     "subtopic": "Fixed Income Portfolio Management",
     "difficulty": "medium",
-    "question": "What is the main benefit of a laddered bond portfolio, where holdings are staggered evenly across many maturities?",
+    "question": "What is the main benefit of a laddered bond portfolio?",
     "options": [
-      "It guarantees the highest possible yield in every interest rate environment",
-      "It reduces reinvestment risk and interest rate timing risk by spreading maturities out, so only a portion of the portfolio needs reinvesting at any single point in the rate cycle",
-      "It eliminates all credit risk in the portfolio",
-      "It requires the manager to never rebalance the portfolio"
+      "It guarantees the highest yield always",
+      "It reduces reinvestment and timing risk",
+      "It eliminates all credit risk",
+      "It means the manager never rebalances"
     ],
     "correctIndex": 1,
-    "explanation": "Because maturities are spread evenly over time, only a fraction of the ladder matures and needs reinvestment at any given point, which smooths out the impact of reinvesting into any single, possibly unfavorable, rate environment."
+    "explanation": "Because maturities are spread evenly, only a fraction matures at any point, smoothing the impact of reinvesting into any single rate environment."
   },
   {
     "id": "fi-024",
     "topic": "Fixed Income",
     "subtopic": "Fixed Income Portfolio Management",
     "difficulty": "hard",
-    "question": "In a classical immunization strategy, why is matching the duration of assets to the duration of liabilities so important?",
+    "question": "In classical immunization, why match asset and liability duration?",
     "options": [
-      "Duration matching guarantees the portfolio will outperform the market",
-      "Matching durations makes the price sensitivity of assets and liabilities to parallel interest rate changes roughly offset, so the portfolio's ability to meet the liability is protected against those rate moves",
-      "Duration matching eliminates the need to consider credit risk",
-      "Duration has no relationship to a portfolio's sensitivity to rate changes"
+      "It guarantees the portfolio beats the market",
+      "It offsets both to parallel rate changes",
+      "It removes the need to consider credit risk",
+      "Duration has no link to rate sensitivity"
     ],
     "correctIndex": 1,
-    "explanation": "Because duration approximates price sensitivity to interest rate changes, setting asset duration equal to liability duration means that a parallel shift in rates changes the value of assets and liabilities by similar amounts, helping ensure the liability can still be met regardless of the rate move's direction."
+    "explanation": "Duration approximates price sensitivity to rate changes, so matching asset and liability duration means a parallel rate shift affects both similarly, protecting the ability to meet the liability."
   },
   {
     "id": "fi-025",
     "topic": "Fixed Income",
     "subtopic": "Fixed Income Portfolio Management",
     "difficulty": "hard",
-    "question": "Why might a manager choose a barbell strategy over a bullet strategy even when both are constructed to have the same portfolio duration?",
+    "question": "Why pick a barbell over a bullet strategy at the same duration?",
     "options": [
-      "Because the barbell's higher convexity can provide better performance for large interest rate moves, at the potential cost of underperforming the bullet if the yield curve twists unfavorably",
-      "Because the bullet strategy always has higher convexity",
-      "Because duration no longer matters once convexity is considered",
-      "Because a barbell strategy cannot be duration-matched to a bullet strategy"
+      "Higher convexity helps for large rate moves",
+      "The bullet always has higher convexity",
+      "Duration no longer matters with convexity",
+      "A barbell can't match a bullet's duration"
     ],
     "correctIndex": 0,
-    "explanation": "With equal duration, the barbell's greater convexity tends to help more for large parallel rate moves, but the two strategies react differently to changes in the curve's shape, such as a twist, so the choice depends on the manager's rate-change and curve-shape views."
+    "explanation": "With equal duration, the barbell's greater convexity tends to help for large parallel rate moves, but the two react differently to curve shape changes like twists."
   }
 ]

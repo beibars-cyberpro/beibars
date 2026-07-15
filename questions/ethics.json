@@ -4,374 +4,374 @@
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Clients",
     "difficulty": "easy",
-    "question": "Under the Standard on Loyalty, Prudence, and Care, whose interests must a portfolio manager place above all others when managing a client's account?",
+    "question": "Under Loyalty, Prudence, and Care, whose interests come first?",
     "options": [
-      "The manager's own firm's profitability",
+      "The manager's own firm's profit",
       "The client's interests",
-      "The interests of the manager's largest clients only",
-      "The interests of the manager's referral sources"
+      "Only the largest clients' interests",
+      "The interests of referral sources"
     ],
     "correctIndex": 1,
-    "explanation": "The duty of loyalty, prudence, and care requires members and candidates to act for the benefit of their clients and place client interests before their employer's or their own."
+    "explanation": "The duty of loyalty, prudence, and care requires members to act for clients' benefit, placing client interests above their own or their employer's."
   },
   {
     "id": "eth-002",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Clients",
     "difficulty": "medium",
-    "question": "Why does the Standard on Suitability require a member to understand a client's full financial situation before making an investment recommendation?",
+    "question": "Why must a member know a client's full situation before recommending?",
     "options": [
-      "So a single recommendation can be judged as appropriate only in the context of the client's overall objectives, risk tolerance, and constraints",
-      "Because every client must receive identical recommendations",
-      "Because suitability only matters for retirement accounts",
-      "So the member can recommend the highest-fee products available"
+      "Suitability depends on full context",
+      "Every client needs identical advice",
+      "Suitability only matters for retirement accounts",
+      "So the highest-fee product can be pushed"
     ],
     "correctIndex": 0,
-    "explanation": "A recommendation that looks reasonable in isolation may be inappropriate once the client's full circumstances, such as risk tolerance, time horizon, and existing holdings, are considered, which is why suitability is assessed in that broader context."
+    "explanation": "A recommendation that looks fine alone may be wrong once risk tolerance, time horizon, and holdings are considered, hence the full-context standard."
   },
   {
     "id": "eth-003",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Clients",
     "difficulty": "hard",
-    "question": "A manager oversees a pooled fund with many investors holding different risk tolerances. How should the manager apply the suitability requirement in this context?",
+    "question": "How should suitability apply to a pooled fund with varied investors?",
     "options": [
-      "Suitability does not apply to pooled funds",
-      "The manager should ensure the fund's stated mandate and strategy are suitable for the fund as a whole and clearly disclosed so investors can judge fit for their own circumstances",
-      "The manager must call each investor individually before every trade",
-      "The manager should tailor each trade to the most conservative investor only"
+      "Suitability doesn't apply to pooled funds",
+      "Judge it against the fund's disclosed mandate",
+      "Call each investor before every trade",
+      "Tailor trades to the most conservative investor"
     ],
     "correctIndex": 1,
-    "explanation": "For pooled vehicles, suitability is generally assessed against the fund's disclosed mandate rather than each individual investor, so clear, accurate disclosure of the strategy is essential to letting investors self-select appropriately."
+    "explanation": "For pooled vehicles, suitability is judged against the fund's stated mandate, so clear disclosure lets investors judge fit for themselves."
   },
   {
     "id": "eth-004",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Clients",
     "difficulty": "medium",
-    "question": "What does the duty of prudence require of an investment manager beyond simply avoiding fraud?",
+    "question": "What does prudence require beyond simply avoiding fraud?",
     "options": [
-      "Exercising the care, skill, and diligence that a reasonable, knowledgeable professional would use under similar circumstances",
-      "Guaranteeing a minimum investment return",
+      "Care, skill, and diligence of a reasonable pro",
+      "Guaranteeing a minimum return",
       "Avoiding all risk entirely",
-      "Only following client instructions without independent judgment"
+      "Following instructions with no judgment"
     ],
     "correctIndex": 0,
-    "explanation": "Prudence is a standard of diligent, skillful conduct benchmarked against what a reasonable professional would do, not a guarantee of outcomes."
+    "explanation": "Prudence is a standard of diligent, skillful conduct benchmarked against a reasonable professional, not a guarantee of outcomes."
   },
   {
     "id": "eth-005",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Clients",
     "difficulty": "easy",
-    "question": "Why must members and candidates deal fairly and objectively with all clients when disseminating investment recommendations or changes?",
+    "question": "Why must members deal fairly when sharing recommendations?",
     "options": [
-      "So that no client group receives systematically preferential treatment or timing advantages over others",
-      "Because only the largest clients need to be informed",
-      "Because fairness rules only apply to public companies",
-      "Because it is optional unless requested by a client"
+      "So no client gets preferential timing",
+      "Only large clients need to be informed",
+      "Fairness rules apply only to public firms",
+      "It's optional unless a client asks"
     ],
     "correctIndex": 0,
-    "explanation": "The fair dealing standard is meant to prevent favoritism, such as informing some clients of a recommendation change before others, which could disadvantage clients who receive the information later."
+    "explanation": "Fair dealing prevents favoritism, such as telling some clients about a change before others, which could disadvantage late recipients."
   },
   {
     "id": "eth-006",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Clients",
     "difficulty": "medium",
-    "question": "A client explicitly instructs a manager to concentrate the portfolio in a single speculative stock, against the manager's professional judgment. What is the best course of action consistent with the duty of loyalty, prudence, and care?",
+    "question": "A client demands a risky, concentrated bet against your advice. Best action?",
     "options": [
-      "Refuse to act and terminate the relationship immediately without discussion",
-      "Follow the instruction without comment since the client directed it",
-      "Discuss the risks and inconsistency with sound investment practice, document the conversation, and only proceed if still appropriate given full disclosure and the client's informed consent",
-      "Secretly diversify the portfolio without informing the client"
+      "Refuse and end the relationship at once",
+      "Follow the instruction without comment",
+      "Explain risks and proceed with informed consent",
+      "Secretly diversify without telling client"
     ],
     "correctIndex": 2,
-    "explanation": "Members should not blindly follow instructions that conflict with prudent practice; instead they should clearly communicate the risks and ensure the client's decision is informed, while respecting a client's authority over their own account within reasonable bounds."
+    "explanation": "Members shouldn't blindly follow instructions conflicting with prudent practice; instead, clearly explain risks and ensure the client's decision is informed."
   },
   {
     "id": "eth-007",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Employers",
     "difficulty": "easy",
-    "question": "What is the primary purpose of the Standard on Loyalty to Employer?",
+    "question": "What's the primary purpose of the Standard on Loyalty to Employer?",
     "options": [
-      "To require employees to place their employer's interests above their own in matters related to their employment, absent legal or ethical override",
-      "To prevent employees from ever leaving their job",
-      "To require public disclosure of all salaries",
-      "To mandate that employees invest personally in their employer's stock"
+      "Put employer's interests above one's own",
+      "Prevent employees from ever quitting",
+      "Require public disclosure of salaries",
+      "Mandate investing in employer stock"
     ],
     "correctIndex": 0,
-    "explanation": "The duty of loyalty to employer means members should not act in ways that harm their employer's legitimate business interests while employed there, such as misappropriating clients or confidential information, though it does not override legal or ethical obligations."
+    "explanation": "Loyalty to employer means not acting against its legitimate business interests while employed, such as misusing clients or confidential data, though it never overrides legal or ethical duties."
   },
   {
     "id": "eth-008",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Employers",
     "difficulty": "medium",
-    "question": "Why does the Standard on additional compensation arrangements require members to obtain written consent from their employer before accepting compensation from a client beyond what the employer provides?",
+    "question": "Why get employer consent before accepting extra client pay?",
     "options": [
-      "Because such arrangements could create a conflict of interest or incentive that compromises objectivity toward the employer's other clients",
-      "Because extra compensation from clients is always illegal",
-      "Because employers automatically receive a share of any bonus",
-      "Because clients are prohibited from ever paying performance fees"
+      "It could bias objectivity toward other clients",
+      "Extra client compensation is always illegal",
+      "Employers get a share of any bonus",
+      "Clients can't ever pay performance fees"
     ],
     "correctIndex": 0,
-    "explanation": "Undisclosed extra compensation from a client could bias a member's judgment or create incentives that conflict with the employer's interests, so disclosure and consent help manage that potential conflict transparently."
+    "explanation": "Undisclosed extra pay from a client could bias judgment or conflict with the employer's interests, so disclosure and consent manage that risk."
   },
   {
     "id": "eth-009",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Employers",
     "difficulty": "hard",
-    "question": "An employee discovers a colleague is misappropriating client funds and reports it internally and, when internal channels fail, to the relevant regulator. How is this whistleblowing action best characterized under the ethical framework?",
+    "question": "An employee reports a colleague's fraud after internal channels fail. This is?",
     "options": [
-      "A violation of the duty of loyalty to the employer",
-      "Generally supportable and consistent with the broader duty to protect the integrity of the profession and clients, even though it may conflict with narrow loyalty to the employer",
-      "Prohibited unless the employee first resigns",
+      "A violation of loyalty to the employer",
+      "Generally appropriate to protect clients",
+      "Prohibited unless the employee resigns first",
       "Irrelevant to the Code and Standards"
     ],
     "correctIndex": 1,
-    "explanation": "While loyalty to one's employer is a general duty, it does not require covering up illegal or unethical conduct; acting to protect clients and market integrity, especially after internal channels are exhausted, is generally viewed as appropriate."
+    "explanation": "Loyalty to an employer doesn't require covering up illegal conduct; protecting clients and market integrity, especially after internal channels fail, is generally appropriate."
   },
   {
     "id": "eth-010",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Employers",
     "difficulty": "medium",
-    "question": "Before leaving a firm to join a competitor, what must a departing employee generally avoid taking or using, consistent with the duty of loyalty?",
+    "question": "What must a departing employee avoid taking to a new firm?",
     "options": [
-      "Their own generic industry knowledge and skills developed over their career",
-      "The firm's confidential client lists, proprietary records, and trade secrets",
-      "Their personal contact list built before joining the firm",
+      "Their own general industry knowledge",
+      "Confidential client lists and trade secrets",
+      "Their personal contact list",
       "Publicly available research reports"
     ],
     "correctIndex": 1,
-    "explanation": "General skills and knowledge gained over a career may be used freely, but confidential firm records and trade secrets remain the employer's property and should not be taken or used to benefit a new employer."
+    "explanation": "General skills gained over a career may be used freely, but confidential records and trade secrets remain the employer's property."
   },
   {
     "id": "eth-011",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Duties to Employers",
     "difficulty": "easy",
-    "question": "Why might soliciting a former employer's clients immediately upon resignation, before formally leaving, violate the duty of loyalty?",
+    "question": "Why can soliciting clients right after resigning breach loyalty?",
     "options": [
-      "It could constitute using the employer's time and relationships to compete against the employer's own business interests while still employed",
-      "Clients can never be contacted by a former employee",
-      "Loyalty duties end the moment resignation is announced",
-      "Solicitation is always permitted regardless of timing"
+      "It competes against the employer while employed",
+      "Clients can never be contacted after leaving",
+      "Loyalty ends once resignation is announced",
+      "Solicitation is always permitted"
     ],
     "correctIndex": 0,
-    "explanation": "Until employment actually ends, an employee generally owes a duty not to actively compete with or undermine the current employer, so soliciting clients away before departure can breach that duty."
+    "explanation": "Until employment truly ends, an employee owes a duty not to compete with the current employer, so soliciting clients before departure can breach that duty."
   },
   {
     "id": "eth-012",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Investment Analysis and Recommendations",
     "difficulty": "easy",
-    "question": "What does the Standard on diligence and reasonable basis require before a member issues an investment recommendation?",
+    "question": "What must a recommendation have before it's issued?",
     "options": [
-      "The recommendation must be based on thorough research and a sound analytical process",
-      "The recommendation must always be positive",
-      "The member must guarantee the outcome",
-      "The member need only rely on the client's own opinion"
+      "A thorough, sound analytical basis",
+      "It must always be positive",
+      "A guaranteed outcome",
+      "Only the client's own opinion"
     ],
     "correctIndex": 0,
-    "explanation": "Members must have a reasonable and adequate basis, supported by appropriate research and analysis, before making a recommendation or taking investment action."
+    "explanation": "Members must have a reasonable, adequate basis, backed by proper research, before making a recommendation or taking investment action."
   },
   {
     "id": "eth-013",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Investment Analysis and Recommendations",
     "difficulty": "medium",
-    "question": "A member relies on a third-party research report to form a recommendation without evaluating its underlying assumptions or methodology. What ethical concern does this raise?",
+    "question": "A member uses third-party research without checking it. What's the concern?",
     "options": [
-      "None, since any published report is automatically a sufficient basis",
-      "The member may lack a reasonable basis for the recommendation if they have not exercised independent judgment regarding the report's soundness",
-      "Third-party reports may never be used under any circumstance",
-      "This is only a concern if the report is free of charge"
+      "None, any published report is sufficient",
+      "The member may lack a reasonable basis",
+      "Third-party reports can never be used",
+      "Only a concern if the report is free"
     ],
     "correctIndex": 1,
-    "explanation": "Members are expected to have reasonable grounds for believing external research is sound, based on their own due diligence into its assumptions and quality, rather than accepting it uncritically."
+    "explanation": "Members must have reasonable grounds to trust external research, based on their own due diligence, rather than accepting it uncritically."
   },
   {
     "id": "eth-014",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Investment Analysis and Recommendations",
     "difficulty": "hard",
-    "question": "Why does the Standard on communication with clients and prospective clients require members to distinguish between facts and opinions in their reports?",
+    "question": "Why must reports clearly separate facts from opinions?",
     "options": [
-      "So that clients can accurately judge the reliability and basis of the information used to make investment decisions",
-      "Because opinions are prohibited in investment reports",
-      "Because facts and opinions must always be given equal weight",
-      "Because only licensed analysts may express opinions"
+      "So clients can judge reliability of the basis",
+      "Opinions are prohibited in reports",
+      "Facts and opinions get equal weight",
+      "Only licensed analysts may give opinions"
     ],
     "correctIndex": 0,
-    "explanation": "Blurring fact and opinion could mislead clients about how certain or well-supported a conclusion is, so clearly labeling which is which helps clients make well-informed decisions."
+    "explanation": "Blurring fact and opinion could mislead clients about how certain a conclusion is, so labeling each clearly helps clients decide well."
   },
   {
     "id": "eth-015",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Investment Analysis and Recommendations",
     "difficulty": "medium",
-    "question": "What is the main reason members must maintain records supporting their investment recommendations?",
+    "question": "Why must members keep records supporting recommendations?",
     "options": [
-      "To satisfy an unrelated tax requirement",
-      "To be able to demonstrate the reasonable and adequate basis for the recommendation if it is later questioned",
-      "Records are only needed for recommendations that turned out poorly",
+      "To satisfy an unrelated tax rule",
+      "To show the basis if later questioned",
+      "Only needed if the call turns out bad",
       "To share with competing firms"
     ],
     "correctIndex": 1,
-    "explanation": "Maintaining supporting records allows a member to substantiate that a recommendation was based on diligent research, which is important both for client protection and for defending the member's professional conduct if questioned."
+    "explanation": "Keeping records lets a member prove diligent research supported a call, useful for client protection and defending professional conduct."
   },
   {
     "id": "eth-016",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Investment Analysis and Recommendations",
     "difficulty": "easy",
-    "question": "Why is ongoing review of an investment recommendation important, not just the initial analysis?",
+    "question": "Why review recommendations on an ongoing basis?",
     "options": [
-      "Because market conditions and company fundamentals change, and a previously sound recommendation may no longer be appropriate",
-      "Once issued, a recommendation never needs to be revisited",
-      "Reviews are only required annually by law",
-      "Ongoing review is solely the client's responsibility"
+      "Conditions change and past advice may age poorly",
+      "A recommendation never needs revisiting",
+      "Reviews are only required annually",
+      "Review is solely the client's job"
     ],
     "correctIndex": 0,
-    "explanation": "A reasonable basis for a recommendation must be maintained over time; as facts change, members should update their analysis and communicate material changes to clients."
+    "explanation": "A reasonable basis must be maintained over time; as facts change, members should update analysis and tell clients about material changes."
   },
   {
     "id": "eth-017",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Conflicts of Interest",
     "difficulty": "easy",
-    "question": "What is the primary purpose of requiring members to disclose conflicts of interest to clients and employers?",
+    "question": "What's the purpose of disclosing conflicts of interest?",
     "options": [
-      "To eliminate the need for any other ethical standards",
-      "So affected parties can evaluate the objectivity of advice or decisions in light of the member's potential competing interests",
-      "Disclosure is only required for conflicts involving family members",
-      "To shift legal liability entirely to the client"
+      "To remove the need for other ethics rules",
+      "So others can judge the advice's objectivity",
+      "Only required for family-related conflicts",
+      "To shift all legal liability to the client"
     ],
     "correctIndex": 1,
-    "explanation": "Disclosure allows clients and employers to judge for themselves whether a conflict might have influenced the advice or decision, preserving trust and transparency even when a conflict cannot be entirely eliminated."
+    "explanation": "Disclosure lets clients and employers judge for themselves whether a conflict might have influenced advice, preserving trust and transparency."
   },
   {
     "id": "eth-018",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Conflicts of Interest",
     "difficulty": "medium",
-    "question": "Why does the Standard on priority of transactions require that client transactions be given priority over personal transactions by members?",
+    "question": "Why must client trades take priority over personal trades?",
     "options": [
-      "To prevent members from using knowledge of upcoming client trades to benefit personal accounts ahead of clients",
-      "Because members are prohibited from ever holding personal investments",
-      "Because clients always trade the same securities as members",
-      "Personal trading is illegal under all circumstances"
+      "Prevents front-running client orders",
+      "Members can't hold personal investments",
+      "Clients always trade the same securities",
+      "Personal trading is always illegal"
     ],
     "correctIndex": 0,
-    "explanation": "If a member could trade ahead of client orders, they might benefit unfairly from market impact or advance knowledge; requiring client transactions to be completed first helps prevent this front-running conflict."
+    "explanation": "If a member traded ahead of client orders, they could benefit unfairly from market impact or advance knowledge, so client trades go first."
   },
   {
     "id": "eth-019",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Conflicts of Interest",
     "difficulty": "hard",
-    "question": "A research analyst's firm underwrites securities for a company the analyst is about to cover. What is the best way to manage this conflict of interest consistent with the ethical standards?",
+    "question": "An analyst's firm underwrites a company they're about to cover. Best fix?",
     "options": [
-      "Ignore the relationship since it is common in the industry",
-      "Disclose the firm's relationship with the company clearly in the research report so readers can evaluate potential bias",
-      "Refuse to ever publish research on any company the firm has done business with",
-      "Only disclose the relationship if the client specifically asks"
+      "Ignore it since it's common practice",
+      "Clearly disclose the relationship in the report",
+      "Never publish on any client of the firm",
+      "Disclose only if the client asks"
     ],
     "correctIndex": 1,
-    "explanation": "Rather than avoiding coverage altogether, the standards generally call for clear, prominent disclosure of the business relationship so that readers can factor the potential conflict into how they weigh the analysis."
+    "explanation": "Rather than avoiding coverage, the standards call for clear, prominent disclosure of the business relationship so readers can weigh potential bias."
   },
   {
     "id": "eth-020",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Conflicts of Interest",
     "difficulty": "medium",
-    "question": "Why might accepting gifts from clients create a conflict of interest concern for an investment manager?",
+    "question": "Why can accepting client gifts raise a conflict concern?",
     "options": [
-      "Gifts from clients are always prohibited outright",
-      "A substantial gift could be seen as an inducement affecting the manager's independence or objectivity toward that client",
-      "Gifts have no bearing on professional objectivity",
-      "Only gifts from prospective clients raise concerns"
+      "Client gifts are always prohibited",
+      "A large gift may sway independence or bias",
+      "Gifts never affect objectivity",
+      "Only prospective-client gifts count"
     ],
     "correctIndex": 1,
-    "explanation": "Accepting a significant gift, especially one tied to performance or an existing relationship, could create pressure or perceived bias, which is why such gifts require disclosure to and often consent from the employer."
+    "explanation": "A significant gift, especially tied to performance, could create pressure or perceived bias, so such gifts need employer disclosure and often consent."
   },
   {
     "id": "eth-021",
     "topic": "Ethics and Professional Standards",
     "subtopic": "Conflicts of Interest",
     "difficulty": "medium",
-    "question": "A member serves on the board of directors of a public company that is also a personal investment holding. What must the member do regarding this relationship?",
+    "question": "A member sits on the board of a firm they also hold personally. Must they?",
     "options": [
-      "Nothing, since board service is unrelated to personal investing",
-      "Disclose the board position and manage any resulting conflict, since it could affect impartial investment decisions related to that company",
-      "Immediately resign from the board without cause",
-      "Sell the position only if asked by a regulator"
+      "Do nothing, board service is unrelated",
+      "Disclose and manage the resulting conflict",
+      "Resign from the board immediately",
+      "Sell the position only if a regulator asks"
     ],
     "correctIndex": 1,
-    "explanation": "Board service alongside a personal investment position in the same company is a classic conflict of interest that must be disclosed so others can judge whether it affects the member's objectivity."
+    "explanation": "Board service alongside a personal stake in the same company is a classic conflict that must be disclosed so others can judge its impact."
   },
   {
     "id": "eth-022",
     "topic": "Ethics and Professional Standards",
     "subtopic": "GIPS",
     "difficulty": "easy",
-    "question": "What is the main purpose of the Global Investment Performance Standards (GIPS)?",
+    "question": "What is the main purpose of the GIPS standards?",
     "options": [
-      "To guarantee investment returns to clients",
-      "To provide a standardized, ethical framework for calculating and presenting investment performance so results are comparable across firms",
-      "To set minimum required investment returns",
-      "To replace all local securities regulation"
+      "Guarantee investment returns to clients",
+      "Standardize performance reporting for comparison",
+      "Set minimum required returns",
+      "Replace all local securities law"
     ],
     "correctIndex": 1,
-    "explanation": "GIPS establishes consistent methodologies for calculating and presenting performance, which helps prospective clients compare investment managers on a fair, apples-to-apples basis."
+    "explanation": "GIPS sets consistent methods for calculating and presenting performance, helping clients compare managers fairly, apples to apples."
   },
   {
     "id": "eth-023",
     "topic": "Ethics and Professional Standards",
     "subtopic": "GIPS",
     "difficulty": "medium",
-    "question": "Since GIPS compliance is voluntary, why do many investment management firms choose to comply anyway?",
+    "question": "Why do many firms comply with GIPS even though it's voluntary?",
     "options": [
-      "Because compliance is required to operate in any market",
-      "Compliance signals credibility and a commitment to fair, transparent performance presentation, which can be a competitive advantage in attracting clients",
-      "Because GIPS compliance guarantees higher returns",
-      "Because non-compliant firms are automatically shut down"
+      "Compliance is required to operate anywhere",
+      "It signals credibility to prospective clients",
+      "It guarantees higher returns",
+      "Non-compliant firms get shut down"
     ],
     "correctIndex": 1,
-    "explanation": "While not legally mandated in most places, voluntary GIPS compliance builds trust with prospective clients by demonstrating that performance results are calculated and presented according to a rigorous, independently defined standard."
+    "explanation": "Though not legally required in most places, voluntary GIPS compliance builds trust by showing performance follows a rigorous, independent standard."
   },
   {
     "id": "eth-024",
     "topic": "Ethics and Professional Standards",
     "subtopic": "GIPS",
     "difficulty": "hard",
-    "question": "What does the fair representation principle underlying GIPS most directly require of a compliant firm?",
+    "question": "What does GIPS's fair representation principle require?",
     "options": [
-      "The firm must present its full, accurate performance history for the relevant composite, without cherry-picking only favorable periods or portfolios",
-      "The firm may choose to display only its best-performing accounts",
-      "The firm must guarantee identical returns for every client",
-      "Fair representation only applies to firms with over $1 billion in assets"
+      "Show the full, accurate performance history",
+      "Show only the best-performing accounts",
+      "Guarantee identical returns for everyone",
+      "Only applies above $1 billion in assets"
     ],
     "correctIndex": 0,
-    "explanation": "Fair representation means a firm must include all relevant, fee-paying discretionary portfolios in an appropriate composite and present a complete, accurate track record rather than selectively showcasing top performers."
+    "explanation": "Fair representation means including all relevant fee-paying discretionary portfolios in a composite, giving a complete track record, not cherry-picked winners."
   },
   {
     "id": "eth-025",
     "topic": "Ethics and Professional Standards",
     "subtopic": "GIPS",
     "difficulty": "medium",
-    "question": "Why does GIPS require firms to group similar portfolios into composites rather than reporting individual account performance selectively?",
+    "question": "Why must firms group portfolios into composites, not report selectively?",
     "options": [
-      "Composites make it easier to hide poor-performing accounts entirely",
-      "Composites ensure that all discretionary, fee-paying portfolios following a similar strategy are represented together, preventing selective presentation of only the best results",
-      "Composites are only used for marketing purposes and have no performance implications",
-      "Composites eliminate the need for any disclosure"
+      "Composites help hide poor accounts",
+      "Prevents showcasing only the best results",
+      "Composites are only for marketing",
+      "Composites remove any need to disclose"
     ],
     "correctIndex": 1,
-    "explanation": "By requiring similarly managed portfolios to be grouped into defined composites, GIPS prevents firms from presenting only their most successful individual accounts, giving a fuller and fairer picture of a strategy's actual performance."
+    "explanation": "Grouping similarly managed portfolios into composites stops firms from presenting only their most successful accounts, giving a fairer performance picture."
   }
 ]

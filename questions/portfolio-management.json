@@ -4,112 +4,112 @@
     "topic": "Portfolio Management",
     "subtopic": "Exchange-Traded Funds",
     "difficulty": "easy",
-    "question": "Why do ETF shares typically trade at prices very close to their underlying net asset value (NAV)?",
+    "question": "Why do ETF prices stay close to their NAV?",
     "options": [
-      "The exchange guarantees the price",
-      "Authorized participants can create or redeem shares for the underlying basket, arbitraging away large price gaps",
-      "ETFs do not have a secondary market",
-      "NAV is recalculated only once a year"
+      "Exchange guarantees the price",
+      "Arbitrage by authorized participants",
+      "ETFs lack a secondary market",
+      "NAV updates only once a year"
     ],
     "correctIndex": 1,
-    "explanation": "The in-kind creation/redemption mechanism lets authorized participants profit from any gap between market price and NAV, and this arbitrage keeps the two closely aligned."
+    "explanation": "Authorized participants can create or redeem ETF shares for the underlying basket, and this arbitrage keeps market price and NAV closely aligned."
   },
   {
     "id": "pm-002",
     "topic": "Portfolio Management",
     "subtopic": "Exchange-Traded Funds",
     "difficulty": "medium",
-    "question": "What is the main advantage of the in-kind creation and redemption process used by most ETFs?",
+    "question": "What is the key benefit of in-kind ETF creation/redemption?",
     "options": [
-      "It eliminates all tracking error",
-      "It allows the fund to avoid selling portfolio securities to meet redemptions, reducing taxable capital gain distributions",
-      "It guarantees the ETF will outperform its benchmark",
-      "It removes the need for a fund custodian"
+      "Eliminates all tracking error",
+      "Avoids selling holdings, cutting taxable gains",
+      "Guarantees benchmark outperformance",
+      "Removes need for a custodian"
     ],
     "correctIndex": 1,
-    "explanation": "Because redemptions are typically settled by delivering securities rather than cash, the fund rarely has to sell holdings, which helps ETFs be more tax-efficient than traditional mutual funds."
+    "explanation": "Redemptions are usually settled with securities, not cash, so funds rarely sell holdings, making ETFs more tax-efficient than mutual funds."
   },
   {
     "id": "pm-003",
     "topic": "Portfolio Management",
     "subtopic": "Exchange-Traded Funds",
     "difficulty": "easy",
-    "question": "An investor wants intraday liquidity plus diversified exposure to a broad equity index at low cost. Which vehicle best fits this need?",
+    "question": "Which vehicle offers intraday liquidity and broad index exposure cheaply?",
     "options": [
       "A single company's stock",
-      "A traditional open-end mutual fund priced once daily",
+      "A mutual fund priced once daily",
       "An index-tracking ETF",
-      "A non-tradable private equity fund"
+      "A non-tradable private fund"
     ],
     "correctIndex": 2,
-    "explanation": "ETFs combine index-like diversification with stock-like intraday tradability, which is exactly the combination this investor is looking for."
+    "explanation": "ETFs combine index-like diversification with stock-like intraday tradability, exactly what this investor needs."
   },
   {
     "id": "pm-004",
     "topic": "Portfolio Management",
     "subtopic": "Exchange-Traded Funds",
     "difficulty": "hard",
-    "question": "Despite the arbitrage mechanism, why can an ETF's market price still deviate meaningfully from its NAV during periods of market stress?",
+    "question": "Why can ETF price diverge from NAV during market stress?",
     "options": [
-      "ETFs stop trading during stress periods",
-      "Underlying holdings may be illiquid or their markets closed, making fair value uncertain and arbitrage harder to execute",
-      "NAV is fixed by regulation and cannot change",
-      "Authorized participants are prohibited from trading during volatile markets"
+      "ETFs stop trading during stress",
+      "Illiquid holdings make fair value uncertain",
+      "NAV is fixed by regulation",
+      "APs can't trade in volatile markets"
     ],
     "correctIndex": 1,
-    "explanation": "When the underlying securities are hard to price or trade, the arbitrage that normally keeps ETF price and NAV aligned becomes less reliable, so premiums or discounts can widen."
+    "explanation": "When underlying securities are hard to price or trade, arbitrage becomes less reliable, so ETF premiums or discounts can widen."
   },
   {
     "id": "pm-005",
     "topic": "Portfolio Management",
     "subtopic": "Exchange-Traded Funds",
     "difficulty": "medium",
-    "question": "A fixed-income ETF and an actively managed bond mutual fund both track similar duration and credit exposure. What is a key structural advantage of the ETF for a taxable investor?",
+    "question": "What's a key tax advantage of bond ETFs vs. active bond funds?",
     "options": [
-      "The ETF cannot experience price discounts",
-      "The ETF typically offers greater potential tax efficiency due to in-kind redemptions",
-      "The ETF pays a guaranteed coupon",
-      "The ETF has no expense ratio"
+      "ETFs never trade at a discount",
+      "In-kind redemptions boost tax efficiency",
+      "ETFs pay a guaranteed coupon",
+      "ETFs have no expense ratio"
     ],
     "correctIndex": 1,
-    "explanation": "The in-kind redemption structure common to ETFs can reduce the frequency of taxable capital gain distributions relative to mutual funds that must sell securities to meet cash redemptions."
+    "explanation": "In-kind redemptions common to ETFs can reduce taxable capital gain distributions versus mutual funds that must sell securities for cash redemptions."
   },
   {
     "id": "pm-006",
     "topic": "Portfolio Management",
     "subtopic": "Asset Allocation",
     "difficulty": "easy",
-    "question": "What best distinguishes strategic asset allocation from tactical asset allocation?",
+    "question": "How does strategic asset allocation differ from tactical?",
     "options": [
-      "Strategic allocation is a long-term target mix based on an investor's objectives; tactical allocation involves short-term deviations to exploit perceived opportunities",
-      "Strategic allocation only applies to bonds",
-      "Tactical allocation is set once and never changed",
-      "Strategic allocation ignores risk tolerance"
+      "Strategic is long-term; tactical is short-term",
+      "Strategic only applies to bonds",
+      "Tactical never changes once set",
+      "Strategic ignores risk tolerance"
     ],
     "correctIndex": 0,
-    "explanation": "Strategic asset allocation reflects the investor's long-run risk and return objectives, while tactical asset allocation makes temporary tilts away from that target to try to add value from short-term views."
+    "explanation": "Strategic allocation reflects long-run objectives, while tactical allocation makes temporary tilts to exploit short-term opportunities."
   },
   {
     "id": "pm-007",
     "topic": "Portfolio Management",
     "subtopic": "Asset Allocation",
     "difficulty": "medium",
-    "question": "Why is the correlation between asset classes so important when constructing a diversified portfolio?",
+    "question": "Why does correlation matter when building a diversified portfolio?",
     "options": [
-      "Lower correlation between assets can reduce overall portfolio volatility for a given expected return",
-      "Correlation determines the tax rate on the portfolio",
-      "High correlation always improves diversification",
-      "Correlation has no effect on portfolio risk"
+      "Lower correlation can reduce portfolio volatility",
+      "Determines the portfolio's tax rate",
+      "High correlation improves diversification",
+      "Correlation doesn't affect risk"
     ],
     "correctIndex": 0,
-    "explanation": "When assets do not move in lockstep, losses in one can be offset by gains or stability in another, which lowers the overall variability of the combined portfolio without necessarily sacrificing expected return."
+    "explanation": "When assets don't move in lockstep, losses in one can be offset by others, lowering overall portfolio variability."
   },
   {
     "id": "pm-008",
     "topic": "Portfolio Management",
     "subtopic": "Asset Allocation",
     "difficulty": "medium",
-    "question": "An investor tilts a portfolio's equity weight above its long-term target because valuations appear temporarily attractive. This is an example of what?",
+    "question": "Overweighting equities on attractive valuations is what?",
     "options": [
       "Strategic asset allocation",
       "Tactical asset allocation",
@@ -117,261 +117,261 @@
       "Liability-driven investing"
     ],
     "correctIndex": 1,
-    "explanation": "Deviating from the long-term policy mix to act on a short-term market view is the defining feature of tactical asset allocation."
+    "explanation": "Deviating from the long-term policy mix to act on a short-term view is the defining feature of tactical asset allocation."
   },
   {
     "id": "pm-009",
     "topic": "Portfolio Management",
     "subtopic": "Asset Allocation",
     "difficulty": "hard",
-    "question": "Why do correlations between asset classes often rise during severe market downturns, undermining diversification exactly when it is needed most?",
+    "question": "Why do correlations often rise across assets in severe downturns?",
     "options": [
-      "Regulators fix correlations during crises",
-      "Widespread selling and liquidity demands cause many risky assets to fall together regardless of their normal relationships",
-      "Correlations are constant by mathematical definition",
-      "Central banks eliminate correlation risk during crises"
+      "Regulators fix correlations in crises",
+      "Widespread selling drags most assets down together",
+      "Correlations are constant by definition",
+      "Central banks eliminate correlation risk"
     ],
     "correctIndex": 1,
-    "explanation": "In a crisis, investors often sell across asset classes simultaneously to raise cash or reduce risk broadly, which pushes correlations toward one and reduces the protective benefit of diversification."
+    "explanation": "In a crisis, investors sell across asset classes to raise cash, pushing correlations toward one and reducing diversification's benefit."
   },
   {
     "id": "pm-010",
     "topic": "Portfolio Management",
     "subtopic": "Risk Management",
     "difficulty": "easy",
-    "question": "What does Value at Risk (VaR) attempt to estimate?",
+    "question": "What does Value at Risk (VaR) estimate?",
     "options": [
-      "The guaranteed minimum return of a portfolio",
-      "A threshold loss that a portfolio is not expected to exceed over a given time horizon at a given confidence level",
-      "The exact loss a portfolio will experience next year",
-      "The portfolio's average historical return"
+      "Guaranteed minimum portfolio return",
+      "A loss threshold not expected to be exceeded",
+      "The exact loss next year",
+      "Average historical return"
     ],
     "correctIndex": 1,
-    "explanation": "VaR expresses risk as a loss amount that should not be exceeded with a stated probability, such as a 5% chance of losing more than the VaR figure over a month."
+    "explanation": "VaR expresses risk as a loss amount that shouldn't be exceeded with a stated probability over a given time horizon."
   },
   {
     "id": "pm-011",
     "topic": "Portfolio Management",
     "subtopic": "Risk Management",
     "difficulty": "medium",
-    "question": "What is a widely cited limitation of Value at Risk as a risk measure?",
+    "question": "What's a key limitation of Value at Risk as a risk measure?",
     "options": [
-      "It says nothing about the potential magnitude of losses beyond the VaR threshold",
-      "It cannot be calculated for equity portfolios",
-      "It always overstates risk",
-      "It requires no assumptions about return distributions"
+      "Says nothing about losses beyond the threshold",
+      "Cannot be used for equity portfolios",
+      "Always overstates risk",
+      "Needs no distribution assumptions"
     ],
     "correctIndex": 0,
-    "explanation": "VaR identifies a loss threshold but is silent on how severe losses could be in the tail beyond that threshold, which is why it is often paired with tail-risk measures like expected shortfall."
+    "explanation": "VaR marks a loss threshold but stays silent on how severe tail losses could be, which is why it's often paired with expected shortfall."
   },
   {
     "id": "pm-012",
     "topic": "Portfolio Management",
     "subtopic": "Risk Management",
     "difficulty": "hard",
-    "question": "Why does risk budgeting differ conceptually from traditional capital budgeting?",
+    "question": "How does risk budgeting differ from capital budgeting?",
     "options": [
-      "Risk budgeting allocates a portfolio's total risk across strategies or managers, whereas capital budgeting allocates dollars across projects based on expected returns",
-      "They are the same process applied to different assets",
-      "Risk budgeting ignores expected returns entirely",
-      "Capital budgeting is only used by governments"
+      "Allocates total risk, not just dollars",
+      "They're the same process",
+      "Ignores expected returns entirely",
+      "Used only by governments"
     ],
     "correctIndex": 0,
-    "explanation": "Risk budgeting focuses on how much of the portfolio's overall risk, not just dollars, is allocated to each position or manager, recognizing that risk contribution and capital allocation are not the same thing."
+    "explanation": "Risk budgeting allocates a portfolio's overall risk across strategies or managers, unlike capital budgeting, which allocates dollars based on expected returns."
   },
   {
     "id": "pm-013",
     "topic": "Portfolio Management",
     "subtopic": "Risk Management",
     "difficulty": "medium",
-    "question": "A portfolio manager allocates more risk budget to a strategy with high expected skill even though it uses less capital than other strategies. What principle does this reflect?",
+    "question": "Why allocate more risk budget to a high-skill, low-capital strategy?",
     "options": [
-      "Risk should be allocated in proportion to capital only",
-      "Risk budgeting seeks to allocate risk toward areas where it is expected to be compensated most efficiently",
-      "All strategies should receive equal risk regardless of skill",
+      "Risk should match capital only",
+      "To direct risk where it's rewarded most",
+      "All strategies get equal risk",
       "Risk budgets are fixed by regulation"
     ],
     "correctIndex": 1,
-    "explanation": "Risk budgeting aims to direct risk-taking toward the sources most likely to be rewarded, rather than simply spreading it in proportion to dollars invested."
+    "explanation": "Risk budgeting aims to direct risk-taking toward the sources most likely to be rewarded, not simply in proportion to capital invested."
   },
   {
     "id": "pm-014",
     "topic": "Portfolio Management",
     "subtopic": "Risk Management",
     "difficulty": "easy",
-    "question": "Why do institutional investors use risk management frameworks like VaR alongside stress testing?",
+    "question": "Why pair VaR with stress testing?",
     "options": [
-      "Stress testing replaces the need for any risk measurement",
-      "VaR alone may understate risk in extreme or unprecedented scenarios, so stress tests examine specific adverse what-if conditions",
-      "Stress testing is only used by regulators, never by managers",
-      "VaR and stress testing measure identical things"
+      "Stress testing replaces VaR entirely",
+      "VaR may miss extreme, unprecedented scenarios",
+      "Stress testing is only for regulators",
+      "They measure identical things"
     ],
     "correctIndex": 1,
-    "explanation": "Because VaR is typically based on historical or modeled distributions, it may miss unusual extreme events, so stress testing complements it by examining the portfolio's behavior under specific hypothetical shocks."
+    "explanation": "VaR relies on historical or modeled distributions and can miss unusual extremes, so stress tests examine specific adverse what-if scenarios."
   },
   {
     "id": "pm-015",
     "topic": "Portfolio Management",
     "subtopic": "Factor-Based Investing",
     "difficulty": "easy",
-    "question": "In investment terms, what is a factor?",
+    "question": "In investing, what is a 'factor'?",
     "options": [
-      "A single stock chosen at random for a portfolio",
-      "A broad, persistent driver of returns shared across many securities, such as value, size, or momentum",
+      "A single randomly chosen stock",
+      "A persistent driver of returns, like value",
       "A type of derivative contract",
-      "A synonym for a mutual fund's ticker symbol"
+      "A mutual fund's ticker symbol"
     ],
     "correctIndex": 1,
-    "explanation": "Factors are systematic characteristics or exposures, like relative valuation or price momentum, that help explain differences in returns across a large set of securities."
+    "explanation": "Factors are systematic traits, like relative valuation or momentum, that help explain return differences across many securities."
   },
   {
     "id": "pm-016",
     "topic": "Portfolio Management",
     "subtopic": "Factor-Based Investing",
     "difficulty": "medium",
-    "question": "Why do smart-beta strategies deliberately tilt portfolios toward specific factors rather than simply holding a market-cap-weighted index?",
+    "question": "Why do smart-beta strategies deliberately tilt toward factors?",
     "options": [
       "To eliminate all portfolio risk",
-      "To try to capture long-run return premiums associated with factors such as value or quality while maintaining a rules-based, transparent process",
-      "Because market-cap weighting is illegal in most markets",
-      "To guarantee outperformance every year"
+      "To capture factor premiums with clear rules",
+      "Cap-weighting is illegal in most markets",
+      "To guarantee yearly outperformance"
     ],
     "correctIndex": 1,
-    "explanation": "Smart-beta approaches use systematic rules to over- or under-weight securities based on factor characteristics, aiming to capture documented factor premiums rather than relying on discretionary active management."
+    "explanation": "Smart-beta approaches use systematic rules to tilt toward factors like value or quality, aiming to capture their return premiums transparently."
   },
   {
     "id": "pm-017",
     "topic": "Portfolio Management",
     "subtopic": "Factor-Based Investing",
     "difficulty": "hard",
-    "question": "What is a key risk associated with investing in a single factor, such as pure momentum, over a full market cycle?",
+    "question": "What's a key risk of investing in a single factor like momentum?",
     "options": [
       "Single factors never underperform",
-      "Factor returns can be cyclical, and a factor that has performed well historically can go through prolonged periods of underperformance",
-      "Momentum investing eliminates all volatility",
-      "Factors guarantee a fixed annual return"
+      "It can underperform for long stretches",
+      "It eliminates all volatility",
+      "It guarantees a fixed annual return"
     ],
     "correctIndex": 1,
-    "explanation": "Factor premiums are not constant through time; a factor can lag the broad market for extended periods, which is why many investors diversify across multiple factors."
+    "explanation": "Factor premiums aren't constant over time; a factor can lag the market for extended periods, which is why many investors diversify across factors."
   },
   {
     "id": "pm-018",
     "topic": "Portfolio Management",
     "subtopic": "Factor-Based Investing",
     "difficulty": "medium",
-    "question": "Why might combining multiple factors, such as value, quality, and momentum, in one portfolio be preferred to relying on a single factor?",
+    "question": "Why combine multiple factors instead of using just one?",
     "options": [
-      "Combining factors is prohibited by most regulators",
-      "Different factors have historically performed well in different environments, so blending them can smooth overall factor-driven return volatility",
-      "Combining factors always increases costs without benefit",
-      "A single factor captures all possible sources of excess return"
+      "Combining factors is prohibited",
+      "Different factors thrive in different environments",
+      "Always raises costs, no benefit",
+      "One factor captures all excess return"
     ],
     "correctIndex": 1,
-    "explanation": "Because factors tend to cycle in and out of favor at different times, blending several can reduce the risk of being concentrated in one factor during its worst period."
+    "explanation": "Factors cycle in and out of favor at different times, so blending several can smooth overall factor-driven volatility."
   },
   {
     "id": "pm-019",
     "topic": "Portfolio Management",
     "subtopic": "Factor-Based Investing",
     "difficulty": "easy",
-    "question": "What best describes smart beta as an investment approach?",
+    "question": "What best describes smart beta as an approach?",
     "options": [
-      "A fully discretionary strategy with no rules",
-      "A rules-based strategy that reweights an index according to factor characteristics rather than market capitalization alone",
-      "A guarantee to beat the S&P 500 every year",
+      "A fully discretionary strategy",
+      "Rules-based reweighting by factor traits",
+      "A guarantee to beat the S&P 500",
       "A strategy that only holds cash"
     ],
     "correctIndex": 1,
-    "explanation": "Smart-beta strategies use transparent, systematic rules to tilt an index toward chosen factor characteristics, sitting between fully passive market-cap indexing and fully discretionary active management."
+    "explanation": "Smart-beta strategies use transparent, systematic rules to tilt an index toward chosen factors, between pure indexing and active management."
   },
   {
     "id": "pm-020",
     "topic": "Portfolio Management",
     "subtopic": "Overview of Portfolio Management Process",
     "difficulty": "easy",
-    "question": "What is the primary purpose of an investment policy statement (IPS)?",
+    "question": "What's the main purpose of an investment policy statement (IPS)?",
     "options": [
-      "To guarantee a specific investment return",
-      "To document an investor's objectives, constraints, and guidelines so the portfolio can be managed consistently over time",
-      "To list every security that must be bought",
-      "To satisfy tax filing requirements only"
+      "To guarantee a specific return",
+      "To record objectives and constraints",
+      "To list every security to buy",
+      "To satisfy tax filing rules only"
     ],
     "correctIndex": 1,
-    "explanation": "The IPS is the governing document that captures an investor's return objectives, risk tolerance, and constraints, providing a durable framework the manager can follow even as market conditions change."
+    "explanation": "The IPS captures an investor's return objectives, risk tolerance, and constraints, giving the manager a durable framework to follow."
   },
   {
     "id": "pm-021",
     "topic": "Portfolio Management",
     "subtopic": "Overview of Portfolio Management Process",
     "difficulty": "medium",
-    "question": "Why do an investor's constraints, such as liquidity needs, time horizon, and legal or regulatory restrictions, directly shape the strategic asset allocation decision?",
+    "question": "Why do constraints like liquidity needs shape asset allocation?",
     "options": [
-      "Constraints are only relevant to tax filings",
-      "The feasible investment universe and appropriate risk exposures must fit within what the investor can actually tolerate and is permitted to hold",
-      "Constraints have no bearing on asset allocation",
-      "All investors have identical constraints regardless of circumstances"
+      "Constraints relate only to taxes",
+      "Allocation must fit what's tolerable and permitted",
+      "Constraints don't affect allocation",
+      "All investors have identical constraints"
     ],
     "correctIndex": 1,
-    "explanation": "An allocation that ignores real-world constraints, like a short time horizon or high liquidity needs, could force untimely selling or violate legal limits, so the IPS constraints directly bound what allocations are appropriate."
+    "explanation": "An allocation ignoring real constraints, like a short horizon or high liquidity needs, could force bad timing or break legal limits."
   },
   {
     "id": "pm-022",
     "topic": "Portfolio Management",
     "subtopic": "Overview of Portfolio Management Process",
     "difficulty": "hard",
-    "question": "A pension fund with long-dated, predictable liabilities and a foundation with a perpetual time horizon might set very different strategic asset allocations even with similar risk tolerance. Why?",
+    "question": "Why might a pension fund and a foundation set different allocations despite similar risk tolerance?",
     "options": [
-      "Their objectives and constraints, including time horizon and the nature of liabilities, differ, which changes the asset mix best suited to meeting each institution's goals",
-      "Pension funds are legally required to hold only bonds",
-      "Foundations cannot legally own equities",
-      "All institutional investors must use identical allocations"
+      "Differing liabilities and time horizons",
+      "Pension funds must hold only bonds",
+      "Foundations can't legally own equities",
+      "All institutions use identical allocations"
     ],
     "correctIndex": 0,
-    "explanation": "Even with similar risk appetites, differences in liability structure, time horizon, and spending needs mean the optimal asset allocation is specific to each institution's own objectives and constraints as defined in its IPS."
+    "explanation": "Differences in liability structure, time horizon, and spending needs mean the ideal allocation is specific to each institution's own goals."
   },
   {
     "id": "pm-023",
     "topic": "Portfolio Management",
     "subtopic": "Overview of Portfolio Management Process",
     "difficulty": "medium",
-    "question": "In the portfolio management process, why is the asset allocation decision generally considered before individual security selection?",
+    "question": "Why is asset allocation decided before individual security selection?",
     "options": [
-      "Because security selection is illegal without an IPS",
-      "Because the broad allocation across asset classes explains a large share of a diversified portfolio's return variability, so it is set first as the foundation for the plan",
-      "Because regulators require alphabetical ordering",
-      "Because security selection always happens simultaneously with rebalancing"
+      "Security selection is illegal without an IPS",
+      "It drives most of a portfolio's return variability",
+      "Regulators require alphabetical order",
+      "It always happens with rebalancing"
     ],
     "correctIndex": 1,
-    "explanation": "Empirical studies have found that the allocation across broad asset classes drives most of the variation in returns of a diversified portfolio over time, which is why it is treated as the foundational decision before individual securities are chosen."
+    "explanation": "Studies show that allocation across broad asset classes drives most of a diversified portfolio's return variation over time."
   },
   {
     "id": "pm-024",
     "topic": "Portfolio Management",
     "subtopic": "Economics and Investments",
     "difficulty": "medium",
-    "question": "Why do cyclical equity sectors, such as consumer discretionary and industrials, tend to outperform during the early expansion phase of the business cycle?",
+    "question": "Why do cyclical sectors outperform in early economic expansion?",
     "options": [
-      "Central banks ban defensive sector investing during expansions",
-      "Rising consumer confidence, credit growth, and demand tend to boost earnings for businesses most sensitive to economic activity",
-      "Cyclical sectors pay the highest fixed dividends",
-      "Cyclical sectors are unaffected by economic conditions"
+      "Central banks ban defensive investing",
+      "Rising demand and credit lift cyclical earnings",
+      "Cyclical sectors pay the highest dividends",
+      "Cyclical sectors ignore economic conditions"
     ],
     "correctIndex": 1,
-    "explanation": "As the economy moves from recession into expansion, improving demand and credit conditions disproportionately benefit businesses whose earnings are closely tied to overall economic activity."
+    "explanation": "As the economy exits recession, improving demand and credit conditions especially benefit firms whose earnings track economic activity."
   },
   {
     "id": "pm-025",
     "topic": "Portfolio Management",
     "subtopic": "Economics and Investments",
     "difficulty": "hard",
-    "question": "Why do defensive sectors, such as utilities and consumer staples, tend to hold up relatively better than cyclical sectors during a late-cycle slowdown or recession?",
+    "question": "Why do defensive sectors hold up better in a late-cycle slowdown?",
     "options": [
-      "Their products and services see relatively stable demand regardless of the economic environment, supporting more resilient earnings",
-      "They are exempt from all forms of market risk",
-      "They always offer higher returns than cyclical sectors in every environment",
-      "Government regulation guarantees their stock prices"
+      "Demand for their products stays stable",
+      "They're exempt from all market risk",
+      "They always beat cyclical sectors",
+      "Regulation guarantees their stock prices"
     ],
     "correctIndex": 0,
-    "explanation": "Demand for necessities like electricity and household staples tends to be less sensitive to economic swings, so these sectors' earnings are typically more resilient when growth slows."
+    "explanation": "Demand for necessities like electricity and staples is less sensitive to economic swings, so these sectors' earnings stay more resilient in slowdowns."
   }
 ]

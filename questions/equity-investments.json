@@ -4,374 +4,374 @@
     "topic": "Equity Investments",
     "subtopic": "Industry and Competitive Analysis",
     "difficulty": "easy",
-    "question": "In Porter's five forces framework, why does a high threat of new entrants tend to compress an industry's long-run profitability?",
+    "question": "Why does a high threat of new entrants hurt long-run industry profitability?",
     "options": [
-      "New entrants immediately capture the largest market share",
-      "New entrants add capacity and competitive pressure, eroding pricing power over time",
-      "New entrants raise switching costs for existing customers",
-      "New entrants reduce the bargaining power of suppliers"
+      "They quickly capture market share",
+      "They add capacity, eroding pricing power",
+      "They raise switching costs for customers",
+      "They reduce supplier bargaining power"
     ],
     "correctIndex": 1,
-    "explanation": "Low barriers to entry mean profitable incumbents attract imitators, and the added supply and competition for customers push prices and margins down over time."
+    "explanation": "Low barriers to entry invite new competitors, whose added supply and competition for customers push prices and margins down over time."
   },
   {
     "id": "eq-002",
     "topic": "Equity Investments",
     "subtopic": "Industry and Competitive Analysis",
     "difficulty": "medium",
-    "question": "A retailer sources a commodity input from thousands of small, interchangeable farms. What does this imply about the retailer's bargaining power over suppliers?",
+    "question": "A retailer buys from thousands of small, similar suppliers. What does this imply?",
     "options": [
-      "The retailer has weak bargaining power because suppliers are concentrated",
-      "The retailer has strong bargaining power because no single supplier is critical or hard to replace",
-      "Bargaining power is irrelevant since the input is a commodity",
-      "The retailer's bargaining power depends only on transportation costs"
+      "Weak bargaining power for the retailer",
+      "Strong power - no supplier is critical",
+      "Bargaining power is irrelevant here",
+      "Power depends only on transport costs"
     ],
     "correctIndex": 1,
-    "explanation": "When suppliers are fragmented and their output is undifferentiated, no single supplier can demand better terms, shifting negotiating leverage toward the buyer."
+    "explanation": "When suppliers are fragmented and interchangeable, none can demand better terms, shifting negotiating leverage to the buyer."
   },
   {
     "id": "eq-003",
     "topic": "Equity Investments",
     "subtopic": "Industry and Competitive Analysis",
     "difficulty": "medium",
-    "question": "Which characteristic is most typical of an industry in the growth stage of its life cycle, as opposed to the mature stage?",
+    "question": "What best distinguishes an industry's growth stage from its mature stage?",
     "options": [
-      "Slowing unit volume growth and consolidation among survivors",
-      "Rapidly rising unit demand with relatively few competitors and high reinvestment needs",
-      "Declining demand as substitutes take over",
-      "Stable market shares and price-based competition"
+      "Slowing growth and consolidation",
+      "Rapid demand growth, few rivals, high investment",
+      "Declining demand from substitutes",
+      "Stable shares, price competition"
     ],
     "correctIndex": 1,
-    "explanation": "Growth-stage industries see demand expanding faster than the overall economy, competitors are still establishing positions, and firms reinvest heavily to build capacity rather than paying out cash."
+    "explanation": "Growth-stage industries see demand expanding quickly, few established rivals, and heavy reinvestment rather than cash payouts."
   },
   {
     "id": "eq-004",
     "topic": "Equity Investments",
     "subtopic": "Industry and Competitive Analysis",
     "difficulty": "hard",
-    "question": "Why do high barriers to entry, such as large economies of scale or strong brand loyalty, tend to support sustained pricing power for incumbents rather than just temporarily high profits?",
+    "question": "Why do high entry barriers support lasting pricing power for incumbents?",
     "options": [
-      "They guarantee incumbents will never face any competition",
-      "They make it costly or slow for new competitors to replicate the incumbents' scale or customer trust, delaying the erosion of excess returns",
-      "They eliminate the need for incumbents to innovate",
-      "They automatically increase the bargaining power of buyers"
+      "They guarantee no future competition",
+      "They slow rivals from matching scale/trust",
+      "They remove the need to innovate",
+      "They boost buyer bargaining power"
     ],
     "correctIndex": 1,
-    "explanation": "Barriers to entry do not stop competition forever, but they raise the cost and time required for rivals to match an incumbent's cost structure or brand equity, allowing above-normal returns to persist longer than in a low-barrier industry."
+    "explanation": "Barriers don't block competition forever, but they raise the cost and time for rivals to match an incumbent's scale or brand, letting above-normal returns persist longer."
   },
   {
     "id": "eq-005",
     "topic": "Equity Investments",
     "subtopic": "Industry and Competitive Analysis",
     "difficulty": "easy",
-    "question": "A rise in the threat of substitute products most directly threatens an industry's profitability through which mechanism?",
+    "question": "How does a rising threat of substitutes most directly hurt profitability?",
     "options": [
-      "It increases the cost of raw materials",
-      "It caps how much the industry can raise prices before customers switch away",
-      "It reduces the number of direct competitors",
-      "It increases customer switching costs"
+      "It raises raw material costs",
+      "It caps prices before customers switch away",
+      "It reduces the number of rivals",
+      "It raises customer switching costs"
     ],
     "correctIndex": 1,
-    "explanation": "Close substitutes give customers a credible alternative, so firms lose pricing power because charging more simply pushes buyers toward the substitute."
+    "explanation": "Close substitutes give customers an alternative, so firms lose pricing power since raising prices just pushes buyers elsewhere."
   },
   {
     "id": "eq-006",
     "topic": "Equity Investments",
     "subtopic": "Discounted Cash Flow Models",
     "difficulty": "medium",
-    "question": "An analyst is valuing a company that has been steadily and significantly increasing its financial leverage. Why might FCFF be a more reliable basis for valuation than FCFE in this case?",
+    "question": "Why might FCFF beat FCFE for valuing a firm with rising leverage?",
     "options": [
-      "FCFF ignores the effect of debt entirely, so leverage changes never distort it",
-      "FCFF is computed before financing effects, so changing leverage is less likely to make it swing erratically, whereas FCFE can be distorted by changing debt issuance and repayment patterns",
-      "FCFE is always negative for leveraged firms",
-      "FCFF requires fewer assumptions about the cost of equity"
+      "FCFF ignores debt effects entirely",
+      "FCFF is pre-financing, less swayed by leverage",
+      "FCFE is always negative when leveraged",
+      "FCFF needs no cost-of-equity assumption"
     ],
     "correctIndex": 1,
-    "explanation": "FCFF represents cash flow available to all capital providers before financing decisions, so it is less sensitive to the mechanics of changing capital structure than FCFE, which nets out debt cash flows directly."
+    "explanation": "FCFF reflects cash available to all capital providers before financing decisions, so it's less distorted by changing capital structure than FCFE."
   },
   {
     "id": "eq-007",
     "topic": "Equity Investments",
     "subtopic": "Discounted Cash Flow Models",
     "difficulty": "medium",
-    "question": "Why might an analyst switch from an FCFE-based valuation to an FCFF-based approach when a firm's equity free cash flow is frequently negative?",
+    "question": "Why switch from FCFE to FCFF when equity free cash flow is often negative?",
     "options": [
-      "Because FCFF is always larger than FCFE",
-      "Because discounting a series of negative and volatile FCFE figures produces unreliable value estimates, while FCFF avoids the noise introduced by financing activity",
-      "Because FCFF does not need to be discounted",
-      "Because negative FCFE means the company is bankrupt"
+      "FCFF is always larger than FCFE",
+      "Volatile FCFE gives unreliable value estimates",
+      "FCFF doesn't need to be discounted",
+      "Negative FCFE means bankruptcy"
     ],
     "correctIndex": 1,
-    "explanation": "Frequent negative FCFE (often from heavy borrowing or repayment swings) makes growth rates and present values unstable, so valuing the firm as a whole with FCFF and then subtracting the value of debt is often more robust."
+    "explanation": "Frequent negative or volatile FCFE makes valuations unstable, so valuing the whole firm with FCFF, then subtracting debt, is often more robust."
   },
   {
     "id": "eq-008",
     "topic": "Equity Investments",
     "subtopic": "Discounted Cash Flow Models",
     "difficulty": "hard",
-    "question": "In a two-stage DCF model, why is it generally considered unreasonable to assume a terminal growth rate that permanently exceeds the long-run growth rate of the overall economy?",
+    "question": "Why is a terminal growth rate above the economy's growth rate unrealistic?",
     "options": [
-      "Regulators prohibit growth assumptions above GDP growth",
-      "A firm growing faster than the economy forever would eventually become implausibly large relative to the whole economy",
-      "Terminal growth rates have no effect on the valuation",
+      "Regulators cap growth assumptions",
+      "The firm would eventually dwarf the economy",
+      "Terminal growth doesn't affect valuation",
       "It would make the discount rate negative"
     ],
     "correctIndex": 1,
-    "explanation": "Compounding any growth rate above the economy's long-run growth rate indefinitely implies the firm eventually consumes an unrealistic share of total economic output, so terminal growth is typically capped near the economy's sustainable growth rate."
+    "explanation": "Compounding growth above the economy's rate forever implies the firm eventually consumes an unrealistic share of total output, so terminal growth is typically capped near GDP growth."
   },
   {
     "id": "eq-009",
     "topic": "Equity Investments",
     "subtopic": "Discounted Cash Flow Models",
     "difficulty": "medium",
-    "question": "What is the main conceptual difference between how FCFE and FCFF are built up from a company's earnings?",
+    "question": "What's the key difference in how FCFE and FCFF are built from earnings?",
     "options": [
-      "FCFE starts from net income and reflects cash flow to equity holders after debt payments, while FCFF starts from a pre-interest earnings measure and reflects cash flow to all capital providers",
-      "FCFE and FCFF are identical for firms with any amount of debt",
-      "FCFF is calculated only for private companies",
-      "FCFE ignores taxes while FCFF includes them"
+      "FCFE starts after interest; FCFF before it",
+      "They're identical for any leveraged firm",
+      "FCFF applies only to private firms",
+      "FCFE ignores taxes; FCFF doesn't"
     ],
     "correctIndex": 0,
-    "explanation": "FCFE begins with net income (already net of interest expense) and adjusts for items relevant only to equity holders, while FCFF begins with an unlevered earnings figure so that it represents cash available to both debt and equity investors before financing effects."
+    "explanation": "FCFE begins with net income, already net of interest, for equity holders; FCFF begins with an unlevered earnings figure covering all capital providers."
   },
   {
     "id": "eq-010",
     "topic": "Equity Investments",
     "subtopic": "Discounted Cash Flow Models",
     "difficulty": "medium",
-    "question": "Why are DCF valuations often described as highly sensitive to the terminal value assumption?",
+    "question": "Why are DCF valuations so sensitive to the terminal value assumption?",
     "options": [
-      "Terminal value is usually a small fraction of total estimated value",
-      "The terminal value, discounted back many years, often represents the majority of the total present value, so small changes in its assumed growth rate or discount rate can swing the valuation substantially",
-      "Terminal value is not discounted at all",
-      "Terminal value only matters for financial companies"
+      "Terminal value is usually a small share of value",
+      "It often makes up most of total present value",
+      "Terminal value isn't discounted",
+      "It only matters for financial firms"
     ],
     "correctIndex": 1,
-    "explanation": "Because the terminal value captures the cash flows for all years beyond the explicit forecast horizon, it typically dominates the total valuation, making the result very sensitive to the assumptions used to estimate it."
+    "explanation": "Terminal value captures all cash flows beyond the forecast horizon, so it typically dominates total value, making results very sensitive to its assumptions."
   },
   {
     "id": "eq-011",
     "topic": "Equity Investments",
     "subtopic": "Market-Based Valuation",
     "difficulty": "medium",
-    "question": "Why can the trailing P/E ratio be a misleading valuation metric for a cyclical company at the peak of its earnings cycle?",
+    "question": "Why can trailing P/E mislead for a cyclical firm at its earnings peak?",
     "options": [
-      "Peak-cycle earnings are unusually high, making the P/E look artificially low and the stock appear cheaper than it really is on a normalized basis",
-      "P/E ratios cannot be calculated for cyclical companies",
-      "Cyclical companies never report positive earnings",
-      "P/E ratios only apply to companies with negative earnings"
+      "Peak earnings make P/E look artificially low",
+      "P/E can't be calculated for cyclicals",
+      "Cyclical firms never post positive earnings",
+      "P/E only applies to firms with losses"
     ],
     "correctIndex": 0,
-    "explanation": "At a cyclical peak, earnings are temporarily inflated, so dividing price by that peak earnings figure produces a low P/E that understates the true valuation once earnings normalize (mean-revert) over the cycle."
+    "explanation": "At a cyclical peak, earnings are temporarily inflated, so the P/E looks low and understates true valuation once earnings normalize."
   },
   {
     "id": "eq-012",
     "topic": "Equity Investments",
     "subtopic": "Market-Based Valuation",
     "difficulty": "medium",
-    "question": "Why might an analyst prefer EV/EBITDA over P/E when comparing companies with very different capital structures?",
+    "question": "Why prefer EV/EBITDA over P/E across firms with different capital structures?",
     "options": [
-      "EV/EBITDA ignores profitability entirely",
-      "EV/EBITDA compares enterprise value to a pre-interest, pre-tax earnings measure, making it less distorted by differences in leverage and tax positions across firms",
-      "P/E always gives a higher multiple than EV/EBITDA",
-      "EV/EBITDA is only usable for loss-making companies"
+      "It ignores profitability entirely",
+      "It's less distorted by leverage and taxes",
+      "P/E always exceeds EV/EBITDA",
+      "It only works for loss-making firms"
     ],
     "correctIndex": 1,
-    "explanation": "Because EBITDA is measured before interest and taxes, and enterprise value includes both debt and equity, the EV/EBITDA multiple neutralizes differences in financing choices, allowing cleaner comparisons across firms with different leverage."
+    "explanation": "EBITDA is measured before interest and taxes, and enterprise value includes debt and equity, so the multiple neutralizes differences in financing across firms."
   },
   {
     "id": "eq-013",
     "topic": "Equity Investments",
     "subtopic": "Market-Based Valuation",
     "difficulty": "hard",
-    "question": "An analyst values a company by applying the average P/E of a group of 'comparable' firms. What is the biggest risk this method can mislead the valuation?",
+    "question": "What's the biggest risk when valuing a firm using peers' average P/E?",
     "options": [
-      "P/E multiples are always identical for firms in the same industry",
-      "The peer firms may differ meaningfully in growth prospects, risk, or profitability, so applying their average multiple can embed those differences into the target's valuation without adjustment",
-      "The method is invalid unless exactly ten peer companies are used",
-      "Comparable company analysis cannot be used for public companies"
+      "Peers always share the exact same P/E",
+      "Peers may differ in growth or risk",
+      "The method needs exactly ten peers",
+      "It can't be used for public firms"
     ],
     "correctIndex": 1,
-    "explanation": "Multiples reflect the market's view of a firm's growth, risk, and quality of earnings; if the 'comparables' are not truly comparable on those dimensions, the borrowed multiple silently imports the peer group's characteristics rather than the target's own fundamentals."
+    "explanation": "Multiples reflect the market's view of growth, risk, and earnings quality; if peers aren't truly comparable, their multiple imports those differences into the target's value."
   },
   {
     "id": "eq-014",
     "topic": "Equity Investments",
     "subtopic": "Market-Based Valuation",
     "difficulty": "medium",
-    "question": "Why is the price-to-book (P/B) ratio considered especially relevant for valuing banks and other financial institutions?",
+    "question": "Why is price-to-book especially relevant for valuing banks?",
     "options": [
       "Banks never report positive earnings",
-      "Financial institutions' balance sheet assets and liabilities are largely financial instruments marked closer to fair value, making book value a more meaningful proxy for economic value than for industrial firms",
-      "P/B ratios are legally required for bank valuation",
-      "Banks do not have any tangible assets"
+      "Bank assets are marked closer to fair value",
+      "P/B is legally required for banks",
+      "Banks hold no tangible assets"
     ],
     "correctIndex": 1,
-    "explanation": "Because a bank's balance sheet consists mostly of financial assets and liabilities that are frequently marked to market, book value tends to track underlying economic value more closely than it does for firms with significant intangible or historical-cost assets."
+    "explanation": "A bank's balance sheet is mostly financial instruments marked near fair value, so book value tracks economic value more closely than for industrial firms."
   },
   {
     "id": "eq-015",
     "topic": "Equity Investments",
     "subtopic": "Market-Based Valuation",
     "difficulty": "easy",
-    "question": "What is the key distinction between the 'method of comparables' and the 'method of forecasted fundamentals' in market-based valuation?",
+    "question": "What distinguishes 'comparables' from 'forecasted fundamentals' valuation?",
     "options": [
-      "The method of comparables values a stock relative to peers' multiples, while the method of forecasted fundamentals derives a justified multiple from the company's own expected growth, risk, and profitability",
-      "The method of forecasted fundamentals only works for private companies",
-      "Both methods produce identical valuations by construction",
-      "The method of comparables requires discounting future cash flows"
+      "Comparables use peers; fundamentals derive it",
+      "Fundamentals only work for private firms",
+      "Both always give identical values",
+      "Comparables require discounting cash flows"
     ],
     "correctIndex": 0,
-    "explanation": "The comparables method anchors value to what similar firms currently trade at, while the fundamentals method builds the justified multiple directly from the company's own drivers, such as expected growth and required return."
+    "explanation": "The comparables method anchors value to what similar firms trade at, while the fundamentals method builds the multiple from the firm's own growth and risk."
   },
   {
     "id": "eq-016",
     "topic": "Equity Investments",
     "subtopic": "Residual Income Models",
     "difficulty": "medium",
-    "question": "For which type of company is a residual income model generally preferred over a dividend discount model or free cash flow model?",
+    "question": "For which company is a residual income model preferred over DDM or FCF models?",
     "options": [
-      "A mature company with stable, predictable dividends",
-      "A company that pays no dividends and has negative or highly volatile free cash flow, but positive and measurable accounting earnings",
-      "A company with no book value of equity",
-      "A company that only issues debt, never equity"
+      "A mature firm with stable dividends",
+      "One with no dividends, volatile FCF",
+      "A firm with no book equity value",
+      "A firm that only ever issues debt"
     ],
     "correctIndex": 1,
-    "explanation": "Residual income models rely on book value and earnings rather than dividends or free cash flow, so they remain usable when a firm pays no dividends or has erratic cash flows, as long as its accounting earnings are still informative."
+    "explanation": "Residual income relies on book value and earnings rather than dividends or cash flow, so it stays usable even when a firm pays no dividends or has erratic cash flows."
   },
   {
     "id": "eq-017",
     "topic": "Equity Investments",
     "subtopic": "Residual Income Models",
     "difficulty": "hard",
-    "question": "Why does the residual income model require the 'clean surplus' assumption to hold reasonably well?",
+    "question": "Why must the 'clean surplus' assumption hold for residual income models?",
     "options": [
-      "Because the model depends on all changes in book value flowing through reported earnings, so items bypassing the income statement (e.g., certain equity adjustments) can distort the residual income calculation",
-      "Because clean surplus guarantees the company will always be profitable",
-      "Because it is a regulatory requirement unrelated to valuation",
-      "Because clean surplus eliminates the need for a discount rate"
+      "Book value changes must flow through earnings",
+      "Clean surplus guarantees profitability",
+      "It's an unrelated regulatory rule",
+      "It removes the need for a discount rate"
     ],
     "correctIndex": 0,
-    "explanation": "The residual income approach ties book value growth directly to earnings and dividends; if significant gains or losses bypass the income statement and go straight to equity, the model's link between earnings and value creation breaks down."
+    "explanation": "The model ties book value growth to earnings and dividends; if gains or losses bypass the income statement, the link between earnings and value breaks down."
   },
   {
     "id": "eq-018",
     "topic": "Equity Investments",
     "subtopic": "Residual Income Models",
     "difficulty": "medium",
-    "question": "Conceptually, what does 'residual income' measure in an equity valuation context?",
+    "question": "What does 'residual income' measure in equity valuation?",
     "options": [
-      "Total net income before any deductions",
-      "The earnings a company generates in excess of the dollar cost of the equity capital used to generate those earnings",
-      "Cash flow remaining after paying all creditors",
-      "The portion of earnings paid out as dividends"
+      "Total net income before deductions",
+      "Earnings above the cost of equity capital used",
+      "Cash flow left after paying creditors",
+      "The share of earnings paid as dividends"
     ],
     "correctIndex": 1,
-    "explanation": "Residual income subtracts an equity charge (required return multiplied by beginning book value) from net income, isolating the value truly created above what shareholders require for bearing the risk of their capital."
+    "explanation": "Residual income subtracts an equity charge (required return times book value) from net income, isolating value created above what shareholders require."
   },
   {
     "id": "eq-019",
     "topic": "Equity Investments",
     "subtopic": "Residual Income Models",
     "difficulty": "hard",
-    "question": "Why is the residual income model often described as less sensitive to terminal value assumptions than a dividend discount model or free cash flow model?",
+    "question": "Why is residual income less sensitive to terminal value than DDM or FCF models?",
     "options": [
-      "Residual income models never use a terminal value",
-      "A large portion of value in a residual income model is already recognized through current book value, so the forecast horizon and terminal value contribute a smaller share of total estimated value",
-      "Residual income models assume zero growth after year one",
-      "Terminal value is irrelevant to any valuation model"
+      "It never uses a terminal value at all",
+      "Book value already captures much of the value",
+      "It assumes zero growth after year one",
+      "Terminal value never matters in valuation"
     ],
     "correctIndex": 1,
-    "explanation": "Because the model starts from book value (which already reflects a large share of intrinsic value) and adds only the present value of future residual income, the terminal component tends to matter proportionally less than in models that start from zero, such as the dividend discount model."
+    "explanation": "Since the model starts from book value, which already reflects much of intrinsic value, the terminal component contributes proportionally less than in models starting from zero."
   },
   {
     "id": "eq-020",
     "topic": "Equity Investments",
     "subtopic": "Residual Income Models",
     "difficulty": "medium",
-    "question": "Which situation would most likely cause a residual income valuation to be unreliable?",
+    "question": "What would most likely make a residual income valuation unreliable?",
     "options": [
-      "The company pays a steady, growing dividend",
-      "The company has significant off-balance-sheet assets or aggressive accounting practices that cause book value to understate or overstate true economic capital",
-      "The company has a stable long-term growth rate",
-      "The company operates in a regulated industry"
+      "A steady, growing dividend",
+      "Aggressive accounting distorting book value",
+      "A stable long-term growth rate",
+      "Operating in a regulated industry"
     ],
     "correctIndex": 1,
-    "explanation": "Because the model's equity charge and starting value depend directly on reported book value, distortions from aggressive accounting or unrecognized assets and liabilities can meaningfully bias the residual income estimate."
+    "explanation": "Because the model's equity charge and starting value depend on book value, distortions from aggressive accounting or unrecognized assets can bias the estimate."
   },
   {
     "id": "eq-021",
     "topic": "Equity Investments",
     "subtopic": "Private Company Valuation",
     "difficulty": "medium",
-    "question": "Why is a discount for lack of marketability (DLOM) applied when valuing shares in a private company?",
+    "question": "Why apply a discount for lack of marketability to private company shares?",
     "options": [
-      "Because private company shares cannot legally be sold",
-      "Because private shares cannot be quickly converted to cash at a known market price the way exchange-listed shares can, so investors demand a discount for that illiquidity",
-      "Because private companies always have lower earnings than public ones",
-      "Because DLOM compensates for higher expected growth"
+      "Private shares can't legally be sold",
+      "They can't be quickly sold at a known price",
+      "Private firms always earn less",
+      "It compensates for higher growth"
     ],
     "correctIndex": 1,
-    "explanation": "Without a ready public market, selling a private stake takes time, effort, and often a negotiated discount, so buyers require a lower price today to compensate for that illiquidity risk."
+    "explanation": "Without a public market, selling a private stake takes time and effort, so buyers demand a lower price today to compensate for that illiquidity."
   },
   {
     "id": "eq-022",
     "topic": "Equity Investments",
     "subtopic": "Private Company Valuation",
     "difficulty": "medium",
-    "question": "Why would a minority, non-controlling stake in a private company typically be valued at a discount relative to its pro-rata share of total enterprise value?",
+    "question": "Why is a minority stake in a private firm valued at a discount?",
     "options": [
-      "Minority shareholders automatically receive higher dividends",
-      "A minority holder cannot direct company decisions such as dividend policy, asset sales, or strategic direction, so that lack of control reduces the stake's value relative to a controlling interest",
-      "Minority stakes are always illiquid, which is unrelated to control",
-      "Regulators require minority discounts by law in all jurisdictions"
+      "Minority holders get higher dividends",
+      "They can't direct company decisions",
+      "Minority stakes are always illiquid",
+      "Law requires minority discounts everywhere"
     ],
     "correctIndex": 1,
-    "explanation": "A discount for lack of control reflects the fact that a minority owner cannot unilaterally influence major corporate decisions, which are worth less than the same economic interest bundled with control."
+    "explanation": "A discount for lack of control reflects that a minority owner can't unilaterally influence major decisions, which is worth less than a controlling interest."
   },
   {
     "id": "eq-023",
     "topic": "Equity Investments",
     "subtopic": "Private Company Valuation",
     "difficulty": "hard",
-    "question": "How do a control premium and a discount for lack of control (DLOC) relate to each other conceptually?",
+    "question": "How do a control premium and discount for lack of control relate?",
     "options": [
-      "They are unrelated adjustments used in entirely different valuation contexts",
-      "A control premium is added when valuing a controlling interest, and it is mathematically related to the DLOC applied when going the other direction, from a controlling value to a minority value",
-      "A control premium is always larger than 100% of firm value",
-      "DLOC applies only to publicly traded companies"
+      "They're unrelated, used in different contexts",
+      "DLOC is essentially the inverse of the premium",
+      "A control premium always exceeds 100%",
+      "DLOC applies only to public companies"
     ],
     "correctIndex": 1,
-    "explanation": "The control premium represents the extra value control conveys; the DLOC is essentially the inverse adjustment used to strip that same value out when moving from a controlling-interest value to a minority-interest value."
+    "explanation": "The control premium adds value for control; the DLOC is essentially the inverse adjustment used to strip that value out when moving to a minority value."
   },
   {
     "id": "eq-024",
     "topic": "Equity Investments",
     "subtopic": "Private Company Valuation",
     "difficulty": "medium",
-    "question": "Why do analysts often apply a higher required rate of return (discount rate) when valuing a private company compared to a similar public company?",
+    "question": "Why use a higher discount rate for private firms vs. similar public ones?",
     "options": [
-      "Private companies always have higher revenue growth",
-      "Private companies typically carry greater risks from illiquidity, key-person dependence, less diversified operations, and limited access to capital, all of which investors demand extra compensation for",
-      "Private companies are exempt from taxation",
-      "Discount rates are unrelated to risk in private company valuation"
+      "Private firms always grow faster",
+      "They carry more illiquidity and key-person risk",
+      "Private firms are exempt from tax",
+      "Discount rates ignore risk here"
     ],
     "correctIndex": 1,
-    "explanation": "Private firms often face additional risks such as illiquidity, concentration in a narrow customer or product base, and reliance on a few key managers, all of which justify a higher required return than a comparable public company would command."
+    "explanation": "Private firms often face added risks like illiquidity, concentrated operations, and reliance on a few key managers, justifying a higher required return."
   },
   {
     "id": "eq-025",
     "topic": "Equity Investments",
     "subtopic": "Private Company Valuation",
     "difficulty": "medium",
-    "question": "Why might the appropriate valuation approach and discounts differ depending on the *purpose* of a private company valuation (e.g., for a strategic acquisition versus for estate tax reporting)?",
+    "question": "Why can valuation approach differ by purpose (acquisition vs. tax reporting)?",
     "options": [
-      "Valuation purpose never affects methodology or assumptions",
-      "The standard of value (e.g., fair market value to a hypothetical buyer versus strategic value to a specific acquirer with synergies) changes which cash flows, discounts, and premiums are appropriate to apply",
-      "Estate tax valuations always use the highest possible value",
-      "Strategic acquisitions never involve control premiums"
+      "Purpose never affects methodology",
+      "Fair value vs. strategic value differ",
+      "Estate valuations use the highest value",
+      "Strategic deals never have control premiums"
     ],
     "correctIndex": 1,
-    "explanation": "A strategic acquirer may justify paying for synergies unavailable to a generic buyer, while a fair-market-value standard used for tax purposes assumes a hypothetical willing buyer and seller with no special synergies, so the same company can have different appropriate valuations depending on the engagement's purpose."
+    "explanation": "A strategic acquirer may pay for synergies unavailable to a generic buyer, while fair-market-value standards assume a hypothetical buyer with no special synergies."
   }
 ]

@@ -4,374 +4,374 @@
     "topic": "Corporate Issuers",
     "subtopic": "Capital Budgeting",
     "difficulty": "medium",
-    "question": "A company has the ability to expand a project's capacity later if early demand proves strong. Why does this 'option to expand' add value beyond a static NPV calculation that assumes a fixed project scope?",
+    "question": "Why does an 'option to expand' add value beyond a static NPV calculation?",
     "options": [
-      "Because it allows management to capture additional upside if conditions turn out favorably, without being obligated to do so if conditions are unfavorable, which is exactly the asymmetric payoff profile of an option",
-      "Because expansion options always guarantee a fixed additional cash flow regardless of outcomes",
-      "Because static NPV already fully captures the value of future managerial flexibility",
-      "Because options to expand eliminate all project risk"
+      "Captures upside without obligating downside",
+      "Guarantees fixed extra cash flow always",
+      "Static NPV already captures this flexibility",
+      "It eliminates all project risk"
     ],
     "correctIndex": 0,
-    "explanation": "A static NPV assumes a single fixed path for the project, but the ability to expand only when conditions are favorable creates an asymmetric payoff, similar to a call option, which has value that traditional NPV alone misses."
+    "explanation": "Static NPV assumes one fixed path, but the ability to expand only if conditions are favorable creates an asymmetric, option-like payoff that basic NPV misses."
   },
   {
     "id": "ci-002",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Budgeting",
     "difficulty": "medium",
-    "question": "Why does the option to abandon a project add value to a capital investment, particularly in uncertain industries?",
+    "question": "Why does the option to abandon add value to risky capital projects?",
     "options": [
-      "Because it locks management into continuing the project regardless of performance",
-      "Because it limits downside losses by allowing management to walk away or redeploy assets if the project underperforms, effectively putting a floor under the worst-case outcome",
-      "Because abandonment always results in a cash inflow larger than the original investment",
-      "Because it eliminates the need to ever estimate a project's expected cash flows"
+      "It locks management into continuing regardless",
+      "It caps downside by allowing an early exit",
+      "Abandonment always nets more than the investment",
+      "It removes the need to estimate cash flows"
     ],
     "correctIndex": 1,
-    "explanation": "The option to abandon works like a put option: it caps the downside by giving management the right, not the obligation, to exit early and recover salvage or redeployment value if the project turns out poorly."
+    "explanation": "The option to abandon works like a put: it caps downside by letting management exit early and recover salvage value if a project turns out poorly."
   },
   {
     "id": "ci-003",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Budgeting",
     "difficulty": "hard",
-    "question": "A firm could invest in a project today, or wait a year to gather more information about demand before committing. Why can the option to wait have positive value even if the project has a positive NPV today?",
+    "question": "Why can the option to wait have value even when a project's NPV is positive today?",
     "options": [
-      "Because waiting always increases the initial investment cost, which is inherently valuable",
-      "Because waiting allows the firm to avoid committing capital before uncertainty resolves, preserving the ability to walk away entirely if new information turns unfavorable, which a now-or-never decision would forgo",
-      "Because a positive NPV today guarantees an even higher NPV in the future",
-      "Because waiting eliminates the time value of money"
+      "Waiting always raises the investment cost",
+      "Preserves flexibility as uncertainty resolves",
+      "Positive NPV today guarantees a higher one later",
+      "Waiting eliminates the time value of money"
     ],
     "correctIndex": 1,
-    "explanation": "Committing today forecloses the ability to avoid the investment if new information is unfavorable; the option to wait has value because it preserves flexibility, which can outweigh the cost of delaying a currently positive-NPV project."
+    "explanation": "Committing today forecloses the ability to walk away if new information turns unfavorable; the option to wait preserves that flexibility, which can outweigh the cost of delay."
   },
   {
     "id": "ci-004",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Budgeting",
     "difficulty": "hard",
-    "question": "Why do traditional discounted cash flow techniques like NPV tend to understate the true value of capital projects that contain significant real options (to expand, abandon, or delay)?",
+    "question": "Why does standard NPV tend to understate projects with valuable real options?",
     "options": [
-      "Because standard NPV analysis typically assumes a single, fixed set of future cash flows and does not explicitly value management's ability to adapt decisions as uncertainty resolves over time",
-      "Because NPV always overstates project value relative to real options analysis",
-      "Because real options only exist for financial assets, never for physical capital projects",
-      "Because discounted cash flow models already incorporate all forms of managerial flexibility by default"
+      "It assumes one fixed path, ignoring flexibility",
+      "NPV always overstates value vs real options",
+      "Real options only apply to financial assets",
+      "DCF already prices in all managerial flexibility"
     ],
     "correctIndex": 0,
-    "explanation": "Standard NPV typically evaluates one predetermined scenario of cash flows, ignoring that management can react to new information; real options analysis captures this added flexibility value that basic NPV overlooks."
+    "explanation": "Standard NPV typically evaluates one predetermined cash flow scenario, ignoring management's ability to react to new information, which real options analysis captures."
   },
   {
     "id": "ci-005",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Budgeting",
     "difficulty": "medium",
-    "question": "For two mutually exclusive projects of very different scale, why might NPV and IRR rank the projects differently?",
+    "question": "For projects of very different scale, why might NPV and IRR rank them differently?",
     "options": [
-      "Because IRR is expressed as a percentage return and can favor a smaller project with a higher rate of return but a lower absolute dollar value creation, while NPV directly measures the absolute increase in firm value",
-      "Because IRR and NPV always agree on ranking for any set of projects",
-      "Because NPV ignores the initial investment amount entirely",
-      "Because IRR cannot be calculated for projects of different sizes"
+      "IRR favors high % return over absolute value",
+      "IRR and NPV always agree on ranking",
+      "NPV ignores the initial investment entirely",
+      "IRR cannot be computed for differing sizes"
     ],
     "correctIndex": 0,
-    "explanation": "IRR measures a percentage return and can favor a smaller project with a higher rate, while NPV measures the absolute dollar value added; when project scale differs greatly, these two goals can point to different 'better' choices."
+    "explanation": "IRR measures percentage return and can favor a smaller, higher-rate project, while NPV measures absolute dollar value added; scale differences can make these point to different 'better' choices."
   },
   {
     "id": "ci-006",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Budgeting",
     "difficulty": "hard",
-    "question": "Why can a project with unconventional cash flows (for example, a large cash outflow at the end of the project's life in addition to the initial investment) produce more than one mathematically valid IRR?",
+    "question": "Why can a project with unconventional cash flows produce more than one valid IRR?",
     "options": [
-      "Because IRR is defined as the discount rate that sets NPV to zero, and when cash flow signs change more than once, the NPV profile can cross zero at multiple discount rates",
-      "Because IRR is undefined for any project with more than two cash flows",
-      "Because unconventional cash flows always produce a negative NPV",
-      "Because multiple IRRs only occur when a project has no initial investment"
+      "NPV can cross zero at multiple discount rates",
+      "IRR is undefined for over two cash flows",
+      "Unconventional flows always mean negative NPV",
+      "Multiple IRRs need zero initial investment"
     ],
     "correctIndex": 0,
-    "explanation": "IRR is the root of the NPV equation set to zero; when cash flows change sign more than once, that equation can have multiple valid roots, producing multiple IRRs and making the IRR rule unreliable in that case."
+    "explanation": "IRR is the discount rate where NPV equals zero; when cash flow signs change more than once, that equation can have multiple valid roots, producing multiple IRRs."
   },
   {
     "id": "ci-007",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Budgeting",
     "difficulty": "hard",
-    "question": "When NPV and IRR conflict for mutually exclusive projects, why is NPV generally considered the more reliable decision criterion?",
+    "question": "When NPV and IRR conflict, why is NPV generally the more reliable criterion?",
     "options": [
-      "Because NPV assumes intermediate cash flows are reinvested at the firm's cost of capital, a more realistic assumption than IRR's implicit assumption of reinvestment at the project's own IRR",
-      "Because IRR always ignores the time value of money while NPV does not",
-      "Because NPV is easier to calculate by hand than IRR",
-      "Because IRR cannot be used for any project evaluation"
+      "NPV assumes reinvestment at the cost of capital",
+      "IRR ignores time value while NPV doesn't",
+      "NPV is simply easier to calculate by hand",
+      "IRR cannot be used for any evaluation"
     ],
     "correctIndex": 0,
-    "explanation": "NPV's reinvestment assumption at the cost of capital is generally more realistic than IRR's assumption that cash flows are reinvested at the project's own often unrealistically high IRR, which is why NPV is preferred when the two methods conflict."
+    "explanation": "NPV's assumption of reinvesting cash flows at the cost of capital is more realistic than IRR's assumption of reinvestment at the project's own often-inflated IRR."
   },
   {
     "id": "ci-008",
     "topic": "Corporate Issuers",
     "subtopic": "Corporate Governance",
     "difficulty": "medium",
-    "question": "Why have institutional investors increasingly pushed for boards to formally consider environmental, social, and governance (ESG) factors when overseeing corporate strategy?",
+    "question": "Why do institutional investors push boards to formally oversee ESG factors?",
     "options": [
-      "Because ESG factors can represent material long-term risks and opportunities, such as regulatory, reputational, or operational exposures, that affect a company's sustainable value creation and are therefore relevant to fulfilling the board's oversight duties",
-      "Because ESG considerations are purely a public relations exercise with no link to financial performance",
-      "Because regulators require every company to eliminate all environmental impact immediately",
-      "Because ESG factors only matter for private companies, not publicly traded ones"
+      "ESG can pose material long-term risks/rewards",
+      "ESG is purely a PR exercise, no financial link",
+      "Regulators require zero environmental impact",
+      "ESG only matters for private companies"
     ],
     "correctIndex": 0,
-    "explanation": "ESG factors can translate into real financial and reputational risks and opportunities over the long term, so investors increasingly view robust board oversight of these issues as part of prudent risk management and value creation, not just as an image exercise."
+    "explanation": "ESG factors can translate into real financial and reputational risks and opportunities over time, so investors see board oversight of them as part of prudent risk management."
   },
   {
     "id": "ci-009",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Structure",
     "difficulty": "medium",
-    "question": "Under Modigliani and Miller's Proposition I (no taxes, frictionless markets), what is the core intuition behind capital structure being irrelevant to firm value?",
+    "question": "Under MM Proposition I (no taxes), why is capital structure irrelevant to firm value?",
     "options": [
-      "Because a firm's total value depends on the earning power and risk of its underlying assets, not on how the claims to those cash flows are divided between debt and equity holders, so slicing the pie differently does not change its total size",
-      "Because debt is always cheaper than equity, so firms should use only debt",
-      "Because equity holders always demand the same return regardless of leverage",
-      "Because taxes make debt and equity financing identical in cost"
+      "Value depends on asset cash flows, not the split",
+      "Debt is always cheaper, so use only debt",
+      "Equity holders demand the same return regardless",
+      "Taxes make debt and equity identically costed"
     ],
     "correctIndex": 0,
-    "explanation": "MM's key insight is that firm value is driven by the cash flows generated by its assets; simply rearranging how those cash flows are split among debt and equity investors, in a frictionless world, cannot create or destroy value."
+    "explanation": "MM's key insight is that firm value comes from the cash flows its assets generate; simply dividing those flows differently between debt and equity holders can't create or destroy value."
   },
   {
     "id": "ci-010",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Structure",
     "difficulty": "hard",
-    "question": "Under Modigliani and Miller's Proposition II, why does the required return on equity rise as a firm adds more debt to its capital structure, even though the overall cost of capital stays constant (no taxes)?",
+    "question": "Under MM Proposition II, why does required return on equity rise as leverage increases?",
     "options": [
-      "Because adding debt increases the financial risk borne by equity holders, who demand a higher return to compensate for that additional risk, offsetting the benefit of using more of the lower-cost debt",
-      "Because equity holders become entitled to a fixed coupon payment as leverage increases",
-      "Because debt automatically converts into equity as leverage rises",
-      "Because higher leverage always reduces business risk"
+      "More debt raises equity holders' financial risk",
+      "Equity gets a fixed coupon as leverage rises",
+      "Debt automatically converts into equity",
+      "Higher leverage always cuts business risk"
     ],
     "correctIndex": 0,
-    "explanation": "As leverage increases, equity becomes a riskier residual claim, so shareholders require a higher return; this rising cost of equity exactly offsets the effect of using more low-cost debt, leaving the overall weighted cost of capital unchanged in MM's no-tax world."
+    "explanation": "As leverage rises, equity becomes a riskier residual claim, so shareholders demand a higher return - this exactly offsets the benefit of cheaper debt, leaving overall cost of capital unchanged."
   },
   {
     "id": "ci-011",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Structure",
     "difficulty": "medium",
-    "question": "Once corporate taxes are introduced into the Modigliani-Miller framework, why does using debt financing tend to increase firm value?",
+    "question": "Once corporate taxes enter the MM framework, why does debt financing raise firm value?",
     "options": [
-      "Because interest payments are tax-deductible, creating an interest tax shield that reduces the government's claim on the firm's cash flows and increases the value available to debt and equity holders combined",
-      "Because dividends become tax-deductible once debt is introduced",
-      "Because taxes eliminate the risk of financial distress entirely",
-      "Because equity holders no longer require any return once debt exists"
+      "Interest is deductible, creating a tax shield",
+      "Dividends become tax-deductible too",
+      "Taxes eliminate financial distress risk",
+      "Equity holders need no return once debt exists"
     ],
     "correctIndex": 0,
-    "explanation": "Interest expense reduces taxable income, creating a tax shield that increases total after-tax cash flows available to all capital providers, which is why MM's with-tax model shows firm value rising with more debt, up to a point."
+    "explanation": "Interest expense reduces taxable income, creating a tax shield that boosts total after-tax cash flow available to all capital providers, raising firm value as debt increases, up to a point."
   },
   {
     "id": "ci-012",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Structure",
     "difficulty": "medium",
-    "question": "According to trade-off theory, what determines a firm's theoretically optimal level of debt in its capital structure?",
+    "question": "Per trade-off theory, what sets a firm's optimal level of debt?",
     "options": [
-      "The point at which the marginal tax benefit of additional debt is exactly offset by the marginal increase in expected costs of financial distress and bankruptcy",
-      "The point at which the firm has issued the maximum amount of equity possible",
-      "The point at which interest rates on new debt reach zero",
-      "The point at which all retained earnings have been exhausted"
+      "Where tax benefit equals rising distress cost",
+      "Where the firm has issued maximum equity",
+      "Where new-debt interest rates reach zero",
+      "Where retained earnings are exhausted"
     ],
     "correctIndex": 0,
-    "explanation": "Trade-off theory balances the tax advantages of debt against the rising probability and cost of financial distress as leverage increases, with the optimal capital structure occurring where these opposing forces balance at the margin."
+    "explanation": "Trade-off theory balances debt's tax advantages against the rising expected costs of financial distress, with the optimum where these opposing forces balance at the margin."
   },
   {
     "id": "ci-013",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Structure",
     "difficulty": "hard",
-    "question": "What is the 'asset substitution' or risk-shifting agency cost of debt, and why does it arise?",
+    "question": "What is the 'asset substitution' agency cost of debt, and why does it arise?",
     "options": [
-      "Shareholders, protected by limited liability, have an incentive to shift toward riskier projects after debt is issued, since they capture most of the upside while bondholders bear more of the downside, creating a conflict between debt and equity holders",
-      "The tendency of bondholders to demand collateral before lending",
-      "The requirement that firms substitute old debt for new debt at maturity",
-      "The cost of replacing physical assets pledged as loan collateral"
+      "Shareholders shift to riskier bets after debt",
+      "Bondholders demanding collateral before lending",
+      "Firms swapping old debt for new at maturity",
+      "The cost of replacing pledged collateral"
     ],
     "correctIndex": 0,
-    "explanation": "Because equity holders enjoy limited liability, they can benefit disproportionately from risky bets funded partly by debt, while bondholders absorb more of the downside; this incentive conflict is a classic agency cost of debt financing."
+    "explanation": "Protected by limited liability, shareholders can gain disproportionately from riskier bets funded partly by debt while bondholders bear more downside - a classic debt agency cost."
   },
   {
     "id": "ci-014",
     "topic": "Corporate Issuers",
     "subtopic": "Capital Structure",
     "difficulty": "medium",
-    "question": "What is the 'free cash flow' agency problem associated with equity financing and low leverage, as described by Jensen?",
+    "question": "What is Jensen's 'free cash flow' agency problem tied to low leverage?",
     "options": [
-      "Managers with access to substantial free cash flow and little debt discipline may invest in low-return projects, empire-building acquisitions, or excessive perquisites rather than returning cash to shareholders",
-      "The inability of a firm to generate any cash flow once it issues equity",
-      "The requirement that all free cash flow be paid out as dividends by law",
-      "The tendency of equity holders to demand fixed coupon payments"
+      "Managers may overinvest instead of paying it out",
+      "Firms can't generate cash once equity is issued",
+      "Law requires all free cash flow paid as dividends",
+      "Equity holders demand fixed coupon payments"
     ],
     "correctIndex": 0,
-    "explanation": "Without the discipline of required debt payments, managers holding large amounts of discretionary free cash flow may be tempted to overinvest in value-destroying projects rather than return excess cash to shareholders, an agency cost of equity."
+    "explanation": "Without the discipline of required debt payments, managers holding large discretionary cash may fund low-return projects or empire-building deals rather than return cash to shareholders."
   },
   {
     "id": "ci-015",
     "topic": "Corporate Issuers",
     "subtopic": "Corporate Governance",
     "difficulty": "medium",
-    "question": "Why do dual-class share structures, where founders hold shares with disproportionately more votes per share than public shareholders, raise corporate governance concerns?",
+    "question": "Why do dual-class share structures raise governance concerns?",
     "options": [
-      "Because they allow insiders to retain effective control over the company while owning a much smaller proportion of the economic (cash flow) interest, weakening ordinary shareholders' ability to hold management and founders accountable",
-      "Because dual-class structures are illegal in every jurisdiction",
-      "Because dual-class shares always pay a higher dividend to public shareholders",
-      "Because dual-class structures eliminate the need for a board of directors"
+      "Insiders control votes with less economic stake",
+      "Dual-class structures are illegal everywhere",
+      "They always pay higher public dividends",
+      "They eliminate the need for a board"
     ],
     "correctIndex": 0,
-    "explanation": "Dual-class structures let insiders control voting outcomes with a much smaller slice of the economic ownership, which weakens the influence and rights of ordinary public shareholders and is a common focus of governance critiques."
+    "explanation": "Dual-class structures let insiders control voting outcomes with a much smaller slice of economic ownership, weakening ordinary shareholders' ability to hold them accountable."
   },
   {
     "id": "ci-016",
     "topic": "Corporate Issuers",
     "subtopic": "Business and Financial Risk",
     "difficulty": "easy",
-    "question": "What is the key distinction between a company's business risk and its financial risk?",
+    "question": "What is the key difference between business risk and financial risk?",
     "options": [
-      "Business risk arises from the variability of operating income due to the nature of the firm's operations and cost structure, while financial risk arises from the additional variability in returns to equity holders caused by the use of debt financing",
-      "Business risk relates only to foreign currency exposure, while financial risk relates only to interest rates",
-      "Business risk and financial risk are two names for the same concept",
-      "Financial risk refers only to the risk of an accounting restatement"
+      "Operating variability vs risk added by debt",
+      "Business risk is FX only, financial is rates only",
+      "They are two names for the same concept",
+      "Financial risk means restatement risk only"
     ],
     "correctIndex": 0,
-    "explanation": "Business risk stems from the inherent uncertainty of operating results given the firm's industry, products, and cost structure, while financial risk is the incremental risk to equity holders introduced specifically by using leverage."
+    "explanation": "Business risk stems from the inherent uncertainty of operating results given a firm's industry and cost structure, while financial risk is the added risk to equity from using leverage."
   },
   {
     "id": "ci-017",
     "topic": "Corporate Issuers",
     "subtopic": "Business and Financial Risk",
     "difficulty": "medium",
-    "question": "A company has a high proportion of fixed costs relative to variable costs in its cost structure, giving it high operating leverage. How does this affect the sensitivity of its operating earnings to changes in sales?",
+    "question": "How does high operating leverage affect earnings' sensitivity to sales changes?",
     "options": [
-      "Operating earnings become less sensitive to changes in sales because fixed costs do not change",
-      "Operating earnings become more sensitive to changes in sales, since fixed costs do not scale down when sales fall, magnifying the percentage swings in operating income relative to the percentage swing in sales",
-      "Operating earnings are completely unaffected by changes in sales",
-      "High operating leverage always guarantees higher operating earnings"
+      "Earnings become less sensitive to sales",
+      "Earnings swings are magnified vs sales swings",
+      "Earnings are unaffected by sales changes",
+      "It guarantees higher operating earnings"
     ],
     "correctIndex": 1,
-    "explanation": "With high fixed costs, a given percentage change in sales produces a larger percentage change in operating income, since fixed costs act like a lever that amplifies swings in profitability in both directions."
+    "explanation": "With high fixed costs, a given percentage change in sales produces a larger percentage change in operating income, since fixed costs amplify profitability swings in both directions."
   },
   {
     "id": "ci-018",
     "topic": "Corporate Issuers",
     "subtopic": "Business and Financial Risk",
     "difficulty": "medium",
-    "question": "Why does the degree of financial leverage amplify the effect of a change in operating income on earnings available to common shareholders?",
+    "question": "Why does financial leverage amplify the effect of operating income changes on shareholder earnings?",
     "options": [
-      "Because fixed financing charges such as interest expense do not change as operating income changes, so a given percentage change in operating income produces a larger percentage change in earnings after those fixed charges are covered",
-      "Because financial leverage eliminates the need to pay interest on debt",
-      "Because higher financial leverage automatically increases operating income itself",
-      "Because financial leverage only affects preferred shareholders, never common shareholders"
+      "Fixed interest charges don't move with income",
+      "Leverage removes the need to pay interest",
+      "It automatically raises operating income",
+      "Leverage only affects preferred shareholders"
     ],
     "correctIndex": 0,
-    "explanation": "Fixed interest obligations act like operating leverage's fixed costs: because they do not move with operating income, a given percentage change in operating income translates into a magnified percentage change in the residual earnings available to shareholders."
+    "explanation": "Fixed interest obligations act like operating leverage's fixed costs: since they don't move with operating income, a given change in it produces a magnified change in earnings left for shareholders."
   },
   {
     "id": "ci-019",
     "topic": "Corporate Issuers",
     "subtopic": "Business and Financial Risk",
     "difficulty": "medium",
-    "question": "Why might a firm with high business risk choose to adopt a more conservative (lower leverage) capital structure than a firm with low business risk?",
+    "question": "Why might high-business-risk firms choose lower financial leverage?",
     "options": [
-      "Because combining high business risk with high financial risk compounds total earnings volatility and financial distress risk, so firms with inherently volatile operations often use less debt to keep total risk manageable",
-      "Because business risk and financial risk always offset each other perfectly regardless of combination",
-      "Because high business risk firms are legally prohibited from issuing any debt",
-      "Because financial risk only matters for firms with no business risk at all"
+      "Combining both risks compounds distress risk",
+      "The two risks always offset perfectly",
+      "High-business-risk firms can't legally issue debt",
+      "Financial risk requires zero business risk"
     ],
     "correctIndex": 0,
-    "explanation": "Total risk to equity holders reflects both business and financial risk combined; a firm already facing volatile operating results has an incentive to limit financial risk by using less debt, avoiding an excessive combined risk level that could threaten solvency."
+    "explanation": "Total risk to equity holders reflects business and financial risk combined; firms with volatile operations often use less debt to keep total risk and default probability manageable."
   },
   {
     "id": "ci-020",
     "topic": "Corporate Issuers",
     "subtopic": "Mergers and Acquisitions",
     "difficulty": "medium",
-    "question": "Acquirers commonly pay a premium above the target's pre-announcement market price. What is the primary economic justification for paying this premium?",
+    "question": "Why do acquirers commonly pay a premium above a target's pre-deal market price?",
     "options": [
-      "The acquirer must compensate target shareholders for giving up control and must share some of the expected synergies (cost savings or revenue enhancements) that justify the deal, or the target's shareholders would have no incentive to sell",
-      "Acquirers are legally required to pay exactly double the market price",
-      "Premiums are paid solely to satisfy investment banker fee structures",
-      "Premiums reflect a random markup with no link to expected synergies"
+      "To compensate holders and share synergy gains",
+      "Law requires paying exactly double the price",
+      "Premiums only satisfy banker fee structures",
+      "Premiums are random, unrelated to synergies"
     ],
     "correctIndex": 0,
-    "explanation": "Target shareholders need an incentive to relinquish control, and acquirers are typically willing to share part of the value created by expected synergies to get the deal done, which is why premiums above the pre-deal market price are standard."
+    "explanation": "Target shareholders need an incentive to give up control, and acquirers typically share part of the expected synergy value to get the deal done - hence the standard takeover premium."
   },
   {
     "id": "ci-021",
     "topic": "Corporate Issuers",
     "subtopic": "Mergers and Acquisitions",
     "difficulty": "medium",
-    "question": "Why is 'diversification' generally considered a weak rationale for a corporate acquisition from the perspective of public company shareholders?",
+    "question": "Why is 'diversification' a weak rationale for a corporate acquisition?",
     "options": [
-      "Because shareholders can diversify their own portfolios directly and inexpensively by holding a mix of stocks, so paying an acquisition premium to have the company diversify on their behalf typically destroys rather than creates shareholder value",
-      "Because diversification is illegal for public companies",
-      "Because diversifying acquisitions never carry any premium",
-      "Because diversification always increases a company's cost of capital to zero"
+      "Shareholders can diversify cheaply on their own",
+      "Diversification is illegal for public firms",
+      "Diversifying deals never carry a premium",
+      "It always cuts cost of capital to zero"
     ],
     "correctIndex": 0,
-    "explanation": "Investors can cheaply diversify on their own by holding a range of stocks, so a company using shareholder capital to diversify through a premium-priced acquisition often destroys value rather than creating it relative to that cheaper alternative."
+    "explanation": "Investors can cheaply diversify by holding a range of stocks themselves, so paying an acquisition premium to diversify on their behalf often destroys rather than creates value."
   },
   {
     "id": "ci-022",
     "topic": "Corporate Issuers",
     "subtopic": "Mergers and Acquisitions",
     "difficulty": "medium",
-    "question": "How does a 'poison pill' shareholder rights plan function as a takeover defense?",
+    "question": "How does a 'poison pill' rights plan work as a takeover defense?",
     "options": [
-      "It grants existing shareholders (other than the acquirer) the right to purchase additional shares at a steep discount if a bidder crosses a specified ownership threshold, diluting the acquirer's stake and making a hostile takeover prohibitively expensive",
-      "It requires the target company to immediately liquidate all its assets",
-      "It automatically increases the target's stock price to an unattainable level",
-      "It transfers control of the board to the bidder immediately upon triggering"
+      "Dilutes the bidder via discounted share purchases",
+      "It forces immediate liquidation of all assets",
+      "It raises the stock price to an unreachable level",
+      "It hands board control to the bidder at once"
     ],
     "correctIndex": 0,
-    "explanation": "A poison pill dilutes a hostile acquirer's ownership stake by letting other shareholders buy discounted shares once a trigger threshold is crossed, making it far more expensive for the bidder to gain control without board approval."
+    "explanation": "A poison pill dilutes a hostile acquirer's stake by letting other shareholders buy discounted shares once an ownership threshold is crossed, making a takeover far more costly."
   },
   {
     "id": "ci-023",
     "topic": "Corporate Issuers",
     "subtopic": "Mergers and Acquisitions",
     "difficulty": "medium",
-    "question": "Why does a staggered (classified) board structure act as an anti-takeover defense?",
+    "question": "Why does a staggered (classified) board deter hostile takeovers?",
     "options": [
-      "Because only a fraction of directors are up for election each year, an acquirer cannot gain control of the board in a single annual meeting even after acquiring a majority of shares, slowing down any hostile takeover attempt",
-      "Because staggered boards automatically reject all merger proposals",
-      "Because staggered boards eliminate the need for shareholder votes entirely",
-      "Because staggered boards guarantee the current CEO a lifetime appointment"
+      "Only some directors are replaced each year",
+      "Staggered boards auto-reject merger proposals",
+      "They eliminate shareholder votes entirely",
+      "They guarantee the CEO a lifetime post"
     ],
     "correctIndex": 0,
-    "explanation": "With only a portion of directors elected each year, a hostile acquirer who gains majority share ownership still cannot immediately replace the whole board, which delays and discourages takeover attempts by extending the time and cost needed to gain control."
+    "explanation": "With only a fraction of directors elected each year, an acquirer who wins a majority stake still can't replace the full board at once, which slows and discourages hostile bids."
   },
   {
     "id": "ci-024",
     "topic": "Corporate Issuers",
     "subtopic": "Mergers and Acquisitions",
     "difficulty": "easy",
-    "question": "What is a 'golden parachute' in the context of mergers and acquisitions?",
+    "question": "What is a 'golden parachute' in an M&A context?",
     "options": [
-      "A large severance package guaranteed to senior executives if they are terminated following a change in control, intended to reduce their incentive to resist a beneficial takeover for personal job security reasons",
-      "A government subsidy paid to companies that merge",
-      "A type of preferred stock issued only during hostile takeovers",
-      "A guarantee that a merger will always close successfully"
+      "Guaranteed executive severance after a takeover",
+      "A government subsidy for merging firms",
+      "Preferred stock issued only in hostile bids",
+      "A guarantee that a merger will close"
     ],
     "correctIndex": 0,
-    "explanation": "Golden parachutes provide executives with generous severance if they lose their jobs due to a takeover, which can reduce their personal incentive to fight a deal that might actually benefit shareholders."
+    "explanation": "Golden parachutes give executives generous severance if they lose their jobs from a takeover, reducing their personal incentive to fight a deal that could benefit shareholders."
   },
   {
     "id": "ci-025",
     "topic": "Corporate Issuers",
     "subtopic": "Corporate Governance",
     "difficulty": "medium",
-    "question": "Why do corporate governance frameworks generally emphasize having a substantial proportion of independent directors on the board?",
+    "question": "Why do governance frameworks emphasize independent directors on boards?",
     "options": [
-      "Independent directors, lacking material financial or personal ties to management, are better positioned to objectively monitor management's decisions and represent the interests of shareholders rather than management's own interests",
-      "Independent directors are exempt from all legal liability related to their board duties",
-      "Independent directors are required to own no shares in the company",
-      "Independent directors always outnumber management on every board by law"
+      "They lack ties to management, aiding oversight",
+      "They are exempt from all legal liability",
+      "They must own zero company shares",
+      "They always outnumber management by law"
     ],
     "correctIndex": 0,
-    "explanation": "Because independent directors do not have close financial or personal ties to management, they are generally seen as better able to objectively evaluate management's performance and decisions, strengthening the board's oversight role on behalf of shareholders."
+    "explanation": "Independent directors lack close financial or personal ties to management, so they can more objectively evaluate performance and decisions, strengthening the board's oversight role."
   }
 ]
