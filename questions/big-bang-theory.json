@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "bbt-001",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What does Sheldon shout after playing a prank on someone?",
+    "options": [
+      "Bazinga!",
+      "Gotcha!",
+      "Eureka!",
+      "Surprise!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon yells 'Bazinga!' as his signature way of announcing he's just pulled off a joke or prank."
+  },
+  {
+    "id": "bbt-002",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which line does Sheldon use to explain his own odd behavior?",
+    "options": [
+      "I'm not crazy, my mother had me tested",
+      "I'm just wired differently",
+      "Genius has its quirks",
+      "Normal is overrated"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon often insists he isn't crazy, noting that his mother had him formally tested as a child."
+  },
+  {
+    "id": "bbt-003",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What does Sheldon call the couch cushion seat only he is allowed to use?",
+    "options": [
+      "His spot",
+      "His throne",
+      "His station",
+      "His corner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon has one specific seat on the living room couch that he insists is 'his spot' and no one else may sit there."
+  },
+  {
+    "id": "bbt-004",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why does Sheldon say his couch spot is the best seat in the apartment?",
+    "options": [
+      "Ideal temperature, draft, and sightline balance",
+      "It's closest to the television",
+      "It's farthest from the door",
+      "It has the most legroom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon reasons that his spot offers the best combination of temperature, airflow, and view of the TV, among other factors."
+  },
+  {
+    "id": "bbt-005",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Sheldon knock before entering Penny's apartment?",
+    "options": [
+      "Three times, saying her name each time",
+      "Once, then waits silently",
+      "Five quick taps",
+      "He rings a small bell"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's signature knock is a set of three raps on the door, repeated three times, each accompanied by saying 'Penny.'"
+  },
+  {
+    "id": "bbt-006",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What document governs Sheldon and Leonard's household rules?",
+    "options": [
+      "The Roommate Agreement",
+      "The Apartment Charter",
+      "The Cohabitation Contract",
+      "The House Rulebook"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon drafted a detailed Roommate Agreement with Leonard that covers everything from chores to emergencies."
+  },
+  {
+    "id": "bbt-007",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What game did Sheldon create to settle disputes more fairly?",
+    "options": [
+      "Rock-Paper-Scissors-Lizard-Spock",
+      "Double or Nothing Dice",
+      "Logic Chess",
+      "Quantum Coin Flip"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon devised an expanded version of rock-paper-scissors adding lizard and Spock to reduce the odds of a tie."
+  },
+  {
+    "id": "bbt-008",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is the subject of Sheldon's homemade web show?",
+    "options": [
+      "Flags",
+      "Comic books",
+      "Physics theories",
+      "Trains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon hosts 'Fun with Flags,' a web show entirely devoted to his passion for vexillology, the study of flags."
+  },
+  {
+    "id": "bbt-009",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What best describes Sheldon's mother, Mary Cooper?",
+    "options": [
+      "A devout Christian from Texas",
+      "An atheist scientist",
+      "A retired physics professor",
+      "A big-city lawyer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mary Cooper is a deeply religious, Bible-believing woman from Texas who frequently prays for her son Sheldon."
+  },
+  {
+    "id": "bbt-010",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "In which U.S. state did Sheldon grow up?",
+    "options": [
+      "Texas",
+      "California",
+      "Ohio",
+      "Florida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon was raised in Texas, a background he references often despite now living in Pasadena, California."
+  },
+  {
+    "id": "bbt-011",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which superhero does Sheldon consistently name as his favorite?",
+    "options": [
+      "The Flash",
+      "Superman",
+      "Batman",
+      "Green Lantern"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon frequently wears Flash t-shirts and names the Flash as his favorite superhero on multiple occasions."
+  },
+  {
+    "id": "bbt-012",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Where do Sheldon and his friends regularly buy comic books?",
+    "options": [
+      "A local comic book store",
+      "An online auction site",
+      "A convention dealer",
+      "A used bookstore"
+    ],
+    "correctIndex": 0,
+    "explanation": "The group are regulars at a local comic book shop, where they browse and buy new releases together."
+  },
+  {
+    "id": "bbt-013",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "On which weekly tradition do Sheldon and friends get new comics?",
+    "options": [
+      "New comic book release day",
+      "A monthly subscription box",
+      "A friend's recommendation",
+      "A random pickup trip"
+    ],
+    "correctIndex": 0,
+    "explanation": "Like real comic fans, the group treats the weekly release of new issues as a standing ritual at their shop."
+  },
+  {
+    "id": "bbt-014",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why did Sheldon originally develop a grudge against Wil Wheaton?",
+    "options": [
+      "Wheaton missed a signing with Sheldon",
+      "Wheaton insulted Sheldon's work",
+      "Wheaton beat Sheldon at chess",
+      "Wheaton stole Sheldon's seat"
+    ],
+    "correctIndex": 0,
+    "explanation": "As a child, Sheldon was stood up by actor Wil Wheaton at a convention autograph signing, sparking a long-held grudge."
+  },
+  {
+    "id": "bbt-015",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Sheldon call his running list of personal rivals?",
+    "options": [
+      "His list of Mortal Enemies",
+      "His Rogues Gallery",
+      "His Nemesis Registry",
+      "His Blacklist"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon keeps a list of people he considers 'Mortal Enemies,' with Wil Wheaton long holding a top spot."
+  },
+  {
+    "id": "bbt-016",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Sheldon's feud with Wil Wheaton eventually resolve?",
+    "options": [
+      "They become genuine friends",
+      "They never speak again",
+      "Wheaton apologizes but they stay rivals",
+      "Sheldon gets him banned from events"
+    ],
+    "correctIndex": 0,
+    "explanation": "Over the series, Sheldon and Wil Wheaton gradually bond over shared interests and end up becoming real friends."
+  },
+  {
+    "id": "bbt-017",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What branch of physics is Sheldon's main research specialty?",
+    "options": [
+      "String theory",
+      "Astrophysics",
+      "Nuclear engineering",
+      "Fluid dynamics"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon is a theoretical physicist whose work centers on string theory, a framework describing fundamental particles."
+  },
+  {
+    "id": "bbt-018",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What frustrates Sheldon for years about his string theory work?",
+    "options": [
+      "It has no experimental proof",
+      "It's too easy to test",
+      "Funding keeps getting cut",
+      "Colleagues steal his ideas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon grows increasingly frustrated because string theory remains unverified by experiments for most of the series."
+  },
+  {
+    "id": "bbt-019",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What theory do Sheldon and Amy develop together later in the show?",
+    "options": [
+      "Super Asymmetry",
+      "Quantum Entanglement Drive",
+      "Dark Matter Resonance",
+      "Cooper's Constant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon and Amy collaborate on a theory called Super Asymmetry, which becomes central to the show's final season."
+  },
+  {
+    "id": "bbt-020",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What major award do Sheldon and Amy win in the series finale?",
+    "options": [
+      "The Nobel Prize in Physics",
+      "A MacArthur Fellowship",
+      "The Fields Medal",
+      "A Breakthrough Prize"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the series finale, Sheldon and Amy travel to Stockholm to accept the Nobel Prize for their work together."
+  },
+  {
+    "id": "bbt-021",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What does Sheldon routinely carry due to his fear of germs?",
+    "options": [
+      "Hand sanitizer",
+      "A face mask",
+      "Rubber gloves",
+      "Antibacterial spray"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's germophobia leads him to frequently use hand sanitizer and avoid contact he considers unsanitary."
+  },
+  {
+    "id": "bbt-022",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What greeting does Sheldon use instead of shaking hands?",
+    "options": [
+      "An elbow bump",
+      "A fist bump",
+      "A bow",
+      "A salute"
+    ],
+    "correctIndex": 0,
+    "explanation": "To avoid germs from direct hand contact, Sheldon often offers an elbow bump as his preferred greeting."
+  },
+  {
+    "id": "bbt-023",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why does Sheldon avoid air travel when possible?",
+    "options": [
+      "He has a fear of flying",
+      "He gets motion sickness",
+      "He dislikes airport food",
+      "He refuses to remove his shoes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon has a documented fear of flying, often preferring to travel by train or car over taking a plane."
+  },
+  {
+    "id": "bbt-024",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What hobby does Sheldon enjoy that involves model railways?",
+    "options": [
+      "Collecting and running model trains",
+      "Building model airplanes",
+      "Painting toy soldiers",
+      "Restoring vintage cars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon is an enthusiastic model train hobbyist, a passion that comes up repeatedly throughout the series."
+  },
+  {
+    "id": "bbt-025",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the name of Sheldon's twin sister?",
+    "options": [
+      "Missy",
+      "Mary",
+      "Macy",
+      "Mabel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's twin sister is named Missy Cooper, who often teases him about his quirks back home in Texas."
+  },
+  {
+    "id": "bbt-026",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is Sheldon's older brother commonly called?",
+    "options": [
+      "Georgie",
+      "Junior",
+      "Buddy",
+      "Tex"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's older brother, George Cooper Jr., goes by the nickname Georgie throughout the series."
+  },
+  {
+    "id": "bbt-027",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "At what age did Sheldon earn his first PhD?",
+    "options": [
+      "16",
+      "12",
+      "21",
+      "19"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon is established as a prodigy who earned his doctorate at just sixteen years old."
+  },
+  {
+    "id": "bbt-028",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "For much of the series, what is true about Sheldon and driving?",
+    "options": [
+      "He does not have a driver's license",
+      "He only drives at night",
+      "He owns a race car",
+      "He drives everyone everywhere"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon lacks a driver's license for most of the show, relying on friends like Leonard and Penny for rides."
+  },
+  {
+    "id": "bbt-029",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Sheldon view his own understanding of sarcasm?",
+    "options": [
+      "He believes he's very good at detecting it",
+      "He admits he can't tell at all",
+      "He thinks sarcasm doesn't exist",
+      "He only uses it, never spots it"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon insists he has a precise understanding of sarcasm, though he frequently fails to notice it from others."
+  },
+  {
+    "id": "bbt-030",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What title does Sheldon insist people use when addressing him?",
+    "options": [
+      "Doctor",
+      "Professor",
+      "Master",
+      "Sir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Having earned his doctorate, Sheldon is particular about being called 'Doctor' Cooper rather than 'Mister.'"
+  },
+  {
+    "id": "bbt-031",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which animals does Sheldon have an irrational fear of?",
+    "options": [
+      "Birds",
+      "Spiders",
+      "Snakes",
+      "Dogs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon has a notable fear of birds, which comes up as a running source of comedy in the series."
+  },
+  {
+    "id": "bbt-032",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What household chore does Sheldon do on a fixed weekly schedule?",
+    "options": [
+      "Laundry at the laundromat",
+      "Grocery shopping",
+      "Vacuuming the apartment",
+      "Washing the car"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon sticks to a strict weekly laundry schedule at the laundromat, treating any disruption as a crisis."
+  },
+  {
+    "id": "bbt-033",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Besides his couch cushion, what else does Sheldon insist on having?",
+    "options": [
+      "An assigned seat almost everywhere he goes",
+      "A personal chef",
+      "His own private office",
+      "A reserved parking spot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's need for a fixed, specific seat extends well beyond the couch to restaurants, cars, and other settings."
+  },
+  {
+    "id": "bbt-034",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Sheldon insist on when riding in someone else's car?",
+    "options": [
+      "Sitting in a specific seat",
+      "Controlling the radio at all times",
+      "Wearing two seatbelts",
+      "Choosing the destination"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon is particular about where he sits in a vehicle, treating his preferred seat as non-negotiable."
+  },
+  {
+    "id": "bbt-035",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Sheldon generally react to being hugged?",
+    "options": [
+      "He's uncomfortable and avoids it",
+      "He hugs everyone first",
+      "He only hugs on holidays",
+      "He insists on long hugs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Physical affection makes Sheldon visibly uneasy, and he typically avoids or awkwardly tolerates being hugged."
+  },
+  {
+    "id": "bbt-036",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is Sheldon notably strict about regarding his living space?",
+    "options": [
+      "Maintaining a precise temperature",
+      "Painting the walls often",
+      "Rearranging furniture weekly",
+      "Keeping pets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon is particular about keeping the apartment at a specific, controlled temperature year-round."
+  },
+  {
+    "id": "bbt-037",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What habit of Sheldon's often annoys people in conversation?",
+    "options": [
+      "Correcting their grammar or facts",
+      "Interrupting with jokes",
+      "Talking only about sports",
+      "Refusing to speak at all"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon frequently and compulsively corrects other people's grammar or factual errors, often to their irritation."
+  },
+  {
+    "id": "bbt-038",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is Sheldon known to avoid whenever he can?",
+    "options": [
+      "Using restrooms outside his home",
+      "Eating in restaurants",
+      "Taking the stairs",
+      "Drinking coffee"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon strongly prefers to avoid using unfamiliar public restrooms, a quirk tied to his broader germophobia."
+  },
+  {
+    "id": "bbt-039",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Sheldon generally feel about spontaneous plans?",
+    "options": [
+      "He strongly dislikes them",
+      "He loves surprises",
+      "He's indifferent to them",
+      "He only enjoys them on weekends"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon much prefers detailed, scheduled plans and reacts with anxiety to sudden, spontaneous changes."
+  },
+  {
+    "id": "bbt-040",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What typically happens to Sheldon when his daily routine is disrupted?",
+    "options": [
+      "He becomes visibly anxious or upset",
+      "He shrugs it off calmly",
+      "He falls asleep",
+      "He finds it funny"
+    ],
+    "correctIndex": 0,
+    "explanation": "Breaks in Sheldon's carefully maintained routines tend to cause him noticeable distress and agitation."
+  },
+  {
+    "id": "bbt-041",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which number does Sheldon famously call 'the best number'?",
+    "options": [
+      "73",
+      "42",
+      "7",
+      "100"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon champions 73 as the best number, citing its unique mathematical properties as a prime number."
+  },
+  {
+    "id": "bbt-042",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What kind of joke does Sheldon make about his own origins?",
+    "options": [
+      "That he's too evolved to be fully human",
+      "That he was raised by robots",
+      "That he's secretly royalty",
+      "That he's from the future"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon jokingly suggests he's more evolved than ordinary humans, poking fun at his own social disconnect."
+  },
+  {
+    "id": "bbt-043",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Despite constant friction, who does Sheldon consider his best friend?",
+    "options": [
+      "Leonard",
+      "Howard",
+      "Raj",
+      "Stuart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Although he often exasperates him, Sheldon regards his roommate Leonard as his closest and best friend."
+  },
+  {
+    "id": "bbt-044",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who does Sheldon eventually marry?",
+    "options": [
+      "Amy Farrah Fowler",
+      "Penny",
+      "Bernadette",
+      "Missy"
+    ],
+    "correctIndex": 0,
+    "explanation": "After years of dating, Sheldon marries fellow scientist Amy Farrah Fowler during the show's later seasons."
+  },
+  {
+    "id": "bbt-045",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What similar document does Sheldon create for his relationship with Amy?",
+    "options": [
+      "A Relationship Agreement",
+      "A Dating Contract",
+      "A Love Charter",
+      "A Courtship Treaty"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mirroring his Roommate Agreement, Sheldon drafts a formal Relationship Agreement to govern his romance with Amy."
+  },
+  {
+    "id": "bbt-046",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What childhood nickname does Sheldon's mother still call him?",
+    "options": [
+      "Shelly",
+      "Sheldy",
+      "Donnie",
+      "Coop"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mary Cooper affectionately calls her son 'Shelly,' a nickname from his childhood in Texas."
+  },
+  {
+    "id": "bbt-047",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What song do Sheldon's friends sing to comfort him when he's sick?",
+    "options": [
+      "Soft Kitty",
+      "You Are My Sunshine",
+      "Twinkle Twinkle",
+      "Hush Little Baby"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's mother used to sing 'Soft Kitty' to him as a child, and his friends sing it to comfort him when he's ill."
+  },
+  {
+    "id": "bbt-048",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who eventually joins Sheldon as a co-host on Fun with Flags?",
+    "options": [
+      "Amy",
+      "Penny",
+      "Leonard",
+      "Bernadette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Once she and Sheldon are together, Amy becomes his regular co-host on his flag-themed web show."
+  },
+  {
+    "id": "bbt-049",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Whose fictional logical thinking does Sheldon especially admire?",
+    "options": [
+      "Spock from Star Trek",
+      "Sherlock Holmes",
+      "Batman",
+      "Doctor Who"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon is a huge Star Trek fan and particularly admires Spock's pure, emotionless logic."
+  },
+  {
+    "id": "bbt-050",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What social skill does Sheldon most notably lack?",
+    "options": [
+      "Reading social cues and boundaries",
+      "Remembering facts",
+      "Basic arithmetic",
+      "Following written instructions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon is famous for bluntly disregarding social niceties and personal boundaries that others take for granted."
+  },
+  {
+    "id": "bbt-051",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Leonard Hofstadter's scientific specialty?",
+    "options": [
+      "Theoretical physicist",
+      "Experimental physicist",
+      "Biochemist",
+      "Astrophysicist"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leonard is an experimental physicist, which Sheldon often contrasts with his own theoretical work."
+  },
+  {
+    "id": "bbt-052",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who is Leonard's roommate for most of the series?",
+    "options": [
+      "Howard Wolowitz",
+      "Raj Koothrappali",
+      "Sheldon Cooper",
+      "Stuart Bloom"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leonard shares an apartment with Sheldon Cooper, and their roommate agreement governs the household."
+  },
+  {
+    "id": "bbt-053",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which neighbor does Leonard eventually marry?",
+    "options": [
+      "Bernadette",
+      "Amy",
+      "Penny",
+      "Emily"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leonard falls for his neighbor Penny early in the series and the two eventually marry."
+  },
+  {
+    "id": "bbt-054",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the profession of Leonard's mother, Beverly?",
+    "options": [
+      "Psychiatrist and neuroscientist",
+      "Lawyer",
+      "High school teacher",
+      "Surgeon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Beverly Hofstadter is a renowned psychiatrist and neuroscientist whose clinical parenting style shaped Leonard."
+  },
+  {
+    "id": "bbt-055",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Leonard's mother typically treat him emotionally?",
+    "options": [
+      "Warm and affectionate",
+      "Cold and critical",
+      "Overprotective",
+      "Constantly joking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beverly analyzes Leonard like a research subject rather than offering warmth, leaving him emotionally starved."
+  },
+  {
+    "id": "bbt-056",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What was Leonard's father Alfred's profession?",
+    "options": [
+      "Anthropologist",
+      "Chemist",
+      "Engineer",
+      "Dentist"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard's father, Alfred Hofstadter, is an anthropologist, another intellectually intense parent in his life."
+  },
+  {
+    "id": "bbt-057",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "Leonard's overachieving siblings are a judge and a what?",
+    "options": [
+      "Rocket scientist",
+      "Surgeon",
+      "Senator",
+      "Novelist"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard's siblings include a federal judge and a rocket scientist, fueling his lifelong feelings of inadequacy."
+  },
+  {
+    "id": "bbt-058",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why is Leonard shorter than his siblings, according to the show?",
+    "options": [
+      "Poor diet as a child",
+      "A childhood growth hormone deficiency",
+      "Genetics from his father",
+      "It is never explained"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beverly used young Leonard as a research subject for a growth hormone study, which the show implies stunted his growth."
+  },
+  {
+    "id": "bbt-059",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "What is Leonard's rarely used middle name?",
+    "options": [
+      "Leakey",
+      "Darwin",
+      "Newton",
+      "Galileo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard's full name is Leonard Leakey Hofstadter, named after famed paleoanthropologist Louis Leakey."
+  },
+  {
+    "id": "bbt-060",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which of Raj's family members does Leonard date for a while?",
+    "options": [
+      "His mother",
+      "His sister Priya",
+      "His cousin",
+      "His aunt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leonard has a serious relationship with Raj's sister, Priya, a lawyer visiting from India."
+  },
+  {
+    "id": "bbt-061",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "As a kid, how did Leonard's older brother torment him?",
+    "options": [
+      "Stuffed him in a clothes dryer",
+      "Hid his textbooks",
+      "Pushed him in a pool",
+      "Locked him outside"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard recalls his older brother once stuffing him into a clothes dryer, an example of his rough childhood."
+  },
+  {
+    "id": "bbt-062",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What embarrassing thing did Leonard's mother once publish about him?",
+    "options": [
+      "A children's book",
+      "A case study in a psychology book",
+      "A tell-all memoir",
+      "A newspaper op-ed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beverly published clinical observations about young Leonard, treating her son's childhood as research material."
+  },
+  {
+    "id": "bbt-063",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What type of physics experiments does Leonard often run in the lab?",
+    "options": [
+      "Laser-based experiments",
+      "String theory models",
+      "Chemistry reactions",
+      "Weather pattern studies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard's lab work frequently centers on laser experiments, fitting his role as an experimental physicist."
+  },
+  {
+    "id": "bbt-064",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Sheldon react when Leonard leaves on a long research trip?",
+    "options": [
+      "He struggles without his routine partner",
+      "He happily moves out",
+      "He throws a big party",
+      "He doesn't notice Leonard is gone"
+    ],
+    "correctIndex": 0,
+    "explanation": "When Leonard leaves for a lengthy expedition, Sheldon struggles to cope without his roommate's steady presence and routines."
+  },
+  {
+    "id": "bbt-065",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What ultimately happens with Leonard and Penny's relationship?",
+    "options": [
+      "They marry each other",
+      "They break up for good",
+      "They stay just friends",
+      "They get engaged but never marry"
+    ],
+    "correctIndex": 0,
+    "explanation": "After years of on-and-off dating, Leonard and Penny eventually marry each other."
+  },
+  {
+    "id": "bbt-066",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What best describes Leonard's general personality among the group?",
+    "options": [
+      "Arrogant and domineering",
+      "Insecure but kind-hearted",
+      "Cold and unemotional",
+      "A reckless daredevil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leonard is generally the most emotionally grounded and empathetic of the group, despite his own insecurities."
+  },
+  {
+    "id": "bbt-067",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Howard Wolowitz's field of engineering?",
+    "options": [
+      "Aerospace engineer",
+      "Civil engineer",
+      "Software engineer",
+      "Chemical engineer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard works as an aerospace engineer at Caltech, designing hardware rather than running physics experiments."
+  },
+  {
+    "id": "bbt-068",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What degree does Howard hold, which Sheldon loves to mock?",
+    "options": [
+      "A bachelor's degree",
+      "A master's degree",
+      "An honorary degree",
+      "No degree at all"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard only has a master's degree, not a PhD, a fact Sheldon repeatedly brings up to needle him."
+  },
+  {
+    "id": "bbt-069",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Howard helps design hardware used for a mission to which planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard's engineering work includes contributing to hardware for a Mars rover mission."
+  },
+  {
+    "id": "bbt-070",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What major real space trip does Howard take in the series?",
+    "options": [
+      "A flight around the Moon",
+      "A trip to the International Space Station",
+      "A Mars landing",
+      "A spacewalk test only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard gets to travel to the International Space Station, a huge professional and personal milestone for him."
+  },
+  {
+    "id": "bbt-071",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Howard's mother is a recurring joke on the show because of what?",
+    "options": [
+      "She is seen but never speaks",
+      "She is heard yelling but rarely seen",
+      "She lives with the guys",
+      "She constantly visits in person"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard's overbearing mother is mostly heard shouting from offscreen, a long-running visual gag on the show."
+  },
+  {
+    "id": "bbt-072",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the name of Howard's domineering mother?",
+    "options": [
+      "Debbie Wolowitz",
+      "Doris Wolowitz",
+      "Diane Wolowitz",
+      "Donna Wolowitz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard's mother is named Debbie Wolowitz, famous on the show for her booming offscreen voice."
+  },
+  {
+    "id": "bbt-073",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who does Howard eventually marry?",
+    "options": [
+      "Bernadette Rostenkowski",
+      "Amy Farrah Fowler",
+      "Penny",
+      "Priya"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard marries Bernadette Rostenkowski, a microbiologist he meets through Penny."
+  },
+  {
+    "id": "bbt-074",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is Bernadette's profession?",
+    "options": [
+      "Microbiologist",
+      "Waitress",
+      "Lawyer",
+      "Neuroscientist"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette works as a microbiologist, a detail often contrasted with her small stature and sweet voice."
+  },
+  {
+    "id": "bbt-075",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which instrument does Howard often play to impress women?",
+    "options": [
+      "Guitar",
+      "Keyboard",
+      "Violin",
+      "Drums"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard frequently plays keyboard and sings cheesy songs as part of his wannabe ladies'-man persona."
+  },
+  {
+    "id": "bbt-076",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Besides puppeteering, what other childhood performance act did Howard do?",
+    "options": [
+      "Magic act",
+      "Stand-up comedy",
+      "Circus acrobatics",
+      "Opera singing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard reveals he had a childhood magic act, fitting his lifelong love of performing and entertaining."
+  },
+  {
+    "id": "bbt-077",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is ironic about Howard's fear of heights?",
+    "options": [
+      "He is an engineer",
+      "He traveled to space",
+      "He lives in a tall building",
+      "He is afraid of flying too"
+    ],
+    "correctIndex": 1,
+    "explanation": "Despite being terrified of heights, Howard ends up traveling all the way to the International Space Station."
+  },
+  {
+    "id": "bbt-078",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Where did Howard and Raj first become close friends?",
+    "options": [
+      "High school",
+      "Grad school at Caltech",
+      "A comic book store",
+      "The army"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard and Raj's friendship began back in graduate school at Caltech, long before the show's events."
+  },
+  {
+    "id": "bbt-079",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What happens to Howard's mother later in the series?",
+    "options": [
+      "She moves in with Howard",
+      "She remarries",
+      "She passes away",
+      "She moves to India"
+    ],
+    "correctIndex": 2,
+    "explanation": "Howard's mother passes away later in the series, a storyline handled respectfully offscreen."
+  },
+  {
+    "id": "bbt-080",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How many children do Howard and Bernadette have together?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard and Bernadette have two children together, a daughter named Halley and a son named Michael."
+  },
+  {
+    "id": "bbt-081",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "What engineering contribution does Howard often brag about?",
+    "options": [
+      "A robotic arm",
+      "A solar panel",
+      "A satellite dish",
+      "A rocket engine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard frequently brings up having helped design a robotic arm used on space missions as his career highlight."
+  },
+  {
+    "id": "bbt-082",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which style choice is part of Howard's flashy ladies'-man image?",
+    "options": [
+      "Oversized lab coats",
+      "Tight pants and jewelry",
+      "Plain t-shirts only",
+      "Military uniforms"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard favors tight, flashy outfits and jewelry as part of his exaggerated ladies'-man image."
+  },
+  {
+    "id": "bbt-083",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What happened to Howard's father when Howard was young?",
+    "options": [
+      "He died in an accident",
+      "He left the family",
+      "He went to prison",
+      "He moved abroad for work"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard's father abandoned the family when Howard was a child, leaving a lasting insecurity that resurfaces later."
+  },
+  {
+    "id": "bbt-084",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Howard enjoys performing puppet shows for which family members?",
+    "options": [
+      "His mother",
+      "His wife Bernadette",
+      "His children",
+      "His in-laws"
+    ],
+    "correctIndex": 2,
+    "explanation": "Howard enjoys entertaining his kids with puppet shows, showing off his lifelong love of performing."
+  },
+  {
+    "id": "bbt-085",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Raj Koothrappali's scientific specialty?",
+    "options": [
+      "Astrophysicist",
+      "Chemist",
+      "Geologist",
+      "Marine biologist"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj works as an astrophysicist, studying celestial objects alongside his Caltech colleagues."
+  },
+  {
+    "id": "bbt-086",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What initially prevents Raj from speaking to women he's not related to?",
+    "options": [
+      "A speech impediment",
+      "Selective mutism unless he drinks alcohol",
+      "A fear of crowds",
+      "Severe shyness around men too"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raj suffers from selective mutism around women that disappears once he has had a drink of alcohol."
+  },
+  {
+    "id": "bbt-087",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What best describes Raj's family background in India?",
+    "options": [
+      "Working-class and modest",
+      "Wealthy and prominent",
+      "Nomadic and poor",
+      "Unknown and never discussed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raj comes from a wealthy, prominent family in India, which affords him a comfortable lifestyle on a researcher's salary."
+  },
+  {
+    "id": "bbt-088",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the profession of Raj's father?",
+    "options": [
+      "Gynecologist",
+      "Dentist",
+      "Accountant",
+      "Diplomat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj's father is a successful gynecologist in India, often shown checking in on his son by video call."
+  },
+  {
+    "id": "bbt-089",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is the name of Raj's beloved pet dog?",
+    "options": [
+      "Pepper",
+      "Cinnamon",
+      "Ginger",
+      "Nutmeg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raj owns a small dog named Cinnamon, which he treats almost like a surrogate child."
+  },
+  {
+    "id": "bbt-090",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who is Priya, a recurring character connected to Raj?",
+    "options": [
+      "His sister",
+      "His cousin",
+      "His ex-wife",
+      "His boss"
+    ],
+    "correctIndex": 0,
+    "explanation": "Priya is Raj's sister, a lawyer who visits from India and briefly dates Leonard."
+  },
+  {
+    "id": "bbt-091",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What running joke involves Raj and Howard's close friendship?",
+    "options": [
+      "People mistake them for a couple",
+      "They constantly fight",
+      "They never speak to each other",
+      "They are secretly related"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj and Howard are so inseparable that other characters repeatedly joke about mistaking them for a couple."
+  },
+  {
+    "id": "bbt-092",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which stereotypically feminine-coded interests does Raj often show?",
+    "options": [
+      "Fashion, gossip, and romance films",
+      "Extreme sports",
+      "Car mechanics",
+      "Competitive bodybuilding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj frequently displays interests in fashion, gossip, and romance, which the other guys often tease him about."
+  },
+  {
+    "id": "bbt-093",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What distinguishing feature does Raj's girlfriend Emily have?",
+    "options": [
+      "A facial scar",
+      "A missing finger",
+      "A British accent only",
+      "A twin sister"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj dates Emily Sweeney, a pathologist whose visible facial scar is occasionally mentioned on the show."
+  },
+  {
+    "id": "bbt-094",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the name of Raj's shy, on-and-off girlfriend?",
+    "options": [
+      "Lucy",
+      "Claire",
+      "Siri",
+      "Alice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj dates Lucy, a shy woman he meets through a photography side project with Howard."
+  },
+  {
+    "id": "bbt-095",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What romantic struggle defines Raj through most of the series?",
+    "options": [
+      "He can't commit to just one job",
+      "He struggles to keep a lasting relationship",
+      "He refuses to date at all",
+      "He only dates coworkers"
+    ],
+    "correctIndex": 1,
+    "explanation": "A recurring theme for Raj is his difficulty finding and keeping a lasting romantic relationship."
+  },
+  {
+    "id": "bbt-096",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Where does Raj work alongside Leonard, Howard, and Sheldon?",
+    "options": [
+      "Caltech",
+      "MIT",
+      "A private tech startup",
+      "NASA headquarters"
+    ],
+    "correctIndex": 0,
+    "explanation": "Like his three friends, Raj is employed as a researcher at Caltech."
+  },
+  {
+    "id": "bbt-097",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How do Raj's parents often try to help his love life?",
+    "options": [
+      "By hiring a dating coach",
+      "By arranging introductions to women",
+      "By moving him back to India",
+      "By setting him up with coworkers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raj's parents repeatedly try arranging introductions and potential matches, reflecting Indian cultural traditions."
+  },
+  {
+    "id": "bbt-098",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which hobby do Leonard, Howard, and Raj regularly share with Sheldon?",
+    "options": [
+      "Collecting comic books",
+      "Competitive chess",
+      "Stand-up comedy",
+      "Ballroom dancing"
+    ],
+    "correctIndex": 0,
+    "explanation": "The four friends are avid comic book fans and regularly visit the local comic book store together."
+  },
+  {
+    "id": "bbt-099",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "In the group's tabletop Dungeons & Dragons games, who usually acts as Dungeon Master?",
+    "options": [
+      "Sheldon",
+      "Howard",
+      "Leonard",
+      "Raj"
+    ],
+    "correctIndex": 1,
+    "explanation": "Howard typically runs the group's Dungeons & Dragons campaigns as the Dungeon Master."
+  },
+  {
+    "id": "bbt-100",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What trait do Leonard, Howard, and Raj generally share compared to Sheldon?",
+    "options": [
+      "More awareness of others' feelings",
+      "A dislike of science fiction",
+      "A refusal to use technology",
+      "No sense of humor at all"
+    ],
+    "correctIndex": 0,
+    "explanation": "Compared to Sheldon's social obliviousness, Leonard, Howard, and Raj are generally more attuned to normal social cues."
+  },
+  {
+    "id": "bbt-101",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What state did Penny move from to pursue an acting career in Los Angeles?",
+    "options": [
+      "Nebraska",
+      "Iowa",
+      "Kansas",
+      "Ohio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny grew up in Nebraska and moved to Los Angeles hoping to become a professional actress."
+  },
+  {
+    "id": "bbt-102",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Where does Penny work as a waitress when the show begins?",
+    "options": [
+      "The Cheesecake Factory",
+      "Olive Garden",
+      "A diner",
+      "A coffee shop"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny works as a waitress at The Cheesecake Factory while trying to break into acting."
+  },
+  {
+    "id": "bbt-103",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What career does Penny eventually move into after giving up acting?",
+    "options": [
+      "Pharmaceutical sales rep",
+      "Lawyer",
+      "Teacher",
+      "Nurse"
+    ],
+    "correctIndex": 0,
+    "explanation": "After years without an acting break, Penny takes a job in pharmaceutical sales and turns out to be very good at it."
+  },
+  {
+    "id": "bbt-104",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who helps Penny land her job in pharmaceutical sales?",
+    "options": [
+      "Bernadette",
+      "Amy",
+      "Leonard",
+      "Sheldon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette, who works at a pharmaceutical company, helps Penny get hired there as a sales rep."
+  },
+  {
+    "id": "bbt-105",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "What is the title of the cheesy horror movie Penny appeared in?",
+    "options": [
+      "Serial Ape-ist",
+      "Night Howler",
+      "Blood Moon",
+      "The Replacement Killers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny's one notable acting credit is a low-budget horror film called 'Serial Ape-ist,' a running joke on the show."
+  },
+  {
+    "id": "bbt-106",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is widely known as a running joke about Penny's maiden last name?",
+    "options": [
+      "It is never revealed",
+      "It's spelled wrong",
+      "It rhymes with Sheldon",
+      "Nobody can say it"
+    ],
+    "correctIndex": 0,
+    "explanation": "A long-running joke on the show is that Penny's last name before marrying Leonard is never actually revealed to viewers."
+  },
+  {
+    "id": "bbt-107",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the name of Penny's recurring ex-boyfriend who bullies the guys?",
+    "options": [
+      "Kurt",
+      "Zack",
+      "Mike",
+      "Doug"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kurt is Penny's intimidating ex-boyfriend from Nebraska who appears several times to torment Leonard and friends."
+  },
+  {
+    "id": "bbt-108",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is a well-known running joke about Penny's cooking ability?",
+    "options": [
+      "She can barely cook",
+      "She's a trained chef",
+      "She only bakes",
+      "She cooks only Italian food"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny is repeatedly shown to be a poor cook, often relying on takeout instead of cooking for herself or Leonard."
+  },
+  {
+    "id": "bbt-109",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which neighbors does Penny become close friends with early in the series?",
+    "options": [
+      "Leonard and Sheldon",
+      "Howard",
+      "Raj",
+      "Stuart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny lives across the hall from Leonard and Sheldon and quickly becomes close friends with them both."
+  },
+  {
+    "id": "bbt-110",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "What does Penny reveal about her past relationships before Leonard?",
+    "options": [
+      "She was briefly married as a teenager",
+      "She was once engaged to Sheldon",
+      "She dated Howard",
+      "She never dated before Leonard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny reveals she had a short-lived marriage back in Nebraska as a teenager, long before meeting Leonard."
+  },
+  {
+    "id": "bbt-111",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How do Leonard and Penny first marry, surprising their friends?",
+    "options": [
+      "A secret trip to Las Vegas",
+      "A courthouse with everyone invited",
+      "An elopement abroad",
+      "A surprise church wedding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard and Penny elope to Las Vegas without telling anyone, upsetting their friends who later get a real wedding to attend."
+  },
+  {
+    "id": "bbt-112",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What nice but awkward boyfriend does Penny date during a breakup from Leonard?",
+    "options": [
+      "Zack",
+      "Kurt",
+      "Barry",
+      "Josh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zack Johnson is a kind-hearted but not very bright man Penny dates during one of her breaks from Leonard."
+  },
+  {
+    "id": "bbt-113",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Before changing careers, where did Penny briefly work alongside Bernadette?",
+    "options": [
+      "The Cheesecake Factory",
+      "A hospital lab",
+      "A university",
+      "A pharmacy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette also waitressed at the Cheesecake Factory with Penny before finishing her doctorate and changing careers."
+  },
+  {
+    "id": "bbt-114",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is Penny's attitude toward science fiction and comics at first?",
+    "options": [
+      "She knows little about it",
+      "She's an expert collector",
+      "She hates all TV",
+      "She writes comic scripts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny starts out knowing very little about the nerdy hobbies her neighbors love, which is a frequent source of comedy."
+  },
+  {
+    "id": "bbt-115",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What eventually happens with Penny's acting dream over the course of the show?",
+    "options": [
+      "She gives it up for good",
+      "She wins an award",
+      "She becomes a director",
+      "She moves to Broadway"
+    ],
+    "correctIndex": 0,
+    "explanation": "After years of failed auditions, Penny eventually accepts that acting isn't working out and leaves it behind for good."
+  },
+  {
+    "id": "bbt-116",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What do Leonard and Penny eventually have after years together?",
+    "options": [
+      "A baby daughter",
+      "Twin boys",
+      "No children",
+      "Triplets"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the show's final stretch, Leonard and Penny welcome a baby daughter together."
+  },
+  {
+    "id": "bbt-117",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Amy Farrah Fowler's scientific field of study?",
+    "options": [
+      "Neurobiology",
+      "Astrophysics",
+      "Geology",
+      "Chemistry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy Farrah Fowler works as a neurobiologist, researching the brain throughout the series."
+  },
+  {
+    "id": "bbt-118",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How do Sheldon and Amy first meet?",
+    "options": [
+      "Through an online dating site",
+      "At a comic shop",
+      "At work",
+      "At a wedding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj and Howard sign Sheldon up for an online dating site as a joke, which matches him with Amy Farrah Fowler."
+  },
+  {
+    "id": "bbt-119",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What musical instrument does Amy play?",
+    "options": [
+      "The harp",
+      "The violin",
+      "The piano",
+      "The cello"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy is a skilled harpist and performs on the instrument several times throughout the series."
+  },
+  {
+    "id": "bbt-120",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Whose personality does Amy's quirky, socially awkward style often mirror?",
+    "options": [
+      "Sheldon's",
+      "Howard's",
+      "Raj's",
+      "Leonard's"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy's rigid habits and social awkwardness closely echo Sheldon's, which is why the two connect so easily."
+  },
+  {
+    "id": "bbt-121",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What formal document do Sheldon and Amy maintain to define their relationship?",
+    "options": [
+      "A relationship agreement",
+      "A marriage license",
+      "A lease",
+      "A will"
+    ],
+    "correctIndex": 0,
+    "explanation": "True to his love of rules, Sheldon drafts a detailed relationship agreement with Amy covering their boundaries as a couple."
+  },
+  {
+    "id": "bbt-122",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Before meeting Penny, what did Amy notably lack?",
+    "options": [
+      "A close female friend",
+      "A job",
+      "A degree",
+      "A family"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy had never had a close female friend before bonding with Penny, who becomes her first real 'bestie.'"
+  },
+  {
+    "id": "bbt-123",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What term does Amy fondly use to describe Penny once they become close?",
+    "options": [
+      "Bestie",
+      "Roomie",
+      "Buddy",
+      "Sidekick"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy affectionately calls Penny her 'bestie' once the two women become close friends."
+  },
+  {
+    "id": "bbt-124",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What kind of research subjects does Amy's lab work frequently involve?",
+    "options": [
+      "Primate brains",
+      "Deep sea fish",
+      "Plant genetics",
+      "Weather patterns"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy's neurobiology work is often shown involving primate brain research, reflecting her field of study."
+  },
+  {
+    "id": "bbt-125",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Before Sheldon, how much dating experience had Amy had?",
+    "options": [
+      "Almost none",
+      "Many past boyfriends",
+      "One previous marriage",
+      "She was engaged once"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy enters her relationship with Sheldon having had almost no prior dating experience."
+  },
+  {
+    "id": "bbt-126",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What major scientific honor do Amy and Sheldon eventually share?",
+    "options": [
+      "The Nobel Prize",
+      "A Fields Medal",
+      "An Emmy",
+      "A Pulitzer Prize"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the final season, Amy and Sheldon's joint research on super-asymmetry wins them the Nobel Prize in Physics."
+  },
+  {
+    "id": "bbt-127",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What name do friends almost always use in full when addressing Amy?",
+    "options": [
+      "Amy Farrah Fowler",
+      "Amy Rostenkowski",
+      "Amy Wolowitz",
+      "Dr. Amy Cooper"
+    ],
+    "correctIndex": 0,
+    "explanation": "It's a running gag that characters almost always say her full name, 'Amy Farrah Fowler,' rather than just 'Amy.'"
+  },
+  {
+    "id": "bbt-128",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who is notably strict and controlling over much of Amy's early life choices?",
+    "options": [
+      "Her mother",
+      "Her father",
+      "Her sister",
+      "Her landlord"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy's mother is portrayed as strict and overbearing, heavily influencing Amy's upbringing and choices."
+  },
+  {
+    "id": "bbt-129",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What hobby does Amy happily take up alongside Sheldon at conventions?",
+    "options": [
+      "Dressing in sci-fi costumes",
+      "Collecting stamps",
+      "Playing poker",
+      "Woodworking"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy embraces Sheldon's love of science fiction, joining him in costume at fan conventions."
+  },
+  {
+    "id": "bbt-130",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Amy's career field compare to Sheldon's field of study?",
+    "options": [
+      "It's a different science, biology-based",
+      "It's identical, also physics",
+      "She has no scientific career",
+      "She works in engineering"
+    ],
+    "correctIndex": 0,
+    "explanation": "While Sheldon is a theoretical physicist, Amy works in neurobiology, a different but related scientific field."
+  },
+  {
+    "id": "bbt-131",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What ultimately happens between Sheldon and Amy by the end of the series?",
+    "options": [
+      "They marry",
+      "They break up for good",
+      "They become just friends",
+      "They move apart permanently"
+    ],
+    "correctIndex": 0,
+    "explanation": "After years together, Sheldon and Amy get married, becoming one of the show's central couples."
+  },
+  {
+    "id": "bbt-132",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Amy typically react to sarcasm when she first appears on the show?",
+    "options": [
+      "She often fails to recognize it",
+      "She's a master of sarcasm",
+      "She finds it offensive",
+      "She only uses it herself"
+    ],
+    "correctIndex": 0,
+    "explanation": "Like Sheldon, Amy frequently misses sarcasm early on, which becomes a shared comedic trait between them."
+  },
+  {
+    "id": "bbt-133",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Bernadette's scientific field of study?",
+    "options": [
+      "Microbiology",
+      "Astronomy",
+      "Neurobiology",
+      "Chemistry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette earns her PhD in microbiology and later builds a career in that field."
+  },
+  {
+    "id": "bbt-134",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Where does Bernadette work alongside Penny before her career takes off?",
+    "options": [
+      "The Cheesecake Factory",
+      "A hospital",
+      "A university lab",
+      "A pharmacy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette waitresses at the Cheesecake Factory with Penny while finishing her doctoral studies."
+  },
+  {
+    "id": "bbt-135",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What industry does Bernadette eventually work in after earning her PhD?",
+    "options": [
+      "Pharmaceuticals",
+      "Banking",
+      "Film production",
+      "Real estate"
+    ],
+    "correctIndex": 0,
+    "explanation": "After completing her doctorate, Bernadette takes a well-paying job at a pharmaceutical company."
+  },
+  {
+    "id": "bbt-136",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is a famous running joke about Bernadette's size and voice?",
+    "options": [
+      "She's tiny but has a loud, scary voice",
+      "She's tall and speaks in a whisper",
+      "She refuses to raise her voice",
+      "She has no distinctive voice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Despite her small stature, Bernadette is known for a surprisingly loud and intimidating voice, especially when angry."
+  },
+  {
+    "id": "bbt-137",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is notable about the size of Bernadette's family?",
+    "options": [
+      "She comes from a large Catholic family",
+      "She's an only child",
+      "She has one sibling",
+      "Her family disowned her"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette comes from a large Catholic family with many siblings, often mentioned in the show."
+  },
+  {
+    "id": "bbt-138",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Bernadette's father do for a living, which intimidates Howard?",
+    "options": [
+      "Police officer",
+      "Army general",
+      "Judge",
+      "Boxer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette's father is a tough police officer, which makes an already nervous Howard even more intimidated."
+  },
+  {
+    "id": "bbt-139",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who does Bernadette eventually marry?",
+    "options": [
+      "Howard Wolowitz",
+      "Raj Koothrappali",
+      "Leonard Hofstadter",
+      "Stuart Bloom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette and Howard date for years before getting married, becoming one of the show's main couples."
+  },
+  {
+    "id": "bbt-140",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What financial dynamic becomes a recurring theme in Howard and Bernadette's marriage?",
+    "options": [
+      "Bernadette earns more than Howard",
+      "Howard earns far more",
+      "They are always broke",
+      "They refuse to discuss money"
+    ],
+    "correctIndex": 0,
+    "explanation": "Once Bernadette lands her well-paid pharmaceutical job, she ends up earning significantly more than Howard."
+  },
+  {
+    "id": "bbt-141",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How many children do Howard and Bernadette eventually have?",
+    "options": [
+      "Two",
+      "None",
+      "Four",
+      "One"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard and Bernadette have two children, a daughter named Halley and a son named Michael."
+  },
+  {
+    "id": "bbt-142",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What personality trait is Bernadette often joked about regarding grudges?",
+    "options": [
+      "She holds grudges and can be vindictive",
+      "She forgives instantly",
+      "She never gets angry",
+      "She avoids all confrontation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Behind her sweet appearance, Bernadette is known for holding grudges and being surprisingly vindictive when crossed."
+  },
+  {
+    "id": "bbt-143",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Bernadette fit in with Howard's close-knit group of friends?",
+    "options": [
+      "She bonds closely with Penny and Amy",
+      "She refuses to meet them",
+      "She dislikes Howard's friends",
+      "She avoids them entirely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette quickly becomes close with Penny and Amy, forming the trio of 'the girls' alongside the guys' friendship group."
+  },
+  {
+    "id": "bbt-144",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Bernadette's maiden surname before marrying Howard?",
+    "options": [
+      "Rostenkowski",
+      "Fowler",
+      "Koothrappali",
+      "Cooper"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette's maiden name is Rostenkowski, which she keeps referencing even after marrying Howard Wolowitz."
+  },
+  {
+    "id": "bbt-145",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What was Bernadette doing in graduate school when the group first meets her?",
+    "options": [
+      "Finishing her microbiology doctorate",
+      "Studying law",
+      "Interning at a hospital",
+      "Working toward an MBA"
+    ],
+    "correctIndex": 0,
+    "explanation": "When Howard starts dating her, Bernadette is finishing her PhD in microbiology while waitressing part time."
+  },
+  {
+    "id": "bbt-146",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Howard's mother initially react to him dating Bernadette?",
+    "options": [
+      "Possessive and disapproving at first",
+      "She instantly loves her",
+      "She ignores the relationship",
+      "She moves in with them"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard's domineering mother is initially possessive and wary of Bernadette, creating tension typical of the show's family comedy."
+  },
+  {
+    "id": "bbt-147",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What do Penny, Amy, and Bernadette call their regular hangouts together?",
+    "options": [
+      "Girls' night",
+      "Book club",
+      "Study group",
+      "Game night"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny, Amy, and Bernadette regularly get together for 'girls' night,' bonding separately from the guys' activities."
+  },
+  {
+    "id": "bbt-148",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What do the girls' nights usually involve, contrasting the guys' hobbies?",
+    "options": [
+      "Wine and venting about relationships",
+      "Comic book trading",
+      "Video game tournaments",
+      "Physics debates"
+    ],
+    "correctIndex": 0,
+    "explanation": "While the guys often play games or debate science fiction, the girls' nights usually center on wine and relationship talk."
+  },
+  {
+    "id": "bbt-149",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which three women form the core female friendship group on the show?",
+    "options": [
+      "Penny, Amy, and Bernadette",
+      "Penny, Amy, and Mrs. Wolowitz",
+      "Amy, Bernadette, and Leonard's mother",
+      "Penny, Bernadette, and Raj's sister"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny, Amy, and Bernadette form the show's core trio of female friends, often called simply 'the girls.'"
+  },
+  {
+    "id": "bbt-150",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does the timing of the girls' major life milestones often play out?",
+    "options": [
+      "They marry within a similar timeframe",
+      "Only one of them ever marries",
+      "They all avoid marriage entirely",
+      "They marry the same man"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny, Amy, and Bernadette end up getting married within a roughly similar stretch of the show, supporting each other through it."
+  },
+  {
+    "id": "bbt-151",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Where does Penny live in relation to Leonard and Sheldon's apartment?",
+    "options": [
+      "Across the hall",
+      "Next door downstairs",
+      "In the same apartment",
+      "Across the street"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny moves into the apartment directly across the hall from Leonard and Sheldon, setting up the show's central relationship."
+  },
+  {
+    "id": "bbt-152",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Leonard's immediate feeling toward Penny when they first meet?",
+    "options": [
+      "He develops a crush on her",
+      "He finds her annoying",
+      "He ignores her completely",
+      "He is afraid of her"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard is instantly smitten with Penny from their very first meeting, long before they actually start dating."
+  },
+  {
+    "id": "bbt-153",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Around which season do Leonard and Penny begin officially dating?",
+    "options": [
+      "Season 3",
+      "Season 1",
+      "Season 5",
+      "Season 7"
+    ],
+    "correctIndex": 0,
+    "explanation": "After years of tension, Leonard and Penny finally become an official couple starting in Season 3."
+  },
+  {
+    "id": "bbt-154",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What happens to Leonard and Penny's relationship after they first start dating?",
+    "options": [
+      "They break up for a while",
+      "They marry immediately",
+      "They move to another city",
+      "Nothing changes at all"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their early relationship doesn't last, and the two break up before eventually finding their way back to each other."
+  },
+  {
+    "id": "bbt-155",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who does Leonard date during one of his breakups with Penny?",
+    "options": [
+      "Priya, Raj's sister",
+      "Amy Farrah Fowler",
+      "Bernadette",
+      "Lucy"
+    ],
+    "correctIndex": 0,
+    "explanation": "While apart from Penny, Leonard has a serious relationship with Priya, who happens to be Raj's sister."
+  },
+  {
+    "id": "bbt-156",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What was Penny's original dream when she moved to Los Angeles?",
+    "options": [
+      "To become an actress",
+      "To become a scientist",
+      "To open a restaurant",
+      "To become a doctor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny moved from Nebraska hoping to make it as an actress, a goal that comes up repeatedly throughout the series."
+  },
+  {
+    "id": "bbt-157",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What research trip tests Leonard and Penny's relationship?",
+    "options": [
+      "A North Sea expedition",
+      "A Mars mission",
+      "An Antarctic expedition",
+      "A moon landing simulation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard joins a university research expedition to the North Sea, and his time away puts strain on his bond with Penny."
+  },
+  {
+    "id": "bbt-158",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Where does Leonard propose marriage to Penny?",
+    "options": [
+      "In the university clean room",
+      "At a fancy restaurant",
+      "On a rooftop",
+      "At Comic-Con"
+    ],
+    "correctIndex": 0,
+    "explanation": "In a memorable scene, Leonard proposes to Penny inside the university's clean room where he works."
+  },
+  {
+    "id": "bbt-159",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Penny respond when Leonard proposes to her?",
+    "options": [
+      "She says yes right away",
+      "She asks for time to think",
+      "She says no",
+      "She laughs it off"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny accepts Leonard's proposal immediately, a notable contrast to Sheldon and Amy's much slower pace."
+  },
+  {
+    "id": "bbt-160",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What do Leonard and Penny decide after wedding planning overwhelms them?",
+    "options": [
+      "To elope in Las Vegas",
+      "To cancel the wedding",
+      "To move to New York",
+      "To never get married"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tired of the stress of planning a big wedding, Leonard and Penny decide to simply elope in Las Vegas instead."
+  },
+  {
+    "id": "bbt-161",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who does Leonard ask to be his best man for the Vegas wedding?",
+    "options": [
+      "Sheldon",
+      "Howard",
+      "Raj",
+      "Stuart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard chooses Sheldon as his best man, which leads to plenty of comedic chaos during the Vegas wedding trip."
+  },
+  {
+    "id": "bbt-162",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is a famous running joke about Penny throughout the series?",
+    "options": [
+      "Her last name is never revealed",
+      "She has a secret twin",
+      "She hates cheesecake",
+      "She is afraid of elevators"
+    ],
+    "correctIndex": 0,
+    "explanation": "As a long-running gag, Penny's surname is deliberately never stated on screen for the entire series."
+  },
+  {
+    "id": "bbt-163",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What job does Penny hold for much of the earlier seasons?",
+    "options": [
+      "Waitress at the Cheesecake Factory",
+      "Lawyer",
+      "Research scientist",
+      "Hospital nurse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Before her acting and sales careers take off, Penny works as a waitress at the Cheesecake Factory restaurant."
+  },
+  {
+    "id": "bbt-164",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How are Sheldon and Amy originally matched as a couple?",
+    "options": [
+      "An online dating profile site",
+      "A university mixer",
+      "A blind date set up by Penny",
+      "A scientific conference"
+    ],
+    "correctIndex": 0,
+    "explanation": "A dating website's matching algorithm pairs Sheldon and Amy together after their profiles are entered online."
+  },
+  {
+    "id": "bbt-165",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why do Howard and Raj first set up Sheldon's dating profile?",
+    "options": [
+      "As a prank that backfires",
+      "To help him get a grant",
+      "To test a new app",
+      "To annoy Leonard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard and Raj fill out the profile as a joke on Sheldon, never expecting it to actually match him with someone."
+  },
+  {
+    "id": "bbt-166",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What nickname reflects how similar Amy's personality is to Sheldon's?",
+    "options": [
+      "The female Sheldon",
+      "The next Penny",
+      "Little Bernadette",
+      "Sheldon's shadow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy's quirky, hyper-logical personality mirrors Sheldon's so closely that friends jokingly call her 'the female Sheldon.'"
+  },
+  {
+    "id": "bbt-167",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What formal document does Sheldon create to define his romance with Amy?",
+    "options": [
+      "The Relationship Agreement",
+      "The Roommate Agreement",
+      "The Friendship Contract",
+      "The Science Pact"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon drafts a detailed Relationship Agreement spelling out rules for dating Amy, separate from his Roommate Agreement with Leonard."
+  },
+  {
+    "id": "bbt-168",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who initiates Sheldon and Amy's very first kiss?",
+    "options": [
+      "Amy",
+      "Sheldon",
+      "Penny",
+      "Howard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy is the one who makes the first move, kissing Sheldon during an emotional moment well before he is ready."
+  },
+  {
+    "id": "bbt-169",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What emotional milestone does Sheldon eventually reach with Amy?",
+    "options": [
+      "Telling her he loves her",
+      "Proposing on their first date",
+      "Moving in immediately",
+      "Taking her last name"
+    ],
+    "correctIndex": 0,
+    "explanation": "After years of resisting romantic language, Sheldon finally tells Amy he loves her, a major turning point for him."
+  },
+  {
+    "id": "bbt-170",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What happens to Sheldon and Amy's relationship at one low point?",
+    "options": [
+      "They briefly break up",
+      "They elope instantly",
+      "They stop speaking forever",
+      "They become roommates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy ends things with Sheldon for a period when he struggles to grow the relationship, before they later reconcile."
+  },
+  {
+    "id": "bbt-171",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What does Sheldon give Amy to signal their engagement?",
+    "options": [
+      "An engagement ring",
+      "A spare apartment key",
+      "A lab coat",
+      "A train set piece"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon proposes with a ring, a huge step for a character who once insisted romance was unnecessary."
+  },
+  {
+    "id": "bbt-172",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Amy respond when Sheldon proposes marriage?",
+    "options": [
+      "She says yes",
+      "She says she needs time",
+      "She says no at first",
+      "She asks Penny for advice first"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy happily accepts Sheldon's proposal, the culmination of years of patience with his unconventional pace."
+  },
+  {
+    "id": "bbt-173",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What major honor do Sheldon and Amy win together late in the series?",
+    "options": [
+      "The Nobel Prize in Physics",
+      "A Caltech endowed chair",
+      "A joint patent award",
+      "A science TV show deal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon and Amy's research on super-asymmetry earns them the Nobel Prize in Physics, a landmark series moment."
+  },
+  {
+    "id": "bbt-174",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Sheldon do during his Nobel Prize acceptance speech?",
+    "options": [
+      "Thanks his friends individually",
+      "Forgets to speak entirely",
+      "Refuses to attend",
+      "Insults his rivals on stage"
+    ],
+    "correctIndex": 0,
+    "explanation": "In an emotional speech, Sheldon sincerely thanks each of his friends, showing real growth from his usual self-focus."
+  },
+  {
+    "id": "bbt-175",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Amy's academic field of expertise?",
+    "options": [
+      "Neurobiology",
+      "Astrophysics",
+      "Mechanical engineering",
+      "Microbiology"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy Farrah Fowler is a neurobiologist, which along with her personality quirks makes her a natural match for Sheldon."
+  },
+  {
+    "id": "bbt-176",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What running gag involves how Sheldon addresses Amy?",
+    "options": [
+      "He always says her full name, Amy Farrah Fowler",
+      "He never says her name",
+      "He calls her 'Doctor' only",
+      "He gives her a secret code name"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon almost always refers to Amy by her complete name, Amy Farrah Fowler, rarely shortening it."
+  },
+  {
+    "id": "bbt-177",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How do Sheldon and Amy meet in person for the first time?",
+    "options": [
+      "On an arranged dinner date",
+      "At a comic book store",
+      "At a physics conference",
+      "At Penny's apartment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their first in-person meeting is an arranged dinner date set up after their dating profiles matched online."
+  },
+  {
+    "id": "bbt-178",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Sheldon's Relationship Agreement regulate, as a running joke?",
+    "options": [
+      "Hand-holding and date nights",
+      "Grocery shopping turns",
+      "Car seating order",
+      "Comic book purchases"
+    ],
+    "correctIndex": 0,
+    "explanation": "The agreement absurdly spells out specifics like scheduled hand-holding, highlighting Sheldon's need to control romance."
+  },
+  {
+    "id": "bbt-179",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Where does Howard first encounter Bernadette?",
+    "options": [
+      "She works with Penny at the Cheesecake Factory",
+      "She is Sheldon's old classmate",
+      "She works at Caltech",
+      "She is Raj's cousin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette waits tables alongside Penny at the Cheesecake Factory while studying microbiology, which is how Howard meets her."
+  },
+  {
+    "id": "bbt-180",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Whose blind date was Bernadette originally meant to be?",
+    "options": [
+      "Raj's",
+      "Sheldon's",
+      "Leonard's",
+      "Stuart's"
+    ],
+    "correctIndex": 0,
+    "explanation": "Penny arranges the date hoping to pair shy Raj with Bernadette, but Howard ends up charming her instead."
+  },
+  {
+    "id": "bbt-181",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What insecurity does Howard hide that later strains things with Bernadette?",
+    "options": [
+      "He doesn't actually have a PhD",
+      "He is secretly married",
+      "He has massive gambling debt",
+      "He failed out of college"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard only holds a master's degree, not a doctorate, and his insecurity about this becomes a recurring source of tension."
+  },
+  {
+    "id": "bbt-182",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What happens after Howard and Bernadette date for a while?",
+    "options": [
+      "They get engaged",
+      "They break up permanently",
+      "They move to Texas",
+      "They stop speaking"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their relationship progresses steadily, leading Howard to propose and the two becoming engaged."
+  },
+  {
+    "id": "bbt-183",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "During their wedding, what memorable thing does Sheldon do?",
+    "options": [
+      "Reads a passage in Klingon",
+      "Sings the national anthem",
+      "Objects to the marriage",
+      "Gives the bride away"
+    ],
+    "correctIndex": 0,
+    "explanation": "In a famously odd gesture, Sheldon performs a reading in the fictional Klingon language at the wedding ceremony."
+  },
+  {
+    "id": "bbt-184",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What risky trip does Howard take early in his marriage to Bernadette?",
+    "options": [
+      "A mission to the International Space Station",
+      "A deep-sea submarine dive",
+      "An Arctic research expedition",
+      "A solo round-the-world flight"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard travels to the International Space Station as an astronaut, causing Bernadette great anxiety while he's away."
+  },
+  {
+    "id": "bbt-185",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What running joke involves Bernadette's voice and personality?",
+    "options": [
+      "Her sweet voice hides a scary temper",
+      "She can never stop singing",
+      "She only communicates by whispering",
+      "She has no sense of humor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette's high, sweet voice contrasts comically with her occasionally fierce and intimidating personality."
+  },
+  {
+    "id": "bbt-186",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What career surprises people about sweet-seeming Bernadette?",
+    "options": [
+      "A high-earning microbiologist",
+      "A professional wrestler",
+      "A stand-up comedian",
+      "A race car driver"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bernadette works as a well-paid pharmaceutical microbiologist, eventually out-earning Howard, a running joke on the show."
+  },
+  {
+    "id": "bbt-187",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What are the names of Howard and Bernadette's two children?",
+    "options": [
+      "Halley and Michael",
+      "Amy and Sheldon Jr.",
+      "Penny and Leo",
+      "Raj and Lucy"
+    ],
+    "correctIndex": 0,
+    "explanation": "The couple has a daughter named Halley and later a son named Michael."
+  },
+  {
+    "id": "bbt-188",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why do Howard and Bernadette name their daughter Halley?",
+    "options": [
+      "After Halley's Comet",
+      "After Bernadette's mother",
+      "After a TV character",
+      "Random choice from a baby book"
+    ],
+    "correctIndex": 0,
+    "explanation": "The name nods to Halley's Comet, tying into Howard's career and passion for space and astronomy."
+  },
+  {
+    "id": "bbt-189",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who is Howard and Bernadette's first child?",
+    "options": [
+      "Halley",
+      "Michael",
+      "Both born together",
+      "Neither, they adopt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their daughter Halley is born before their son Michael arrives later in the series."
+  },
+  {
+    "id": "bbt-190",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which friend becomes an unofficial extra family member helping with their kids?",
+    "options": [
+      "Stuart",
+      "Raj",
+      "Leonard",
+      "Sheldon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stuart grows so close to the family that he practically lives with them, helping look after Halley and Michael."
+  },
+  {
+    "id": "bbt-191",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is the name of Raj's beloved dog, a running joke about his loneliness?",
+    "options": [
+      "Cinnamon",
+      "Pepper",
+      "Ginger",
+      "Saffron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj's dog Cinnamon becomes a running gag, often treated like a stand-in companion for his lack of a girlfriend."
+  },
+  {
+    "id": "bbt-192",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What unusual issue affects Raj's ability to talk to women for years?",
+    "options": [
+      "He can only speak to women while drunk",
+      "He is allergic to perfume",
+      "He stutters near tall women",
+      "He faints when nervous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj suffers from selective mutism around women unless he has been drinking, a long-running character trait."
+  },
+  {
+    "id": "bbt-193",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who introduces Raj to his girlfriend Lucy?",
+    "options": [
+      "Stuart",
+      "Penny",
+      "Bernadette",
+      "Amy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stuart introduces Raj to Lucy, a shy customer at his comic book store, kicking off their relationship."
+  },
+  {
+    "id": "bbt-194",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why does Raj's relationship with Lucy eventually end?",
+    "options": [
+      "Her social anxiety makes the relationship too hard",
+      "She moves overseas",
+      "She marries someone else",
+      "She reveals she's engaged"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lucy's severe social anxiety makes it difficult for the relationship to progress, eventually leading to their breakup."
+  },
+  {
+    "id": "bbt-195",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Raj meet his girlfriend Emily Sweeney?",
+    "options": [
+      "Through an online dating app",
+      "At a comic book convention",
+      "Through Bernadette's work",
+      "At Caltech"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj matches with Emily through an online dating app that he and Howard both start using."
+  },
+  {
+    "id": "bbt-196",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is Emily Sweeney's profession?",
+    "options": [
+      "Dermatologist",
+      "Lawyer",
+      "Veterinarian",
+      "Astronaut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emily, Raj's on-and-off girlfriend, works as a dermatologist."
+  },
+  {
+    "id": "bbt-197",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "What creates brief romantic tension between Raj and Penny?",
+    "options": [
+      "They almost kiss after drinking together",
+      "They go on an official date",
+      "They get engaged briefly",
+      "They move in together"
+    ],
+    "correctIndex": 0,
+    "explanation": "During a drunken moment, Raj and Penny nearly kiss, creating an awkward spark of tension between the two friends."
+  },
+  {
+    "id": "bbt-198",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What issue arises in Raj's short relationship with Claire?",
+    "options": [
+      "He wants to define things too fast",
+      "She cheats on him",
+      "She moves abroad suddenly",
+      "He forgets her birthday"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj's eagerness to immediately label and commit to the relationship ends up pushing Claire away."
+  },
+  {
+    "id": "bbt-199",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What pressure does Raj's family regularly put on him?",
+    "options": [
+      "They push an arranged marriage back in India",
+      "They demand he become a monk",
+      "They forbid him from dating",
+      "They want him to marry his cousin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj's parents repeatedly try to set him up with women back in India, reflecting ongoing family pressure to marry."
+  },
+  {
+    "id": "bbt-200",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What does Raj treat his dog Cinnamon like, as a running gag?",
+    "options": [
+      "A substitute girlfriend or companion",
+      "A show dog for competitions",
+      "A guard dog",
+      "A trained service animal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raj dotes on Cinnamon as if the dog were a romantic partner, highlighting his loneliness between relationships."
+  },
+  {
+    "id": "bbt-201",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is the Roommate Agreement between Sheldon and Leonard?",
+    "options": [
+      "A legal contract for buying the apartment",
+      "A document governing rules of apartment life",
+      "A script for their favorite TV show",
+      "A list of restaurants they can eat at"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Roommate Agreement is a lengthy, formal document Sheldon drafted to govern nearly every aspect of living together, from chores to emergencies."
+  },
+  {
+    "id": "bbt-202",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which rule is well known from the Roommate Agreement's illness clause?",
+    "options": [
+      "The healthy roommate must care for the sick one",
+      "Sick roommates must move out immediately",
+      "Only soup may be eaten during illness",
+      "Illness voids the entire agreement"
+    ],
+    "correctIndex": 0,
+    "explanation": "The agreement includes a clause obligating the healthy roommate to look after the other when sick, which Sheldon invokes often and dramatically."
+  },
+  {
+    "id": "bbt-203",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does the Roommate Agreement say about overnight guests?",
+    "options": [
+      "Guests may never stay over",
+      "Overnight guests require advance written notice",
+      "Only family members may visit overnight",
+      "Guests must sign a separate lease"
+    ],
+    "correctIndex": 1,
+    "explanation": "The agreement requires advance notice before a romantic partner or other guest stays overnight, showing how seriously Sheldon treats the document."
+  },
+  {
+    "id": "bbt-204",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What kind of joke clause does the Roommate Agreement include?",
+    "options": [
+      "A clause about who gets the car in a divorce",
+      "A clause about surviving a zombie apocalypse",
+      "A clause about winning the lottery",
+      "A clause about adopting a pet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Among its many formal rules, the agreement humorously addresses what the roommates must do for each other during a zombie or viral apocalypse."
+  },
+  {
+    "id": "bbt-205",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who originally drafted the Roommate Agreement?",
+    "options": [
+      "Leonard",
+      "Sheldon",
+      "Howard",
+      "Penny"
+    ],
+    "correctIndex": 1,
+    "explanation": "True to his love of rules and order, Sheldon is the one who created and insists on strictly enforcing the Roommate Agreement."
+  },
+  {
+    "id": "bbt-206",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How often is the Roommate Agreement changed over the series?",
+    "options": [
+      "It is amended many times over the years",
+      "It is never changed after signing",
+      "It is rewritten only once, by Penny",
+      "It is destroyed in season one"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Roommate Agreement is revised and amended repeatedly throughout the show as circumstances between Sheldon and Leonard change."
+  },
+  {
+    "id": "bbt-207",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Sheldon generally treat the Roommate Agreement?",
+    "options": [
+      "As a casual, unimportant joke",
+      "As a legally binding, serious contract",
+      "As something he forgot he wrote",
+      "As a birthday card for Leonard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheldon treats the Roommate Agreement with total seriousness, frequently citing specific clauses as if they were enforceable law."
+  },
+  {
+    "id": "bbt-208",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "The Roommate Agreement governs apartment life between which two characters?",
+    "options": [
+      "Howard and Raj",
+      "Sheldon and Leonard",
+      "Penny and Bernadette",
+      "Amy and Sheldon"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Roommate Agreement is specifically between Sheldon and his longtime apartment roommate, Leonard."
+  },
+  {
+    "id": "bbt-209",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is the Relationship Agreement between Sheldon and Amy?",
+    "options": [
+      "A prenuptial agreement for their wedding",
+      "A formal document of relationship rules",
+      "A screenplay they co-wrote",
+      "A lease for Amy's apartment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mirroring his Roommate Agreement, Sheldon drafts a formal Relationship Agreement with Amy to set rules for their romantic relationship."
+  },
+  {
+    "id": "bbt-210",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What recurring commitment does the Sheldon-Amy Relationship Agreement include?",
+    "options": [
+      "A mandatory weekly date night",
+      "A ban on all physical contact",
+      "Separate living arrangements forever",
+      "A rule against ever discussing feelings"
+    ],
+    "correctIndex": 0,
+    "explanation": "The agreement sets out practical relationship terms, including a scheduled date night, reflecting Sheldon's structured approach to romance."
+  },
+  {
+    "id": "bbt-211",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Why does Sheldon draft a Relationship Agreement with Amy?",
+    "options": [
+      "To avoid ever seeing her again",
+      "To bring his love of structure to dating",
+      "Because Amy's lawyer demanded it",
+      "To formally end their relationship"
+    ],
+    "correctIndex": 1,
+    "explanation": "True to character, Sheldon applies his love of rules and documentation to his relationship with Amy, just as with his Roommate Agreement."
+  },
+  {
+    "id": "bbt-212",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does the Relationship Agreement change as Sheldon and Amy grow closer?",
+    "options": [
+      "It is renegotiated for more intimacy over time",
+      "It is thrown away and never mentioned again",
+      "It stays exactly the same until the finale",
+      "It is replaced by a prenup in season one"
+    ],
+    "correctIndex": 0,
+    "explanation": "As their relationship deepens, Sheldon and Amy periodically renegotiate terms of their agreement, loosening some of its stricter early rules."
+  },
+  {
+    "id": "bbt-213",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What tone does the Sheldon-Amy Relationship Agreement generally have?",
+    "options": [
+      "Romantic and poetic",
+      "Formal and legalistic, like a business contract",
+      "Written entirely in rhyme",
+      "Completely improvised with no rules"
+    ],
+    "correctIndex": 1,
+    "explanation": "Like his Roommate Agreement, Sheldon's Relationship Agreement with Amy is written in a dry, formal style despite covering romance."
+  },
+  {
+    "id": "bbt-214",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is 'Fun with Flags'?",
+    "options": [
+      "Sheldon's web show about the study of flags",
+      "A board game Sheldon invented",
+      "A college course Sheldon teaches",
+      "A comic book series"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fun with Flags is Sheldon's own web/public-access show dedicated to vexillology, the study of flags, which he hosts himself."
+  },
+  {
+    "id": "bbt-215",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who later becomes Sheldon's co-host on Fun with Flags?",
+    "options": [
+      "Penny",
+      "Amy",
+      "Bernadette",
+      "Raj"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amy eventually joins Sheldon as co-host of Fun with Flags after they become a couple."
+  },
+  {
+    "id": "bbt-216",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is a well-known trait of Fun with Flags as a show?",
+    "options": [
+      "It has a massive worldwide television audience",
+      "It has a very small, niche viewership",
+      "It airs only during the Super Bowl",
+      "It is banned by the university"
+    ],
+    "correctIndex": 1,
+    "explanation": "Despite Sheldon's pride in it, Fun with Flags is known for having a tiny, niche audience rather than wide popularity."
+  },
+  {
+    "id": "bbt-217",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Sheldon regard his show Fun with Flags?",
+    "options": [
+      "As an embarrassing hobby he hides",
+      "As a prestigious, important production",
+      "As something he was forced to make",
+      "As a failed one-time experiment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheldon takes Fun with Flags very seriously and considers it a prestigious endeavor, despite its small audience."
+  },
+  {
+    "id": "bbt-218",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What subject does Fun with Flags focus on exclusively?",
+    "options": [
+      "National anthems",
+      "Flags and vexillology",
+      "World maps",
+      "Military uniforms"
+    ],
+    "correctIndex": 1,
+    "explanation": "True to its name, Fun with Flags is devoted entirely to discussing flags and the study of vexillology."
+  },
+  {
+    "id": "bbt-219",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is 'Halo Night' among the guys in the group?",
+    "options": [
+      "A weekly tradition of playing the Halo video game",
+      "A religious ceremony Sheldon invented",
+      "A monthly trip to Las Vegas",
+      "A costume party tradition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Halo Night is a recurring guys' tradition where Leonard, Howard, Raj and others gather to play the Halo video game together."
+  },
+  {
+    "id": "bbt-220",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is 'Vegas Night' as practiced by the guys?",
+    "options": [
+      "An actual weekly trip to Las Vegas",
+      "A home poker and gambling-themed game night",
+      "A themed costume show",
+      "A cooking competition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vegas Night is a recurring at-home tradition where the guys play poker and other gambling games together."
+  },
+  {
+    "id": "bbt-221",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What often threatens the guys' Halo Night and Vegas Night traditions?",
+    "options": [
+      "Running out of snacks",
+      "Girlfriends and relationships taking priority",
+      "The apartment building closing",
+      "Losing the game console"
+    ],
+    "correctIndex": 1,
+    "explanation": "As the guys' relationships develop, their girlfriends increasingly compete for their time, often disrupting traditions like Halo Night."
+  },
+  {
+    "id": "bbt-222",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which activity defines Halo Night?",
+    "options": [
+      "Watching old movies",
+      "Playing a video game together",
+      "Playing poker",
+      "Building model trains"
+    ],
+    "correctIndex": 1,
+    "explanation": "Halo Night centers specifically around the guys playing the video game Halo together as a group."
+  },
+  {
+    "id": "bbt-223",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Vegas Night and Halo Night are both examples of what kind of tradition?",
+    "options": [
+      "Solo rituals Sheldon does alone",
+      "Recurring guys' bonding traditions",
+      "Annual holiday celebrations",
+      "Work-related meetings"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both Halo Night and Vegas Night are long-running recurring traditions where the male friends bond over games."
+  },
+  {
+    "id": "bbt-224",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How does Sheldon typically approach paintball competitions?",
+    "options": [
+      "With complete indifference",
+      "With intense strategic and tactical obsession",
+      "By refusing to play at all times",
+      "By only playing for the free snacks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheldon treats paintball competitions as serious tactical battles, obsessing over strategy and alliances."
+  },
+  {
+    "id": "bbt-225",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who is a frequent rival of Sheldon's in competitive games like paintball?",
+    "options": [
+      "Barry Kripke",
+      "Stuart Bloom",
+      "Zack",
+      "Wil Wheaton"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fellow physicist Barry Kripke, known for his rivalry with Sheldon, frequently competes against him in games."
+  },
+  {
+    "id": "bbt-226",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Sheldon often form during paintball competitions?",
+    "options": [
+      "A new university department",
+      "Tactical alliances with teammates",
+      "A permanent truce with everyone",
+      "A separate paintball league"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheldon frequently strategizes by forming tactical alliances during paintball and similar competitions, treating them like real battles."
+  },
+  {
+    "id": "bbt-227",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What makes the gang's paintball episodes a recurring comedic theme?",
+    "options": [
+      "Sheldon's overly serious military-style approach",
+      "Everyone always refuses to participate",
+      "The games are always canceled",
+      "Penny always wins effortlessly"
+    ],
+    "correctIndex": 0,
+    "explanation": "The humor comes from Sheldon's absurdly serious, military-style approach to what is meant to be a casual game."
+  },
+  {
+    "id": "bbt-228",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What hobby is Sheldon well known for enjoying?",
+    "options": [
+      "Collecting model trains",
+      "Surfing",
+      "Painting landscapes",
+      "Playing the guitar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon has a long-established love of trains, including collecting model trains and train memorabilia."
+  },
+  {
+    "id": "bbt-229",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Sheldon set up in his apartment related to his train hobby?",
+    "options": [
+      "A train table for his model trains",
+      "A full-size train track",
+      "A train museum open to the public",
+      "A subway station replica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon sets up a model train table in the apartment, dedicating space to his hobby of collecting model trains."
+  },
+  {
+    "id": "bbt-230",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What recurring fantasy does Sheldon have related to trains?",
+    "options": [
+      "Imagining himself as a train conductor",
+      "Imagining himself as a train thief",
+      "Imagining himself flying a plane instead",
+      "Imagining Leonard destroying his trains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon has daydream sequences imagining himself as a train conductor, reflecting his enthusiasm for trains."
+  },
+  {
+    "id": "bbt-231",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Sheldon's fascination with trains is treated in the show as what kind of trait?",
+    "options": [
+      "A deeply embarrassing secret he hides",
+      "A well-known, openly embraced quirky hobby",
+      "Something he gave up after college",
+      "A skill he uses professionally"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheldon's love of trains is an openly known and recurring quirky hobby throughout the series, not a secret."
+  },
+  {
+    "id": "bbt-232",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What does Stuart Bloom own in the show?",
+    "options": [
+      "A comic book store",
+      "A record label",
+      "A pizza restaurant",
+      "A university lab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stuart Bloom owns and runs the comic book store that the gang frequents throughout the series."
+  },
+  {
+    "id": "bbt-233",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What role does Stuart's comic book store serve for the main characters?",
+    "options": [
+      "A place they actively avoid",
+      "A regular hangout spot",
+      "Their workplace",
+      "A courtroom for disputes"
+    ],
+    "correctIndex": 1,
+    "explanation": "The comic book store is a frequent, well-known hangout for Sheldon, Leonard, Howard and Raj throughout the series."
+  },
+  {
+    "id": "bbt-234",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What financial struggle is Stuart's comic book store known for?",
+    "options": [
+      "It is constantly on the verge of closing",
+      "It becomes a billion-dollar franchise",
+      "It is sold to a rival store",
+      "It wins a national business award"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stuart's comic book store is repeatedly shown struggling financially, often nearly closing down."
+  },
+  {
+    "id": "bbt-235",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How is Stuart Bloom generally portrayed as a character?",
+    "options": [
+      "Confident and socially smooth",
+      "Socially awkward and financially struggling",
+      "Extremely wealthy and successful",
+      "A famous physicist"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stuart is consistently portrayed as awkward and financially struggling, which is a running source of comedy and sympathy."
+  },
+  {
+    "id": "bbt-236",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What holiday does the gang regularly spend together?",
+    "options": [
+      "Thanksgiving",
+      "Labor Day",
+      "Groundhog Day",
+      "Arbor Day"
+    ],
+    "correctIndex": 0,
+    "explanation": "The group of friends is shown gathering together for Thanksgiving on multiple occasions throughout the series."
+  },
+  {
+    "id": "bbt-237",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What does Sheldon give Penny instead of a real Christmas gift?",
+    "options": [
+      "A basket of thanks with no real gift inside",
+      "A brand-new car",
+      "An actual flag from his show",
+      "A handwritten apology letter"
+    ],
+    "correctIndex": 0,
+    "explanation": "To avoid being socially obligated, Sheldon gives Penny a 'basket of gratitude' instead of an actual gift, a famous running joke."
+  },
+  {
+    "id": "bbt-238",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why does Sheldon avoid giving real gifts in his gift-giving dynamic?",
+    "options": [
+      "He wants to avoid the social debt of reciprocity",
+      "He has no money at all",
+      "He dislikes all of his friends",
+      "He believes gifts are illegal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's avoidance of real gifts stems from his anxiety about the social debt and reciprocal obligation that gift-giving creates."
+  },
+  {
+    "id": "bbt-239",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What happens after Penny gives Sheldon an actual gift at Christmas?",
+    "options": [
+      "He panics about how to reciprocate appropriately",
+      "He immediately returns it unopened",
+      "He throws it away",
+      "He gives it right back to her"
+    ],
+    "correctIndex": 0,
+    "explanation": "When Penny gives Sheldon a real, thoughtful gift, he becomes anxious trying to figure out how to repay the social debt it creates."
+  },
+  {
+    "id": "bbt-240",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who is Missy Cooper in relation to Sheldon?",
+    "options": [
+      "His twin sister",
+      "His ex-girlfriend",
+      "His college roommate",
+      "His lab assistant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Missy Cooper is Sheldon's twin sister, known for having a very different, more outgoing personality than him."
+  },
+  {
+    "id": "bbt-241",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How is Missy's personality generally contrasted with Sheldon's?",
+    "options": [
+      "She is far more outgoing and down-to-earth",
+      "She is even more socially awkward than Sheldon",
+      "She shares his exact obsessions with science",
+      "She refuses to ever speak to him"
+    ],
+    "correctIndex": 0,
+    "explanation": "Missy is portrayed as athletic, popular and down-to-earth, a sharp contrast to her more awkward twin brother Sheldon."
+  },
+  {
+    "id": "bbt-242",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "How do Leonard and Raj react when they meet Missy?",
+    "options": [
+      "They are both visibly attracted to her",
+      "They both find her annoying",
+      "They refuse to speak with her",
+      "They mistake her for Sheldon's mother"
+    ],
+    "correctIndex": 0,
+    "explanation": "When Missy visits, both Leonard and Raj are shown being attracted to her, playing on her contrast with Sheldon."
+  },
+  {
+    "id": "bbt-243",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Who is Mary Cooper?",
+    "options": [
+      "Sheldon's devoutly religious mother",
+      "Sheldon's college professor",
+      "Amy's mother",
+      "Howard's aunt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mary Cooper is Sheldon's mother, a devout Christian from Texas who appears periodically to look after her son."
+  },
+  {
+    "id": "bbt-244",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Mary Cooper well known for, as a character trait?",
+    "options": [
+      "Her strong Christian faith and Texas roots",
+      "Her career as a physicist",
+      "Her refusal to ever visit her son",
+      "Her atheism and love of science fiction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mary Cooper is consistently characterized by her devout Christian faith and her Texan background, often referencing prayer."
+  },
+  {
+    "id": "bbt-245",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What role does Mary Cooper play regarding Sheldon's wedding to Amy?",
+    "options": [
+      "She attends and takes part in the wedding",
+      "She refuses to attend entirely",
+      "She tries to stop the wedding",
+      "She is never told about it"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mary Cooper is present and involved in Sheldon and Amy's wedding, consistent with her caring, if exasperated, relationship with her son."
+  },
+  {
+    "id": "bbt-246",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How is Howard's mother typically presented for most of the show?",
+    "options": [
+      "Never shown, only heard shouting offscreen",
+      "She appears in every episode in person",
+      "She lives abroad, shown by video call",
+      "She is played by a rotating cast onscreen"
+    ],
+    "correctIndex": 0,
+    "explanation": "For most of the series, Howard's mother is a running gag: never seen on camera, only heard loudly shouting from offscreen."
+  },
+  {
+    "id": "bbt-247",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Where does Howard live for much of the early series?",
+    "options": [
+      "In his mother's house, well into adulthood",
+      "On a university campus",
+      "In Sheldon and Leonard's apartment",
+      "Alone in a different city"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard lives with his mother for a large portion of the show, a running joke about his dependence, until he marries Bernadette."
+  },
+  {
+    "id": "bbt-248",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What does Sheldon keep that lists people he dislikes?",
+    "options": [
+      "A formal enemies list",
+      "A grocery shopping list",
+      "A list of favorite flags",
+      "A list of Nobel Prize winners"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon maintains a literal list of personal enemies and rivals, treating grudges with the same formality as everything else."
+  },
+  {
+    "id": "bbt-249",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who is Sheldon's most famous rival, playing an exaggerated version of himself?",
+    "options": [
+      "Wil Wheaton",
+      "Barry Kripke",
+      "Stuart Bloom",
+      "Leonard Nimoy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Actor Wil Wheaton recurs throughout the series playing an exaggerated version of himself as Sheldon's great nemesis-turned-friend."
+  },
+  {
+    "id": "bbt-250",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why did Sheldon originally despise Wil Wheaton?",
+    "options": [
+      "Wheaton stood him up at an autograph signing",
+      "Wheaton stole Sheldon's job",
+      "Wheaton insulted Sheldon's mother publicly",
+      "Wheaton beat Sheldon in a physics competition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's grudge began in childhood, when Wil Wheaton failed to show up for a convention autograph signing Sheldon had waited for."
+  },
+  {
+    "id": "bbt-251",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which actor plays an exaggerated, villainous version of himself on the show?",
+    "options": [
+      "Wil Wheaton",
+      "Mark Hamill",
+      "LeVar Burton",
+      "Leonard Nimoy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wil Wheaton recurs as a comically evil version of himself, originally cast as Sheldon's rival."
+  },
+  {
+    "id": "bbt-252",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Why does Sheldon despise Wil Wheaton when they first meet on the show?",
+    "options": [
+      "Wheaton skipped a signing event",
+      "Wheaton insulted Star Trek",
+      "Wheaton stole his seat",
+      "Wheaton beat him at chess"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's grudge began when young Wheaton failed to show up to a collectible signing, a wound he never forgot."
+  },
+  {
+    "id": "bbt-253",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How does Sheldon and Wil Wheaton's relationship change over the series?",
+    "options": [
+      "It grows into genuine friendship",
+      "It ends in a lawsuit",
+      "They never reconcile",
+      "Wheaton moves away forever"
+    ],
+    "correctIndex": 0,
+    "explanation": "Despite years of comic rivalry, Sheldon and Wheaton's on-screen relationship eventually warms into real friendship."
+  },
+  {
+    "id": "bbt-254",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "For years, whose name tops Sheldon's list of people who have wronged him?",
+    "options": [
+      "Wil Wheaton",
+      "Leonard Nimoy",
+      "Stephen Hawking",
+      "Stuart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wil Wheaton holds the top spot on Sheldon's running mental list of enemies for much of the show."
+  },
+  {
+    "id": "bbt-255",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which astrophysicist appears repeatedly as himself, insisting Pluto isn't a planet?",
+    "options": [
+      "Neil deGrasse Tyson",
+      "Stephen Hawking",
+      "Bill Nye",
+      "Brian Cox"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neil deGrasse Tyson recurs as himself, and his stance on Pluto's status becomes a running joke with Howard."
+  },
+  {
+    "id": "bbt-256",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Neil deGrasse Tyson's Pluto opinion is a running gag mainly annoying which character?",
+    "options": [
+      "Howard",
+      "Raj",
+      "Leonard",
+      "Stuart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard, proud of his NASA work, repeatedly clashes with Tyson over Pluto's demotion from planet status."
+  },
+  {
+    "id": "bbt-257",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which real physicist famously beats Sheldon at Wii bowling in an episode?",
+    "options": [
+      "Stephen Hawking",
+      "Neil deGrasse Tyson",
+      "George Smoot",
+      "Brian Greene"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stephen Hawking, appearing as himself, humbles Sheldon by defeating him at a video bowling game."
+  },
+  {
+    "id": "bbt-258",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Stephen Hawking appears as himself multiple times; what field made him famous?",
+    "options": [
+      "Theoretical physics and cosmology",
+      "Marine biology",
+      "Astronaut training",
+      "Computer engineering"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hawking was renowned for his work on black holes and cosmology, and his cameos thrilled Sheldon each time."
+  },
+  {
+    "id": "bbt-259",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "A later season finale is dedicated in memory of which real scientist who had guest starred?",
+    "options": [
+      "Stephen Hawking",
+      "Neil deGrasse Tyson",
+      "Leonard Nimoy",
+      "Buzz Aldrin"
+    ],
+    "correctIndex": 0,
+    "explanation": "The show paid tribute to Stephen Hawking, a beloved recurring guest star, following his real-life passing."
+  },
+  {
+    "id": "bbt-260",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which actor, known for Star Trek's Geordi La Forge, guest stars as himself?",
+    "options": [
+      "LeVar Burton",
+      "Wil Wheaton",
+      "Mark Hamill",
+      "Patrick Stewart"
+    ],
+    "correctIndex": 0,
+    "explanation": "LeVar Burton, famed for playing Geordi La Forge, appears as himself alongside his real former castmate Wil Wheaton."
+  },
+  {
+    "id": "bbt-261",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What real-life link between LeVar Burton and Wil Wheaton does the show play on?",
+    "options": [
+      "Both were Star Trek: TNG castmates",
+      "Both attended the same college",
+      "Both are licensed pilots",
+      "Both won acting awards together"
+    ],
+    "correctIndex": 0,
+    "explanation": "The show leans on the fact that Burton and Wheaton were genuinely cast together on Star Trek: The Next Generation."
+  },
+  {
+    "id": "bbt-262",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which Star Wars actor guest starred as himself, famed for playing Luke Skywalker?",
+    "options": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mark Hamill, best known as Luke Skywalker, appears as himself in a guest cameo on the show."
+  },
+  {
+    "id": "bbt-263",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which science educator, nicknamed 'The Science Guy', makes a cameo as himself?",
+    "options": [
+      "Bill Nye",
+      "Neil deGrasse Tyson",
+      "Michio Kaku",
+      "Brian Cox"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bill Nye, popularly known as 'The Science Guy', guest stars as himself on the show."
+  },
+  {
+    "id": "bbt-264",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which astronaut, famous for walking on the Moon, makes a cameo appearance?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Chris Hadfield",
+      "Sally Ride"
+    ],
+    "correctIndex": 0,
+    "explanation": "Buzz Aldrin, one of the first men to walk on the Moon, guest stars as himself to the delight of the main characters."
+  },
+  {
+    "id": "bbt-265",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which tech entrepreneur, CEO of Tesla and SpaceX, has a cameo as himself?",
+    "options": [
+      "Elon Musk",
+      "Jeff Bezos",
+      "Bill Gates",
+      "Mark Zuckerberg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elon Musk appears as himself in a guest cameo, fitting the show's love of real-world science celebrities."
+  },
+  {
+    "id": "bbt-266",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "A real Nobel Prize-winning physicist guest stars as a party guest Sheldon snubs?",
+    "options": [
+      "George Smoot",
+      "Stephen Hawking",
+      "Brian Greene",
+      "Michio Kaku"
+    ],
+    "correctIndex": 0,
+    "explanation": "George Smoot, a real Nobel laureate, plays a guest Sheldon rudely dismisses, unaware of who he actually is."
+  },
+  {
+    "id": "bbt-267",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Sheldon treasures a napkin he believes was touched by which Star Trek legend?",
+    "options": [
+      "Leonard Nimoy",
+      "William Shatner",
+      "Wil Wheaton",
+      "LeVar Burton"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon reveres a napkin supposedly touched by Leonard Nimoy, the actor famed for playing Spock."
+  },
+  {
+    "id": "bbt-268",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Leonard Nimoy is worshipped by Sheldon mainly for originating which character?",
+    "options": [
+      "Spock",
+      "Captain Kirk",
+      "Data",
+      "Worf"
+    ],
+    "correctIndex": 0,
+    "explanation": "Leonard Nimoy's iconic portrayal of Spock makes him one of Sheldon's greatest heroes on the show."
+  },
+  {
+    "id": "bbt-269",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which legendary Marvel Comics co-creator makes a cameo at a comic convention?",
+    "options": [
+      "Stan Lee",
+      "Jack Kirby",
+      "Todd McFarlane",
+      "Jim Lee"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stan Lee, co-creator of many Marvel superheroes, appears in a comic convention storyline on the show."
+  },
+  {
+    "id": "bbt-270",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What institute employs most of the main characters as scientists?",
+    "options": [
+      "Caltech",
+      "MIT",
+      "Stanford University",
+      "UCLA"
+    ],
+    "correctIndex": 0,
+    "explanation": "Caltech, the California Institute of Technology, is the workplace at the heart of the show's setting."
+  },
+  {
+    "id": "bbt-271",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "In which California city is the Caltech setting of the show located?",
+    "options": [
+      "Pasadena",
+      "Los Angeles",
+      "San Diego",
+      "Long Beach"
+    ],
+    "correctIndex": 0,
+    "explanation": "The show is set in Pasadena, home to the real California Institute of Technology, and the characters' apartment."
+  },
+  {
+    "id": "bbt-272",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What is Sheldon Cooper's scientific specialty at Caltech?",
+    "options": [
+      "Theoretical physics",
+      "Marine biology",
+      "Organic chemistry",
+      "Mechanical engineering"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon works as a theoretical physicist, obsessed with string theory and later super-asymmetry."
+  },
+  {
+    "id": "bbt-273",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Unlike his PhD roommate, what role does Howard Wolowitz hold at Caltech?",
+    "options": [
+      "Aerospace engineer",
+      "Theoretical physicist",
+      "Neurobiologist",
+      "Chemist"
+    ],
+    "correctIndex": 0,
+    "explanation": "Howard is an aerospace engineer without a PhD, a running point of friendly mockery from his doctor friends."
+  },
+  {
+    "id": "bbt-274",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What field does Sheldon's longtime physics rival Barry Kripke work in?",
+    "options": [
+      "Theoretical physics",
+      "Neurobiology",
+      "Astrophysics",
+      "Engineering"
+    ],
+    "correctIndex": 0,
+    "explanation": "Barry Kripke is a theoretical physicist at Caltech, needling Sheldon with his rhotacism and rivalry."
+  },
+  {
+    "id": "bbt-275",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which institute does Amy eventually work at alongside Sheldon?",
+    "options": [
+      "Caltech",
+      "Stanford University",
+      "MIT",
+      "Princeton University"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amy joins Caltech, letting her and Sheldon collaborate closely on their physics research."
+  },
+  {
+    "id": "bbt-276",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which band performs the show's catchy theme song?",
+    "options": [
+      "Barenaked Ladies",
+      "The Killers",
+      "Weezer",
+      "OK Go"
+    ],
+    "correctIndex": 0,
+    "explanation": "Canadian band Barenaked Ladies wrote and performed the upbeat theme song heard at the start of every episode."
+  },
+  {
+    "id": "bbt-277",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the title of the show's theme song, written by Barenaked Ladies?",
+    "options": [
+      "History of Everything",
+      "Big Bang Boogie",
+      "The Whole Universe",
+      "One Big Theory"
+    ],
+    "correctIndex": 0,
+    "explanation": "The theme song is called 'History of Everything', tracing the universe from the Big Bang to modern life."
+  },
+  {
+    "id": "bbt-278",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "The show's opening theme song begins its story with which cosmic event?",
+    "options": [
+      "The Big Bang",
+      "The Moon landing",
+      "The invention of fire",
+      "The first computer"
+    ],
+    "correctIndex": 0,
+    "explanation": "True to the show's name, the theme song kicks off its whirlwind history with the Big Bang itself."
+  },
+  {
+    "id": "bbt-279",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "In the series finale, what major honor do Sheldon and Amy jointly receive?",
+    "options": [
+      "The Nobel Prize in Physics",
+      "A Caltech endowed chair",
+      "An honorary doctorate",
+      "A MacArthur Fellowship"
+    ],
+    "correctIndex": 0,
+    "explanation": "The series finale centers on Sheldon and Amy traveling to Stockholm to accept the Nobel Prize in Physics."
+  },
+  {
+    "id": "bbt-280",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What is the name of the physics theory that wins Sheldon and Amy the Nobel Prize?",
+    "options": [
+      "Super-asymmetry",
+      "String duality",
+      "Quantum entanglement theory",
+      "Grand unification"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their work on 'super-asymmetry', once mocked, ultimately earns Sheldon and Amy the Nobel Prize in Physics."
+  },
+  {
+    "id": "bbt-281",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Where do Sheldon and Amy travel to accept their Nobel Prize in the finale?",
+    "options": [
+      "Stockholm",
+      "Oslo",
+      "Geneva",
+      "London"
+    ],
+    "correctIndex": 0,
+    "explanation": "The finale sends the gang to Stockholm, Sweden, the traditional home of the Nobel Prize ceremony."
+  },
+  {
+    "id": "bbt-282",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "In his finale speech, Sheldon publicly credits his success to what?",
+    "options": [
+      "His friends' support",
+      "Working entirely alone",
+      "A lucky coincidence",
+      "His mother's prayers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sheldon's Nobel speech is a touching arc moment where he finally acknowledges how much his friends helped him."
+  },
+  {
+    "id": "bbt-283",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which prequel spin-off follows Sheldon Cooper's childhood years?",
+    "options": [
+      "Young Sheldon",
+      "Little Sheldon",
+      "Sheldon's Beginning",
+      "Growing Up Cooper"
+    ],
+    "correctIndex": 0,
+    "explanation": "Young Sheldon is a prequel spin-off exploring Sheldon's early life long before he meets his future roommates."
+  },
+  {
+    "id": "bbt-284",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "In which U.S. state is the Young Sheldon prequel primarily set?",
+    "options": [
+      "Texas",
+      "California",
+      "Ohio",
+      "Georgia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Young Sheldon is set in East Texas, matching the small-town upbringing Sheldon often references."
+  },
+  {
+    "id": "bbt-285",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Young Sheldon focuses on Sheldon's life during which stage?",
+    "options": [
+      "His childhood",
+      "His college years",
+      "His early marriage",
+      "His retirement"
+    ],
+    "correctIndex": 0,
+    "explanation": "The spin-off chronicles Sheldon as a young boy growing up with his family, long before Caltech."
+  },
+  {
+    "id": "bbt-286",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How many total seasons did the original sitcom run for?",
+    "options": [
+      "12",
+      "8",
+      "10",
+      "15"
+    ],
+    "correctIndex": 0,
+    "explanation": "The show ran for 12 seasons, a long run that cemented its status as a sitcom favorite."
+  },
+  {
+    "id": "bbt-287",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Around which years did the show's original broadcast run take place?",
+    "options": [
+      "2007 to 2019",
+      "2000 to 2012",
+      "2010 to 2022",
+      "2005 to 2016"
+    ],
+    "correctIndex": 0,
+    "explanation": "The series aired from 2007 to 2019, spanning twelve seasons on network television."
+  },
+  {
+    "id": "bbt-288",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "How is the show often described in terms of its TV ratings success?",
+    "options": [
+      "One of the most-watched sitcoms ever",
+      "A cult show with tiny ratings",
+      "Only popular overseas",
+      "Canceled after one season"
+    ],
+    "correctIndex": 0,
+    "explanation": "During its run, the show became one of the most-watched sitcoms on American television."
+  },
+  {
+    "id": "bbt-289",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What type of local store do the main characters frequently visit for comics?",
+    "options": [
+      "A comic book store",
+      "A bowling alley",
+      "A record shop",
+      "A bakery"
+    ],
+    "correctIndex": 0,
+    "explanation": "The guys are regulars at a local comic book store, central to their nerdy social life outside work."
+  },
+  {
+    "id": "bbt-290",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who runs the comic book store the main characters regularly visit?",
+    "options": [
+      "Stuart",
+      "Raj",
+      "Barry Kripke",
+      "Zack"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stuart owns and runs the comic book store, eventually becoming a close part of the friend group himself."
+  },
+  {
+    "id": "bbt-291",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which tabletop role-playing game does the group play together regularly?",
+    "options": [
+      "Dungeons & Dragons",
+      "Risk",
+      "Settlers of Catan",
+      "Magic: The Gathering"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dungeons & Dragons sessions are a recurring nerdy pastime for the friend group throughout the show."
+  },
+  {
+    "id": "bbt-292",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Who typically serves as Dungeon Master during the group's D&D sessions?",
+    "options": [
+      "Stuart",
+      "Sheldon",
+      "Leonard",
+      "Raj"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stuart often takes on the role of Dungeon Master, guiding the group's Dungeons & Dragons adventures."
+  },
+  {
+    "id": "bbt-293",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "Which major fan convention do the characters attend to buy memorabilia?",
+    "options": [
+      "Comic-Con",
+      "E3",
+      "Sundance Film Festival",
+      "TED Conference"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comic-Con is a recurring destination for the group, feeding their love of collectibles and pop culture."
+  },
+  {
+    "id": "bbt-294",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "In which city is the famous Comic-Con the characters attend usually held?",
+    "options": [
+      "San Diego",
+      "Los Angeles",
+      "New York",
+      "Las Vegas"
+    ],
+    "correctIndex": 0,
+    "explanation": "The group travels to San Diego's famous Comic-Con, a real-world event known for huge pop-culture crowds."
+  },
+  {
+    "id": "bbt-295",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which speedster superhero costume is Sheldon especially fond of wearing?",
+    "options": [
+      "The Flash",
+      "Batman",
+      "Green Lantern",
+      "Spider-Man"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Flash is one of Sheldon's favorite superheroes, and he dons Flash costumes on multiple occasions."
+  },
+  {
+    "id": "bbt-296",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "What kind of online games do the guys often play together at home?",
+    "options": [
+      "Multiplayer online role-playing games",
+      "Classic board games only",
+      "Live sports broadcasts",
+      "Cooking competitions"
+    ],
+    "correctIndex": 0,
+    "explanation": "The friends frequently bond over online multiplayer role-playing games during their downtime."
+  },
+  {
+    "id": "bbt-297",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What hobby do the main characters share that marks them as self-described nerds?",
+    "options": [
+      "Collecting comics and sci-fi memorabilia",
+      "Competitive ballroom dancing",
+      "Gourmet cooking",
+      "Extreme sports"
+    ],
+    "correctIndex": 0,
+    "explanation": "A shared love of comics, sci-fi collectibles, and geek culture defines the core friend group's identity."
+  },
+  {
+    "id": "bbt-298",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "medium",
+    "question": "Which iconic sci-fi franchise's fandom most shapes Sheldon's worldview?",
+    "options": [
+      "Star Trek",
+      "Star Wars",
+      "Doctor Who",
+      "Battlestar Galactica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Star Trek fandom, especially reverence for Spock, deeply shapes Sheldon's personality and references throughout."
+  },
+  {
+    "id": "bbt-299",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "easy",
+    "question": "What overall genre best describes the show's comedic focus on its characters?",
+    "options": [
+      "Science-nerd culture comedy",
+      "Legal courtroom drama",
+      "Historical war drama",
+      "Cooking competition"
+    ],
+    "correctIndex": 0,
+    "explanation": "The show built its comedy around science-nerd culture, from physics jokes to comic conventions and costumes."
+  },
+  {
+    "id": "bbt-300",
+    "topic": "TV Shows",
+    "subtopic": "The Big Bang Theory",
+    "difficulty": "hard",
+    "question": "What is the title of the Big Bang Theory series finale episode?",
+    "options": [
+      "The Stockholm Syndrome",
+      "The Final Countdown",
+      "The Last Laugh",
+      "The Nobel Conclusion"
+    ],
+    "correctIndex": 0,
+    "explanation": "The series finale, which sees Sheldon and Amy win the Nobel Prize, is titled 'The Stockholm Syndrome.'"
+  }
+]
