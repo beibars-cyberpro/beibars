@@ -24,9 +24,17 @@ Rules:
 - `difficulty` is one of `"easy"`, `"medium"`, `"hard"`.
 - `options` always has exactly 4 entries.
 - `correctIndex` is 0-based.
-- Questions are conceptual/qualitative — no arithmetic, no formulas, no "calculate the value of...". They test *why*/*what*/*when* understanding (e.g. "why does X happen", "what is the main risk of Y", "which factor most affects Z").
-- Content is original writing inspired by CFA Level 2 curriculum topic areas and by macro/central-bank policy — never copy real exam questions verbatim, and never copy text from CFA Institute curriculum PDFs even if referenced as background material.
 - `explanation` is 1-3 sentences, written so a quiz player learns something after seeing the answer.
+
+### Content rules by category
+
+**Finance/CFA/macro topics** (Quantitative Methods, Economics, Financial Statement Analysis, Corporate Issuers, Equity Investments, Fixed Income, Derivatives, Alternative Investments, Portfolio Management, Ethics, Macro & Central Banks):
+- Conceptual/qualitative only — no arithmetic, no formulas, no "calculate the value of...". They test *why*/*what*/*when* understanding.
+- Original writing inspired by CFA Level 2 curriculum topic areas and macro/central-bank policy — never copy real exam questions verbatim, and never copy text from CFA Institute curriculum PDFs even if referenced as background material.
+
+**Entertainment/trivia topics** (e.g. TV Shows):
+- Original trivia questions testing factual knowledge of the show (characters, running gags, plot events) — never reproduce copyrighted script dialogue verbatim (a one-word catchphrase is fine).
+- Only include facts that are well-established and widely known from the show (recurring across multiple episodes/seasons) rather than ultra-specific single-episode minutiae that's easy to misremember — favor being correct over being obscure.
 
 ### Length limits (must fit fixed-size buttons on a phone screen)
 

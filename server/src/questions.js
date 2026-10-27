@@ -15,6 +15,7 @@ const TOPIC_FILES = [
   'portfolio-management.json',
   'ethics.json',
   'macro-central-banks.json',
+  'big-bang-theory.json',
 ];
 
 function loadAllQuestions() {
