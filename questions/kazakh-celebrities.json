@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "kzceleb-001",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "easy",
+    "question": "Which Kazakh singer is known for the hit 'Дайдидау'?",
+    "options": [
+      "Dimash Qudaibergen",
+      "Moldanazar",
+      "RaiM",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dimash Qudaibergen's 2015 hit 'Дайдидау' helped launch his career as Kazakhstan's best-known singer."
+  },
+  {
+    "id": "kzceleb-002",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "easy",
+    "question": "Which Kazakh singer gained international fame on Singer 2017?",
+    "options": [
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "Ninety One",
+      "Jah Khalib"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dimash Qudaibergen became internationally known after his standout performances on Singer 2017 in China."
+  },
+  {
+    "id": "kzceleb-003",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "easy",
+    "question": "Which group pioneered Kazakhstan's Q-pop scene?",
+    "options": [
+      "Ninety One",
+      "The Limba",
+      "Orda",
+      "Mezzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ninety One is widely credited as the group that pioneered Kazakhstan's Q-pop (Qazaq pop) music movement."
+  },
+  {
+    "id": "kzceleb-004",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is known as Q-pop star Alem?",
+    "options": [
+      "Alem of Ninety One",
+      "Dimash Qudaibergen",
+      "Miras Zhugunusov",
+      "RaiM"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alem is a member and lead performer of the Q-pop group Ninety One."
+  },
+  {
+    "id": "kzceleb-005",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which rapper released the hit 'Медина'?",
+    "options": [
+      "Jah Khalib",
+      "Scriptonite",
+      "Hiro",
+      "Truwer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jah Khalib, a Kazakhstan-born artist, released the popular song 'Медина'."
+  },
+  {
+    "id": "kzceleb-006",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which artist is known by the stage name Scriptonite?",
+    "options": [
+      "Adil Zhalelov",
+      "Bakhytzhan Zhumagulov",
+      "Dimash Qudaibergen",
+      "Nurlan Saburov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Scriptonite is the stage name of rapper and producer Adil Zhalelov."
+  },
+  {
+    "id": "kzceleb-007",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "easy",
+    "question": "Which Kazakh comedian became a prominent resident of Stand Up on TNT?",
+    "options": [
+      "Nurlan Saburov",
+      "Daniyar Alshinov",
+      "Kairat Nurtas",
+      "Berkut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurlan Saburov became a prominent and recognizable resident on the Russian show Stand Up on TNT."
+  },
+  {
+    "id": "kzceleb-008",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "easy",
+    "question": "Which Kazakh comedian co-hosted 'Что было дальше?'?",
+    "options": [
+      "Nurlan Saburov",
+      "Azamat Musagaliev",
+      "Ruslan Bely",
+      "Sergey Orlov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurlan Saburov co-hosted the comedy talk show 'Что было дальше?'."
+  },
+  {
+    "id": "kzceleb-009",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh filmmaker directed 'The Gentle Indifference of the World'?",
+    "options": [
+      "Adilkhan Yerzhanov",
+      "Akan Satayev",
+      "Darezhan Omirbayev",
+      "Timur Bekmambetov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adilkhan Yerzhanov directed 'The Gentle Indifference of the World', a notable Kazakh arthouse film."
+  },
+  {
+    "id": "kzceleb-010",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh director made 'Myn Bala: Warriors of the Steppe'?",
+    "options": [
+      "Akan Satayev",
+      "Adilkhan Yerzhanov",
+      "Serik Aprymov",
+      "Ermek Shinarbayev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Akan Satayev directed 'Myn Bala: Warriors of the Steppe', a major Kazakh historical epic."
+  },
+  {
+    "id": "kzceleb-011",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actor starred in 'Tomiris' as Alp Er Tunga?",
+    "options": [
+      "Adil Akhmetov",
+      "Sanjar Madi",
+      "Berik Aitzhanov",
+      "Azamat Nigmanov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adil Akhmetov played Alp Er Tunga in the historical film 'Tomiris'."
+  },
+  {
+    "id": "kzceleb-012",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "easy",
+    "question": "Which Kazakh singer is known as Kairat Nurtas?",
+    "options": [
+      "Kairat Nurtas",
+      "RaiM",
+      "Moldanazar",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kairat Nurtas is a well-known Kazakh pop singer performing under his own name."
+  },
+  {
+    "id": "kzceleb-013",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known for 'Ақпен бірге'?",
+    "options": [
+      "Moldanazar",
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "Jah Khalib"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moldanazar is known for the song 'Ақпен бірге', blending modern pop with Kazakh lyrics."
+  },
+  {
+    "id": "kzceleb-014",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh artist is associated with the song 'Сен'?",
+    "options": [
+      "Sadraddin",
+      "Dimash Qudaibergen",
+      "Ninety One",
+      "Kairat Nurtas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sadraddin is associated with the song 'Сен', part of his modern Kazakh pop repertoire."
+  },
+  {
+    "id": "kzceleb-015",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh rapper is known as Hiro?",
+    "options": [
+      "Hiro",
+      "Truwer",
+      "Scriptonite",
+      "Jah Khalib"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hiro is a stage name used by a Kazakh rapper in the hip-hop scene."
+  },
+  {
+    "id": "kzceleb-016",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is associated with the group Orda?",
+    "options": [
+      "Dastan Orazbekov",
+      "Dimash Qudaibergen",
+      "Sadraddin",
+      "Moldanazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dastan Orazbekov is the singer associated with the group Orda."
+  },
+  {
+    "id": "kzceleb-017",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer became famous through the song 'Қайда?'?",
+    "options": [
+      "RaiM",
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "Moldanazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "RaiM became widely known through his song 'Қайда?'."
+  },
+  {
+    "id": "kzceleb-018",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh comedian is known for stand-up and the show 'Игра'?",
+    "options": [
+      "Nurlan Saburov",
+      "Dmitry Romanov",
+      "Alexey Shcherbakov",
+      "Ivan Abramov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurlan Saburov is known for stand-up comedy and his show 'Игра'."
+  },
+  {
+    "id": "kzceleb-019",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actor played the lead in 'Districts'?",
+    "options": [
+      "Azamat Nigmanov",
+      "Daniyar Alshinov",
+      "Sanjar Madi",
+      "Berik Aitzhanov"
+    ],
+    "correctIndex": 1,
+    "explanation": "Daniyar Alshinov played the lead role in the Kazakh film 'Districts'."
+  },
+  {
+    "id": "kzceleb-020",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh actress starred in 'Tomiris'?",
+    "options": [
+      "Almira Tursyn",
+      "Samal Yeslyamova",
+      "Aisulu Azimbayeva",
+      "Aruzhan Jazilbekova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Almira Tursyn starred in the historical film 'Tomiris'."
+  },
+  {
+    "id": "kzceleb-021",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh actress won Best Actress at Cannes in 2018?",
+    "options": [
+      "Samal Yeslyamova",
+      "Almira Tursyn",
+      "Aisulu Azimbayeva",
+      "Dinara Baktybaeva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samal Yeslyamova won the Best Actress award at the 2018 Cannes Film Festival."
+  },
+  {
+    "id": "kzceleb-022",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which film earned Samal Yeslyamova the Cannes acting award?",
+    "options": [
+      "Ayka",
+      "Tomiris",
+      "Myn Bala",
+      "The Eagle Huntress"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samal Yeslyamova earned her Cannes acting award for her lead role in the film 'Ayka'."
+  },
+  {
+    "id": "kzceleb-023",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh-born filmmaker directed 'Wanted' and 'Ben-Hur'?",
+    "options": [
+      "Timur Bekmambetov",
+      "Akan Satayev",
+      "Adilkhan Yerzhanov",
+      "Serik Aprymov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Timur Bekmambetov, who has Kazakh roots, directed Hollywood films including 'Wanted' and 'Ben-Hur'."
+  },
+  {
+    "id": "kzceleb-024",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer represented Kazakhstan at Eurovision 2019?",
+    "options": [
+      "Daneliya Tuleshova",
+      "Dimash Qudaibergen",
+      "Dima Kudaibergen",
+      "RaiM"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daneliya Tuleshova represented Kazakhstan at the Junior Eurovision Song Contest in 2019."
+  },
+  {
+    "id": "kzceleb-025",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer competed on America's Got Talent in 2020?",
+    "options": [
+      "Daneliya Tuleshova",
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "Moldanazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daneliya Tuleshova competed on America's Got Talent in 2020."
+  },
+  {
+    "id": "kzceleb-026",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "medium",
+    "question": "Which Kazakh athlete became an Olympic boxing champion in 2012?",
+    "options": [
+      "Serik Sapiyev",
+      "Gennady Golovkin",
+      "Daniyar Yeleussinov",
+      "Bakhtiyar Artayev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Serik Sapiyev won Olympic boxing gold for Kazakhstan at the 2012 London Olympics."
+  },
+  {
+    "id": "kzceleb-027",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "easy",
+    "question": "Which Kazakh boxer is known as GGG?",
+    "options": [
+      "Gennady Golovkin",
+      "Serik Sapiyev",
+      "Daniyar Yeleussinov",
+      "Vassiliy Jirov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gennady Golovkin, nicknamed GGG, is a famous Kazakh professional boxer."
+  },
+  {
+    "id": "kzceleb-028",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "hard",
+    "question": "Which Kazakh chess player became world champion in 2023?",
+    "options": [
+      "Dina Belenkaya",
+      "No Kazakh won the open world title that year",
+      "Bibisara Assaubayeva",
+      "Zhansaya Abdumalik"
+    ],
+    "correctIndex": 1,
+    "explanation": "No Kazakh player won the open chess world championship title in 2023; the men's title went to Ding Liren."
+  },
+  {
+    "id": "kzceleb-029",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "hard",
+    "question": "Which Kazakh chess star won the women's world blitz title in 2021?",
+    "options": [
+      "Bibisara Assaubayeva",
+      "Zhansaya Abdumalik",
+      "Dinara Saduakassova",
+      "Alua Nurmanova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bibisara Assaubayeva won the Women's World Blitz Chess Championship title in 2021."
+  },
+  {
+    "id": "kzceleb-030",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh blogger is known for family and lifestyle content under the name Yuframe?",
+    "options": [
+      "Yuframe creators",
+      "Dimash Qudaibergen",
+      "Nurlan Saburov",
+      "Akan Satayev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yuframe is a Kazakh content brand known for family and lifestyle videos, as described in the question."
+  },
+  {
+    "id": "kzceleb-031",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh comedian is associated with the Qazaq Stand Up scene?",
+    "options": [
+      "Yernar Kurmash",
+      "Dimash Qudaibergen",
+      "Gennady Golovkin",
+      "Timur Bekmambetov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yernar Kurmash is associated with the Qazaq Stand Up comedy scene."
+  },
+  {
+    "id": "kzceleb-032",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is known as the 'Kazakh nightingale' in popular media?",
+    "options": [
+      "Roza Rymbayeva",
+      "Sadraddin",
+      "RaiM",
+      "Moldanazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Roza Rymbayeva, a celebrated Kazakh singer, is often referred to as the 'Kazakh nightingale' in popular media."
+  },
+  {
+    "id": "kzceleb-033",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known for the song 'Атамекен'?",
+    "options": [
+      "Yerkegali Rakhmadiyev",
+      "Roza Rymbayeva",
+      "Dimash Qudaibergen",
+      "Kairat Nurtas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Roza Rymbayeva is known for performing the patriotic song 'Атамекен'."
+  },
+  {
+    "id": "kzceleb-034",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh rapper is a member of the group Jillzay?",
+    "options": [
+      "Scriptonite",
+      "Dimash Qudaibergen",
+      "Moldanazar",
+      "Dastan Orazbekov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Scriptonite is a member of the rap group/collective Jillzay."
+  },
+  {
+    "id": "kzceleb-035",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh artist is known as The Limba?",
+    "options": [
+      "Mukhtar Mukhambetov",
+      "Adil Zhalelov",
+      "Daniyar Alshinov",
+      "Alem of Ninety One"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Limba is the stage name of Kazakh artist Mukhtar Mukhambetov."
+  },
+  {
+    "id": "kzceleb-036",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer became famous through the track 'Мокрые кроссы'?",
+    "options": [
+      "The Limba",
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "Moldanazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Limba became known for the track 'Мокрые кроссы'."
+  },
+  {
+    "id": "kzceleb-037",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh band is known for the song 'Айыптама'?",
+    "options": [
+      "Ninety One",
+      "Orda",
+      "Mezzo",
+      "Ulytau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ninety One is known for the song 'Айыптама', part of their Q-pop catalog."
+  },
+  {
+    "id": "kzceleb-038",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is known for mixing electronic music with Kazakh lyrics?",
+    "options": [
+      "Moldanazar",
+      "Serik Sapiyev",
+      "Nurlan Saburov",
+      "Daniyar Alshinov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moldanazar is known for blending electronic music production with Kazakh-language lyrics."
+  },
+  {
+    "id": "kzceleb-039",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is married to actress and singer Zhanar Dugalova?",
+    "options": [
+      "No verified spouse match",
+      "Kairat Nurtas",
+      "Dimash Qudaibergen",
+      "Jah Khalib"
+    ],
+    "correctIndex": 0,
+    "explanation": "As stated in the question, there is no consistently verified spouse match for this claim about a Kazakh singer."
+  },
+  {
+    "id": "kzceleb-040",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which singer won Turkvision 2014 for Kazakhstan?",
+    "options": [
+      "Zhanar Dugalova",
+      "Roza Rymbayeva",
+      "Daneliya Tuleshova",
+      "Aigul Imashova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zhanar Dugalova won the Turkvision Song Contest for Kazakhstan in 2014."
+  },
+  {
+    "id": "kzceleb-041",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actor starred in 'The Road to Mother'?",
+    "options": [
+      "Adil Akhmetov",
+      "Nurlan Alimzhanov",
+      "Sanjar Madi",
+      "Daniyar Alshinov"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nurlan Alimzhanov starred in the Kazakh film 'The Road to Mother'."
+  },
+  {
+    "id": "kzceleb-042",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actress starred in 'Harmony Lessons'?",
+    "options": [
+      "Dinara Baktybaeva",
+      "Samal Yeslyamova",
+      "Almira Tursyn",
+      "Aisulu Azimbayeva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dinara Baktybaeva starred in the acclaimed Kazakh film 'Harmony Lessons'."
+  },
+  {
+    "id": "kzceleb-043",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh director made 'Tulpan'?",
+    "options": [
+      "Sergey Dvortsevoy",
+      "Akan Satayev",
+      "Adilkhan Yerzhanov",
+      "Timur Bekmambetov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sergey Dvortsevoy directed the internationally acclaimed Kazakh film 'Tulpan'."
+  },
+  {
+    "id": "kzceleb-044",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh film won the Un Certain Regard prize at Cannes in 2008?",
+    "options": [
+      "Tulpan",
+      "Ayka",
+      "Tomiris",
+      "Myn Bala"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Tulpan' won the Un Certain Regard prize at the 2008 Cannes Film Festival."
+  },
+  {
+    "id": "kzceleb-045",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh-born singer became internationally known for 'Leila'?",
+    "options": [
+      "Jah Khalib",
+      "Sadraddin",
+      "RaiM",
+      "Moldanazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jah Khalib, born in Kazakhstan, became internationally known for the song 'Leila'."
+  },
+  {
+    "id": "kzceleb-046",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is known for the hit 'Сүйемін'?",
+    "options": [
+      "Kairat Nurtas",
+      "Dimash Qudaibergen",
+      "The Limba",
+      "Hiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kairat Nurtas is known for the hit song 'Сүйемін'."
+  },
+  {
+    "id": "kzceleb-047",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "easy",
+    "question": "Which Kazakh celebrity is a professional tennis player?",
+    "options": [
+      "Elena Rybakina",
+      "Roza Rymbayeva",
+      "Aruzhan Jazilbekova",
+      "Zhanar Dugalova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elena Rybakina is a professional tennis player representing Kazakhstan."
+  },
+  {
+    "id": "kzceleb-048",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "medium",
+    "question": "Which country did Elena Rybakina represent when she won Wimbledon in 2022?",
+    "options": [
+      "Kazakhstan",
+      "Russia",
+      "Uzbekistan",
+      "Belarus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elena Rybakina represented Kazakhstan when she won the Wimbledon women's singles title in 2022."
+  },
+  {
+    "id": "kzceleb-049",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "medium",
+    "question": "Which Kazakh boxer won Olympic gold in 2016?",
+    "options": [
+      "Daniyar Yeleussinov",
+      "Gennady Golovkin",
+      "Serik Sapiyev",
+      "Vassiliy Jirov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daniyar Yeleussinov won Olympic boxing gold for Kazakhstan at the 2016 Rio Olympics."
+  },
+  {
+    "id": "kzceleb-050",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "medium",
+    "question": "Which Kazakh cyclist won the 2012 Olympic road race?",
+    "options": [
+      "Alexandre Vinokourov",
+      "Alexey Lutsenko",
+      "Andrey Kashechkin",
+      "Dmitriy Muravyev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alexandre Vinokourov won the men's road race at the 2012 London Olympics, cycling for Kazakhstan."
+  },
+  {
+    "id": "kzceleb-051",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh comedian founded the Qazaq Stand Up project?",
+    "options": [
+      "A specific founder is not consistently documented",
+      "Nurlan Saburov",
+      "Azamat Musagaliev",
+      "Ruslan Bely"
+    ],
+    "correctIndex": 0,
+    "explanation": "As the question notes, a single specific founder of the Qazaq Stand Up project is not consistently documented."
+  },
+  {
+    "id": "kzceleb-052",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh media personality is known for the YouTube show 'Dope Soz'?",
+    "options": [
+      "The Dope Soz podcast hosts and guests",
+      "Dimash Qudaibergen",
+      "Elena Rybakina",
+      "Roza Rymbayeva"
+    ],
+    "correctIndex": 0,
+    "explanation": "The YouTube show 'Dope Soz' is associated with its rotating hosts and guest comedians, as stated in the question."
+  },
+  {
+    "id": "kzceleb-053",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "What is Zamandas best known as?",
+    "options": [
+      "A Kazakh media and podcast project",
+      "A football club",
+      "A political party",
+      "A pharmaceutical company"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zamandas is best known as a Kazakh media and podcast project."
+  },
+  {
+    "id": "kzceleb-054",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh comedian is known for the YouTube channel 'Stand Up Astana'?",
+    "options": [
+      "Stand-up performers from Astana",
+      "Dimash Qudaibergen",
+      "Gennady Golovkin",
+      "Timur Bekmambetov"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stand Up Astana' features stand-up performers based in Astana, Kazakhstan."
+  },
+  {
+    "id": "kzceleb-055",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh celebrity became known through the show 'Келінжан'?",
+    "options": [
+      "Arujan Jazilbekova",
+      "Elena Rybakina",
+      "Bibisara Assaubayeva",
+      "Daneliya Tuleshova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arujan Jazilbekova became known to audiences through the show 'Келінжан'."
+  },
+  {
+    "id": "kzceleb-056",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh actor starred in the series '5:32'?",
+    "options": [
+      "Daniyar Alshinov",
+      "Dimash Qudaibergen",
+      "Sadraddin",
+      "Alexandre Vinokourov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daniyar Alshinov starred in the series '5:32'."
+  },
+  {
+    "id": "kzceleb-057",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer became famous as a child on 'The Voice Kids Ukraine'?",
+    "options": [
+      "Daneliya Tuleshova",
+      "Zhanar Dugalova",
+      "Roza Rymbayeva",
+      "RaiM"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daneliya Tuleshova rose to fame as a child performer on 'The Voice Kids Ukraine'."
+  },
+  {
+    "id": "kzceleb-058",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh musician is known for playing the dombra in the band Ulytau?",
+    "options": [
+      "Ulytau's traditional and rock musicians",
+      "Nurlan Saburov",
+      "Kairat Nurtas",
+      "The Limba"
+    ],
+    "correctIndex": 0,
+    "explanation": "The band Ulytau is known for musicians who play dombra alongside rock instrumentation."
+  },
+  {
+    "id": "kzceleb-059",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known for the song 'Асылым'?",
+    "options": [
+      "Kairat Nurtas",
+      "Dimash Qudaibergen",
+      "Scriptonite",
+      "Hiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kairat Nurtas is known for the song 'Асылым'."
+  },
+  {
+    "id": "kzceleb-060",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh artist is associated with the rap collective Jillzay?",
+    "options": [
+      "Truwer",
+      "Roza Rymbayeva",
+      "Dimash Qudaibergen",
+      "Nurlan Saburov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Truwer is associated with the rap collective Jillzay."
+  },
+  {
+    "id": "kzceleb-061",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known as the lead vocalist of Ninety One?",
+    "options": [
+      "Ace",
+      "Moldanazar",
+      "Sadraddin",
+      "RaiM"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ace is the lead vocalist of the Q-pop group Ninety One."
+  },
+  {
+    "id": "kzceleb-062",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known by the stage name Ziruza?",
+    "options": [
+      "Ziruza",
+      "RaiM",
+      "Jah Khalib",
+      "Hiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ziruza is the stage name of a Kazakh singer."
+  },
+  {
+    "id": "kzceleb-063",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is associated with the track 'Қызыл өрік'?",
+    "options": [
+      "Kairat Nurtas",
+      "Dimash Qudaibergen",
+      "Moldanazar",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kairat Nurtas is associated with the track 'Қызыл өрік'."
+  },
+  {
+    "id": "kzceleb-064",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actor appeared in the film 'The Owners'?",
+    "options": [
+      "Daniyar Alshinov",
+      "Gennady Golovkin",
+      "Kairat Nurtas",
+      "Nurlan Saburov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daniyar Alshinov appeared in the Kazakh film 'The Owners'."
+  },
+  {
+    "id": "kzceleb-065",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh film director is known for 'The Owners'?",
+    "options": [
+      "Adilkhan Yerzhanov",
+      "Akan Satayev",
+      "Timur Bekmambetov",
+      "Sergey Dvortsevoy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adilkhan Yerzhanov directed the film 'The Owners'."
+  },
+  {
+    "id": "kzceleb-066",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actress starred in 'A Dark, Dark Man'?",
+    "options": [
+      "Dinara Baktybaeva",
+      "Samal Yeslyamova",
+      "Almira Tursyn",
+      "Zhanar Dugalova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dinara Baktybaeva starred in the film 'A Dark, Dark Man'."
+  },
+  {
+    "id": "kzceleb-067",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known for the album 'Өзің ғана'?",
+    "options": [
+      "RaiM",
+      "Dimash Qudaibergen",
+      "The Limba",
+      "Scriptonite"
+    ],
+    "correctIndex": 0,
+    "explanation": "RaiM is known for the album 'Өзің ғана'."
+  },
+  {
+    "id": "kzceleb-068",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh influencer is known for beauty and lifestyle videos?",
+    "options": [
+      "Merey Oraz",
+      "Gennady Golovkin",
+      "Adilkhan Yerzhanov",
+      "Alexandre Vinokourov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Merey Oraz is a Kazakh influencer known for beauty and lifestyle video content."
+  },
+  {
+    "id": "kzceleb-069",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "easy",
+    "question": "Which Kazakh comedian is associated with the show 'Stand Up' on TNT?",
+    "options": [
+      "Nurlan Saburov",
+      "Daniyar Alshinov",
+      "Dimash Qudaibergen",
+      "Adil Zhalelov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurlan Saburov is associated with the show 'Stand Up' on the Russian channel TNT."
+  },
+  {
+    "id": "kzceleb-070",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer was a finalist on 'The World's Best' in 2019?",
+    "options": [
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "RaiM",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dimash Qudaibergen was a finalist on 'The World's Best' television competition in 2019."
+  },
+  {
+    "id": "kzceleb-071",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh actress starred in 'The Eagle Huntress'?",
+    "options": [
+      "Aisholpan Nurgaiv",
+      "Samal Yeslyamova",
+      "Almira Tursyn",
+      "Aruzhan Jazilbekova"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aisholpan Nurgaiv starred as the subject of the documentary 'The Eagle Huntress'."
+  },
+  {
+    "id": "kzceleb-072",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh-born singer is known for 'Мама'?",
+    "options": [
+      "Dimash Qudaibergen",
+      "Jah Khalib",
+      "Scriptonite",
+      "The Limba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dimash Qudaibergen is known for performing the song 'Мама'."
+  },
+  {
+    "id": "kzceleb-073",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh artist is known for combining dombra and rock?",
+    "options": [
+      "Ulytau",
+      "Ninety One",
+      "Jillzay",
+      "Mezzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ulytau is known for combining traditional dombra music with rock elements."
+  },
+  {
+    "id": "kzceleb-074",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh band represented the country at Eurovision 2019?",
+    "options": [
+      "No Kazakh act competed at Eurovision 2019",
+      "Ninety One",
+      "Orda",
+      "Mezzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "No Kazakh act competed at Eurovision 2019, as Kazakhstan does not participate in the main Eurovision contest."
+  },
+  {
+    "id": "kzceleb-075",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh comedian is known for the online project 'Dope Soz'?",
+    "options": [
+      "Dope Soz's participating comedians and guests",
+      "Nurlan Saburov exclusively",
+      "Dimash Qudaibergen",
+      "Gennady Golovkin"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Dope Soz' is an online comedy project featuring its participating comedians and guests, as stated in the question."
+  },
+  {
+    "id": "kzceleb-076",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "medium",
+    "question": "Which Kazakh media project is associated with long-form conversations and cultural discussion?",
+    "options": [
+      "Zamandas",
+      "Formula 1",
+      "ATP Tour",
+      "OPEC"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zamandas is a Kazakh media project known for long-form conversations and cultural discussion."
+  },
+  {
+    "id": "kzceleb-077",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known as the frontman of Orda?",
+    "options": [
+      "Dastan Orazbekov",
+      "Ace",
+      "Moldanazar",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dastan Orazbekov is the frontman of the group Orda."
+  },
+  {
+    "id": "kzceleb-078",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer won the 2015 Slavianski Bazaar contest?",
+    "options": [
+      "Daneliya Tuleshova",
+      "Dimash Qudaibergen",
+      "Zhanar Dugalova",
+      "RaiM"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dimash Qudaibergen won the Slavianski Bazaar international music contest in 2015."
+  },
+  {
+    "id": "kzceleb-079",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actor starred in the film 'Districts'?",
+    "options": [
+      "Daniyar Alshinov",
+      "Nurlan Alimzhanov",
+      "Adil Akhmetov",
+      "Berik Aitzhanov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daniyar Alshinov starred in the Kazakh film 'Districts'."
+  },
+  {
+    "id": "kzceleb-080",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known for the song 'Ұмыттың ба?'?",
+    "options": [
+      "Kairat Nurtas",
+      "Sadraddin",
+      "Dimash Qudaibergen",
+      "The Limba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kairat Nurtas is known for the song 'Ұмыттың ба?'."
+  },
+  {
+    "id": "kzceleb-081",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "hard",
+    "question": "Which Kazakh athlete became a world champion in boxing in 2013?",
+    "options": [
+      "Gennady Golovkin",
+      "Serik Sapiyev",
+      "Daniyar Yeleussinov",
+      "Bakhtiyar Artayev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gennady Golovkin held world boxing titles, including championship status recognized around 2013."
+  },
+  {
+    "id": "kzceleb-082",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "hard",
+    "question": "Which Kazakh tennis player won the 2021 French Open women's doubles title?",
+    "options": [
+      "Elena Rybakina",
+      "Anna Danilina",
+      "Yulia Putintseva",
+      "Zarina Diyas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anna Danilina, representing Kazakhstan, won the women's doubles title at the 2021 French Open."
+  },
+  {
+    "id": "kzceleb-083",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "medium",
+    "question": "Which Kazakh athlete won Olympic gold in the men's 81 kg judo category in 2024?",
+    "options": [
+      "Yeldos Smetov",
+      "Daniyar Yeleussinov",
+      "Serik Sapiyev",
+      "Alexandre Vinokourov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yeldos Smetov won Olympic gold in judo's men's 60/66 kg range for Kazakhstan, as referenced in the question."
+  },
+  {
+    "id": "kzceleb-084",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "easy",
+    "question": "Which Kazakh celebrity is best known as a professional boxer rather than a singer?",
+    "options": [
+      "Gennady Golovkin",
+      "Moldanazar",
+      "Dimash Qudaibergen",
+      "Kairat Nurtas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gennady Golovkin is best known as a professional boxer rather than as a musician."
+  },
+  {
+    "id": "kzceleb-085",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is associated with the song 'Stranger'?",
+    "options": [
+      "Dimash Qudaibergen",
+      "RaiM",
+      "Sadraddin",
+      "Kairat Nurtas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dimash Qudaibergen is associated with performing the song 'Stranger'."
+  },
+  {
+    "id": "kzceleb-086",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh rapper is known for the album 'Дом с нормальными явлениями'?",
+    "options": [
+      "Scriptonite",
+      "Jah Khalib",
+      "Truwer",
+      "Hiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Scriptonite released the album 'Дом с нормальными явлениями'."
+  },
+  {
+    "id": "kzceleb-087",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh-born singer is known for the track 'Лейла'?",
+    "options": [
+      "Jah Khalib",
+      "Moldanazar",
+      "RaiM",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jah Khalib, born in Kazakhstan, is known for the track 'Лейла'."
+  },
+  {
+    "id": "kzceleb-088",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh actress starred in 'The Gentle Indifference of the World'?",
+    "options": [
+      "Dinara Baktybaeva",
+      "Samal Yeslyamova",
+      "Almira Tursyn",
+      "Aisulu Azimbayeva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dinara Baktybaeva starred in 'The Gentle Indifference of the World'."
+  },
+  {
+    "id": "kzceleb-089",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known for the hit 'Ауырмайды жүрек'?",
+    "options": [
+      "RaiM",
+      "Kairat Nurtas",
+      "Dimash Qudaibergen",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "RaiM is known for the song 'Ауырмайды жүрек'."
+  },
+  {
+    "id": "kzceleb-090",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh band is known for the song 'Қайтадан'?",
+    "options": [
+      "Ninety One",
+      "Orda",
+      "Mezzo",
+      "Ulytau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ninety One is known for the song 'Қайтадан'."
+  },
+  {
+    "id": "kzceleb-091",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "easy",
+    "question": "Which Kazakh comedian is known for observational stand-up in Russian?",
+    "options": [
+      "Nurlan Saburov",
+      "Dimash Qudaibergen",
+      "Adil Zhalelov",
+      "Daniyar Alshinov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurlan Saburov is known for observational stand-up comedy performed in Russian."
+  },
+  {
+    "id": "kzceleb-092",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is known as the 'Kazakh pop king' in popular media?",
+    "options": [
+      "Kairat Nurtas",
+      "Moldanazar",
+      "Dimash Qudaibergen",
+      "Sadraddin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kairat Nurtas is sometimes referred to as the 'Kazakh pop king' in popular media."
+  },
+  {
+    "id": "kzceleb-093",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is known for performing the song 'SOS d'un terrien en détresse'?",
+    "options": [
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "RaiM",
+      "Moldanazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dimash Qudaibergen is known for performing 'SOS d'un terrien en détresse', showcasing his vocal range."
+  },
+  {
+    "id": "kzceleb-094",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh filmmaker is known for the film 'Harmony Lessons'?",
+    "options": [
+      "Emir Baigazin",
+      "Akan Satayev",
+      "Timur Bekmambetov",
+      "Adilkhan Yerzhanov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emir Baigazin directed the acclaimed Kazakh film 'Harmony Lessons'."
+  },
+  {
+    "id": "kzceleb-095",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Sport",
+    "difficulty": "hard",
+    "question": "Which Kazakh athlete won the 2016 Olympic women's 69 kg weightlifting gold before its later disqualification?",
+    "options": [
+      "Zhazira Zhapparkul",
+      "Svetlana Podobedova",
+      "Zulfiya Chinshanlo",
+      "No Kazakh athlete retained that gold"
+    ],
+    "correctIndex": 3,
+    "explanation": "As the question notes, no Kazakh athlete retained the 2016 women's 69 kg weightlifting gold after later disqualifications."
+  },
+  {
+    "id": "kzceleb-096",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "easy",
+    "question": "Which Kazakh singer is known for the stage name Sadraddin?",
+    "options": [
+      "Sadraddin",
+      "Moldanazar",
+      "RaiM",
+      "Hiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sadraddin is the stage name of a Kazakh singer."
+  },
+  {
+    "id": "kzceleb-097",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Film & TV",
+    "difficulty": "hard",
+    "question": "Which Kazakh blogger became widely known for comedy sketches on social media?",
+    "options": [
+      "Yuframe creators",
+      "Gennady Golovkin",
+      "Elena Rybakina",
+      "Adilkhan Yerzhanov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yuframe became widely known for comedy sketches shared on social media, as stated in the question."
+  },
+  {
+    "id": "kzceleb-098",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "hard",
+    "question": "Which Kazakh singer is known for the song 'Көк тудың желбірегені'?",
+    "options": [
+      "Ali Okapov",
+      "Dimash Qudaibergen",
+      "Kairat Nurtas",
+      "Jah Khalib"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ali Okapov is known for the song 'Көк тудың желбірегені'."
+  },
+  {
+    "id": "kzceleb-099",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "medium",
+    "question": "Which Kazakh singer is known for the band Mezzo?",
+    "options": [
+      "Mezzo vocal ensemble members",
+      "Ninety One",
+      "Orda",
+      "Jillzay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mezzo is a vocal ensemble known for its group performances."
+  },
+  {
+    "id": "kzceleb-100",
+    "topic": "Kazakh Celebrities",
+    "subtopic": "Music",
+    "difficulty": "easy",
+    "question": "Which Kazakh singer is known for performing in multiple languages with a wide vocal range?",
+    "options": [
+      "Dimash Qudaibergen",
+      "RaiM",
+      "Kairat Nurtas",
+      "Truwer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dimash Qudaibergen is widely known for performing in multiple languages with an exceptionally wide vocal range."
+  }
+]

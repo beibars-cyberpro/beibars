@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "capol-001",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "What is Kazakhstan's capital?",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Shymkent",
+      "Turkistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Astana has served as Kazakhstan's capital since 1997, apart from a 2019-2022 period when it was renamed Nur-Sultan."
+  },
+  {
+    "id": "capol-002",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Who became Kazakhstan's president in 2019?",
+    "options": [
+      "Nursultan Nazarbayev",
+      "Kassym-Jomart Tokayev",
+      "Imangali Tasmagambetov",
+      "Karim Massimov"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kassym-Jomart Tokayev was elected president in June 2019 after Nazarbayev's resignation that March."
+  },
+  {
+    "id": "capol-003",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Who was Kazakhstan's first president?",
+    "options": [
+      "Kassym-Jomart Tokayev",
+      "Nursultan Nazarbayev",
+      "Dinmukhamed Kunaev",
+      "Askar Akayev"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nursultan Nazarbayev led Kazakhstan from independence in 1991 until stepping down in 2019."
+  },
+  {
+    "id": "capol-004",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "What is Uzbekistan's capital?",
+    "options": [
+      "Samarkand",
+      "Bukhara",
+      "Tashkent",
+      "Nukus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tashkent is Uzbekistan's capital and largest city."
+  },
+  {
+    "id": "capol-005",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Who became Uzbekistan's president in 2016?",
+    "options": [
+      "Islam Karimov",
+      "Shavkat Mirziyoyev",
+      "Abdulla Aripov",
+      "Nigmatilla Yuldashev"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shavkat Mirziyoyev became president in 2016 following Islam Karimov's death."
+  },
+  {
+    "id": "capol-006",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which sea largely disappeared near Kazakhstan and Uzbekistan?",
+    "options": [
+      "Caspian Sea",
+      "Aral Sea",
+      "Black Sea",
+      "Lake Balkhash"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Aral Sea, once one of the world's largest lakes, has shrunk drastically due to Soviet-era irrigation diversion."
+  },
+  {
+    "id": "capol-007",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "How many countries make up Central Asia's five post-Soviet republics?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 2,
+    "explanation": "Central Asia's five post-Soviet republics are Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, and Turkmenistan."
+  },
+  {
+    "id": "capol-008",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which Central Asian country has the largest population?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Tajikistan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uzbekistan has the largest population among Central Asian states, exceeding 35 million people."
+  },
+  {
+    "id": "capol-009",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which Central Asian country is the largest by area?",
+    "options": [
+      "Uzbekistan",
+      "Turkmenistan",
+      "Kazakhstan",
+      "Tajikistan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kazakhstan is the largest country in Central Asia and the ninth-largest in the world by area."
+  },
+  {
+    "id": "capol-010",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "In which year did Kazakhstan become independent?",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kazakhstan declared independence from the Soviet Union on December 16, 1991."
+  },
+  {
+    "id": "capol-011",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "In which year did Uzbekistan become independent?",
+    "options": [
+      "1990",
+      "1991",
+      "1992",
+      "1993"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uzbekistan declared independence on September 1, 1991."
+  },
+  {
+    "id": "capol-012",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "What is Kazakhstan's national currency?",
+    "options": [
+      "Som",
+      "Tenge",
+      "Manat",
+      "Somoni"
+    ],
+    "correctIndex": 1,
+    "explanation": "The tenge has been Kazakhstan's national currency since its introduction in 1993."
+  },
+  {
+    "id": "capol-013",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "What is Uzbekistan's national currency?",
+    "options": [
+      "Tenge",
+      "Som",
+      "Somoni",
+      "Manat"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Uzbekistani som is the country's national currency."
+  },
+  {
+    "id": "capol-014",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "easy",
+    "question": "Which organization includes Kazakhstan and Uzbekistan as members?",
+    "options": [
+      "European Union",
+      "United Nations",
+      "NATO",
+      "ASEAN"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both Kazakhstan and Uzbekistan joined the United Nations in March 1992, shortly after independence."
+  },
+  {
+    "id": "capol-015",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which country borders both Kazakhstan and Uzbekistan?",
+    "options": [
+      "Mongolia",
+      "China",
+      "Afghanistan",
+      "Iran"
+    ],
+    "correctIndex": 1,
+    "explanation": "China shares a long border with Kazakhstan and is a major trade and investment partner across Central Asia."
+  },
+  {
+    "id": "capol-016",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which Kazakh city was the capital until 1997?",
+    "options": [
+      "Almaty",
+      "Karaganda",
+      "Aktobe",
+      "Kostanay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Almaty served as Kazakhstan's capital until the government relocated to Astana in 1997."
+  },
+  {
+    "id": "capol-017",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "What was Astana called from 2019 to 2022?",
+    "options": [
+      "Akmola",
+      "Nur-Sultan",
+      "Tselinograd",
+      "Verny"
+    ],
+    "correctIndex": 1,
+    "explanation": "Astana was renamed Nur-Sultan in 2019 in honor of Nazarbayev, then reverted to Astana in 2022."
+  },
+  {
+    "id": "capol-018",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "Which Kazakh body is the lower house of parliament?",
+    "options": [
+      "Senate",
+      "Mazhilis",
+      "Kurultai",
+      "Maslikhat"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Mazhilis is the lower chamber of Kazakhstan's bicameral Parliament."
+  },
+  {
+    "id": "capol-019",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "What is the name of Kazakhstan's upper parliamentary chamber?",
+    "options": [
+      "Mazhilis",
+      "Senate",
+      "Oliy Majlis",
+      "People's Council"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Senate is the upper chamber of Kazakhstan's Parliament."
+  },
+  {
+    "id": "capol-020",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "What is Uzbekistan's parliament called?",
+    "options": [
+      "Oliy Majlis",
+      "Mazhilis",
+      "Jogorku Kenesh",
+      "Milli Mejlis"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Oliy Majlis is the name of Uzbekistan's bicameral parliament."
+  },
+  {
+    "id": "capol-021",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which Central Asian country borders the Caspian Sea?",
+    "options": [
+      "Tajikistan",
+      "Kyrgyzstan",
+      "Kazakhstan",
+      "Uzbekistan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kazakhstan has an extensive coastline along the northern Caspian Sea."
+  },
+  {
+    "id": "capol-022",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which Central Asian country is doubly landlocked?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Turkmenistan",
+      "Kyrgyzstan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uzbekistan is one of only two doubly landlocked countries in the world, along with Liechtenstein."
+  },
+  {
+    "id": "capol-023",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "Which Kazakh president initiated major political reforms after January 2022?",
+    "options": [
+      "Nursultan Nazarbayev",
+      "Kassym-Jomart Tokayev",
+      "Dinmukhamed Kunaev",
+      "Askar Mamin"
+    ],
+    "correctIndex": 1,
+    "explanation": "President Tokayev launched constitutional and political reforms following the deadly unrest of January 2022."
+  },
+  {
+    "id": "capol-024",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "What triggered the January 2022 protests in Kazakhstan?",
+    "options": [
+      "Fuel price increases",
+      "A disputed presidential election",
+      "A new currency",
+      "A border war"
+    ],
+    "correctIndex": 0,
+    "explanation": "The January 2022 unrest began after the government lifted price caps on liquefied petroleum gas used as vehicle fuel."
+  },
+  {
+    "id": "capol-025",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which alliance deployed troops to Kazakhstan in January 2022?",
+    "options": [
+      "NATO",
+      "CSTO",
+      "European Union",
+      "SCO"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Collective Security Treaty Organization sent a peacekeeping force to Kazakhstan in January 2022 at Tokayev's request."
+  },
+  {
+    "id": "capol-026",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "What does CSTO stand for?",
+    "options": [
+      "Collective Security Treaty Organization",
+      "Central States Trade Organization",
+      "Continental Security and Transport Office",
+      "Commonwealth States Treaty Office"
+    ],
+    "correctIndex": 0,
+    "explanation": "CSTO stands for the Collective Security Treaty Organization, a Russia-led military alliance."
+  },
+  {
+    "id": "capol-027",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which regional organization includes China, Russia, Kazakhstan and Uzbekistan?",
+    "options": [
+      "SCO",
+      "NATO",
+      "EU",
+      "OPEC"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Shanghai Cooperation Organisation includes China, Russia, and the Central Asian states among its members."
+  },
+  {
+    "id": "capol-028",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "hard",
+    "question": "Where was the Shanghai Cooperation Organisation founded in 2001?",
+    "options": [
+      "Beijing",
+      "Shanghai",
+      "Astana",
+      "Tashkent"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Shanghai Cooperation Organisation was founded in Shanghai in June 2001."
+  },
+  {
+    "id": "capol-029",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which Central Asian country is a member of the Eurasian Economic Union?",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Tajikistan",
+      "Turkmenistan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kazakhstan is a founding member of the Eurasian Economic Union."
+  },
+  {
+    "id": "capol-030",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which Central Asian country is not a member of the Eurasian Economic Union?",
+    "options": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Uzbekistan",
+      "None of these"
+    ],
+    "correctIndex": 2,
+    "explanation": "Uzbekistan holds observer status but is not a full member of the Eurasian Economic Union."
+  },
+  {
+    "id": "capol-031",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Who was Uzbekistan's first president after independence?",
+    "options": [
+      "Shavkat Mirziyoyev",
+      "Islam Karimov",
+      "Abdulhashim Mutalov",
+      "Ismail Jurabekov"
+    ],
+    "correctIndex": 1,
+    "explanation": "Islam Karimov led Uzbekistan from independence in 1991 until his death in 2016."
+  },
+  {
+    "id": "capol-032",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "In which year did Islam Karimov die?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correctIndex": 2,
+    "explanation": "Islam Karimov died in September 2016 after ruling Uzbekistan for 25 years."
+  },
+  {
+    "id": "capol-033",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Which Uzbek leader succeeded Islam Karimov?",
+    "options": [
+      "Shavkat Mirziyoyev",
+      "Abdulla Aripov",
+      "Rustam Azimov",
+      "Nigmatilla Yuldashev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shavkat Mirziyoyev, then prime minister, became president after Karimov's death in 2016."
+  },
+  {
+    "id": "capol-034",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "Which Uzbek president previously served as prime minister under Karimov?",
+    "options": [
+      "Shavkat Mirziyoyev",
+      "Islam Karimov",
+      "Abdulla Aripov",
+      "Erkin Vohidov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mirziyoyev served as Uzbekistan's prime minister from 2003 to 2016 before becoming president."
+  },
+  {
+    "id": "capol-035",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "hard",
+    "question": "Which Kazakh institution appoints the prime minister with constitutional parliamentary involvement?",
+    "options": [
+      "The president appoints with Mazhilis consent",
+      "The Supreme Court appoints",
+      "The Central Bank appoints",
+      "The Senate elects alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan's constitution has the president appoint the prime minister with the Mazhilis's consent."
+  },
+  {
+    "id": "capol-036",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "What is Kazakhstan's main oil-export terminal on the Black Sea?",
+    "options": [
+      "Novorossiysk via CPC",
+      "Poti",
+      "Batumi",
+      "Odessa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Much of Kazakhstan's crude oil exports flow through the Caspian Pipeline Consortium to the Black Sea port of Novorossiysk."
+  },
+  {
+    "id": "capol-037",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which pipeline is a major route for Kazakh oil exports?",
+    "options": [
+      "Caspian Pipeline Consortium",
+      "Baku-Tbilisi-Erzurum",
+      "Druzhba gas line",
+      "Nord Stream"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Caspian Pipeline Consortium pipeline carries Kazakh oil from the Tengiz field to Russia's Black Sea coast."
+  },
+  {
+    "id": "capol-038",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which resource is especially important to Kazakhstan's exports?",
+    "options": [
+      "Crude oil",
+      "Coffee",
+      "Cocoa",
+      "Natural rubber"
+    ],
+    "correctIndex": 0,
+    "explanation": "Crude oil is Kazakhstan's dominant export commodity and a mainstay of its economy."
+  },
+  {
+    "id": "capol-039",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which crop has historically dominated Uzbekistan's agricultural policy?",
+    "options": [
+      "Cotton",
+      "Coffee",
+      "Cocoa",
+      "Olives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cotton has long dominated Uzbekistan's agriculture, earning it the nickname 'white gold'."
+  },
+  {
+    "id": "capol-040",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which city hosted the 2024 SCO summit?",
+    "options": [
+      "Astana",
+      "Tashkent",
+      "Samarkand",
+      "Bishkek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan hosted the 2024 Shanghai Cooperation Organisation summit in Astana."
+  },
+  {
+    "id": "capol-041",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which Kazakh region borders China and is associated with the Khorgos gateway?",
+    "options": [
+      "Mangystau",
+      "Zhetysu",
+      "Atyrau",
+      "Kostanay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zhetysu Region, near the China border, is home to the Khorgos dry port and special economic zone."
+  },
+  {
+    "id": "capol-042",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which country borders Uzbekistan to the south?",
+    "options": [
+      "Afghanistan",
+      "Mongolia",
+      "Azerbaijan",
+      "Armenia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Afghanistan lies along Uzbekistan's southern border."
+  },
+  {
+    "id": "capol-043",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which Central Asian country shares borders with all four other Central Asian republics?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Turkmenistan",
+      "Tajikistan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uzbekistan is the only Central Asian country bordering all four of its regional neighbors."
+  },
+  {
+    "id": "capol-044",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which Uzbek city is famous for Registan Square?",
+    "options": [
+      "Samarkand",
+      "Andijan",
+      "Nukus",
+      "Termez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samarkand's Registan Square is one of Central Asia's most celebrated architectural landmarks."
+  },
+  {
+    "id": "capol-045",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which Kazakh city is a major financial centre?",
+    "options": [
+      "Almaty",
+      "Kyzylorda",
+      "Petropavl",
+      "Zhezkazgan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Almaty remains Kazakhstan's largest city and its principal financial and business centre."
+  },
+  {
+    "id": "capol-046",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "What is Kazakhstan's sovereign wealth fund called?",
+    "options": [
+      "Samruk-Kazyna",
+      "Temasek",
+      "Khazanah",
+      "Mubadala"
+    ],
+    "correctIndex": 0,
+    "explanation": "Samruk-Kazyna is Kazakhstan's state holding company managing major national assets."
+  },
+  {
+    "id": "capol-047",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "What is the principal purpose of Kazakhstan's National Fund?",
+    "options": [
+      "Save oil revenue, support fiscal stability",
+      "Finance foreign elections",
+      "Replace the national currency",
+      "Fund only municipal roads"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan's National Fund saves oil revenues to buffer the budget against commodity price swings."
+  },
+  {
+    "id": "capol-048",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which body sets monetary policy in Kazakhstan?",
+    "options": [
+      "National Bank of Kazakhstan",
+      "Ministry of Energy",
+      "Mazhilis",
+      "Supreme Court"
+    ],
+    "correctIndex": 0,
+    "explanation": "The National Bank of Kazakhstan is the country's central bank and monetary authority."
+  },
+  {
+    "id": "capol-049",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which body is Uzbekistan's central bank?",
+    "options": [
+      "Central Bank of Uzbekistan",
+      "Oliy Majlis",
+      "Ministry of Justice",
+      "State Tax Committee"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Central Bank of Uzbekistan oversees the country's monetary policy and banking system."
+  },
+  {
+    "id": "capol-050",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Which language is the state language of Kazakhstan?",
+    "options": [
+      "Kazakh",
+      "Russian",
+      "Uzbek",
+      "Kyrgyz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakh is constitutionally designated as Kazakhstan's state language."
+  },
+  {
+    "id": "capol-051",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Which language is Uzbekistan's state language?",
+    "options": [
+      "Tajik",
+      "Uzbek",
+      "Russian",
+      "Kazakh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uzbek is Uzbekistan's constitutionally designated state language."
+  },
+  {
+    "id": "capol-052",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "hard",
+    "question": "What is the main legal system tradition in Kazakhstan?",
+    "options": [
+      "Civil law",
+      "Common law",
+      "Canon law",
+      "Tribal law exclusively"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan's legal system follows the civil law tradition inherited from its Soviet and continental legal heritage."
+  },
+  {
+    "id": "capol-053",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "What type of state is Kazakhstan constitutionally?",
+    "options": [
+      "Presidential republic",
+      "Absolute monarchy",
+      "Parliamentary monarchy",
+      "Federal empire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan's constitution establishes it as a presidential republic."
+  },
+  {
+    "id": "capol-054",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "What type of state is Uzbekistan constitutionally?",
+    "options": [
+      "Presidential republic",
+      "Constitutional monarchy",
+      "Federal kingdom",
+      "Military junta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uzbekistan's constitution likewise defines it as a presidential republic."
+  },
+  {
+    "id": "capol-055",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "Which 2022 referendum changed Kazakhstan's Constitution?",
+    "options": [
+      "A referendum on constitutional amendments",
+      "A referendum to join the EU",
+      "A referendum to adopt the euro",
+      "A referendum to abolish parliament"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstanis approved sweeping constitutional amendments in a June 2022 referendum."
+  },
+  {
+    "id": "capol-056",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "hard",
+    "question": "Which institution replaced Kazakhstan's Constitutional Council in 2023?",
+    "options": [
+      "Constitutional Court",
+      "Supreme Economic Court",
+      "National Council",
+      "People's Assembly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan established a Constitutional Court in 2023, replacing the former Constitutional Council."
+  },
+  {
+    "id": "capol-057",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "What is Kazakhstan's national legislature called?",
+    "options": [
+      "Parliament",
+      "Oliy Majlis",
+      "Jogorku Kenesh",
+      "Federal Assembly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan's national legislature is simply called the Parliament, comprising the Senate and Mazhilis."
+  },
+  {
+    "id": "capol-058",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "What is the capital of Kyrgyzstan?",
+    "options": [
+      "Bishkek",
+      "Osh",
+      "Dushanbe",
+      "Ashgabat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bishkek is the capital and largest city of Kyrgyzstan."
+  },
+  {
+    "id": "capol-059",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "What is the capital of Tajikistan?",
+    "options": [
+      "Bukhara",
+      "Dushanbe",
+      "Bishkek",
+      "Samarkand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dushanbe is the capital and largest city of Tajikistan."
+  },
+  {
+    "id": "capol-060",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "What is the capital of Turkmenistan?",
+    "options": [
+      "Ashgabat",
+      "Mary",
+      "Turkmenabat",
+      "Dashoguz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ashgabat is the capital of Turkmenistan, known for its marble architecture."
+  },
+  {
+    "id": "capol-061",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which Central Asian country is famous for its large natural gas reserves?",
+    "options": [
+      "Turkmenistan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Mongolia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Turkmenistan holds some of the world's largest natural gas reserves, including the Galkynysh field."
+  },
+  {
+    "id": "capol-062",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which country supplies much of China's overland natural gas from Central Asia?",
+    "options": [
+      "Turkmenistan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Afghanistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Turkmenistan is the primary supplier of overland natural gas piped to China from Central Asia."
+  },
+  {
+    "id": "capol-063",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which river is crucial to Uzbekistan's irrigation?",
+    "options": [
+      "Amu Darya",
+      "Danube",
+      "Rhine",
+      "Volga"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Amu Darya river is a vital source of irrigation water for Uzbekistan's agriculture."
+  },
+  {
+    "id": "capol-064",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which river historically fed the Aral Sea from the east?",
+    "options": [
+      "Syr Darya",
+      "Nile",
+      "Indus",
+      "Tigris"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Syr Darya historically fed the Aral Sea from the northeast before irrigation diversion reduced its flow."
+  },
+  {
+    "id": "capol-065",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which Uzbek autonomous republic is centred on Nukus?",
+    "options": [
+      "Karakalpakstan",
+      "Gorno-Badakhshan",
+      "Nakhchivan",
+      "Adjara"
+    ],
+    "correctIndex": 0,
+    "explanation": "Karakalpakstan is an autonomous republic within Uzbekistan, with its capital at Nukus."
+  },
+  {
+    "id": "capol-066",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which country has an autonomous region called Gorno-Badakhshan?",
+    "options": [
+      "Tajikistan",
+      "Uzbekistan",
+      "Kazakhstan",
+      "Turkmenistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gorno-Badakhshan is an autonomous mountainous region in eastern Tajikistan."
+  },
+  {
+    "id": "capol-067",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which Kazakh city lies near the Baikonur Cosmodrome?",
+    "options": [
+      "Kyzylorda",
+      "Aktau",
+      "Semey",
+      "Pavlodar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kyzylorda is the Kazakh city closest to the Baikonur Cosmodrome."
+  },
+  {
+    "id": "capol-068",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which country operates the Baikonur Cosmodrome under lease?",
+    "options": [
+      "Russia",
+      "China",
+      "United States",
+      "Uzbekistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Russia leases the Baikonur Cosmodrome from Kazakhstan under a long-term agreement dating to 1994."
+  },
+  {
+    "id": "capol-069",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which Kazakh city was renamed from Guryev in 1991?",
+    "options": [
+      "Atyrau",
+      "Aktau",
+      "Aktobe",
+      "Taraz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atyrau was known as Guryev until it was renamed in 1991 after independence."
+  },
+  {
+    "id": "capol-070",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which Kazakh city was formerly known as Shevchenko?",
+    "options": [
+      "Aktau",
+      "Atyrau",
+      "Kokshetau",
+      "Kostanay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aktau, a Caspian port city, was formerly known as Shevchenko during the Soviet era."
+  },
+  {
+    "id": "capol-071",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which international body publishes the World Economic Outlook?",
+    "options": [
+      "IMF",
+      "WTO",
+      "OPEC",
+      "OECD only"
+    ],
+    "correctIndex": 0,
+    "explanation": "The International Monetary Fund publishes the biannual World Economic Outlook report."
+  },
+  {
+    "id": "capol-072",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "hard",
+    "question": "Which country chairs the Organization of Turkic States on a rotating basis?",
+    "options": [
+      "Its member states take turns",
+      "Only Turkey",
+      "Only Kazakhstan",
+      "Only Uzbekistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chairmanship of the Organization of Turkic States rotates among its member states."
+  },
+  {
+    "id": "capol-073",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which regional organization promotes cooperation among Turkic states?",
+    "options": [
+      "Organization of Turkic States",
+      "OPEC",
+      "Mercosur",
+      "African Union"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Organization of Turkic States promotes cooperation among Turkic-speaking countries including Kazakhstan and Uzbekistan."
+  },
+  {
+    "id": "capol-074",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "hard",
+    "question": "Which Central Asian country joined the WTO in 2015?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Turkmenistan",
+      "Tajikistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan became a World Trade Organization member in 2015."
+  },
+  {
+    "id": "capol-075",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "hard",
+    "question": "Which Central Asian country joined the WTO in 2013?",
+    "options": [
+      "Tajikistan",
+      "Kazakhstan",
+      "Uzbekistan",
+      "Turkmenistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tajikistan joined the World Trade Organization in 2013."
+  },
+  {
+    "id": "capol-076",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which country is the main historical source of the Silk Road's Samarkand heritage?",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Turkmenistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uzbekistan is home to the historic Silk Road cities of Samarkand, Bukhara, and Khiva."
+  },
+  {
+    "id": "capol-077",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "Which Kazakh political party was founded as Amanat in 2022?",
+    "options": [
+      "Amanat",
+      "Ak Zhol",
+      "Respublica",
+      "Auyl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amanat was established in 2022 as the renamed successor to Kazakhstan's former ruling Nur Otan party."
+  },
+  {
+    "id": "capol-078",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "What was Kazakhstan's ruling party called before its 2022 renaming to Amanat?",
+    "options": [
+      "Nur Otan",
+      "Ak Zhol",
+      "Birlik",
+      "Azat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nur Otan was Kazakhstan's dominant ruling party before being renamed Amanat in 2022."
+  },
+  {
+    "id": "capol-079",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "Which body conducts presidential elections in Kazakhstan?",
+    "options": [
+      "Central Election Commission",
+      "National Bank",
+      "Supreme Audit Chamber",
+      "Ministry of Energy"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Central Election Commission administers presidential and parliamentary elections in Kazakhstan."
+  },
+  {
+    "id": "capol-080",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "What is the minimum voting age in Kazakhstan?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "21"
+    ],
+    "correctIndex": 1,
+    "explanation": "The minimum voting age in Kazakhstan is 18."
+  },
+  {
+    "id": "capol-081",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "What is the minimum voting age in Uzbekistan?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "21"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uzbekistan's minimum voting age is also 18."
+  },
+  {
+    "id": "capol-082",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which Kazakh region is the main location of the Tengiz oil field?",
+    "options": [
+      "Atyrau Region",
+      "Turkistan Region",
+      "Abai Region",
+      "Akmola Region"
+    ],
+    "correctIndex": 0,
+    "explanation": "The giant Tengiz oil field is located in Kazakhstan's Atyrau Region."
+  },
+  {
+    "id": "capol-083",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which oil field is one of Kazakhstan's largest?",
+    "options": [
+      "Kashagan",
+      "Rumaila",
+      "Ghawar",
+      "Prudhoe Bay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kashagan, in the Caspian Sea, is one of Kazakhstan's largest offshore oil fields."
+  },
+  {
+    "id": "capol-084",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which Kazakh city hosts the country's major seaport on the Caspian Sea?",
+    "options": [
+      "Aktau",
+      "Astana",
+      "Almaty",
+      "Semey"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aktau is Kazakhstan's principal seaport on the Caspian Sea."
+  },
+  {
+    "id": "capol-085",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which country lies between Kazakhstan and Uzbekistan along part of their shared border?",
+    "options": [
+      "No country; they share a border",
+      "Tajikistan",
+      "Turkmenistan",
+      "Afghanistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan and Uzbekistan share a direct border with no country lying between them."
+  },
+  {
+    "id": "capol-086",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which country has the largest territory in Central Asia?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Turkmenistan",
+      "Kyrgyzstan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan is by far the largest country in Central Asia by land area."
+  },
+  {
+    "id": "capol-087",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which country is home to the Fergana Valley alongside Uzbekistan and Tajikistan?",
+    "options": [
+      "Kyrgyzstan",
+      "Mongolia",
+      "Iran",
+      "Pakistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Fergana Valley is divided among Uzbekistan, Tajikistan, and Kyrgyzstan."
+  },
+  {
+    "id": "capol-088",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "easy",
+    "question": "Which country contains the Uzbek city of Andijan?",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Tajikistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Andijan is a city located in eastern Uzbekistan's Fergana Valley."
+  },
+  {
+    "id": "capol-089",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which international financial institution is based in Washington, D.C.?",
+    "options": [
+      "World Bank",
+      "Asian Development Bank",
+      "EBRD",
+      "AIIB"
+    ],
+    "correctIndex": 0,
+    "explanation": "The World Bank is headquartered in Washington, D.C."
+  },
+  {
+    "id": "capol-090",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "medium",
+    "question": "Which development bank is especially active in Central Asian infrastructure?",
+    "options": [
+      "Asian Development Bank",
+      "European Investment Bank only",
+      "Inter-American Development Bank",
+      "African Development Bank"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Asian Development Bank is a major financier of infrastructure projects across Central Asia."
+  },
+  {
+    "id": "capol-091",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "hard",
+    "question": "Which international agreement created the Eurasian Economic Union?",
+    "options": [
+      "Treaty on the Eurasian Economic Union",
+      "Treaty of Maastricht",
+      "Treaty of Rome",
+      "Lisbon Treaty"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Eurasian Economic Union was established by the Treaty on the Eurasian Economic Union, signed in 2014."
+  },
+  {
+    "id": "capol-092",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "hard",
+    "question": "Which country was the first Central Asian republic to join the United Nations?",
+    "options": [
+      "They joined in 1992 as independent states",
+      "Kazakhstan in 1991",
+      "Uzbekistan in 1991",
+      "Turkmenistan in 1995"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Central Asian states, including Kazakhstan and Uzbekistan, all joined the United Nations in March 1992."
+  },
+  {
+    "id": "capol-093",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "easy",
+    "question": "Which former Soviet leader ruled Kazakhstan from 1991 until 2019?",
+    "options": [
+      "Nursultan Nazarbayev",
+      "Islam Karimov",
+      "Askar Akayev",
+      "Saparmurat Niyazov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nursultan Nazarbayev governed Kazakhstan continuously from independence in 1991 until his resignation in 2019."
+  },
+  {
+    "id": "capol-094",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "medium",
+    "question": "Which country adopted a new constitution by referendum in April 2023?",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Turkmenistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uzbekistan adopted a new constitution via referendum in April 2023."
+  },
+  {
+    "id": "capol-095",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "hard",
+    "question": "Which year saw Kazakhstan's first direct presidential election after independence?",
+    "options": [
+      "1991",
+      "1993",
+      "1995",
+      "1998"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan held its first direct presidential election in December 1991, when Nazarbayev won unopposed."
+  },
+  {
+    "id": "capol-096",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "hard",
+    "question": "Which country is associated with the Karakum Canal?",
+    "options": [
+      "Turkmenistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Uzbekistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Karakum Canal is a major irrigation canal running through Turkmenistan."
+  },
+  {
+    "id": "capol-097",
+    "topic": "Central Asian Politics",
+    "subtopic": "Geography & Economy",
+    "difficulty": "medium",
+    "question": "Which Kazakh city was formerly called Alma-Ata?",
+    "options": [
+      "Almaty",
+      "Astana",
+      "Aktau",
+      "Taraz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Almaty was known as Alma-Ata during the Soviet era before reverting to its current name."
+  },
+  {
+    "id": "capol-098",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "hard",
+    "question": "Which Central Asian country has a presidential term of seven years under its current constitution?",
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Tajikistan",
+      "Kyrgyzstan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakhstan's 2022 constitutional reforms set a single, non-renewable seven-year presidential term."
+  },
+  {
+    "id": "capol-099",
+    "topic": "Central Asian Politics",
+    "subtopic": "Government & Leaders",
+    "difficulty": "hard",
+    "question": "Which country's president won a new seven-year term in the 2023 election?",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Turkmenistan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mirziyoyev won a new seven-year term in Uzbekistan's July 2023 presidential election."
+  },
+  {
+    "id": "capol-100",
+    "topic": "Central Asian Politics",
+    "subtopic": "Regional Organizations",
+    "difficulty": "hard",
+    "question": "Which regional initiative aims to improve trade and connectivity between Central Asian states?",
+    "options": [
+      "Central Asian Regional Economic Cooperation",
+      "European Coal and Steel Community",
+      "USMCA",
+      "Pacific Alliance"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Central Asia Regional Economic Cooperation program promotes trade and connectivity among Central Asian states and partners."
+  }
+]
