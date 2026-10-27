@@ -5,10 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
-    "splash": {
-      "backgroundColor": "#0f172a"
-    },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.quizduel.cfaquizduel"
@@ -18,6 +17,9 @@
     },
     "web": {
       "bundler": "metro"
-    }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
   }
 }
