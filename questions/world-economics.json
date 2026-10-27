@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "worldecon-001",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "Which institution issues US dollars?",
+    "options": [
+      "Federal Reserve",
+      "World Bank",
+      "IMF",
+      "US Treasury alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Federal Reserve is the US central bank and the sole issuer of US dollar currency."
+  },
+  {
+    "id": "worldecon-002",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What does GDP measure?",
+    "options": [
+      "Total output of final goods and services",
+      "Government tax revenue only",
+      "Exports minus imports only",
+      "Household savings only"
+    ],
+    "correctIndex": 0,
+    "explanation": "GDP is defined as the total market value of final goods and services produced within a country."
+  },
+  {
+    "id": "worldecon-003",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What does inflation mean?",
+    "options": [
+      "A sustained rise in the general price level",
+      "A fall in all wages",
+      "A rise in exports only",
+      "A government budget surplus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inflation refers to a sustained, broad-based increase in the general level of prices over time."
+  },
+  {
+    "id": "worldecon-004",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is a recession commonly defined as?",
+    "options": [
+      "A sustained economic contraction",
+      "Any rise in inflation",
+      "A trade surplus",
+      "A currency appreciation"
+    ],
+    "correctIndex": 0,
+    "explanation": "A recession is commonly defined as a sustained, broad decline in economic activity."
+  },
+  {
+    "id": "worldecon-005",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "Which institution lends to countries facing balance-of-payments problems?",
+    "options": [
+      "IMF",
+      "WTO",
+      "OPEC",
+      "BIS only"
+    ],
+    "correctIndex": 0,
+    "explanation": "The IMF provides loans to member countries experiencing balance-of-payments difficulties."
+  },
+  {
+    "id": "worldecon-006",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "Which institution focuses on development lending and poverty reduction?",
+    "options": [
+      "World Bank",
+      "NATO",
+      "OPEC",
+      "WIPO"
+    ],
+    "correctIndex": 0,
+    "explanation": "The World Bank focuses on financing development projects and reducing global poverty."
+  },
+  {
+    "id": "worldecon-007",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What does CPI commonly track?",
+    "options": [
+      "Consumer prices",
+      "Corporate profits",
+      "Exports only",
+      "Stock-market turnover"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Consumer Price Index (CPI) tracks changes in the prices of a basket of consumer goods and services."
+  },
+  {
+    "id": "worldecon-008",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "What is a trade surplus?",
+    "options": [
+      "Exports exceed imports",
+      "Imports exceed exports",
+      "Tax revenue exceeds spending",
+      "Savings equal investment"
+    ],
+    "correctIndex": 0,
+    "explanation": "A trade surplus occurs when a country's exports exceed its imports."
+  },
+  {
+    "id": "worldecon-009",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "What is a trade deficit?",
+    "options": [
+      "Imports exceed exports",
+      "Exports exceed imports",
+      "Government spending equals revenue",
+      "Inflation is zero"
+    ],
+    "correctIndex": 0,
+    "explanation": "A trade deficit occurs when a country's imports exceed its exports."
+  },
+  {
+    "id": "worldecon-010",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "Which currency is used by most euro-area countries?",
+    "options": [
+      "Euro",
+      "Pound sterling",
+      "Swiss franc",
+      "Danish krone"
+    ],
+    "correctIndex": 0,
+    "explanation": "The euro is the shared currency adopted by most countries in the euro area."
+  },
+  {
+    "id": "worldecon-011",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "Which country has the world's largest nominal GDP in recent years?",
+    "options": [
+      "United States",
+      "China",
+      "Japan",
+      "Germany"
+    ],
+    "correctIndex": 0,
+    "explanation": "The United States has had the world's largest nominal GDP in recent years."
+  },
+  {
+    "id": "worldecon-012",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "Which country has the largest population?",
+    "options": [
+      "China",
+      "India",
+      "United States",
+      "Indonesia"
+    ],
+    "correctIndex": 1,
+    "explanation": "India overtook China to become the world's most populous country in recent years."
+  },
+  {
+    "id": "worldecon-013",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What does PPP stand for in economics?",
+    "options": [
+      "Purchasing power parity",
+      "Public price policy",
+      "Personal payment plan",
+      "Private production potential"
+    ],
+    "correctIndex": 0,
+    "explanation": "Purchasing power parity (PPP) compares currencies by the amount of goods they can buy."
+  },
+  {
+    "id": "worldecon-014",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What is a central bank's main monetary policy tool?",
+    "options": [
+      "Policy interest rate",
+      "Corporate income tax",
+      "Import quotas",
+      "Minimum wage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Central banks primarily steer the economy by setting their policy interest rate."
+  },
+  {
+    "id": "worldecon-015",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What usually happens to borrowing costs when a central bank raises rates?",
+    "options": [
+      "They tend to rise",
+      "They always fall",
+      "They become zero",
+      "They stop affecting markets"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a central bank raises its policy rate, borrowing costs across the economy tend to rise."
+  },
+  {
+    "id": "worldecon-016",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What is quantitative easing?",
+    "options": [
+      "Central-bank bond-buying to ease conditions",
+      "A tax increase",
+      "A ban on imports",
+      "A currency peg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quantitative easing involves central banks buying assets to add liquidity and ease financial conditions."
+  },
+  {
+    "id": "worldecon-017",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is fiscal policy?",
+    "options": [
+      "Government spending and taxation",
+      "Central-bank reserve management only",
+      "Exchange-rate trading",
+      "Private wage negotiation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fiscal policy refers to government decisions about spending and taxation."
+  },
+  {
+    "id": "worldecon-018",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What is monetary policy?",
+    "options": [
+      "Central-bank actions on money and credit",
+      "Government procurement only",
+      "Trade union bargaining",
+      "Corporate dividend policy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Monetary policy covers central-bank actions that influence money supply and credit conditions."
+  },
+  {
+    "id": "worldecon-019",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "What does comparative advantage explain?",
+    "options": [
+      "Gains from specializing by opportunity cost",
+      "Why every country exports the same goods",
+      "Why tariffs always increase welfare",
+      "Why inflation is always monetary"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comparative advantage explains the gains from specializing based on relative opportunity costs."
+  },
+  {
+    "id": "worldecon-020",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is an opportunity cost?",
+    "options": [
+      "The value of the next-best alternative forgone",
+      "The total cash spent",
+      "The market price of all goods",
+      "The cost of borrowing only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Opportunity cost is the value of the next-best alternative given up when making a choice."
+  },
+  {
+    "id": "worldecon-021",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "What is a tariff?",
+    "options": [
+      "A tax on imports or exports",
+      "A subsidy to consumers",
+      "A central-bank bond purchase",
+      "A currency conversion fee only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tariff is a tax levied on imported or exported goods."
+  },
+  {
+    "id": "worldecon-022",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "Which organization oversees global trade rules?",
+    "options": [
+      "WTO",
+      "IMF",
+      "OPEC",
+      "WHO"
+    ],
+    "correctIndex": 0,
+    "explanation": "The World Trade Organization (WTO) sets and oversees the rules governing international trade."
+  },
+  {
+    "id": "worldecon-023",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "Which group coordinates oil-production policy among members?",
+    "options": [
+      "OPEC",
+      "OECD",
+      "WTO",
+      "ASEAN"
+    ],
+    "correctIndex": 0,
+    "explanation": "OPEC is the group of oil-exporting countries that coordinates production policy among members."
+  },
+  {
+    "id": "worldecon-024",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What is a sovereign bond?",
+    "options": [
+      "Debt issued by a national government",
+      "A mortgage issued by a household",
+      "Equity in a private company",
+      "A central-bank payment card"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sovereign bond is debt issued by a national government to finance its borrowing."
+  },
+  {
+    "id": "worldecon-025",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What does a bond's yield generally measure?",
+    "options": [
+      "Return relative to its price and cash flows",
+      "Its face value only",
+      "The issuer's GDP",
+      "Its voting rights"
+    ],
+    "correctIndex": 0,
+    "explanation": "A bond's yield reflects the return an investor earns relative to its price and cash flows."
+  },
+  {
+    "id": "worldecon-026",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What generally happens to existing bond prices when market yields rise?",
+    "options": [
+      "They fall",
+      "They rise",
+      "They remain fixed",
+      "They become par automatically"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bond prices and yields move inversely, so existing bond prices fall when market yields rise."
+  },
+  {
+    "id": "worldecon-027",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is a progressive income tax?",
+    "options": [
+      "Higher incomes face higher marginal tax rates",
+      "Everyone pays the same amount",
+      "Only companies pay tax",
+      "Tax rates fall as income rises"
+    ],
+    "correctIndex": 0,
+    "explanation": "A progressive income tax applies higher marginal tax rates to higher levels of income."
+  },
+  {
+    "id": "worldecon-028",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "hard",
+    "question": "What is a regressive tax?",
+    "options": [
+      "Takes a bigger income share from the poor",
+      "It taxes only luxury exports",
+      "It rises with wealth in every case",
+      "It applies only to corporations"
+    ],
+    "correctIndex": 0,
+    "explanation": "A regressive tax takes a proportionally larger share of income from lower-income earners."
+  },
+  {
+    "id": "worldecon-029",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is a budget deficit?",
+    "options": [
+      "Government spending exceeds revenue",
+      "Government revenue exceeds spending",
+      "Exports exceed imports",
+      "Private savings exceed investment"
+    ],
+    "correctIndex": 0,
+    "explanation": "A budget deficit occurs when government spending exceeds its revenue."
+  },
+  {
+    "id": "worldecon-030",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is a budget surplus?",
+    "options": [
+      "Government revenue exceeds spending",
+      "Government spending exceeds revenue",
+      "Imports exceed exports",
+      "Debt equals GDP"
+    ],
+    "correctIndex": 0,
+    "explanation": "A budget surplus occurs when government revenue exceeds its spending."
+  },
+  {
+    "id": "worldecon-031",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "What is the current account part of?",
+    "options": [
+      "Balance of payments",
+      "National budget only",
+      "Corporate balance sheet",
+      "Stock exchange index"
+    ],
+    "correctIndex": 0,
+    "explanation": "The current account is a component of a country's balance of payments."
+  },
+  {
+    "id": "worldecon-032",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What does a current-account surplus generally indicate?",
+    "options": [
+      "Net lending to the rest of the world",
+      "A government budget deficit by definition",
+      "Zero foreign trade",
+      "No domestic investment"
+    ],
+    "correctIndex": 0,
+    "explanation": "A current-account surplus generally means a country is a net lender to the rest of the world."
+  },
+  {
+    "id": "worldecon-033",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "What is foreign direct investment?",
+    "options": [
+      "Investment giving lasting control abroad",
+      "Short-term currency trading only",
+      "A tourist purchase abroad",
+      "A government import tariff"
+    ],
+    "correctIndex": 0,
+    "explanation": "Foreign direct investment involves acquiring a lasting, controlling interest in a foreign enterprise."
+  },
+  {
+    "id": "worldecon-034",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "What is a floating exchange rate?",
+    "options": [
+      "A rate largely determined by market forces",
+      "A rate fixed permanently to gold",
+      "A rate set by the WTO",
+      "A rate identical worldwide"
+    ],
+    "correctIndex": 0,
+    "explanation": "A floating exchange rate is one whose value is largely set by supply and demand in markets."
+  },
+  {
+    "id": "worldecon-035",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "What is a currency peg?",
+    "options": [
+      "A fixed link to another currency/basket",
+      "A ban on foreign exchange",
+      "A floating share price",
+      "A government spending rule"
+    ],
+    "correctIndex": 0,
+    "explanation": "A currency peg fixes or manages a currency's value against another currency or a basket."
+  },
+  {
+    "id": "worldecon-036",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "What is depreciation of a currency under a floating regime?",
+    "options": [
+      "A fall in its market value",
+      "A rise in its market value",
+      "A fall in government spending",
+      "A rise in domestic productivity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Depreciation under a floating regime means a currency's market value has fallen."
+  },
+  {
+    "id": "worldecon-037",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "What is currency appreciation?",
+    "options": [
+      "A rise in its value relative to another currency",
+      "A fall in its purchasing power",
+      "A tax on foreign exchange",
+      "A fall in exports by definition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Currency appreciation is a rise in a currency's value relative to another currency."
+  },
+  {
+    "id": "worldecon-038",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is stagflation?",
+    "options": [
+      "High inflation, weak growth, high unemployment",
+      "Rapid growth with falling prices",
+      "Zero inflation and full employment",
+      "A permanent trade surplus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stagflation combines high inflation with weak growth and elevated unemployment."
+  },
+  {
+    "id": "worldecon-039",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is deflation?",
+    "options": [
+      "A sustained fall in the general price level",
+      "A sustained rise in prices",
+      "A fall in GDP alone",
+      "A currency peg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deflation is a sustained decline in the general level of prices."
+  },
+  {
+    "id": "worldecon-040",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is hyperinflation?",
+    "options": [
+      "Extremely rapid inflation",
+      "Any inflation above 2%",
+      "A fall in money supply",
+      "A balanced budget"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hyperinflation describes extremely rapid and often uncontrollable price increases."
+  },
+  {
+    "id": "worldecon-041",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What does the Phillips curve traditionally describe?",
+    "options": [
+      "A relationship between inflation and unemployment",
+      "A relationship between exports and tariffs",
+      "A link between GDP and population only",
+      "A link between bond duration and price"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Phillips curve traditionally describes an inverse relationship between inflation and unemployment."
+  },
+  {
+    "id": "worldecon-042",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What does the Gini coefficient measure?",
+    "options": [
+      "Income or wealth inequality",
+      "GDP growth",
+      "Inflation expectations",
+      "Trade openness"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Gini coefficient is a standard measure of income or wealth inequality."
+  },
+  {
+    "id": "worldecon-043",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What does a Gini coefficient of zero represent?",
+    "options": [
+      "Perfect equality",
+      "Maximum inequality",
+      "Zero GDP",
+      "Zero inflation"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Gini coefficient of zero represents perfect equality in the distribution measured."
+  },
+  {
+    "id": "worldecon-044",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is human capital?",
+    "options": [
+      "Workers' skills, knowledge and health",
+      "A country's gold reserves",
+      "A firm's machinery only",
+      "The value of currency in circulation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Human capital refers to the skills, knowledge, and health that make workers productive."
+  },
+  {
+    "id": "worldecon-045",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "What is productivity?",
+    "options": [
+      "Output per unit of input",
+      "Total government debt",
+      "Inflation minus unemployment",
+      "Exports divided by imports"
+    ],
+    "correctIndex": 0,
+    "explanation": "Productivity measures output produced per unit of input, such as labor or capital."
+  },
+  {
+    "id": "worldecon-046",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is the main source of long-run living-standard growth?",
+    "options": [
+      "Higher productivity",
+      "Permanent inflation",
+      "Repeated currency devaluation",
+      "Higher tariffs alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rising productivity is the main driver of long-run improvements in living standards."
+  },
+  {
+    "id": "worldecon-047",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is an externality?",
+    "options": [
+      "A cost or benefit affecting third parties",
+      "A tax paid only by exporters",
+      "A currency reserve",
+      "A company's retained earnings"
+    ],
+    "correctIndex": 0,
+    "explanation": "An externality is a cost or benefit of an activity that falls on third parties."
+  },
+  {
+    "id": "worldecon-048",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "Which is a negative production externality?",
+    "options": [
+      "Industrial pollution",
+      "Employee training",
+      "Vaccination benefits",
+      "Knowledge spillovers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Industrial pollution is a classic example of a negative production externality."
+  },
+  {
+    "id": "worldecon-049",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is a public good in economics?",
+    "options": [
+      "Non-excludable and non-rival",
+      "Always privately owned",
+      "A good with a high price",
+      "A product made by government firms only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A public good is defined by being non-excludable and non-rival in consumption."
+  },
+  {
+    "id": "worldecon-050",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "easy",
+    "question": "Which is a classic example of a public good?",
+    "options": [
+      "National defence",
+      "A private car",
+      "A restaurant meal",
+      "A cinema ticket"
+    ],
+    "correctIndex": 0,
+    "explanation": "National defence is a textbook example of a public good, benefiting everyone without rivalry."
+  },
+  {
+    "id": "worldecon-051",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "hard",
+    "question": "What is a natural monopoly?",
+    "options": [
+      "One firm can supply the market most cheaply",
+      "A market with many identical firms",
+      "A government budget surplus",
+      "A monopoly created by seasonal demand"
+    ],
+    "correctIndex": 0,
+    "explanation": "A natural monopoly exists where a single firm can meet market demand at lower cost than multiple firms could."
+  },
+  {
+    "id": "worldecon-052",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is price elasticity of demand?",
+    "options": [
+      "Demand's responsiveness to price changes",
+      "Supply's response to taxes only",
+      "A measure of inflation",
+      "The ratio of imports to exports"
+    ],
+    "correctIndex": 0,
+    "explanation": "Price elasticity of demand measures how responsive quantity demanded is to price changes."
+  },
+  {
+    "id": "worldecon-053",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "hard",
+    "question": "If demand is elastic, what happens to quantity demanded after a price increase?",
+    "options": [
+      "It falls proportionally more than the price rises",
+      "It rises proportionally more",
+      "It cannot change",
+      "It always doubles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elastic demand means quantity demanded falls proportionally more than the price increase."
+  },
+  {
+    "id": "worldecon-054",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is a binding price ceiling below equilibrium likely to cause?",
+    "options": [
+      "A shortage",
+      "A surplus",
+      "A budget surplus",
+      "A trade surplus"
+    ],
+    "correctIndex": 0,
+    "explanation": "A price ceiling set below equilibrium tends to create a shortage of the good."
+  },
+  {
+    "id": "worldecon-055",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is a binding price floor above equilibrium likely to cause?",
+    "options": [
+      "A surplus",
+      "A shortage",
+      "Zero production",
+      "Automatic full employment"
+    ],
+    "correctIndex": 0,
+    "explanation": "A price floor set above equilibrium tends to create a surplus of the good."
+  },
+  {
+    "id": "worldecon-056",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "hard",
+    "question": "What is deadweight loss?",
+    "options": [
+      "Surplus lost to inefficient market outcomes",
+      "A company's accounting depreciation",
+      "Government debt repayments",
+      "A fall in nominal GDP only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deadweight loss is the surplus lost to society from an inefficient market outcome."
+  },
+  {
+    "id": "worldecon-057",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "hard",
+    "question": "What is moral hazard?",
+    "options": [
+      "More risk-taking when shielded from consequences",
+      "A fall in prices due to productivity",
+      "A government trade surplus",
+      "A central bank's currency reserve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moral hazard describes greater risk-taking that arises when a party is shielded from the consequences."
+  },
+  {
+    "id": "worldecon-058",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "hard",
+    "question": "What is adverse selection?",
+    "options": [
+      "Hidden information before a transaction",
+      "Hidden action after a contract",
+      "A rise in general prices",
+      "A fall in tax revenue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adverse selection arises from hidden information that one party has before a transaction occurs."
+  },
+  {
+    "id": "worldecon-059",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is the Laffer curve about?",
+    "options": [
+      "The relationship between tax rates and tax revenue",
+      "Inflation and unemployment",
+      "Trade and exchange rates",
+      "GDP and population"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Laffer curve describes the relationship between tax rates and the revenue they generate."
+  },
+  {
+    "id": "worldecon-060",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What is the Triffin dilemma?",
+    "options": [
+      "Tension between reserve supply and trust",
+      "A conflict between fiscal and trade policy",
+      "A theory of labour productivity",
+      "A rule for calculating GDP"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Triffin dilemma is the tension between supplying global reserve assets and keeping confidence in them."
+  },
+  {
+    "id": "worldecon-061",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "Which currency dominates global foreign-exchange reserves?",
+    "options": [
+      "US dollar",
+      "Euro",
+      "Japanese yen",
+      "Chinese yuan"
+    ],
+    "correctIndex": 0,
+    "explanation": "The US dollar remains the dominant currency held in global foreign-exchange reserves."
+  },
+  {
+    "id": "worldecon-062",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "Which institution coordinates central banks globally through research and cooperation?",
+    "options": [
+      "Bank for International Settlements",
+      "World Trade Organization",
+      "OPEC",
+      "UNESCO"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Bank for International Settlements fosters cooperation and research among central banks."
+  },
+  {
+    "id": "worldecon-063",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "Where is the Bank for International Settlements headquartered?",
+    "options": [
+      "Basel",
+      "London",
+      "New York",
+      "Singapore"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Bank for International Settlements is headquartered in Basel, Switzerland."
+  },
+  {
+    "id": "worldecon-064",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What is the main goal of the Basel banking standards?",
+    "options": [
+      "Improve bank resilience and risk management",
+      "Set global income taxes",
+      "Fix oil prices",
+      "Create a world currency"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Basel standards aim to strengthen bank resilience and improve risk management globally."
+  },
+  {
+    "id": "worldecon-065",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "hard",
+    "question": "What does a bank's capital adequacy ratio compare?",
+    "options": [
+      "Regulatory capital with risk-weighted assets",
+      "Deposits with branch count",
+      "Profits with inflation",
+      "Loans with population"
+    ],
+    "correctIndex": 0,
+    "explanation": "A capital adequacy ratio compares a bank's regulatory capital to its risk-weighted assets."
+  },
+  {
+    "id": "worldecon-066",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What is a bank run?",
+    "options": [
+      "Many depositors withdraw funds rapidly",
+      "A bank opens new branches",
+      "A central bank cuts rates",
+      "A company issues shares"
+    ],
+    "correctIndex": 0,
+    "explanation": "A bank run occurs when many depositors rapidly withdraw funds, often fearing insolvency."
+  },
+  {
+    "id": "worldecon-067",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What is deposit insurance designed to do?",
+    "options": [
+      "Protect eligible depositors if a bank fails",
+      "Guarantee all stock investments",
+      "Prevent all inflation",
+      "Set mortgage interest rates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deposit insurance protects eligible depositors' funds if their bank fails."
+  },
+  {
+    "id": "worldecon-068",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What is a lender of last resort?",
+    "options": [
+      "A central bank providing emergency liquidity",
+      "A retail bank's biggest customer",
+      "An export credit agency",
+      "A sovereign wealth fund"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lender of last resort is a central bank that provides emergency liquidity to the financial system."
+  },
+  {
+    "id": "worldecon-069",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "hard",
+    "question": "What is a liquidity trap?",
+    "options": [
+      "Rate cuts lose power near the zero bound",
+      "A permanent trade surplus",
+      "A shortage of physical cash only",
+      "A government debt default"
+    ],
+    "correctIndex": 0,
+    "explanation": "A liquidity trap is a situation where further monetary easing has little effect near very low interest rates."
+  },
+  {
+    "id": "worldecon-070",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "hard",
+    "question": "What is the natural rate of unemployment?",
+    "options": [
+      "Unemployment from normal market frictions",
+      "Exactly zero unemployment",
+      "Unemployment caused only by recessions",
+      "The statutory minimum wage"
+    ],
+    "correctIndex": 0,
+    "explanation": "The natural rate of unemployment reflects normal frictions and structural features of the labour market."
+  },
+  {
+    "id": "worldecon-071",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is structural unemployment?",
+    "options": [
+      "Mismatch between worker skills/location and jobs",
+      "Temporary unemployment between jobs only",
+      "Unemployment caused only by winter",
+      "A decline in labour-force participation alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Structural unemployment arises from a mismatch between workers' skills or locations and available jobs."
+  },
+  {
+    "id": "worldecon-072",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is cyclical unemployment?",
+    "options": [
+      "Unemployment linked to economic downturns",
+      "Unemployment caused by skills mismatch only",
+      "Seasonal agricultural work gaps only",
+      "People retiring voluntarily"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cyclical unemployment rises and falls with the economic cycle, especially during downturns."
+  },
+  {
+    "id": "worldecon-073",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "hard",
+    "question": "What is labour-force participation rate?",
+    "options": [
+      "Labour force as % of working-age population",
+      "The employed share of total GDP",
+      "The unemployed share of exports",
+      "The share of workers in government"
+    ],
+    "correctIndex": 0,
+    "explanation": "Labour-force participation rate is the share of the working-age population that is working or seeking work."
+  },
+  {
+    "id": "worldecon-074",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is the demographic dividend?",
+    "options": [
+      "Growth potential from more working-age people",
+      "A tax rebate for retirees only",
+      "A permanent trade surplus",
+      "A central-bank dividend"
+    ],
+    "correctIndex": 0,
+    "explanation": "The demographic dividend is the growth potential from having a larger share of working-age people."
+  },
+  {
+    "id": "worldecon-075",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is the dependency ratio?",
+    "options": [
+      "Dependents relative to the working-age population",
+      "Government debt relative to GDP",
+      "Exports relative to imports",
+      "Wages relative to profits"
+    ],
+    "correctIndex": 0,
+    "explanation": "The dependency ratio compares the number of dependents to the working-age population."
+  },
+  {
+    "id": "worldecon-076",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "hard",
+    "question": "What is the resource curse?",
+    "options": [
+      "Resource wealth can weaken institutions, growth",
+      "Resources always guarantee prosperity",
+      "A fall in commodity prices always raises GDP",
+      "A ban on mineral exports"
+    ],
+    "correctIndex": 0,
+    "explanation": "The resource curse describes how resource wealth can coincide with weak institutions and poor growth."
+  },
+  {
+    "id": "worldecon-077",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What is Dutch disease?",
+    "options": [
+      "Resource booms hurt other sectors via FX rise",
+      "A medical condition caused by inflation",
+      "A system of import quotas",
+      "A type of sovereign default"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dutch disease occurs when a resource boom appreciates the currency, hurting other export sectors."
+  },
+  {
+    "id": "worldecon-078",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What is a sovereign wealth fund?",
+    "options": [
+      "A state-owned investment fund",
+      "A private pension account",
+      "A commercial bank's reserve account",
+      "An international trade tribunal"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sovereign wealth fund is a state-owned investment fund, often funded by resource revenues."
+  },
+  {
+    "id": "worldecon-079",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "Which country operates the world's largest sovereign wealth fund by assets?",
+    "options": [
+      "Norway",
+      "Singapore",
+      "Saudi Arabia",
+      "Qatar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norway's Government Pension Fund Global is the world's largest sovereign wealth fund by assets."
+  },
+  {
+    "id": "worldecon-080",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "What is a country's foreign-exchange reserve?",
+    "options": [
+      "Foreign assets held by monetary authorities",
+      "Its annual tax revenue",
+      "Private household savings only",
+      "The total value of domestic real estate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Foreign-exchange reserves are foreign assets held by a country's monetary authorities."
+  },
+  {
+    "id": "worldecon-081",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What are Special Drawing Rights?",
+    "options": [
+      "An international reserve asset created by the IMF",
+      "A global cryptocurrency",
+      "A World Bank bond",
+      "A trade tariff exemption"
+    ],
+    "correctIndex": 0,
+    "explanation": "Special Drawing Rights are an international reserve asset created and allocated by the IMF."
+  },
+  {
+    "id": "worldecon-082",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "Which currencies are included in the IMF's SDR basket as of 2026?",
+    "options": [
+      "US dollar, euro, yuan, yen and pound sterling",
+      "US dollar, euro, rupee, yen and franc",
+      "Dollar, euro, ruble, yuan and won",
+      "Dollar, pound, franc, yen and rupee"
+    ],
+    "correctIndex": 0,
+    "explanation": "The IMF's SDR basket includes the US dollar, euro, Chinese yuan, Japanese yen, and British pound."
+  },
+  {
+    "id": "worldecon-083",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What is the Bretton Woods system best known for?",
+    "options": [
+      "Postwar fixed rates centered on the US dollar",
+      "The creation of the euro",
+      "The abolition of international trade",
+      "The first cryptocurrency"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Bretton Woods system established postwar fixed exchange rates centered on the US dollar."
+  },
+  {
+    "id": "worldecon-084",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "In which year did the Bretton Woods conference take place?",
+    "options": [
+      "1919",
+      "1933",
+      "1944",
+      "1957"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Bretton Woods conference, which shaped the postwar monetary system, took place in 1944."
+  },
+  {
+    "id": "worldecon-085",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What is the euro area's central bank?",
+    "options": [
+      "European Central Bank",
+      "European Investment Bank",
+      "European Commission",
+      "European Court of Auditors"
+    ],
+    "correctIndex": 0,
+    "explanation": "The European Central Bank conducts monetary policy for the euro area."
+  },
+  {
+    "id": "worldecon-086",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What is the Bank of Japan responsible for?",
+    "options": [
+      "Japan's monetary policy",
+      "Setting China's tariffs",
+      "Managing the IMF",
+      "Issuing euro banknotes"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Bank of Japan is responsible for setting and implementing Japan's monetary policy."
+  },
+  {
+    "id": "worldecon-087",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What is the People's Bank of China?",
+    "options": [
+      "China's central bank",
+      "China's sovereign wealth fund",
+      "A stock exchange",
+      "A commercial bank owned by Japan"
+    ],
+    "correctIndex": 0,
+    "explanation": "The People's Bank of China serves as China's central bank."
+  },
+  {
+    "id": "worldecon-088",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "What does the OECD mainly promote?",
+    "options": [
+      "Economic cooperation and policy analysis",
+      "Military alliances",
+      "Oil production quotas",
+      "Global criminal prosecution"
+    ],
+    "correctIndex": 0,
+    "explanation": "The OECD mainly promotes economic cooperation among member countries and provides policy analysis."
+  },
+  {
+    "id": "worldecon-089",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "easy",
+    "question": "Which group coordinates major advanced and emerging economies?",
+    "options": [
+      "G20",
+      "G7 only",
+      "OPEC",
+      "NATO"
+    ],
+    "correctIndex": 0,
+    "explanation": "The G20 brings together major advanced and emerging economies to coordinate economic policy."
+  },
+  {
+    "id": "worldecon-090",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "medium",
+    "question": "Which countries formed the original BRIC grouping?",
+    "options": [
+      "Brazil, Russia, India and China",
+      "Brazil, Romania, Indonesia and Canada",
+      "Belgium, Russia, India and Chile",
+      "Brazil, Russia, Iran and Colombia"
+    ],
+    "correctIndex": 0,
+    "explanation": "The original BRIC grouping comprised Brazil, Russia, India, and China."
+  },
+  {
+    "id": "worldecon-091",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is a carbon tax designed to price?",
+    "options": [
+      "Greenhouse-gas emissions",
+      "Corporate dividends",
+      "Foreign-exchange transactions",
+      "Imported consumer electronics"
+    ],
+    "correctIndex": 0,
+    "explanation": "A carbon tax is designed to put a price on greenhouse-gas emissions."
+  },
+  {
+    "id": "worldecon-092",
+    "topic": "World Economics",
+    "subtopic": "Macroeconomics",
+    "difficulty": "medium",
+    "question": "What is cap-and-trade?",
+    "options": [
+      "An emissions cap with tradable permits",
+      "A fixed carbon tax only",
+      "A ban on all international trade",
+      "A system of currency pegs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cap-and-trade sets an overall emissions cap and allows firms to trade tradable permits within it."
+  },
+  {
+    "id": "worldecon-093",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What is a green bond?",
+    "options": [
+      "A bond financing eligible environmental projects",
+      "A bond issued only by farmers",
+      "A currency backed by forests",
+      "A government tax certificate"
+    ],
+    "correctIndex": 0,
+    "explanation": "A green bond raises funds specifically to finance eligible environmental projects."
+  },
+  {
+    "id": "worldecon-094",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "easy",
+    "question": "What does ESG stand for in investing?",
+    "options": [
+      "Environmental, social and governance",
+      "Economic stability guarantee",
+      "Energy supply growth",
+      "Equity security group"
+    ],
+    "correctIndex": 0,
+    "explanation": "ESG stands for environmental, social, and governance factors used in responsible investing."
+  },
+  {
+    "id": "worldecon-095",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What is a yield curve inversion?",
+    "options": [
+      "Short-term bond yields exceed long-term yields",
+      "All bond yields become zero",
+      "Long-term yields exceed short-term yields",
+      "Bond prices equal face value"
+    ],
+    "correctIndex": 0,
+    "explanation": "A yield curve inversion occurs when short-term bond yields exceed long-term yields."
+  },
+  {
+    "id": "worldecon-096",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "medium",
+    "question": "What does duration measure for a bond?",
+    "options": [
+      "Sensitivity to interest-rate changes",
+      "Credit rating only",
+      "Coupon frequency only",
+      "The issuer's tax rate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Duration measures a bond's sensitivity to changes in interest rates."
+  },
+  {
+    "id": "worldecon-097",
+    "topic": "World Economics",
+    "subtopic": "Markets & Finance",
+    "difficulty": "hard",
+    "question": "What is credit spread?",
+    "options": [
+      "Yield gap vs a comparable benchmark bond",
+      "Difference between two tax brackets",
+      "A currency exchange fee",
+      "The gap between GDP and inflation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Credit spread is the yield gap between a riskier bond and a comparable benchmark bond."
+  },
+  {
+    "id": "worldecon-098",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What is a country's terms of trade?",
+    "options": [
+      "Export prices relative to import prices",
+      "Exports relative to population",
+      "Tax revenue relative to spending",
+      "GDP relative to public debt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Terms of trade compare a country's export prices to its import prices."
+  },
+  {
+    "id": "worldecon-099",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What is the J-curve effect?",
+    "options": [
+      "Trade gap worsens after FX drop, then improves",
+      "GDP always follows a straight line",
+      "Inflation falls immediately after any rate cut",
+      "Bond prices rise with every rate increase"
+    ],
+    "correctIndex": 0,
+    "explanation": "The J-curve effect describes how a trade balance may worsen briefly after depreciation before improving."
+  },
+  {
+    "id": "worldecon-100",
+    "topic": "World Economics",
+    "subtopic": "Trade & Institutions",
+    "difficulty": "hard",
+    "question": "What is the impossible trinity in international macroeconomics?",
+    "options": [
+      "Pick at most 2 of: fixed FX, open capital, policy",
+      "Inflation, jobs, growth all rise together",
+      "Exports, imports and savings must be equal",
+      "Tax cuts, spending cuts, deficits can't coexist"
+    ],
+    "correctIndex": 0,
+    "explanation": "The impossible trinity holds that a country can achieve at most two of a fixed exchange rate, free capital flow, and independent monetary policy."
+  }
+]

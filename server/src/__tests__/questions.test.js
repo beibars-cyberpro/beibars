@@ -4,7 +4,7 @@ const { getAllQuestions, getTopics, getRandomQuestions } = require('../questions
 
 test('loads the full question bank with no duplicate ids', () => {
   const all = getAllQuestions();
-  assert.equal(all.length, 700);
+  assert.equal(all.length, 1000);
   const ids = new Set(all.map((q) => q.id));
   assert.equal(ids.size, all.length);
 });
@@ -22,6 +22,27 @@ test('US Politics category is present with 100 questions', () => {
   const usPol = all.filter((q) => q.topic === 'US Politics');
   assert.equal(usPol.length, 100);
   assert.ok(getTopics().includes('US Politics'));
+});
+
+test('Central Asian Politics category is present with 100 questions', () => {
+  const all = getAllQuestions();
+  const capol = all.filter((q) => q.topic === 'Central Asian Politics');
+  assert.equal(capol.length, 100);
+  assert.ok(getTopics().includes('Central Asian Politics'));
+});
+
+test('Kazakh Celebrities category is present with 100 questions', () => {
+  const all = getAllQuestions();
+  const kzceleb = all.filter((q) => q.topic === 'Kazakh Celebrities');
+  assert.equal(kzceleb.length, 100);
+  assert.ok(getTopics().includes('Kazakh Celebrities'));
+});
+
+test('World Economics category is present with 100 questions', () => {
+  const all = getAllQuestions();
+  const worldecon = all.filter((q) => q.topic === 'World Economics');
+  assert.equal(worldecon.length, 100);
+  assert.ok(getTopics().includes('World Economics'));
 });
 
 test('getRandomQuestions respects a topic filter', () => {
