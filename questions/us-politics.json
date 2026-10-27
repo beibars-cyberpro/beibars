@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "uspol-001",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Who was the first US president?",
+    "options": [
+      "George Washington",
+      "John Adams",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "correctIndex": 0,
+    "explanation": "George Washington served as the first US president from 1789 to 1797, setting many precedents still followed today."
+  },
+  {
+    "id": "uspol-002",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "How many senators does each US state elect?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "explanation": "Every state, regardless of population, elects exactly two senators, giving each state equal representation in the Senate."
+  },
+  {
+    "id": "uspol-003",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "How long is a US presidential term?",
+    "options": [
+      "Two years",
+      "Four years",
+      "Five years",
+      "Six years"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Constitution sets a four-year term for the presidency, with no limit on how many times it can be renewed by election until the 22nd Amendment."
+  },
+  {
+    "id": "uspol-004",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Which chamber has 435 voting members?",
+    "options": [
+      "Senate",
+      "House of Representatives",
+      "Supreme Court",
+      "Cabinet"
+    ],
+    "correctIndex": 1,
+    "explanation": "The House of Representatives has 435 voting members, apportioned among states by population."
+  },
+  {
+    "id": "uspol-005",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "What is the US capital?",
+    "options": [
+      "New York",
+      "Washington, D.C.",
+      "Philadelphia",
+      "Boston"
+    ],
+    "correctIndex": 1,
+    "explanation": "Washington, D.C. was created specifically to serve as the seat of the federal government and is not part of any state."
+  },
+  {
+    "id": "uspol-006",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Which document begins with 'We the People'?",
+    "options": [
+      "Declaration of Independence",
+      "US Constitution",
+      "Bill of Rights",
+      "Federalist Papers"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Constitution's preamble famously opens with the words 'We the People of the United States.'"
+  },
+  {
+    "id": "uspol-007",
+    "topic": "US Politics",
+    "subtopic": "Elections & Parties",
+    "difficulty": "easy",
+    "question": "Which party uses a donkey as its symbol?",
+    "options": [
+      "Republican",
+      "Democratic",
+      "Libertarian",
+      "Green"
+    ],
+    "correctIndex": 1,
+    "explanation": "The donkey became linked to the Democratic Party through 19th-century political cartoons, notably by Thomas Nast."
+  },
+  {
+    "id": "uspol-008",
+    "topic": "US Politics",
+    "subtopic": "Elections & Parties",
+    "difficulty": "easy",
+    "question": "Which party uses an elephant as its symbol?",
+    "options": [
+      "Democratic",
+      "Republican",
+      "Green",
+      "Libertarian"
+    ],
+    "correctIndex": 1,
+    "explanation": "The elephant became the Republican Party's symbol after an 1874 Thomas Nast cartoon."
+  },
+  {
+    "id": "uspol-009",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "How many branches are in the US federal government?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 1,
+    "explanation": "The federal government is divided into legislative, executive, and judicial branches."
+  },
+  {
+    "id": "uspol-010",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Who signs bills into federal law?",
+    "options": [
+      "The president",
+      "The chief justice",
+      "The vice president",
+      "The Senate majority leader"
+    ],
+    "correctIndex": 0,
+    "explanation": "A bill passed by Congress becomes law once the president signs it (or Congress overrides a veto)."
+  },
+  {
+    "id": "uspol-011",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "easy",
+    "question": "Which amendment protects freedom of speech?",
+    "options": [
+      "First",
+      "Second",
+      "Fourth",
+      "Fifth"
+    ],
+    "correctIndex": 0,
+    "explanation": "The First Amendment protects freedom of speech, along with religion, the press, assembly, and petition."
+  },
+  {
+    "id": "uspol-012",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "What is the minimum age to become US president?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Constitution requires a president to be at least 35 years old."
+  },
+  {
+    "id": "uspol-013",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Who presides over the US Senate constitutionally?",
+    "options": [
+      "Speaker of the House",
+      "Vice president",
+      "Chief justice",
+      "Secretary of state"
+    ],
+    "correctIndex": 1,
+    "explanation": "The vice president serves as President of the Senate but only votes to break a tie."
+  },
+  {
+    "id": "uspol-014",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "How many electoral votes are needed to win the presidency when all are allocated?",
+    "options": [
+      "260",
+      "270",
+      "280",
+      "300"
+    ],
+    "correctIndex": 1,
+    "explanation": "There are 538 total electoral votes, so 270 is the majority needed to win the presidency."
+  },
+  {
+    "id": "uspol-015",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment limits presidents to two elected terms?",
+    "options": [
+      "12th",
+      "20th",
+      "22nd",
+      "25th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 22nd Amendment, ratified in 1951, limits presidents to two elected terms."
+  },
+  {
+    "id": "uspol-016",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which institution confirms federal judicial nominees?",
+    "options": [
+      "House of Representatives",
+      "Senate",
+      "Supreme Court",
+      "Electoral College"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Senate holds confirmation votes on federal judicial nominees, including Supreme Court justices."
+  },
+  {
+    "id": "uspol-017",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "easy",
+    "question": "Which amendment abolished slavery?",
+    "options": [
+      "12th",
+      "13th",
+      "14th",
+      "15th"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 13th Amendment, ratified in 1865, abolished slavery in the United States."
+  },
+  {
+    "id": "uspol-018",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "easy",
+    "question": "Which amendment granted women the constitutional right to vote?",
+    "options": [
+      "15th",
+      "17th",
+      "19th",
+      "24th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 19th Amendment, ratified in 1920, granted women the constitutional right to vote."
+  },
+  {
+    "id": "uspol-019",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "What is the primary role of the Supreme Court?",
+    "options": [
+      "Write federal budgets",
+      "Interpret the law",
+      "Command the military",
+      "Conduct elections"
+    ],
+    "correctIndex": 1,
+    "explanation": "The judicial branch's core role is to interpret laws and the Constitution, including resolving disputes over their meaning."
+  },
+  {
+    "id": "uspol-020",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Which president issued the Emancipation Proclamation?",
+    "options": [
+      "Andrew Johnson",
+      "Abraham Lincoln",
+      "Ulysses Grant",
+      "James Buchanan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Abraham Lincoln issued the Emancipation Proclamation in 1863 during the Civil War."
+  },
+  {
+    "id": "uspol-021",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "What is a presidential veto?",
+    "options": [
+      "A judicial appointment",
+      "Rejection of a bill",
+      "A budget amendment",
+      "An election recount"
+    ],
+    "correctIndex": 1,
+    "explanation": "A veto is the president's power to reject a bill passed by Congress, sending it back unsigned."
+  },
+  {
+    "id": "uspol-022",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "How many electoral votes does California have in the 2024 and 2028 elections?",
+    "options": [
+      "52",
+      "54",
+      "55",
+      "58"
+    ],
+    "correctIndex": 1,
+    "explanation": "California held 54 electoral votes after the 2020 census reapportionment, used for the 2024 and 2028 elections."
+  },
+  {
+    "id": "uspol-023",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment established birthright citizenship and equal protection?",
+    "options": [
+      "10th",
+      "13th",
+      "14th",
+      "16th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 14th Amendment, ratified in 1868, established birthright citizenship and guaranteed equal protection under the law."
+  },
+  {
+    "id": "uspol-024",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which chamber impeaches federal officials?",
+    "options": [
+      "Senate",
+      "House of Representatives",
+      "Supreme Court",
+      "Cabinet"
+    ],
+    "correctIndex": 1,
+    "explanation": "The House of Representatives votes to impeach, formally charging a federal official with misconduct."
+  },
+  {
+    "id": "uspol-025",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which chamber conducts impeachment trials?",
+    "options": [
+      "House of Representatives",
+      "Senate",
+      "Supreme Court",
+      "Electoral College"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Senate holds the impeachment trial and votes on whether to convict and remove the official."
+  },
+  {
+    "id": "uspol-026",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Which president resigned in 1974?",
+    "options": [
+      "Gerald Ford",
+      "Richard Nixon",
+      "Jimmy Carter",
+      "Lyndon Johnson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Richard Nixon resigned the presidency in August 1974 amid the Watergate scandal."
+  },
+  {
+    "id": "uspol-027",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment protects against unreasonable searches and seizures?",
+    "options": [
+      "First",
+      "Fourth",
+      "Sixth",
+      "Eighth"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Fourth Amendment protects against unreasonable searches and seizures by the government."
+  },
+  {
+    "id": "uspol-028",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment protects against self-incrimination?",
+    "options": [
+      "Fourth",
+      "Fifth",
+      "Seventh",
+      "Ninth"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Fifth Amendment protects individuals from being forced to testify against themselves."
+  },
+  {
+    "id": "uspol-029",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Who appoints US ambassadors?",
+    "options": [
+      "The president, with Senate consent",
+      "The House speaker",
+      "The chief justice",
+      "State governors"
+    ],
+    "correctIndex": 0,
+    "explanation": "The president nominates ambassadors, but they must be confirmed by the Senate before taking office."
+  },
+  {
+    "id": "uspol-030",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which branch declares federal laws unconstitutional?",
+    "options": [
+      "Executive",
+      "Judicial",
+      "Legislative",
+      "Electoral"
+    ],
+    "correctIndex": 1,
+    "explanation": "Through judicial review, courts in the judicial branch can strike down laws that conflict with the Constitution."
+  },
+  {
+    "id": "uspol-031",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "What is the minimum age for a US senator?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Constitution requires US senators to be at least 30 years old."
+  },
+  {
+    "id": "uspol-032",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "How long is a US senator's term?",
+    "options": [
+      "Two years",
+      "Four years",
+      "Six years",
+      "Eight years"
+    ],
+    "correctIndex": 2,
+    "explanation": "Senators serve staggered six-year terms, with about a third of the Senate up for election every two years."
+  },
+  {
+    "id": "uspol-033",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "How long is a US representative's term?",
+    "options": [
+      "Two years",
+      "Four years",
+      "Six years",
+      "Eight years"
+    ],
+    "correctIndex": 0,
+    "explanation": "House members face re-election every two years, the shortest term of any federal elected office."
+  },
+  {
+    "id": "uspol-034",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment repealed Prohibition?",
+    "options": [
+      "18th",
+      "19th",
+      "21st",
+      "22nd"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 21st Amendment, ratified in 1933, repealed Prohibition established by the 18th Amendment."
+  },
+  {
+    "id": "uspol-035",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment created the federal income tax authority?",
+    "options": [
+      "14th",
+      "16th",
+      "17th",
+      "19th"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 16th Amendment, ratified in 1913, gave Congress the authority to levy a federal income tax."
+  },
+  {
+    "id": "uspol-036",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which amendment established direct election of senators?",
+    "options": [
+      "15th",
+      "16th",
+      "17th",
+      "18th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 17th Amendment, ratified in 1913, established direct popular election of US senators."
+  },
+  {
+    "id": "uspol-037",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Which body formally elects the US president?",
+    "options": [
+      "Congress alone",
+      "Electoral College",
+      "Supreme Court",
+      "State governors"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Electoral College, made up of state electors, formally casts the votes that elect the president and vice president."
+  },
+  {
+    "id": "uspol-038",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "What fraction of each chamber is normally needed to override a presidential veto?",
+    "options": [
+      "One-half",
+      "Three-fifths",
+      "Two-thirds",
+      "Three-quarters"
+    ],
+    "correctIndex": 2,
+    "explanation": "Overriding a presidential veto requires a two-thirds vote in both the House and the Senate."
+  },
+  {
+    "id": "uspol-039",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Which president launched the New Deal?",
+    "options": [
+      "Herbert Hoover",
+      "Franklin D. Roosevelt",
+      "Harry Truman",
+      "Dwight Eisenhower"
+    ],
+    "correctIndex": 1,
+    "explanation": "Franklin D. Roosevelt launched the New Deal in the 1930s to address the Great Depression."
+  },
+  {
+    "id": "uspol-040",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Which US president was in office during the Cuban Missile Crisis?",
+    "options": [
+      "Dwight Eisenhower",
+      "John F. Kennedy",
+      "Lyndon Johnson",
+      "Richard Nixon"
+    ],
+    "correctIndex": 1,
+    "explanation": "John F. Kennedy was president during the 1962 Cuban Missile Crisis."
+  },
+  {
+    "id": "uspol-041",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment lowered the voting age to 18?",
+    "options": [
+      "19th",
+      "23rd",
+      "24th",
+      "26th"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 26th Amendment, ratified in 1971, lowered the voting age from 21 to 18."
+  },
+  {
+    "id": "uspol-042",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which amendment governs presidential succession and disability?",
+    "options": [
+      "20th",
+      "22nd",
+      "25th",
+      "27th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 25th Amendment, ratified in 1967, clarifies presidential succession and procedures for presidential disability."
+  },
+  {
+    "id": "uspol-043",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which amendment bars poll taxes in federal elections?",
+    "options": [
+      "19th",
+      "22nd",
+      "24th",
+      "26th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 24th Amendment, ratified in 1964, banned poll taxes in federal elections."
+  },
+  {
+    "id": "uspol-044",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a congressional committee?",
+    "options": [
+      "Review legislation",
+      "Appoint governors",
+      "Interpret treaties",
+      "Elect the president"
+    ],
+    "correctIndex": 0,
+    "explanation": "Congressional committees review, debate, and shape bills before they reach a full floor vote."
+  },
+  {
+    "id": "uspol-045",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Which US institution manages monetary policy?",
+    "options": [
+      "Treasury Department",
+      "Federal Reserve",
+      "Congressional Budget Office",
+      "SEC"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Federal Reserve is the US central bank and sets national monetary policy, including interest rates."
+  },
+  {
+    "id": "uspol-046",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Which cabinet department handles US diplomacy?",
+    "options": [
+      "Defense",
+      "State",
+      "Justice",
+      "Commerce"
+    ],
+    "correctIndex": 1,
+    "explanation": "The State Department is the cabinet agency responsible for US foreign policy and diplomacy."
+  },
+  {
+    "id": "uspol-047",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which cabinet department oversees federal law enforcement through the FBI?",
+    "options": [
+      "Justice",
+      "Homeland Security",
+      "State",
+      "Treasury"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Department of Justice oversees federal law enforcement, including the FBI."
+  },
+  {
+    "id": "uspol-048",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "easy",
+    "question": "Which amendment protects the right to bear arms?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Second Amendment protects the right of individuals to keep and bear arms."
+  },
+  {
+    "id": "uspol-049",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "Which Supreme Court case established judicial review?",
+    "options": [
+      "Brown v. Board",
+      "Marbury v. Madison",
+      "Roe v. Wade",
+      "Miranda v. Arizona"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marbury v. Madison (1803) established the principle of judicial review, letting courts strike down unconstitutional laws."
+  },
+  {
+    "id": "uspol-050",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which Supreme Court case ended legal school segregation?",
+    "options": [
+      "Brown v. Board of Education",
+      "Dred Scott v. Sandford",
+      "Citizens United v. FEC",
+      "McCulloch v. Maryland"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brown v. Board of Education (1954) ruled that legally segregated public schools were unconstitutional."
+  },
+  {
+    "id": "uspol-051",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which president purchased Louisiana from France?",
+    "options": [
+      "George Washington",
+      "John Adams",
+      "Thomas Jefferson",
+      "James Monroe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thomas Jefferson was president in 1803 when the US bought the Louisiana Territory from France."
+  },
+  {
+    "id": "uspol-052",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which president issued the Monroe Doctrine?",
+    "options": [
+      "James Madison",
+      "James Monroe",
+      "John Quincy Adams",
+      "Andrew Jackson"
+    ],
+    "correctIndex": 1,
+    "explanation": "James Monroe issued the Monroe Doctrine in 1823, warning European powers against intervening in the Americas."
+  },
+  {
+    "id": "uspol-053",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "What is the primary constitutional role of the vice president in the Senate?",
+    "options": [
+      "Draft all bills",
+      "Cast tie-breaking votes",
+      "Approve court rulings",
+      "Control state elections"
+    ],
+    "correctIndex": 1,
+    "explanation": "The vice president's main constitutional Senate power is casting the deciding vote when there's a tie."
+  },
+  {
+    "id": "uspol-054",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment prohibits cruel and unusual punishment?",
+    "options": [
+      "Fourth",
+      "Fifth",
+      "Eighth",
+      "Tenth"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Eighth Amendment bans cruel and unusual punishment."
+  },
+  {
+    "id": "uspol-055",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "What is the constitutional minimum age for a US representative?",
+    "options": [
+      "21",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Constitution sets 25 as the minimum age to serve in the House of Representatives."
+  },
+  {
+    "id": "uspol-056",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "How many states ratified the Constitution before it took effect?",
+    "options": [
+      "Seven",
+      "Nine",
+      "Eleven",
+      "Thirteen"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Constitution required ratification by 9 of the original 13 states before it would take effect."
+  },
+  {
+    "id": "uspol-057",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which branch can declare war under the Constitution?",
+    "options": [
+      "Congress",
+      "Supreme Court",
+      "President alone",
+      "Federal Reserve"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Constitution gives Congress, not the president alone, the power to formally declare war."
+  },
+  {
+    "id": "uspol-058",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "What is a filibuster in the US Senate?",
+    "options": [
+      "A court appeal",
+      "A tactic to delay or block action",
+      "A presidential order",
+      "A budget surplus"
+    ],
+    "correctIndex": 1,
+    "explanation": "A filibuster is a Senate tactic using extended debate to delay or block a vote on legislation."
+  },
+  {
+    "id": "uspol-059",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "What Senate vote usually ends a filibuster on legislation?",
+    "options": [
+      "Simple majority",
+      "Three-fifths",
+      "Two-thirds",
+      "Unanimous consent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ending most filibusters requires a cloture vote of three-fifths of the Senate, or 60 of 100 senators."
+  },
+  {
+    "id": "uspol-060",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Which document declared American independence in 1776?",
+    "options": [
+      "Articles of Confederation",
+      "Declaration of Independence",
+      "US Constitution",
+      "Federalist No. 10"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Declaration of Independence, adopted July 4, 1776, formally declared the colonies' independence from Britain."
+  },
+  {
+    "id": "uspol-061",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Who was the principal author of the Declaration of Independence?",
+    "options": [
+      "James Madison",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "John Jay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thomas Jefferson was the principal author of the Declaration of Independence."
+  },
+  {
+    "id": "uspol-062",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which agreement created the United Nations in 1945?",
+    "options": [
+      "Treaty of Versailles",
+      "UN Charter",
+      "NATO Treaty",
+      "Bretton Woods Agreement"
+    ],
+    "correctIndex": 1,
+    "explanation": "The UN Charter, signed in 1945, established the United Nations after World War II."
+  },
+  {
+    "id": "uspol-063",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which president signed the Civil Rights Act of 1964?",
+    "options": [
+      "John F. Kennedy",
+      "Lyndon B. Johnson",
+      "Richard Nixon",
+      "Gerald Ford"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lyndon B. Johnson signed the Civil Rights Act of 1964, outlawing major forms of discrimination."
+  },
+  {
+    "id": "uspol-064",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which president signed the Voting Rights Act of 1965?",
+    "options": [
+      "Dwight Eisenhower",
+      "Lyndon B. Johnson",
+      "Richard Nixon",
+      "Jimmy Carter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lyndon B. Johnson also signed the Voting Rights Act of 1965, protecting minority voting rights."
+  },
+  {
+    "id": "uspol-065",
+    "topic": "US Politics",
+    "subtopic": "Elections & Parties",
+    "difficulty": "easy",
+    "question": "Which US president was elected in 2008?",
+    "options": [
+      "George W. Bush",
+      "Barack Obama",
+      "John McCain",
+      "Mitt Romney"
+    ],
+    "correctIndex": 1,
+    "explanation": "Barack Obama won the 2008 presidential election, becoming the 44th US president."
+  },
+  {
+    "id": "uspol-066",
+    "topic": "US Politics",
+    "subtopic": "Elections & Parties",
+    "difficulty": "easy",
+    "question": "Which US president was elected in 2020?",
+    "options": [
+      "Donald Trump",
+      "Joe Biden",
+      "Barack Obama",
+      "Kamala Harris"
+    ],
+    "correctIndex": 1,
+    "explanation": "Joe Biden won the 2020 presidential election, becoming the 46th US president."
+  },
+  {
+    "id": "uspol-067",
+    "topic": "US Politics",
+    "subtopic": "Elections & Parties",
+    "difficulty": "easy",
+    "question": "Which US president was elected in 2024?",
+    "options": [
+      "Joe Biden",
+      "Donald Trump",
+      "Kamala Harris",
+      "Ron DeSantis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Donald Trump won the 2024 presidential election, returning to the presidency."
+  },
+  {
+    "id": "uspol-068",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "easy",
+    "question": "How many times may a president be elected under the 22nd Amendment?",
+    "options": [
+      "Once",
+      "Twice",
+      "Three times",
+      "Unlimited times"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 22nd Amendment limits any individual to being elected president at most twice."
+  },
+  {
+    "id": "uspol-069",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which body approves federal spending through appropriations laws?",
+    "options": [
+      "Congress",
+      "Supreme Court",
+      "Federal Reserve",
+      "Electoral College"
+    ],
+    "correctIndex": 0,
+    "explanation": "Congress controls federal spending by passing appropriations bills that fund government programs."
+  },
+  {
+    "id": "uspol-070",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "What is the main role of the Congressional Budget Office?",
+    "options": [
+      "Enforce criminal law",
+      "Provide budget and economic analysis",
+      "Set interest rates",
+      "Run presidential elections"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Congressional Budget Office provides Congress with nonpartisan budget and economic analysis."
+  },
+  {
+    "id": "uspol-071",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which US territory is a commonwealth in the Caribbean?",
+    "options": [
+      "Puerto Rico",
+      "Guam",
+      "American Samoa",
+      "Northern Mariana Islands"
+    ],
+    "correctIndex": 0,
+    "explanation": "Puerto Rico is an unincorporated US commonwealth located in the Caribbean."
+  },
+  {
+    "id": "uspol-072",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment abolished slavery except as punishment for crime?",
+    "options": [
+      "12th",
+      "13th",
+      "14th",
+      "15th"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 13th Amendment abolished slavery, though it included an exception for punishment of a crime."
+  },
+  {
+    "id": "uspol-073",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "hard",
+    "question": "Which treaty ended the American Revolutionary War?",
+    "options": [
+      "Treaty of Paris of 1783",
+      "Treaty of Ghent",
+      "Treaty of Versailles",
+      "Jay Treaty"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Treaty of Paris of 1783 formally ended the American Revolutionary War."
+  },
+  {
+    "id": "uspol-074",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "What was the first US governing framework after independence?",
+    "options": [
+      "US Constitution",
+      "Articles of Confederation",
+      "Federalist Papers",
+      "Northwest Ordinance"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Articles of Confederation served as the first US governing framework before being replaced by the Constitution."
+  },
+  {
+    "id": "uspol-075",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which constitutional clause makes federal law supreme over conflicting state law?",
+    "options": [
+      "Commerce Clause",
+      "Supremacy Clause",
+      "Establishment Clause",
+      "Necessary and Proper Clause"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Supremacy Clause (Article VI) makes federal law take precedence over conflicting state law."
+  },
+  {
+    "id": "uspol-076",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which clause gives Congress power to regulate interstate trade?",
+    "options": [
+      "Commerce Clause",
+      "Free Exercise Clause",
+      "Appointments Clause",
+      "Takings Clause"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Commerce Clause (Article I) gives Congress the power to regulate trade between states."
+  },
+  {
+    "id": "uspol-077",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which president oversaw the Louisiana Purchase?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "James Madison",
+      "James Monroe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thomas Jefferson oversaw the 1803 Louisiana Purchase, roughly doubling the size of the United States."
+  },
+  {
+    "id": "uspol-078",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment prohibits denying voting rights based on race?",
+    "options": [
+      "13th",
+      "14th",
+      "15th",
+      "19th"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 15th Amendment, ratified in 1870, prohibited denying the vote based on race."
+  },
+  {
+    "id": "uspol-079",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which amendment protects the right to a speedy public criminal trial?",
+    "options": [
+      "Fourth",
+      "Fifth",
+      "Sixth",
+      "Eighth"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Sixth Amendment guarantees a speedy, public trial and the right to legal counsel in criminal cases."
+  },
+  {
+    "id": "uspol-080",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Which branch executes federal laws?",
+    "options": [
+      "Legislative",
+      "Executive",
+      "Judicial",
+      "Electoral"
+    ],
+    "correctIndex": 1,
+    "explanation": "The executive branch, headed by the president, is responsible for enforcing and carrying out federal laws."
+  },
+  {
+    "id": "uspol-081",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "Which branch makes federal statutes?",
+    "options": [
+      "Legislative",
+      "Executive",
+      "Judicial",
+      "Military"
+    ],
+    "correctIndex": 0,
+    "explanation": "The legislative branch, Congress, is responsible for writing and passing federal statutes."
+  },
+  {
+    "id": "uspol-082",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "What is the main function of the Federal Election Commission?",
+    "options": [
+      "Regulate federal campaign finance",
+      "Set tax rates",
+      "Approve treaties",
+      "Manage the national debt"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Federal Election Commission regulates federal campaign finance and enforces election funding laws."
+  },
+  {
+    "id": "uspol-083",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which amendment bans excessive bail and fines?",
+    "options": [
+      "Fifth",
+      "Sixth",
+      "Eighth",
+      "Tenth"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Eighth Amendment also bans excessive bail and fines, in addition to cruel and unusual punishment."
+  },
+  {
+    "id": "uspol-084",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "What does federalism divide between national and state governments?",
+    "options": [
+      "Sovereign powers",
+      "Court salaries only",
+      "Election dates only",
+      "Foreign embassies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Federalism divides sovereign governing powers between the national government and the states."
+  },
+  {
+    "id": "uspol-085",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Which president was the first African American elected president?",
+    "options": [
+      "Colin Powell",
+      "Barack Obama",
+      "Jesse Jackson",
+      "Al Sharpton"
+    ],
+    "correctIndex": 1,
+    "explanation": "Barack Obama, elected in 2008, became the first African American president of the United States."
+  },
+  {
+    "id": "uspol-086",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "Which state was the first to ratify the US Constitution?",
+    "options": [
+      "Virginia",
+      "Delaware",
+      "Pennsylvania",
+      "New Jersey"
+    ],
+    "correctIndex": 1,
+    "explanation": "Delaware was the first state to ratify the Constitution, in December 1787, earning the nickname 'The First State.'"
+  },
+  {
+    "id": "uspol-087",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "hard",
+    "question": "Which president purchased Alaska from Russia?",
+    "options": [
+      "James Buchanan",
+      "Andrew Johnson",
+      "Ulysses S. Grant",
+      "Rutherford B. Hayes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Andrew Johnson's administration purchased Alaska from Russia in 1867."
+  },
+  {
+    "id": "uspol-088",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which president signed the Affordable Care Act?",
+    "options": [
+      "George W. Bush",
+      "Barack Obama",
+      "Donald Trump",
+      "Joe Biden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Barack Obama signed the Affordable Care Act into law in 2010."
+  },
+  {
+    "id": "uspol-089",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which amendment prevents a president from taking office before January 20?",
+    "options": [
+      "18th",
+      "20th",
+      "22nd",
+      "25th"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 20th Amendment sets January 20 as Inauguration Day and shortened the prior post-election transition period."
+  },
+  {
+    "id": "uspol-090",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "easy",
+    "question": "What is the main purpose of the Electoral College?",
+    "options": [
+      "Choose the president and vice president",
+      "Appoint senators",
+      "Approve Supreme Court rulings",
+      "Draft legislation"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Electoral College's constitutional purpose is to formally choose the president and vice president."
+  },
+  {
+    "id": "uspol-091",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "Which court has the final authority on federal constitutional questions?",
+    "options": [
+      "US Supreme Court",
+      "Federal district court",
+      "State trial court",
+      "Court of International Trade"
+    ],
+    "correctIndex": 0,
+    "explanation": "The US Supreme Court is the final arbiter of federal constitutional questions."
+  },
+  {
+    "id": "uspol-092",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which president delivered the Gettysburg Address as president?",
+    "options": [
+      "Abraham Lincoln",
+      "Ulysses S. Grant",
+      "Andrew Johnson",
+      "James Garfield"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abraham Lincoln delivered the Gettysburg Address in November 1863."
+  },
+  {
+    "id": "uspol-093",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "medium",
+    "question": "Which constitutional amendment protects religious exercise?",
+    "options": [
+      "First",
+      "Second",
+      "Fourth",
+      "Fourteenth"
+    ],
+    "correctIndex": 0,
+    "explanation": "The First Amendment protects the free exercise of religion, alongside speech, press, and assembly."
+  },
+  {
+    "id": "uspol-094",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a presidential executive order?",
+    "options": [
+      "Direct executive-branch operations",
+      "Amend the Constitution",
+      "Override court judgments automatically",
+      "Create a new state"
+    ],
+    "correctIndex": 0,
+    "explanation": "An executive order directs how the executive branch operates but cannot create new statutory law."
+  },
+  {
+    "id": "uspol-095",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "easy",
+    "question": "Which president served during the Watergate scandal?",
+    "options": [
+      "Lyndon Johnson",
+      "Richard Nixon",
+      "Gerald Ford",
+      "Jimmy Carter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Richard Nixon was president during the Watergate scandal, which led to his resignation in 1974."
+  },
+  {
+    "id": "uspol-096",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "Which chamber must originate federal revenue bills?",
+    "options": [
+      "Senate",
+      "House of Representatives",
+      "Supreme Court",
+      "Cabinet"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Constitution's Origination Clause requires revenue-raising bills to start in the House of Representatives."
+  },
+  {
+    "id": "uspol-097",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "medium",
+    "question": "What is the constitutional term for dividing government power among branches?",
+    "options": [
+      "Federalism",
+      "Separation of powers",
+      "Judicial supremacy",
+      "Popular sovereignty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Separation of powers describes dividing government authority among the legislative, executive, and judicial branches."
+  },
+  {
+    "id": "uspol-098",
+    "topic": "US Politics",
+    "subtopic": "Constitution & Amendments",
+    "difficulty": "hard",
+    "question": "Which amendment reserves undelegated powers to states or the people?",
+    "options": [
+      "Ninth",
+      "Tenth",
+      "Eleventh",
+      "Twelfth"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 10th Amendment reserves powers not given to the federal government to the states or the people."
+  },
+  {
+    "id": "uspol-099",
+    "topic": "US Politics",
+    "subtopic": "Presidents & History",
+    "difficulty": "medium",
+    "question": "Which US president was inaugurated in January 2001?",
+    "options": [
+      "Bill Clinton",
+      "George W. Bush",
+      "Barack Obama",
+      "Al Gore"
+    ],
+    "correctIndex": 1,
+    "explanation": "George W. Bush was inaugurated as president in January 2001."
+  },
+  {
+    "id": "uspol-100",
+    "topic": "US Politics",
+    "subtopic": "Government Structure",
+    "difficulty": "hard",
+    "question": "Which institution audits and evaluates federal government programs for Congress?",
+    "options": [
+      "Government Accountability Office",
+      "Federal Reserve",
+      "National Archives",
+      "Federal Election Commission"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Government Accountability Office audits and evaluates federal programs and spending on Congress's behalf."
+  }
+]

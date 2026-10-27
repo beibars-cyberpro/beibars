@@ -16,6 +16,7 @@ const TOPIC_FILES = [
   'ethics.json',
   'macro-central-banks.json',
   'big-bang-theory.json',
+  'us-politics.json',
 ];
 
 function loadAllQuestions() {
