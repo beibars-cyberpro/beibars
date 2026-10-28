@@ -1,6 +1,12 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { computeRoundResults, Room, generateRoomCode, QUESTION_TIME_LIMIT_MS } = require('../gameManager');
+const {
+  computeRoundResults,
+  Room,
+  generateRoomCode,
+  shuffleQuestionOptions,
+  QUESTION_TIME_LIMIT_MS,
+} = require('../gameManager');
 
 test('question time limit is 30 seconds', () => {
   assert.equal(QUESTION_TIME_LIMIT_MS, 30000);
@@ -73,4 +79,42 @@ test('generateRoomCode produces a 4-character code from the safe alphabet', () =
   const code = generateRoomCode();
   assert.equal(code.length, 4);
   assert.match(code, /^[A-HJ-NP-Z2-9]{4}$/);
+});
+
+test('shuffleQuestionOptions keeps the same 4 option texts and the correct one still at correctIndex', () => {
+  const shuffled = shuffleQuestionOptions(question);
+  assert.equal(shuffled.options.length, 4);
+  assert.deepEqual([...shuffled.options].sort(), [...question.options].sort());
+  assert.equal(shuffled.options[shuffled.correctIndex], question.options[question.correctIndex]);
+  // non-shuffle fields pass through untouched
+  assert.equal(shuffled.question, question.question);
+  assert.equal(shuffled.explanation, question.explanation);
+});
+
+test('shuffleQuestionOptions does not always return the same order (no fixed bias)', () => {
+  const orders = new Set();
+  for (let i = 0; i < 200; i++) {
+    orders.add(shuffleQuestionOptions(question).options.join('|'));
+  }
+  // with 4! = 24 possible orders and 200 draws, seeing more than one order is
+  // essentially certain unless shuffling is broken/fixed.
+  assert.ok(orders.size > 1, `expected multiple distinct orders, got ${orders.size}`);
+});
+
+test('Room serves shuffled options to clients but keeps the reveal correctIndex in sync', () => {
+  const room = new Room('TEST2', 'alice');
+  room.addPlayer('alice', 'Alice');
+  room.addPlayer('bob', 'Bob');
+  room.startGame([question]);
+  const served = room.nextQuestion();
+
+  // whichever position the correct answer landed on, answering that index
+  // must be recorded as correct in the reveal.
+  room.recordAnswer('alice', served.correctIndex);
+  room.recordAnswer('bob', served.correctIndex);
+  const reveal = room.computeReveal();
+
+  assert.equal(reveal.correctIndex, served.correctIndex);
+  assert.equal(reveal.results.find((r) => r.playerId === 'alice').correct, true);
+  assert.equal(reveal.results.find((r) => r.playerId === 'bob').correct, true);
 });

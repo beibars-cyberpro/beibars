@@ -4,7 +4,7 @@ const { getAllQuestions, getTopics, getRandomQuestions } = require('../questions
 
 test('loads the full question bank with no duplicate ids', () => {
   const all = getAllQuestions();
-  assert.equal(all.length, 1000);
+  assert.equal(all.length, 1200);
   const ids = new Set(all.map((q) => q.id));
   assert.equal(ids.size, all.length);
 });
@@ -43,6 +43,14 @@ test('World Economics category is present with 100 questions', () => {
   const worldecon = all.filter((q) => q.topic === 'World Economics');
   assert.equal(worldecon.length, 100);
   assert.ok(getTopics().includes('World Economics'));
+});
+
+test('Сира category is present with 200 questions', () => {
+  const all = getAllQuestions();
+  const seerah = all.filter((q) => q.topic === 'Сира');
+  assert.equal(seerah.length, 200);
+  assert.ok(seerah.every((q) => q.subtopic === 'Жизнь Пророка Мухаммада'));
+  assert.ok(getTopics().includes('Сира'));
 });
 
 test('getRandomQuestions respects a topic filter', () => {

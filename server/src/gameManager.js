@@ -11,6 +11,24 @@ function generateRoomCode() {
 }
 
 /**
+ * Returns a copy of `question` with its 4 options shuffled into a random
+ * order and `correctIndex` remapped to match, so the correct answer doesn't
+ * cluster on the same letter across the stored question bank.
+ */
+function shuffleQuestionOptions(question) {
+  const order = [0, 1, 2, 3];
+  for (let i = order.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [order[i], order[j]] = [order[j], order[i]];
+  }
+  return {
+    ...question,
+    options: order.map((i) => question.options[i]),
+    correctIndex: order.indexOf(question.correctIndex),
+  };
+}
+
+/**
  * Pure scoring rule: for each question, every player who chose the correct
  * option is eligible, but only the fastest of them actually scores the point
  * (the "duel" tiebreak the game is built around). No correct answers -> no
@@ -78,12 +96,13 @@ class Room {
   }
 
   currentQuestion() {
-    return this.questions[this.currentIndex];
+    return this.currentQuestionView;
   }
 
   startGame(questions) {
     this.questions = questions;
     this.currentIndex = -1;
+    this.currentQuestionView = null;
     for (const p of this.players.values()) p.score = 0;
   }
 
@@ -92,7 +111,8 @@ class Room {
     this.answers = new Map();
     this.questionStartedAt = Date.now();
     this.status = 'question';
-    return this.currentQuestion();
+    this.currentQuestionView = shuffleQuestionOptions(this.questions[this.currentIndex]);
+    return this.currentQuestionView;
   }
 
   recordAnswer(playerId, optionIndex) {
@@ -136,6 +156,7 @@ class Room {
 module.exports = {
   Room,
   computeRoundResults,
+  shuffleQuestionOptions,
   generateRoomCode,
   QUESTION_TIME_LIMIT_MS,
   DEFAULT_QUESTION_COUNT,

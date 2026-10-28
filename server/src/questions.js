@@ -20,6 +20,7 @@ const TOPIC_FILES = [
   'central-asian-politics.json',
   'kazakh-celebrities.json',
   'world-economics.json',
+  'seerah.json',
 ];
 
 function loadAllQuestions() {

@@ -17,8 +17,8 @@ export default function HomeScreen({ onCreate, onJoin, busy, error }) {
 
   return (
     <KeyboardAvoidingView style={styles.container} behavior={Platform.OS === 'ios' ? 'padding' : undefined}>
-      <Text style={styles.title}>CFA Quiz Duel</Text>
-      <Text style={styles.subtitle}>Дуэль на знание CFA Level 2 и макроэкономики</Text>
+      <Text style={styles.title}>High IQ Battle</Text>
+      <Text style={styles.subtitle}>Дуэль на знание — финансы, история, кино и не только</Text>
 
       <View style={styles.tabRow}>
         <Pressable style={[styles.tab, mode === 'create' && styles.tabActive]} onPress={() => setMode('create')}>

@@ -6,10 +6,50 @@ import { SERVER_URL } from '../config';
 
 const QUESTION_COUNT_OPTIONS = [10, 15, 20];
 
+const CFA_TOPICS = [
+  'Quantitative Methods',
+  'Economics',
+  'Financial Statement Analysis',
+  'Corporate Issuers',
+  'Equity Investments',
+  'Fixed Income',
+  'Derivatives',
+  'Alternative Investments',
+  'Portfolio Management',
+  'Ethics and Professional Standards',
+  'Macro & Central Banks',
+];
+
+const ROW_PALETTE = [
+  '#ef4444', '#f59e0b', '#eab308', '#22c55e', '#10b981',
+  '#14b8a6', '#06b6d4', '#3b82f6', '#6366f1', '#8b5cf6',
+  '#a855f7', '#ec4899', '#f43f5e', '#84cc16',
+];
+
+function colorFor(index) {
+  return ROW_PALETTE[index % ROW_PALETTE.length];
+}
+
+function TopicRow({ label, color, selected, badge, onPress }) {
+  return (
+    <Pressable
+      style={[styles.row, { backgroundColor: color }, selected && styles.rowSelected, !selected && styles.rowDimmed]}
+      onPress={onPress}
+    >
+      <Text style={styles.rowText} numberOfLines={2}>{label}</Text>
+      <View style={styles.rowRight}>
+        {!!badge && <Text style={styles.rowBadge}>{badge}</Text>}
+        {selected && <Text style={styles.rowCheck}>✓</Text>}
+      </View>
+    </Pressable>
+  );
+}
+
 export default function LobbyScreen({ room, playerId, onStart, error }) {
   const [topics, setTopics] = useState([]);
   const [selectedTopics, setSelectedTopics] = useState([]);
   const [questionCount, setQuestionCount] = useState(10);
+  const [view, setView] = useState('settings'); // 'settings' | 'cfaSub' | 'ready'
 
   const isHost = room.hostId === playerId;
 
@@ -24,6 +64,12 @@ export default function LobbyScreen({ room, playerId, onStart, error }) {
     setSelectedTopics((prev) => (prev.includes(topic) ? prev.filter((t) => t !== topic) : [...prev, topic]));
   };
 
+  const cfaTopics = topics.filter((t) => CFA_TOPICS.includes(t));
+  const otherTopics = topics.filter((t) => !CFA_TOPICS.includes(t));
+  const cfaSelectedCount = selectedTopics.filter((t) => CFA_TOPICS.includes(t)).length;
+
+  const canStart = room.players.length >= 2;
+
   return (
     <View style={styles.container}>
       <Text style={styles.codeLabel}>Код комнаты</Text>
@@ -37,7 +83,9 @@ export default function LobbyScreen({ room, playerId, onStart, error }) {
         <PlayerList players={room.players} hostId={room.hostId} />
       </View>
 
-      {isHost && (
+      {!isHost && <Text style={styles.waiting}>Ждём, пока хост начнёт игру…</Text>}
+
+      {isHost && view === 'settings' && (
         <>
           <View style={styles.section}>
             <Text style={styles.sectionTitle}>Количество вопросов</Text>
@@ -54,40 +102,85 @@ export default function LobbyScreen({ room, playerId, onStart, error }) {
             </View>
           </View>
 
-          <View style={styles.section}>
-            <Text style={styles.sectionTitle}>Темы (необязательно, по умолчанию — все)</Text>
-            <ScrollView horizontal showsHorizontalScrollIndicator={false}>
-              <View style={styles.chipRow}>
-                {topics.map((topic) => (
-                  <Pressable
-                    key={topic}
-                    style={[styles.chip, selectedTopics.includes(topic) && styles.chipActive]}
-                    onPress={() => toggleTopic(topic)}
-                  >
-                    <Text style={[styles.chipText, selectedTopics.includes(topic) && styles.chipTextActive]}>
-                      {topic}
-                    </Text>
-                  </Pressable>
-                ))}
-              </View>
-            </ScrollView>
-          </View>
+          <Text style={styles.sectionTitle}>Темы (необязательно, по умолчанию — все)</Text>
+          <ScrollView style={styles.topicList} showsVerticalScrollIndicator={false}>
+            <TopicRow
+              label="CFA (финансы)"
+              color={colorFor(0)}
+              selected={cfaSelectedCount > 0}
+              badge={cfaSelectedCount > 0 ? String(cfaSelectedCount) : null}
+              onPress={() => setView('cfaSub')}
+            />
+            {otherTopics.map((topic, i) => (
+              <TopicRow
+                key={topic}
+                label={topic}
+                color={colorFor(i + 1)}
+                selected={selectedTopics.includes(topic)}
+                onPress={() => toggleTopic(topic)}
+              />
+            ))}
+          </ScrollView>
 
           {!!error && <Text style={styles.error}>{error}</Text>}
 
           <Pressable
-            style={[styles.button, room.players.length < 2 && styles.buttonDisabled]}
-            disabled={room.players.length < 2}
-            onPress={() => onStart({ questionCount, topics: selectedTopics })}
+            style={[styles.button, !canStart && styles.buttonDisabled]}
+            disabled={!canStart}
+            onPress={() => setView('ready')}
           >
             <Text style={styles.buttonText}>
-              {room.players.length < 2 ? 'Ждём второго игрока…' : 'Начать игру'}
+              {!canStart ? 'Ждём второго игрока…' : 'Далее'}
             </Text>
           </Pressable>
         </>
       )}
 
-      {!isHost && <Text style={styles.waiting}>Ждём, пока хост начнёт игру…</Text>}
+      {isHost && view === 'cfaSub' && (
+        <>
+          <Pressable style={styles.backLink} onPress={() => setView('settings')}>
+            <Text style={styles.backLinkText}>← Назад ко всем темам</Text>
+          </Pressable>
+          <Text style={styles.sectionTitle}>Темы CFA</Text>
+          <ScrollView style={styles.topicList} showsVerticalScrollIndicator={false}>
+            {cfaTopics.map((topic, i) => (
+              <TopicRow
+                key={topic}
+                label={topic}
+                color={colorFor(i)}
+                selected={selectedTopics.includes(topic)}
+                onPress={() => toggleTopic(topic)}
+              />
+            ))}
+          </ScrollView>
+          <Pressable style={styles.button} onPress={() => setView('settings')}>
+            <Text style={styles.buttonText}>Готово</Text>
+          </Pressable>
+        </>
+      )}
+
+      {isHost && view === 'ready' && (
+        <View style={styles.readyBox}>
+          <Pressable style={styles.backLink} onPress={() => setView('settings')}>
+            <Text style={styles.backLinkText}>← Изменить настройки</Text>
+          </Pressable>
+
+          <View style={styles.summaryBox}>
+            <Text style={styles.summaryLabel}>Вопросов</Text>
+            <Text style={styles.summaryValue}>{questionCount}</Text>
+            <Text style={styles.summaryLabel}>Темы</Text>
+            <Text style={styles.summaryValue}>
+              {selectedTopics.length === 0 ? 'Все темы' : selectedTopics.join(', ')}
+            </Text>
+          </View>
+
+          {!!error && <Text style={styles.error}>{error}</Text>}
+
+          <Pressable style={styles.goButton} onPress={() => onStart({ questionCount, topics: selectedTopics })}>
+            <Text style={styles.goButtonText}>Поехали! 🚀</Text>
+          </Pressable>
+        </View>
+      )}
     </View>
   );
 }
@@ -113,9 +206,46 @@ const styles = StyleSheet.create({
   chipActive: { backgroundColor: colors.primary, borderColor: colors.primary },
   chipText: { color: colors.textMuted, fontWeight: '600' },
   chipTextActive: { color: '#001018' },
-  button: { backgroundColor: colors.primary, borderRadius: 12, paddingVertical: 16, alignItems: 'center', marginTop: 'auto' },
+  topicList: { flex: 1, marginBottom: spacing.md },
+  row: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    borderRadius: 12,
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+    marginBottom: 8,
+  },
+  rowSelected: { borderWidth: 2, borderColor: '#ffffff' },
+  rowDimmed: { opacity: 0.6 },
+  rowText: { color: '#ffffff', fontWeight: '700', fontSize: 15, flex: 1, marginRight: 8 },
+  rowRight: { flexDirection: 'row', alignItems: 'center', gap: 6 },
+  rowBadge: {
+    color: '#ffffff',
+    fontWeight: '800',
+    fontSize: 13,
+    backgroundColor: 'rgba(0,0,0,0.25)',
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+    borderRadius: 10,
+  },
+  rowCheck: { color: '#ffffff', fontWeight: '900', fontSize: 16 },
+  backLink: { marginBottom: spacing.sm },
+  backLinkText: { color: colors.primary, fontWeight: '700' },
+  button: { backgroundColor: colors.primary, borderRadius: 12, paddingVertical: 16, alignItems: 'center' },
   buttonDisabled: { opacity: 0.4 },
   buttonText: { color: '#001018', fontWeight: '800', fontSize: 16 },
   waiting: { color: colors.textMuted, textAlign: 'center', marginTop: spacing.xl },
   error: { color: colors.incorrect, marginBottom: spacing.md, textAlign: 'center' },
+  readyBox: { flex: 1, justifyContent: 'center' },
+  summaryBox: { backgroundColor: colors.surface, borderRadius: 14, padding: spacing.lg, marginBottom: spacing.xl },
+  summaryLabel: { color: colors.textMuted, fontWeight: '600', marginTop: spacing.sm },
+  summaryValue: { color: colors.text, fontWeight: '800', fontSize: 18, marginTop: 2 },
+  goButton: {
+    backgroundColor: colors.correct,
+    borderRadius: 16,
+    paddingVertical: 20,
+    alignItems: 'center',
+  },
+  goButtonText: { color: '#001018', fontWeight: '900', fontSize: 22 },
 });
