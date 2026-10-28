@@ -216,6 +216,17 @@ setInterval(() => {
   }
 }, 10 * 60 * 1000).unref();
 
+server.on('error', (err) => {
+  if (err.code === 'EADDRINUSE') {
+    console.error(
+      `\nPort ${PORT} is already in use — an older copy of this server is probably still running.\n` +
+      `Close that window/process first (or run: lsof -i :${PORT}  then  kill <PID>), then start this again.\n`
+    );
+    process.exit(1);
+  }
+  throw err;
+});
+
 server.listen(PORT, () => {
   console.log(`Quiz duel server listening on port ${PORT}`);
 });

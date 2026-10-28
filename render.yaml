@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: high-iq-battle-server
+    runtime: node
+    rootDir: server
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeploy: true
