@@ -4,6 +4,6 @@ services:
     runtime: node
     rootDir: server
     plan: free
-    buildCommand: npm install
+    buildCommand: npm install && cd ../app && npm install && npm run build:web
     startCommand: npm start
     autoDeploy: true

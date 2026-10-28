@@ -5,6 +5,7 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 import { socket } from './src/socket';
 import { colors } from './src/theme';
+import { initTelegramWebApp } from './src/telegram';
 import HomeScreen from './src/screens/HomeScreen';
 import LobbyScreen from './src/screens/LobbyScreen';
 import QuestionScreen from './src/screens/QuestionScreen';
@@ -33,6 +34,10 @@ export default function App() {
       pendingTimeoutRef.current = null;
     }
   };
+
+  useEffect(() => {
+    initTelegramWebApp();
+  }, []);
 
   useEffect(() => {
     function handleRoomUpdate(data) {

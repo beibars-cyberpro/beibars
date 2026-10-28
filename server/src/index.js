@@ -1,4 +1,6 @@
 const http = require('http');
+const path = require('path');
+const fs = require('fs');
 const express = require('express');
 const cors = require('cors');
 const { Server } = require('socket.io');
@@ -16,11 +18,21 @@ const MIN_PLAYERS_TO_START = 2;
 const MAX_QUESTION_COUNT = 40;
 const MIN_QUESTION_COUNT = 3;
 const ROOM_TTL_MS = 3 * 60 * 60 * 1000; // clean up abandoned rooms after 3h
+const PUBLIC_DIR = path.join(__dirname, '..', 'public');
 
 const app = express();
 app.use(cors());
 app.get('/health', (req, res) => res.json({ ok: true }));
 app.get('/topics', (req, res) => res.json({ topics: getTopics() }));
+
+// Serves the web build of the app (app/src -> `npm run build:web` outputs
+// here) so the same server can act as a Telegram Mini App / plain web host.
+// Absent in local dev unless you've run that build — safe to skip then.
+if (fs.existsSync(path.join(PUBLIC_DIR, 'index.html'))) {
+  app.use(express.static(PUBLIC_DIR));
+  app.get('/', (req, res) => res.sendFile(path.join(PUBLIC_DIR, 'index.html')));
+  console.log('Serving web build from', PUBLIC_DIR);
+}
 
 const server = http.createServer(app);
 const io = new Server(server, { cors: { origin: '*' } });

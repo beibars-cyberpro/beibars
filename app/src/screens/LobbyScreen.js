@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, Pressable, ScrollView, StyleSheet, Share } from 'react-native';
+import { View, Text, Pressable, ScrollView, StyleSheet } from 'react-native';
 import { colors, spacing } from '../theme';
 import PlayerList from '../components/PlayerList';
 import { SERVER_URL } from '../config';
+import { shareRoomCode } from '../shareCode';
 
 const QUESTION_COUNT_OPTIONS = [10, 15, 20];
 
@@ -50,6 +51,7 @@ export default function LobbyScreen({ room, playerId, onStart, error }) {
   const [selectedTopics, setSelectedTopics] = useState([]);
   const [questionCount, setQuestionCount] = useState(10);
   const [view, setView] = useState('settings'); // 'settings' | 'cfaSub' | 'ready'
+  const [justCopied, setJustCopied] = useState(false);
 
   const isHost = room.hostId === playerId;
 
@@ -64,6 +66,14 @@ export default function LobbyScreen({ room, playerId, onStart, error }) {
     setSelectedTopics((prev) => (prev.includes(topic) ? prev.filter((t) => t !== topic) : [...prev, topic]));
   };
 
+  const handleShare = async () => {
+    const result = await shareRoomCode(room.code);
+    if (result === 'copied') {
+      setJustCopied(true);
+      setTimeout(() => setJustCopied(false), 2000);
+    }
+  };
+
   const cfaTopics = topics.filter((t) => CFA_TOPICS.includes(t));
   const otherTopics = topics.filter((t) => !CFA_TOPICS.includes(t));
   const cfaSelectedCount = selectedTopics.filter((t) => CFA_TOPICS.includes(t)).length;
@@ -73,10 +83,10 @@ export default function LobbyScreen({ room, playerId, onStart, error }) {
   return (
     <View style={styles.container}>
       <Text style={styles.codeLabel}>Код комнаты</Text>
-      <Pressable onPress={() => Share.share({ message: `Заходи в игру! Код комнаты: ${room.code}` })}>
+      <Pressable onPress={handleShare}>
         <Text style={styles.code}>{room.code}</Text>
       </Pressable>
-      <Text style={styles.hint}>Отправьте этот код второму игроку</Text>
+      <Text style={styles.hint}>{justCopied ? 'Код скопирован!' : 'Отправьте этот код второму игроку'}</Text>
 
       <View style={styles.section}>
         <Text style={styles.sectionTitle}>Игроки ({room.players.length})</Text>
